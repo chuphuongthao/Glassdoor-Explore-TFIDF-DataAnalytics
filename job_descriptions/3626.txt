@@ -1,0 +1,35 @@
+UnitedHealthcare is a company that's on the rise. We're expanding in multiple directions, across borders and, most of all, in the way we think. Here, innovation isn't about another gadget, it's about transforming the health care industry. Ready to make a difference? Make yourself at home with us and start doing your life's best work.(sm)
+The Consumer Experience Data Analyst will leverage their deep knowledge of Consumer Experience Analytics and business savvy to serve as an advisor to the senior leadership of UHC Operations.
+We’re looking for someone with a high degree of analysis and consultative experience, and well-developed communication, data storytelling / visualization, and technical skills.
+This role is responsible for generating data-driven insights to support executive decision making to improve consumer experience, drive effective communication channels (call, chat, portal), service optimization and increase overall awareness of healthcare consumer journey analytics.
+By understanding the capabilities, strategies, financial and operational goals of stakeholders, successful individuals in this role will identify opportunities to leverage data science or core analytic solutions to drive higher efficiency and improve customer experience across UHG.
+You’ll enjoy the flexibility to telecommute* from anywhere within the U.S. as you take on some tough challenges.
+Primary Responsibilities:
+Work with vast amounts of data from multiple sources to deliver high-impact actionable insights to senior leadership and business operations; enable data-driven decision-making across the enterprise to improve the efficiency and effectiveness of UHC Operations, while focusing on constituent experience improvement
+Perform exploratory data analysis from structured, unstructured, and diverse datasets; apply knowledge of statistics, machine learning, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to prototype development and product improvement
+Helping source, clean, prepare and verify integrity of data to be used for analysis
+Discover and communicate actionable insights to decision makers. Make presentations to sr. executives and decision-makers
+Serve as a thought leader for the consumer omnichannel journey analytics domain. Provide expert advisory services for strategy, metrics, product development, and analytics vision to senior leadership
+Partner with various functions to produce innovative and transformative data science solutions which directly contribute to achieving enterprise goals and vision
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+Required Qualifications:
+Undergraduate degree in a highly quantitative field
+2+ years of experience in data analysis, data-driven investigations, data storytelling, visualizations, and analytic insight creation for executive consumption
+Experience handling terabyte size datasets, diving into data to discover hidden patterns, using data visualization tools, advanced proficiency in SQL
+Advanced proficiency in Excel
+Advanced proficiency in R and/or Python for data analysis
+Demonstrated business focus; must excel at connecting business requirements to analytic objectives and to measurable business benefit
+Advanced skills in data visualization tools such as Tableau / PowerBI / D3JS etc.
+Preferred Qualifcations:
+Master’s Degree or higher in a highly quantitative field
+3+ years of experience in data analysis, data-driven investigations, data storytelling, visualizations, and analytic insight creation for executive consumption
+Experience in any of the following: Omnichannel strategy, Customer Service Analytics, Call Optimization and Obviation strategy, digital and messaging adoption, Consumer behavioral analytics
+Experience with Spark
+Experience with cloud-based analytic services
+Experience with any of the following: machine learning platforms, data mart development and engineering, advanced statistics, natural language processing, process mining, journey analytics platforms
+To protect the health and safety of our workforce, patients and communities we serve, UnitedHealth Group and its affiliate companies require all employees to disclose COVID-19 vaccination status prior to beginning employment. In addition, some roles and locations require full COVID-19 vaccination, including boosters, as an essential job function. UnitedHealth Group adheres to all federal, state and local COVID-19 vaccination regulations as well as all client COVID-19 vaccination requirements and will obtain the necessary information from candidates prior to employment to ensure compliance. Candidates must be able to perform all essential job functions with or without reasonable accommodation. Failure to meet the vaccination requirement may result in rescission of an employment offer or termination of employment
+Careers with UnitedHealthcare. Let's talk about opportunity. Start with a Fortune 5 organization that's serving more than 85 million people already and building the industry's singular reputation for bold ideas and impeccable execution. Now, add your energy, your passion for excellence, your near-obsession with driving change for the better. Get the picture? UnitedHealthcare is serving employers and individuals, states and communities, military families and veterans where ever they're found across the globe. We bring them the resources of an industry leader and a commitment to improve their lives that's second to none. This is no small opportunity. It's where you can do your life's best work.(sm)
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado residents is $66,100 to $118,300. The salary range for Connecticut / Nevada residents is $72,800 to $129,900. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, UnitedHealth Group offers benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with UnitedHealth Group, you’ll find a far-reaching choice of benefits and incentives.
+All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy.
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+UnitedHealth Group is a drug - free workplace. Candidates are required to pass a drug test before beginning employment. 

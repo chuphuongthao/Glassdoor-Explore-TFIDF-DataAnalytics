@@ -1,0 +1,23 @@
+RESPONSIBILITIES:
+Kforce has a client that is seeking a Lead Data Scientist in Plano, TX.
+
+Duties Include:
+
+Lead Data Scientist will create and maintain a comprehensive model documentation in a centralized location
+Work with IT and ensure successful deployment of the solution in the decision engine; This involves validating data mapping, provides requirements for data parsing/storage, validating the scoring model in production and troubleshooting to resolve issues
+As a Lead Data Scientist, you will partner with the business teams to help with design of experiments (DOE) and successful incorporation of the solutions into business strategies
+Create the model governance package once a quarter to monitor stability of the predictive models and share with executives and senior leaders
+
+REQUIREMENTS:
+
+Master's or PhD in Data Science, Data Analytics, Statistics, Computer Science, Mathematics, or related field or equivalent amount of work experience
+6-10 years of financial experience, preferred in consumer or personal lending
+Proven experience with Python, SQL, and a data visualization program like Tableau or Power BI
+Experience with advanced machine learning and statistical techniques to develop, validate, deploy, and monitor/maintain predictive models
+Strong communication skills and motivated to deliver innovative/effective solutions to address business problems
+Proficient in handling Large Datasets, working with Data Processing Frameworks, and building reliable Data Pipelines
+Extensive experience building advanced analytical solutions using best-in-class Machine Learning and Statistical Modeling techniques (Random Forest, Gradient Boosting, LASSO, Elastic Net, etc.)
+Strong knowledge of both supervised and unsupervised learning techniques
+Familiar with data from various bureaus and third-party data providers; Processed very large datasets and comfortable with structured, semi-structured and unstructured data
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. 

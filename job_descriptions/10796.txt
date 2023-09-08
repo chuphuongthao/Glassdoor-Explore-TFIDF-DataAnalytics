@@ -1,0 +1,31 @@
+Responsibilities
+Work with partners to identify Business opportunities/problems and deliver actionable insights/predictive solutions that will result in Business value/growth.
+Be at the forefront of research on how machine learning and artificial intelligence capabilities are maturing in the industry and what libraries, tools & technologies needs to be successful with delivering, scaling, and supporting solutions
+Subject matter expert for generating insights from data and machine learning models
+Transform data and insights into intuitive & interactive visualizations
+Work with contractors to deliver products and services for the bottlers
+Conduct Pilots with bottlers and measure value
+Transition successful pilots into commercial applications
+Ensure design and implementation of technologies that comply with security standards and application architecture principles (in alignment with platform architects and respective review boards) and that consider state of the art data and analytics concepts
+Review code/solutions developed by team prior to migration to production
+What will you learn?
+There is no technology more impactful and real than data science to achieve meaningful business outcomes. You will get to apply your skills to real-life business problems
+Industry/FMCG trends and Benchmarks for new/emerging technologies incl. vendor roadmaps and strategic developments
+Bottler and NAOU business strategies
+See also above under "Responsibilities"
+What makes you a good fit?
+Background in computer science, statistics, mathematics
+Good understanding of data structures, algorithms, and software design
+Experience with machine learning and natural language processing
+Ability to code in at least one JVM based language (Java, Scala etc.) and at least one scripted language (Python, JavaScript, etc.)
+Experience with database design, and SQL
+3+ years of experience building Data science solutions
+Ability to balance high customer orientation and service attitude with business priorities
+Analytic thinking, and problem-solving skills
+High energy, with strong will and ambition to learn and work on new things
+Outstanding proven verbal, written and interpersonal communication skills
+Ability to adapt quickly to changing product scope and priorities (demand driven)
+Proven ability to influence and collaborate effectively with cross-functional teams
+Demonstrates noticeable commitment to foster and preserve a culture of diversity and inclusion by creating environments where people of diverse backgrounds are excited to bring all of who they are and do their best work
+Constant role model of culture: Integrity, Accountability, Passion, Collaboration, Innovation
+Bachelor's degree (or equivalent) 

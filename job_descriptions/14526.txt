@@ -1,0 +1,46 @@
+About Limbix:
+Limbix Health, Inc. is a distributed team building digital therapeutics for adolescents experiencing mental health disorders. Our goal is to give all young people access to affordable, effective behavioral health care by giving providers immediate, safe, and evidence-based treatment options they can offer to their patients. We value positive, motivated, authentic, and solutions-oriented individuals who want to join us on this mission.
+About the Role: We are hiring a full time Data Analyst to uncover insights about user behavior and outcomes from our clinical trial and real-world data. The Data Analyst will be a key member of the Limbix Science team, and will report to the Chief Science Officer.
+About the Team: We strive to execute our work with empathy and excellence, both individually and as a team. We acknowledge and appreciate the complexities of each other’s roles and responsibilities. We appreciate our diversity, and deeply value how the different cultures of our colleagues and teams vastly improve the quality of our work.
+Who you are: You are excited to work in a fast paced startup and eager to help Limbix’s partners across doctors, patients and other areas of healthcare. You’re detail oriented, care deeply about helping others, and are highly analytical.
+What you'll be doing:
+Work with the Science, Product and Research teams to uncover insights about user behavior and outcomes from our clinical trial and real-world data
+Help develop and execute our analytics strategy to continually improve product engagement and clinical outcomes. Among other things, this will include defining and measuring key engagement and health equity metrics.
+Maintain custom dashboards to facilitate data review and analysis by internal stakeholders.
+Partner with Engineering to continually improve the quality of our data and analytics and data infrastructure.
+Own analysis/modeling projects from inception to production: collect/query data, extract features, build/evaluate models, optimize for production, rinse and repeat.
+Distill findings into clear and concise data reports and communicate key insights effectively with the wider team..
+Desired Qualifications:
+At least a Bachelor’s degree in Mathematics, Statistics, Quantitative Social Sciences or a related field OR 4+ years in data/business analysis, data science, or applied quantitative social science roles
+2+ year of experience in a relevant role
+Experience with social science data
+Strong background in statistics, including conducting independent analyses, problem solving, and communicating work and results to others
+Ability to formulate hypotheses, create analytic pipelines, and find solutions to research questions with available data and resources
+Expert knowledge of SQL and either Python (Pandas, NumPy) or R
+Proficiency with data visualization tools (such as Google Data Studio, Looker, or Tableau) and/or packages
+Strong communication and data presentation skills
+Strong knowledge management and data organization skills
+Experience building predictive models and custom analyses to generate insights
+Ability to thrive in a fast-paced, technical, and mission-focused environment
+Preferred Skills:
+Experience working with BigQuery
+Experience with clinical data and statistical analysis for social science research projects
+Experience working in healthcare, health tech, or at a startup
+Human Subjects Research and/or Good Clinical Practice training
+Machine learning or advanced statistical methodology
+Experience with GitHub and maintaining repos
+Total Compensation Package (FTE):
+Salary (Competitive base; Meaningful equity)
+Premiere Standard Benefits (Medical, Dental, Vision (75% covered for both individual and family), Health FSA, HSA, Commuter, Life, AD&D, Disability
+Cool Fringe Benefits (Gym stipend)
+Family Friendly (Liberal maternity/paternity time off to be used consecutively or intermittently; Generous earning schedule for annual PTO; Culture calendar inclusive of days off in celebration, commemoration, or observation14 paid company holidays; Company shut down December 23rd - December 31st!!)
+Financial Planning (401(k))
+Total Compensation Package (PTE & Interns):
+Salary (Competitive base)
+Cool Fringe Benefits (Gym stipend)
+Family Friendly (Culture calendar inclusive of days off in celebration, commemoration, or observation 14 paid company holidays, Company shut down December 23rd - December 31st!!)
+Limbix Health, Inc. and E-verify
+Limbix Health, Inc. an equal opportunity employer dedicated to diversity in the workplace. Our policy is to provide equal employment opportunities to all qualified persons without regard to race, gender, color, disability, national origin, age, religion, union affiliation, sexual orientation, veteran status, citizenship, gender identity and/or expression, or other status protected by law.
+
+Limbix validates right to work using E-Verify. Limbix will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS), with information from each new employee’s Form I-9 to confirm work authorization.
+#LI-Remote 

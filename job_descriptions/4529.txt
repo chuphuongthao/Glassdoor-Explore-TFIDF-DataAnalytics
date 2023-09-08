@@ -1,0 +1,27 @@
+We are helping a Birmingham, AL client in their search for a Data Analytics Manager. This position is responsible for managing the BI team in the design, development, testing, implementation and support of mission-critical enterprise business intelligence reports and dashboards for the organization.
+*C2C is not an option with this job opening and all applicants should be able to work for any US Employer without sponsorship*
+
+
+What you’ll be doing (duties of this position):
+Oversee development of strategy for reporting and analytics.
+Provide business analyses and/or develop new processes and procedures for extracting meaningful and relevant data out of internal systems.
+Participate in business analysis activities to gather dashboard requirements.
+3+ years of experience with SQL, SSRS, SSIS, Power BI, etc.
+Identify, analyze and interpret trends in complex customer data sets.
+Ensure proper configuration management and change controls are implemented.
+Provide technical assistance and cross training to other team members.
+
+What you’ll need to be considered (requirements):
+Bachelor's degree or equivalent experience.
+Experience leading teams in the design, development, testing, deployment and support of MS BI stack (SSRS, SSIS, SSAS, Power BI).
+Experience with scripting and ETL, data modeling, and working with large data sets.
+Communication, Written - Ability to communicate in writing clearly and concisely.
+Customer Oriented - Ability to take care of the customers' needs while following company procedures.
+Decision Making - Ability to make critical decisions while following company procedures..
+Management Skills - Ability to organize and direct oneself and effectively supervise others.
+Problem Solving - Ability to find a solution for or to deal proactively with work-related problems.
+Relationship Building - Ability to effectively build relationships with customers and co-workers.
+Working Under Pressure - Ability to complete assigned tasks under stressful situations.
+Ability to work effectively with individuals at all levels of an organization.
+
+#INDIT 

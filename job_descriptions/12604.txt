@@ -1,0 +1,24 @@
+Welcome to defining AI empathy
+Empathy is for everyone. mpathic believes empathy is the key to innovation. We help people and organizations develop skills for greater understanding, compassion, and insight via AI-powered analytics, correction, and training of empathy.
+mpathic is looking for a specialist in Machine Learning Operations to streamline and optimize our model building pipeline. We are building many models with expert labeled data, and how quickly we can build and validate the models is critical. In this role you'll be key to defining how we build, automate, and deploy models.
+ML Ops
+ML Ops is a set of practices that combines Machine Learning and DevOps, which aims to deploy and maintain ML systems in production reliably and efficiently. As an ML Ops engineer, you'll be a part of a small, high-impact team that works closely together. We are refining an AI system that can provide analysis and empathic corrections for text and audio conversations, kind of like spell check but for empathy. You will be architecting and implementing scalable data solutions for our teams. We work predominantly in AWS, and use microservices for most of our deployments. You would help in defining green field data pipelines that leverage human and machine input at scale.
+About you:
+Core Responsibilities for this role
+Tooling for versioning, validating, deploying, scaling and monitoring mpathic's machine learning infrastructure
+Integrate with the CI/CD pipeline
+Unify the work of data science, software engineering, and devops
+Optimize the mpathic ML pipeline to shorten time to market
+What we're looking for:
+Experience & knowledge of various ML model deployment approaches
+Knowledge of Python frameworks used in Machine Learning model development
+Preferred to have ML task scheduling hands on experience (like Metaflow, Airflow, or Prefect)
+Demonstrated experience in MLOps and related technologies in AWS
+How you'll work
+We are a remote-first company. Whether you work from Baltimore, Salt Lake City, or Seattle, you're 100% part of the team. We will provide you with a computer, equipment, and access to software subscriptions. At mpathic, we have full team and department specific in-person retreats to build trust and sometimes hackathons to accomplish a specific goal in a short period. You can bet we'll be flying to hang out at some point during the year. If you want access to a co-working space - no problem; if you want to work at home - also no problem.
+Empathy includes understanding the whole person. When deciding what benefits should look like at mpathic, we started by thinking about what employees need not only to work well, but to live well. Benefits impact how we act, rest, grieve, set boundaries, and take care of ourselves and others — and that means quality benefits are a fundamental part of our empathy company and, in the big picture, an empathic society. We have a dedicated Ombudsperson, DEIB Director, and Head of People and Culture dedicated to making your time at empathic safe, values-aligned, and designed to foster growth (We are an empathy company after all!). Read more about our Mission, Vision, and Values here (/e7cc4a792bf74e059d946ccddecc1979).
+You'll have 100% funded employee healthcare benefits, company-wide weeks off, unlimited PTO, training and education funding, parental leave, and more. See our full benefits policy Benefits at Mpathic (https://www.notion.so/Benefits-at-mpathic-81056e084549448d970c1998d3a04c3c); and our Equal Pay Commitment (https://www.notion.so/Equal-Pay-Commitment-at-mpathic-25bb7b50b521490c86df50dabfb1763a).
+Salary
+Salary is dependent on experience, commensurate with other engineers at mpathic. Following our Equal Pay Commitment (https://www.notion.so/Equal-Pay-Commitment-at-mpathic-25bb7b50b521490c86df50dabfb1763a), we have salary banding and established vesting schedules for equity.
+We're excited to meet you!
+At this time, we require that all applicants are eligible to accept employment in the United States (https://www.uscis.gov/working-in-the-united-states) 

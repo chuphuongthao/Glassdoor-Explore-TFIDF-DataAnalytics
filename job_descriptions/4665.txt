@@ -1,0 +1,39 @@
+United States, Georgia, Atlanta
+TechOps
+04-Aug-2022
+Ref #: 15667
+How you'll help us Keep Climbing (overview & key responsibilities)
+The Engine LLP Data & Analytics Specialist will be responsible for engine asset analytics and optimization for LLPs. This position requires an understanding of data and analytics for modeling engine Life Limited Parts. These responsibilities are for both Delta and MRO Customer engine work. The Data Specialist will be responsible for supportingthe departments strategic initiatives in such areas as data analysis, financial analysis, and optimization recommendations to support the departments LLPs.
+Specific responsibilities include, but are not limited to, the following:
+Provide oversight of LLP purchasing and strategic management to optimize cost per flight cycle
+Analyze current inventory levels; production rates and product demand to determine optimal inventory levels with minimum investment for LLPs across fleets.
+Work with other departments daily to ensure business unit success.
+Give direction and guidance to others as necessary. Practices safety conscious behaviors in all operational processes and procedures.
+Develop both strategic and tactical plans that create a safety-conscious environment resulting in employee safety and well-being.
+Responsible for working directly with the TechOps Finance team to develop and maintain the engine LLP inventory balance plan with the expectation of optimizing this plan with engine operational support
+Create adhoc analysis using the LLP optimization modeling to provide recommendations to produce high level optimization models, analytic reports, or other type of data summaries for Senior Management
+Work collaboratively with cross functional teams to apply established and create new analytical processes on diverse datasets to deduce insights and solve real-world business problems
+Ability to analyze complex datasets to provide leadership insights
+What you need to succeed (minimum qualifications)
+Bachelors degree in management, finance, procurement or related field highly preferred.
+Five or more years of experience as a Planner or Inventory Analyst or higher position preferred.
+Knowledge of Delta standard practices related to material control is preferred.
+Must have strong Materials management experience, specifically forecasting and planning experience preferred
+Possess technical aptitude related to inventory control systems.
+Should understand basic financial concepts as well as Delta accounting system.
+Ability to use technical manuals, catalogs, and drawings.
+Should be familiar with ATA systems and their applications.
+Must be proficient using Microsoft Office products, specifically excel (i.e. pivots, graphs) in order to take complex data sets (in excel) and provide recommendations
+Delta software (SAP, MIRS, MTAC etc.)
+Proficient in Microsoft Office software (Word, Excel, PowerPoint, and Access)
+Experience or proficiency with using analytic frameworks including Alteryx and Tableau
+Applicant must have strong communication skills, written and verbal.
+Highly motivated; self-directed; ability to plan, organize and work well under tight deadlines with a high degree of accuracy.
+Ability to set goals; track and monitor job related performance to meet established goals.
+A wide degree of creativity and latitude is expected.
+Must be performing satisfactorily in current position.
+Where permitted by applicable law, must have received or be willing to receive the COVID-19 vaccine by date of hire to be considered for U.S.-based job, if not currently employed by Delta Air Lines, Inc.
+What will give you a competitive edge (preferred qualifications)
+Ability to analyze complex datasets to provide leadership insights
+Posses skills for building queries in Alteryx
+< Go back 

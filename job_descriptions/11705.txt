@@ -1,0 +1,35 @@
+Equivalent Experience
+
+Description:
+Advise experienced leadership to develop, analytical strategies for complex business and technical needs
+Lead the strategy and resolution of highly complex and unique challenges requiring data from multiple sources
+Design and lead complex projects, and data analyses
+Engage with peers, managers risk, compliance, managers across the enterprise
+Perform and test highly complex data analytics for customer remediation
+Provide end-to-end ownership of analytics projects including requirements development, code development, testing, peer review, and data driven guidance/recommendations for remediation strategies
+Design analysis projects flow and documentation that is structured for consistency, easy to understand, and to be offered to multiple levels of reviewers, partners, and regulatory agents demonstrating research and analysis completed
+Investigate and ensure data integrity from multiple sources
+Ensure data recommended and used is the best “source of truth”
+Apply knowledge of business, customers, and products to synthesize data to 'form a story' and align information to contrast/compared to industry perspective.
+Data involved is typically very large, structured or unstructured, and from multiple sources.
+Must have a strong attention to detail and be able to meet high quality standards consistently
+This project supports the Customer Remediation Center of Excellence Group - Specifically, CRCOE- Data Analytics
+This team is part of their commitment to Improved data/analytics and reporting to enhance our reporting and rootcause analytics to provide our executives, Board members, and line of business leaders with more insights into customer complaints, including the identification and escalation of emerging issues or heightened risk. The enhancements include a monthly dashboard that provides the CEO and Operating Committee summary data, including commentary on trends, as well as regular reporting to the Board’s Risk Committee of customer complaints across the company.
+
+Experience:
+
+3+ years of SAS or SQL programming experience
+1+ year of Teradata experience
+
+Desired - Experience in Financial Services working with Consumer Lending or Non-Lending data, e.g. Auto Lending, Home Lending, Credit Card, Retail Banking, Merchant Services, Personal Lending, Deposits, Wealth & Investment Management
+
+About Aston Carter:
+Please Note: Scammers are posing as Aston Carter. We'll never contact you via Gmail, Telegram, or WhatsApp and we'll never solicit money from you.
+
+At Aston Carter, we’re dedicated to expanding career opportunities for the skilled professionals who power our business. Our success is driven by the talented, motivated people who join our team across a range of positions – from recruiting, sales and delivery to corporate roles. As part of our team, employees have the opportunity for long-term career success, where hard work is rewarded and the potential for growth is limitless.
+
+Established in 1997, Aston Carter is a leading staffing and consulting firm, providing high-caliber talent and premium services to more than 7,000 companies across North America. Spanning four continents and more than 200 offices, we extend our clients’ capabilities by seeking solvers and delivering solutions to address today’s workforce challenges. For organizations looking for innovative solutions shaped by critical-thinking professionals, visit AstonCarter.com. Aston Carter is a company within Allegis Group, a global leader in talent solutions.
+
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please call 888-237-6835 or email astoncarteraccommodation@astoncarter.com for other accommodation options. However, if you have questions about this position, please contact the Recruiter located at the bottom of the job posting. The Recruiter is the sole point of contact for questions about this position. 

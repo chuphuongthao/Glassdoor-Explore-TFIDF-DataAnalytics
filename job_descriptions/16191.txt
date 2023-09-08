@@ -1,0 +1,37 @@
+Location: 7000 Target Pkwy N, Brooklyn Park, Minnesota, United States, 55445
+About us:
+Target is an iconic brand, a Fortune 50 company and one of America’s leading retailers.
+Behind one of the world’s best loved brands, is a uniquely capable and brilliant team of data analysts, scientists, product owners and engineers. The testing and measurement team drives continuous innovation and business growth through experimentation using testing and measurement philosophy for Target stores, Target.com and Target Mobile. The testing and measurement team plays a key role in identifying, testing and measuring the top growth opportunities at any given time. We are here to help Target improve the guest experience, whether guests shop us in stores, on Target.com or on Target Mobile.
+A role with Target’s testing and measurement team is a chance to help develop our in-house strength for getting the maximum value from Target’s many data assets. We see data as a product, and as an opportunity to experiment, to refine our approach to new guest experiences. This is how we bring to life what wasn’t possible yesterday, and generate new revenue sources for Target in the process. Our purpose is to accelerate testing across the enterprise to fuel the continuous innovation that we believe is the key to exceeding guest expectations in Target stores, on Target.com and on Target Mobile. Together, we positively impact changes across various initiatives, processes and interdependencies that require exceptional data collection, testing, measurement and analysis — ultimately leading to quicker and more meaningful decision-making at Target.
+About the Job:
+Capability integration
+You’ll serve as the key contact for defining and designing store & multichannel-based test strategies across numerous business decision verticals
+You’ll teach and evangelize the role testing and insights can play to accelerate innovation and reduce the risk of major investment decisions
+Partner Consultation
+You’ll work closely with business, analyst, scientist, product and engineering teams on how to use testing and measurement methods to achieve defined goals and objectives in the best possible way
+You’ll help your partners synthesize test results, and any additional data or analysis, into storylines to communicate compelling narratives to decision makers and key stakeholders
+To do this, you should have the ability to tell a persuasive story about a problem, the solution, the impact and the value of implementing the solution
+This requires someone passionate about data, testing, measurement and its application to improve both business strategies as well as our in-house testing and measurement solutions
+Improve Decision Making
+You’ll democratize data and insights as you deliver self-service dashboards to your partners
+You’ll design and deliver insights using a mixture of analytical and visualization techniques
+This requires strong problem solving skills and working knowledge of query optimization on large data sets
+You’ll work with all data and analysis completion in our Hadoop ecosystem
+Job duties may change at any time due to business and product needs
+About you:
+You are passionate about process improvement and testing and are borderline-obsessed with control groups
+You desire to be a mentor and thought leader for your team, and your natural curiosity is infectious
+You like the word "incremental" when it’s applied to measurement but prefer "step change" when talking about business results
+You know how to get above the math and explain the core idea to business users who don't always love hearing the excruciating details
+You instinctively minimize complexity, focus on the customer and drive outcomes.
+2-4 years of work experience in test design & analysis, data science, consulting, or data engineering roles
+Fluency in at least 1 analytic business domain such as 1:1 loyalty, marketing measurement, merchandising, supply chain, pricing/markdown optimization, etc..
+Proficient in A/B and multivariate testing in a multi-channel setting
+Intermediate SQL experience writing complex queries
+Exceptional oral and written communication skills
+Additional experience with analytics tools such as: DOMO, Hadoop/Hive, R, Python, Spark, and equivalent technologies
+Bachelor’s degree with strong academic performance in a quantitative field; or strong equivalent experience
+This position may be considered for a Full-Time Remote or Hybrid work arrangement based on Target’s needs. A Hybrid work arrangement means the team members core role will be a blend of virtual and onsite at a Target location. A Full-Time Remote work arrangement means the team member works full-time from home or an alternate location that’s not a Target location, does not have a desk at their primary HQ work location and may travel to HQ up to 4 times a year.
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado, Connecticut or Nevada residents is $87,600 to $157,700.00 Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Find competitive benefits from financial and education to well-being and beyond.
+Americans with Disabilities Act (ADA)
+Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information. 

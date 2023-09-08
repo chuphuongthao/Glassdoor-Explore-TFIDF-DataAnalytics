@@ -1,0 +1,45 @@
+With millions of diners, tens of thousands of restaurants, and 23+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue.
+
+Every employee at OpenTable has a tangible impact on what we do and how we do it. You'll also be part of a global network that includes OpenTable and KAYAK's portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+
+Hospitality is all about taking care of others, and it defines our culture. You'll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed.
+
+OpenTable is looking for a strong leader, experienced with leading data analytics at a leading technology corporation. OpenTable has a robust data warehouse team and infrastructure. We are looking for someone who can realize a self-service data platform for the needs of all stakeholders across the business. Experience working across the organization, aligning with stakeholders and staying ahead of business needs is key to success in this role. The ideal candidate brings not just strong organizational leadership but is also happy to get down into the details of working across departments, in evolving the data architecture that we use across the organization.
+
+In this role, you will:
+Works closely with the business organization to define and provide business critical data. The goal for the DAG group at OpenTable is provide self-service access to all key business data to the organization, to a community of data specialists across the organization (folks with data analytics expertise) as well as the broader organization, people without data analytics skills. We are currently using Thoughtspot as a user-friendly tool making business data available to the organization
+Works directly with the engineering team to create, change or modify any required systems/application interfaces to orchestrate business data pipelines from the production infrastructure into the data warehouse
+Works across the Organization. One key responsibility will be to evolve the data model in tools like Salesforce and to work with key team members within sales to ensure that over time, it is easier for the data analytics team to keep clean metrics of key business concerns, by ensuring we have a clean data stream throughout the org
+Responsible for all metadata relating to OpenTable's overall data warehouse architecture, descriptions of data objects, access methods and security requirements
+Mentors data engineers on best practices and standards for data modeling and leaders within the team to help them grow
+Please apply if:
+15+ years of experience in the Data Analytics field, and at least five years of experience leading Data efforts within an organization.
+Experience with large Operational Data Store, Data Warehouse, Business Intelligence databases
+Experience with user facing analytics platforms such as Tableau or Superset
+Experience with Salesforce is preferred
+Good verbal and written communication skills, ability to express complex data issues to team members
+Experience with data platforms such as Snowflake, Apache Airflow, Postgres and SQL Server
+Design and Develop ETL Jobs for Data Integration
+Programming experience with scripting languages such as Python or Unix shell ideal
+Benefits
+Generous paid vacation
+Day off on your birthday
+Company matched retirement plans
+Health, dental and vision insurance plans
+Flexible Spending Accounts
+Headspace Subscription
+Drinks, coffee, snacks, games
+Flexible hours
+Universal Paid Parental leave
+
+
+Diversity, Equity, and Inclusion
+
+OpenTable aspires to be a workplace that reflects the diverse communities we serve and a culture that is inclusive and welcoming. Hiring people with different backgrounds, experiences, perspectives, and ideas is critical to innovation and to how we deliver great experiences for our users and our partners. Representation matters.
+
+We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+
+#LI-remote
+
+"remote work allowed" 

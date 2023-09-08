@@ -1,0 +1,26 @@
+The CAO Chief Data and Analytics Office team is responsible for the overall data strategy and governance across the firms CAO functions, This function supports Global Site Services and Supplier Services, Global Security & Investigations, Global Real Estate, Amenities Services, Global Business & Document Services and CAO Strategic Initiatives. Our team's mission is to help our organization manage our data assets and associated data risks, and find the best solutions to surface insights from our data, in an effort to drive new business insights, enhance analytics, and streamline reporting. In doing so, we look for improvements ranging from establishing quality data repositories to designing cutting edge analytic insights utilizing the latest data visualization and machine learning tools.
+
+Develop end-to-end Business Process Management (BPM) solutions and drive projects to completion in an agile environment.
+Build and deploy rapid prototype solutions to demonstrate ideas and prove concepts.
+Generate deep insights through the analysis of data and understanding of business processes and turn them into actionable recommendations.
+Manage relationships to one or more corporate functions within CAO. Identify areas for business improvement/optimization using data tools, analytics and targeted visualizations
+Build strong relationships across CAO and with key stakeholders
+
+Qualifications:
+
+Undergraduate degree
+Strong MS Office skills (advanced PowerPoint, Excel)
+Strong hands-on Pega Systems development experience, including system architecture, Pega features, UI and dashboard development
+Experience with data modeling, SQL and comfortable with manipulating large, complex and disparate data sets
+Experience with UI/UX Design. Interest in delivering elegant and application like interfaces
+Experience with Alteryx, Tableau or other BI/Data analytics tool a plus
+Strong communication skills. Ability to run efficient meetings while clearly articulating recommendations and solutions
+Demonstrated verbal, written, and presentation skills
+Strong organizational skills
+3+ years' experience working as a Pega developer, data analyst or similar role
+1+ years' experience in client facing (internal business partners) business analysis/relationship manager role
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+Equal Opportunity Employer/Disability/Veterans 

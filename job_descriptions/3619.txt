@@ -1,0 +1,36 @@
+Description
+
+Job summary
+Come build the future of FinTech! The Worldwide Installments team within Consumer Payments (CP) brings together the best of machine learning, econometrics, tech, business, and finance to deliver for customers across the world. We build the foundational systems and products to enable Amazon customers with installment and related payment methods. Our mission is to delight our customers by building payment experiences and financial services that are trusted, valued and easy to use from anywhere in any way. Our products are growing rapidly and we are continuously adding new market-leading features and launching new customer facing ML solutions. Our team of high caliber software developers, statisticians, analysts and product managers use rigorous quantitative approaches to ensure that we target the right product to the right customer at the right moment, managing tradeoffs between click through rate, approval rates, customer friction, economic profit, and loss rates. We leverage the wealth of Amazon’s information to build a wide range of probabilistic models, set up experiments that ensure that we are thriving to reach global optimums and leverage Amazon’s technological infrastructure to display the right offerings in real time. We own our own Science business and work across Amazon to deliver algorithms to partner scenarios and their customers. Our goal is to delight our customers with their purchasing experience and our solutions improve the shopping experience for hundreds of millions of consumers worldwide accordingly. Those of us who love to work with data see this as the pinnacle of opportunities within FinTech and the BNPL/Installment space that you cannot find anywhere else in the world.
+We are seeking an exceptionally talented individual to improve our analytic capabilities. This is an opportunity to join a group with a broad charter and stakeholders across Amazon. In this role, you will be working in one of the world's largest and most complex data warehouse environments. You should be passionate about working with huge datasets and be someone who loves to bring data together to answer business questions. You should have deep expertise in creation and management of datasets and the proven ability to translate the data into meaningful insights. You will have to work with a group of applied and data scientists and play an integral role in strategic decision-making. The right candidate will possess excellent business and communication skills, define business objectives and prioritize work across the team to support business outcomes, and develop solutions to key business questions. You should have a solid understanding of efficient and scalable data mining and an ability to use the data in financial and statistical modeling.
+Basic Qualifications
+
+MS in data science, applied mathematics, economics, operational research, statistics, engineering or a related technical discipline.3+ years hands-on experience programming in Python, R, Java, C#, C++ or other similar programming languages.Proficiency in model development, model validation and model implementation for large-scale applications.Ability to convey mathematical results to non-science stakeholders.Strong communication and data presentation skills.
+Preferred Qualifications
+
+PhD in data science, applied mathematics, economics, operational research, statistics, engineering or a related technical discipline.
+Expertise on a broad set of ML approaches and techniques including ensemble learning, deep learning, and non-parametric methods.
+
+Ability to work effectively within an interdisciplinary team of Data Scientists, Economists, BIEs, Data Engineers, and Product Managers.
+Experience with AWS, cloud computing.
+Experience in payment products, recommendation engines, and risk modeling.
+Significant peer reviewed scientific contributions.
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.Basic Qualifications
+
+MS in data science, applied mathematics, economics, operational research, statistics, engineering or a related technical discipline.3+ years hands-on experience programming in Python, R, Java, C#, C++ or other similar programming languages.Proficiency in model development, model validation and model implementation for large-scale applications.Ability to convey mathematical results to non-science stakeholders.Strong communication and data presentation skills.
+Preferred Qualifications
+
+PhD in data science, applied mathematics, economics, operational research, statistics, engineering or a related technical discipline.
+Expertise on a broad set of ML approaches and techniques including ensemble learning, deep learning, and non-parametric methods.
+
+Ability to work effectively within an interdisciplinary team of Data Scientists, Economists, BIEs, Data Engineers, and Product Managers.
+Experience with AWS, cloud computing.
+Experience in payment products, recommendation engines, and risk modeling.
+Significant peer reviewed scientific contributions.
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. 

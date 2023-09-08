@@ -1,0 +1,37 @@
+Application Support Engineer - Montana based
+We are seeking a knowledgeable application support engineer to monitor and maintain the efficiency of our software applications. You will also be required to provide IT support to our clients.
+
+Mandatory Knowledge and Skills Requirements:
+Above all else - an in-built desire and ability to analyze and design solutions for challenging problems
+A demonstrable ability to understand C# code and to write SQL queries
+Ability to multi-task and prioritize whilst remaining calm in a multi-customer financial environment
+Communicating effectively through email and in a phone conversation
+Desired Qualifications:
+Bachelor's Degree in Computer Science, Information Systems, Math, Physics, Electrical Engineering or with a strong computer science component.
+Experience is not mandatory – we can train from the graduate level whilst also utilizing the existing domain knowledge of experienced candidates to further enhance our client service capabilities
+The company can assist the right college graduate with the development of these skills in on-the-job training:
+
+ETL design and troubleshooting
+An understanding of financial instruments and the capital markets – especially relating to buy-side order management, trade execution, third party reporting and position management.
+Data warehousing
+Writing detailed SQL queries and objects and SQL performance monitoring
+Common .Net classes – programming, testing, and debugging in Visual Studio
+Basic networking
+Understanding of n-Tier application architecture concepts
+Ability to absorb rapidly new technical information, business acumen, and apply it effectively
+General understanding of various IT security concepts as they relate to production environments
+The scope of this role includes but is not limited to:
+Utilizing company training resources to develop the financial domain knowledge, application knowledge, and technical understanding required to assist our customers
+Development of new integrations between the platforms and third-party applications
+Development of reports and custom web grids to meet bespoke customer requirements
+Re-creation, analysis, troubleshooting, and diagnosis of customer questions and issues
+Assist development and business owners with the root cause analysis and solution development for recurring issues
+Performance analysis and improvement for application database processes
+Maintaining customer contact on open issues – being responsive to customer follow-ups
+Performing routine audits of systems for preventative maintenance of applications and reporting on their status
+Multi-tasking and prioritization of open issues
+About Portfolio Bi:
+Portfolio BI (PBI) empowers the most sophisticated buy-side rms to take control of their portfolio and operational data. Born from the merger with Hentsu, and backed by Credit Suisse Asset Management's NEXT Investors, our customers benefit from our integrated platforms, local technological expertise, and seasoned financial experts. We are an asset management technologist, and we provide a fully managed cloud platform for hedge funds, with on-demand trading, research, and corporate technology, as well as connectivity to market data providers, brokers, and exchanges. Our vision is to drive agile transformation across financial services through public cloud technologies, SaaS and data science.
+
+What we commit to:
+We are committed to developing our team as we grow by offering a variety of opportunities to increase knowledge, build skills, and take charge of your career. 

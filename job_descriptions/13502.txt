@@ -1,0 +1,30 @@
+PhD or equivalent Master's degree plus 4+ years of research experience in a quantitative field
+Experience investigating the feasibility of applying scientific principles and concepts to business problems and products
+Masters degree or equivalent experience in a field that has significant emphasis on quantitative methods such as statistics, or mathematical optimization.
+Solid business judgment capable of driving an organization to the right results with a focused, pragmatic, approach to data analytics.
+Experience operating successfully in a fast-paced, results-oriented environment, and having the ability to influence the decisions of senior business leaders through effective verbal and written communication, logical reasoning, and the presentation of alternatives.
+Close familiarity and understanding of programmatic advertising systems and processes required to turn a bid request from a publisher into an ad seen by a person.
+
+Job summary
+We are seeking a DSP Analytics Scientist to further the development and application of analytics methods to examine the complex data flows of the Demand Side Platform (DSP), and to translate deep dives into actionable insights for our product teams. In this role you will develop new tools to analyze our advertising data to help improve the performance of our bidding algorithms, targeting and relevance systems, advance our 3rd party and O&O supply strategy, and evaluate the adoption and impact of feature releases.
+
+Key job responsibilities
+
+Analyze data that affect campaign delivery and performance and contribute to achieving advertiser goals.
+Present analytical papers to senior leaders highlighting insights that inform our business development and engineering roadmaps.
+Formalize our analytics approach to the DSP auctions by analyzing bid spreads, auction depth, and simulating impacts of potential auction structure changes.
+Identify, standardize, and operationalize KPIs to effectively measure the performance of all systems involved in ad serving, and use trend insights to inform business priorities.
+Partner with engineering teams to define data logging requirements and getting these prioritized in engineering roadmaps.
+Validate financial models through analysis.
+Develop and own ad revenue and supply intelligence analytics reports that provide ongoing deep-dives.
+About the team
+In ASAT we use practical science, we apply an objective perspective with business acumen to uncover insights, advise strategic decisions, and adjust to industry changes. We change and advance the thinking, strategy, and investments made by the Amazon Ads business through quantitative truth.
+
+4+ years’ of experience in advertising analytics or a related analytical field, or an equivalent combination of education and experience
+The ideal candidate will have lead large scale analytics initiatives and has experience with digital advertising and DSPs
+Knowledge of Big Data data mining and business intelligence techniques
+Familiarity with managing large-scale regulatory data requests from world wide government agencies
+Experience with proactively identifying new areas of exploration in the advertising analytics space, continuously raising the bar for business impact
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Workers in New York City who perform in-person work or interact with the public in the course of business must show proof they have been fully vaccinated against COVID or request and receive approval for a reasonable accommodation, including medical or religious accommodation. 

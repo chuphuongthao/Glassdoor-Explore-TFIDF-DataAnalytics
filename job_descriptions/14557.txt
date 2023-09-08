@@ -1,0 +1,25 @@
+Robert Half Technology is searching for a Data Engineer. This is a direct-hire opportunity with competitive salary, benefits, and other perks.
+
+Data engineers are liaisons between business users and data scientists. They are designers and curators of databases and know how to get results from vast amounts of data quickly. They have impeccable data mining, strategic and communication skills, as they interpret business objectives and translate them into data-processing workflows. They develop, maintain, test, and evaluate software platforms and large-scale data processing systems within organizations, ensuring that data pipelines are scalable, efficient and secure. A big data engineer must have considerable expertise in statistics software engineering, building high-performance algorithms and programming, ideally in Python or Java and NoSQL technologies. The role requires coding expertise and enterprise architecture and data science knowledge.
+
+Responsibilities:
+Gathering, storing and processing raw data and translating analyses for acquisition and integration
+Applying technologies to solve big data problems and develop innovative big data solutions
+Performing end-user analysis to formulate a clear understanding of the business needs and incorporate these needs into technical solutions
+
+ETL - Extract Transform Load
+ETL-SSIS
+Bash
+Python
+Amazon Web Services (AWS)
+SQL
+
+Technology Doesn't Change the World, People Do.®
+
+Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
+
+Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity – even on the go. Download the Robert Half app and get 1-tap apply, instant notifications for AI-matched jobs, and more.
+
+Questions? Call your local office at 1.888.490.4429. Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. All applicants applying for U.S. job openings must be authorized to work in the United States. Benefits are available to temporary professionals. Visit https://roberthalf.gobenefits.net/ for more information.
+
+© 2022 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to Robert Half’s Terms of Use . 

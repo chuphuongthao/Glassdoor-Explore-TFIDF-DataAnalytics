@@ -1,0 +1,31 @@
+At Swickard Auto Group, we’re passionate about our customers and using the most innovative, cutting-edge technology to revolutionize the way customers purchase and service their vehicles at our dealerships.
+Our customers are the reason we’re here. Our culture is defined by a few core principles: We want to be our customers’ favorite place to purchase, lease, or service their vehicle, and we want to be your favorite place to work! We are a hospitality company that happens to be in the automotive industry. We are data-driven, and our aim is to use data to continuously improve the in-store and online guest experience with our dealerships.
+Automotive News ranks Swickard Auto Group as one of the top dealer groups in the US. We are looking for like-minded team members that are laser focused on discovering insights in data to identify ways we can continue improving each interaction with our customers. Swickard’s unique perspective on automotive retail strategy is transforming the automotive industry and we are looking for top-notch individuals to join our fast-growing team.
+Job Overview
+This position will support the quantitative and qualitative data needs of the Swickard Auto Group Retail Strategy team through usage of dealer and market-based data. A successful Data Science Specialist will employ mathematical science, computer science, and quantitative analysis skills to derive solutions to complex data problems. This position will assist in the development and implementation of internal data products, strategies, and tactics, consistent with the goals and objectives of Swickard Auto Group.
+This team member will use various techniques to display descriptive, diagnostic, predictive and prescriptive analytics. This analysis will be critical in planning and strategic initiatives, identifying trends and opportunities. This role will be responsible for advancing the analytic capabilities of Swickard Auto Group and developing new models for future use.
+Advanced knowledge of analytics, data science and machine learning tools such as Tableau, Alteryx, Python, R, SQL, and Excel for Predictive and Prescriptive analytics will be required.
+ResponsibilitiesSupport quantitative data needs for the Retail Strategy team in performing advanced analytics and predictive modelingTake various data sets from multiple internal and external sources with varying levels of complexity producing unified theories and analysis supported by data, and then communicate those findings to all layers of the organizationCommunicate with cross-functional teams to socialize data best practicesAbility to conjoin various datasets in multiple IT environments/ecosystems to gain new business insights
+Skills and QualificationsBachelor’s Degree (accredited school) with an emphasis in:
+ o Computer/Information Science
+ o Engineering
+ o Information Technology
+ o Mathematics
+ o Management Information System (MIS)
+ o StatisticsData analytics trainingAdvanced knowledge of analytics & data scienceKnowledge of SQL requiredKnowledge of statistical programming languages such as Python or R requiredExperience in data visualization tools such as Tableau, Power BI, MicroStrategyExperience in data manipulation tools such as Alteryx, Knime, Trifacta, R Studio considered a plusAbility to work with and prioritize many simultaneous projects and deadline pressuresHigh degree of computer proficiency required including advanced knowledge in excel and statistical methods
+Ideal candidate has 3+ years (total) of experience in the following or equivalent graduate degree:
+Automotive Retail
+Knowledge of retail processes and procedures, with an emphasis in New and Pre-owned sales, accessories, service, and parts
+Business – General
+Knowledge of fundamental business practices and concepts that impact the success and profitability of the organization
+Business Management
+Knowledge of business and management principles involved in strategic planning, resource allocation, leadership technique, human resource management, and efficiency and process methods
+Finance
+Knowledge and understanding of the implications of key financial indicators and controls and assessing impact of financial information
+Graduate Degree
+Relevant data science focused advanced degree or certificate
+Additional Information
+The ideal candidate will be able to work a flexible schedule, including nights, weekends and holidays when required.
+Swickard offers a competitive package - salary and benefits - including but not limited to medical, dental, vision, life and pet insurance, optional disability coverage, paid holidays and vacation time and a 401K plan.
+Come join us - be part of an amazing culture that’s transforming the way customers feel about buying or leasing their next vehicle. You’ll be working alongside other talented individuals with the same vision and commitment – together we’ll drive toward a shared goal of giving our customers an exceptional experience. And at Swickard, as an equal opportunity and affirmative action employer, we ensure everyone is welcome and provided an environment to be successful and included.
+We are committed to equal employment opportunity regardless of race, color, national or ethnic origin, age, religion, disability, sexual orientation, gender, gender identity and expression, marital status, and any other characteristic protected under applicable State or Federal laws and regulations. #T1 

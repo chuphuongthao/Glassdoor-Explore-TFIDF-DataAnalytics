@@ -1,0 +1,47 @@
+There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW.
+John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regards to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.
+Primary Location: United States (US) - Iowa - Johnston
+Function: Data & Analytics (CA)
+Title: Senior Data Wrangler - 90433
+Onsite/Remote:Remote Position
+Visa sponsorship is NOT available for this position.
+This position can be fully remote.
+Your Responsibilities
+As a Senior Data Wrangler for John Deere Financial, you will….
+Locate and acquire data, explore new ways of organizing data, and focus on developing sustainable data usage.
+Create and maintain advanced data visualizations and reports that support data-driven decisions.
+Deliver insights that create value for business stakeholders in Marketing, Sales, and New Business Model Development.
+Provide technical guidance to other data wranglers, explain analytics techniques to business stakeholders, communicate value, and inspire action.
+What Skills You Need
+2-3 yrs of experience in at least one programming language (SQL, Python, R, SAS, etc.)
+2-3 yrs of experience with reporting & visualization tools (Tableau, Power BI, R Shiny, Excel)
+Ability to work independently and with teams to solve problems, gather requirements and manage conflicting priorities
+Strong written and oral communications, especially around communicating analytical concepts to non-analytical audience
+What Makes You Stand Out
+Experience with multiple programming languages (SQL, R, Python, SAS, etc.)
+Experience in leveraging cloud services (AWS) and interacting with a Data Lake environment
+Knowledge of statistical analysis
+Understanding of various functions within John Deere Financial
+Proven ability to influence without authority
+Education
+Ideally you will have a degree or equivalent related work experience in the following:
+Masters degree in quantitative field (e.g. mathematics, statistics, analytics, computer science, information technology, economics)
+OR
+Bachelors degree in quantitative field (e.g. mathematics, statistics, analytics, computer science, information technology, economics) + 2 years work experience in a related field
+What You'll Get
+At John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including:
+Flexible work arrangements
+Highly competitive base pay and performance bonuses
+Savings & Retirement benefits (401K and Defined Benefit Pension)
+Healthcare benefits with a generous company contribution in the Health Savings Account
+Adoption assistance
+Employee Assistance Programs
+Tuition assistance
+Fitness subsidies and on-site gyms at specific Deere locations
+Charitable contribution match
+Employee Purchase Plan & numerous discount programs for personal use
+Click Here to find out more about our Total Rewards Package.
+The information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines.
+The terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control.
+ACA Section 1557 Nondiscrimination Notice
+The John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, color, national origin, age, disability, or sex. 

@@ -1,0 +1,56 @@
+Overview
+Guidehouse is a leading global provider of consulting services to the public sector and commercial markets, with broad capabilities in management, technology, and risk consulting. By combining our public and private sector expertise, we help clients address their most complex challenges and navigate significant regulatory pressures focusing on transformational change, business resiliency, and technology-driven innovation. Across a range of advisory, consulting, outsourcing, and digital services, we create scalable, innovative solutions that help our clients outwit complexity and position them for future growth and success. The company has more than 12,000 professionals in over 50 locations globally. Guidehouse is a Veritas Capital portfolio company, led by seasoned professionals with proven and diverse expertise in traditional and emerging technologies, markets, and agenda-setting issues driving national and global economies. For more information, please visit www.guidehouse.com.
+
+Responsibilities
+Senior Analytics Consultant role will be part of a data analytics team supporting a large Intelligence Community Agency with data process improvement, data management, and creating performance metrics and business intelligence for business optimization. The candidate will be required to analyze large and complex data sets, including a thorough aptitude for conducting quantitative and qualitative analyses; selecting and applying the appropriate analytical techniques in order to increase organizational efficiency and provide knowledge of data engineering/analysis applications to extract knowledge to help predict, explain, or analyze research questions. The candidate will coordinate with non-technical users to identify data analytics needs support and use facilitation skills and techniques to elicit requirements from a diverse range of stakeholders.
+The candidate should be comfortable in working with cross-functional teams to present, analyze, update, and view technical data sets with qualitative and statistical analysis. The candidate must have the ability to translate complex problem sets, metrics and assessments into coherent, communications products to brief senior-level officials.
+Assess data and analytics capabilities and identify areas for improvement or opportunities to better align data operations with the business or mission strategy
+Implement data management practices and frameworks
+ Collaborate with the Government to develop, integrate and continually improve data, including the creation and visualization of metrics
+Work independently and as a team member on assigned data and/or process improvement projects
+ Create data visualizations based on customer requirements using business intelligence tools such as Tableau
+ Conduct iterative customer feedback sessions on dashboards in development
+ Learn and apply change management techniques to customers to assist them with adopting new data analytics tools and associated processes
+
+Qualifications
+The following qualifications are REQUIRED to be considered for this role:
+An ACTIVE AND CURRENT TOP SECRET/SCI COUNTERINTELLIGENCE polygraph
+Experience performing data analytics for decision-making and creating data visualizations; Experience conducting quantitative and qualitative analysis of data
+Self-starter; demonstrated ability to work independently and create solutions based on provided requirements
+ Intermediate proficiency with Tableau Desktop
+Minimum one (1) years of experience (to include personal/academic experience and usage) in a programming language such as Python or SQL
+Experience selecting and applying appropriate analyticals methods and tools
+Demonstrated experience with business process analytics; leveraging analytics and visualization to inform decision-making
+Strong proficiency in statistical analysis
+Demonstrated ability to create KPIs and metrics to address client questions and needs
+Data visualization skills; experience creating a dashboard(s) using data visualization software/tools such as Tableau, Power BI, or Dash
+Excellent written and verbal communication skills
+The following Skills/Knowledge/Experience is preferred:
+Understanding of artificial intelligence, machine learning and natural language processingExperience with deploying cloud-based applications
+
+
+Additional Requirements
+The successful candidate must not be subject to employment restrictions from a former employer (such as a non-compete) that would prevent the candidate from performing the job responsibilities as described. No sponsorship is available for this position.
+
+Disclaimer
+About Guidehouse
+Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.
+Rewards and Benefits
+Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+Benefits include:
+Medical, Rx, Dental & Vision Insurance
+Personal and Family Sick Time & Company Paid Holidays
+Position may be eligible for a discretionary variable incentive bonus
+Parental Leave and Adoption Assistance
+401(k) Retirement Plan
+Basic Life & Supplemental Life
+Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts
+Short-Term & Long-Term Disability
+Tuition Reimbursement, Personal Development & Learning Opportunities
+Skills Development & Certifications
+Employee Referral Program
+Corporate Sponsored Events & Community Outreach
+Emergency Back-Up Childcare Program 

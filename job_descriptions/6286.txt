@@ -1,0 +1,15 @@
+JOB DESCRIPTION
+The IT Data Analyst will need to be able to determine the difference between issues that are less impactful versus issues that they will need to address quickly. The resource will transition to more of a data analyst resource later and will need data visualization, data cleansing, and data analysis skills. They will also be learning how to be an admin for monitoring tools, asset management tools, and keep up an application portfolio.
+
+
+Responsibilities
+Assist in Data Analysis for company InitiativesCross Train with the team on Monitoring Tools, Asset Management Tools, and different company CatalogsAssist Infrastructure Engineers and Architects with the development of technical standards and roadmapsDrive consistency and coherence across the full set of Infrastructure standards and roadmapsEnsure alignment of infrastructure configuration management with application engineering, Security, ITG, and other stakeholdersCoordinate and work on multiple cross-functional initiatives and projectsParticipates in short- and long-term project efforts with stakeholders and IT groupsCreate and maintain detailed documentationMaintain, and adhere to companies technical standards, policies and procedures
+IT Infrastructure Data Services supports the following organizational capabilities:
+Information Security AdherenceService Validation and TestingBCP EngineeringService Asset and ConfigurationCorporate Solution ImplementationData AnalyticsProactive Problem ManagementMonitoring Standardization
+MINIMUM REQUIREMENTS
+1-2 years experience of data analysis
+Data manipulation skills
+SQL
+PowerBI or Tableau
+
+DESIRED SKILLS 

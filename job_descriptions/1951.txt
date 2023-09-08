@@ -1,0 +1,13 @@
+This position will work alongside developers to verify that we have the correct information and the necessary information to produce metrics for stakeholders. The position will notify the programmers and end users of gaps of data that would disallow the ability to produce a distinct metric. The position will work alongside the Enterprise Factory Data Lake team to ingest and withdraw information allowing the US Drivetrain Digital team to integrate and work with the data lake data as well as pass information back. The position will also contribute in Power BI and report generation and automation. The position will be considered a subject matter expert in data types that are either categorical or continuous when discussing metric related needs.
+Requirements
+Typical Day
+A typical day will involve both meetings with stakeholders, process planning, process implementation, as well as bug squashing and metric generation. The metrics will be requested by stakeholders and then we will do what we need to do to implement it. The position will typically help make sure that programmers are capturing all the data input needs to produce the metrics that stakeholders need. After a sprint has began and we have began to capture data this position will identify any data gaps as well as inform the team of redundancies or inefficiencies.
+
+Education Requirements:
+Bachelor''s degree in computer programming or equivalent training required w/ 2-4 years experience required. Associate''s w/ 5-7 years experience required; Certificates from reputable MOOC/bootcamp, or experience with publicly accessible portfolio examples like GitHub or other git based repositories
+
+Technical Skills
+SQL Principles
+– Medium skill requirements Data Ingestion and normalizing from multiple sources Power BI
+– Metrics and data analytics
+DAX formulas and calculated fields Data structure understanding and skills Database design principles Database Reverse Engineering Skills OLAP/Database connections Identifying missing datasets to help close gaps 

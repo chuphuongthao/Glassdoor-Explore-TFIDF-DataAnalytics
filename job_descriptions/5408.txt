@@ -1,0 +1,29 @@
+Data Science Developer needed to work with web developers, engineers, data scientists, and administrators working onsite supporting MSIC (Missile Space Intelligence Center) at Redstone Arsenal. The position offers job stability (the hiring company has the contract for five years with a five-year extension option) and the opportunity to do highly classified and important security work.
+Salary based on experience. Company offers an outstanding benefits package and employee-focused ownership. Position requires a minimum DoD clearance of Top Security. The selected candidate must be willing to sit for and able to pass a DIA SCI polygraph.
+Principal Duties and Responsibilities
+Designs, develops, tests, and implements complicated and difficult software programs
+Analyzes user's software program needs and assists in troubleshooting
+Design and develops software using basic compilers, assemblers, utility programs, and operating systems
+Performs systems modeling, simulation, and analysis
+Advises hardware design engineers on machine characteristics that affect software systems
+May provide input for documentation of new or existing programs
+Evaluates data, algorithms, and their interaction to improve algorithm performance
+May apply advanced statistics, including natural language processing and machine learning to create solutions
+May assist in data modeling and data virtualization
+May write code to preprocess and clean data
+Required Qualifications
+Bachelors' degree in computer science, information systems, engineering, business, or other related field or equivalent experience
+Minimum of 0-8 years of related experience
+CompTIA Security+
+Working knowledge of desktop applications such as word processing, spreadsheet, and database programs
+Working knowledge of current operating systems and programming languages
+Knowledge of Python and JULIA
+Top Secret DoD security clearance with the capability to obtain SCI within a timely manner
+U.S. Citizenship required
+Desired Experience
+.NET/C#, .NET CORE, ASP.NET Web Forms, AngularJS, Vue, Boostrap, REACT, Node.js, AIRFLOW, Dockers Containers, JavaScript. JSON, XML, XQuery, different Web Frameworks,
+Algorithm development and python libraries
+IDEs, R is a plus, GIT, Mercurial, TortoiseHg, GITLAB/GITHUB
+Databases: SQL Server, ORACLE
+NoSQL: Mark Logic, ArangoDB,Neo4j
+Elastic Search 

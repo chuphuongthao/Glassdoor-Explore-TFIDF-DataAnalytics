@@ -1,0 +1,18 @@
+Summary
+Posted: Jan 13, 2022
+Weekly Hours: 40
+Role Number:200332021
+The display visual experience team is looking for a hardworking color imaging scientist to own the development of new solutions and technologies for future Apple products, from early inception to productization. This position will focus on improving display front-of-screen performance including iPhone, iPad, Watch, Mac, AppleTV and more. The team features a collaborative and hands-on environment that fosters engineering excellence, creativity, and innovation in the interdisciplinary areas of computer science, color science, image processing, and vision science.
+Key Qualifications
+Strong understanding of image science, color science, image processing, and computer vision
+Proven track record in algorithm development for imaging systems
+Knowledge of metrology, perceptual modeling, data science, and machine learning
+Experience of TV color pipeline and management is a plus
+Proficiency in MATLAB, Python, or similar simulation and modeling tools
+Strong interpersonal skills for working with multi-functional teams
+Excellent written and verbal communication skills in English.
+Description
+- Develop next generation display calibration and signal processing algorithms using light sensing and imaging devices to enable outstanding visual quality - Explore the application of computational display through modeling, simulations, psychophysical experiments, machine learning, and prototypes - Collaborate with multi-functional teams and provide strong leadership and expertise for supporting existing and initiating new projects - Be able to contribute to and lead technology development and productization
+Education & Experience
+M.S. or Ph.D. (preferred) in computer science, color science, image science, EE or equivalent
+Additional Requirements 

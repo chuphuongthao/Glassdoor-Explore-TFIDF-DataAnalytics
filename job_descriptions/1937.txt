@@ -1,0 +1,75 @@
+Overview
+Guidehouse is a leading global provider of consulting services to the public sector and commercial markets, with broad capabilities in management, technology, and risk consulting. By combining our public and private sector expertise, we help clients address their most complex challenges and navigate significant regulatory pressures focusing on transformational change, business resiliency, and technology-driven innovation. Across a range of advisory, consulting, outsourcing, and digital services, we create scalable, innovative solutions that help our clients outwit complexity and position them for future growth and success. The company has more than 12,000 professionals in over 50 locations globally. Guidehouse is a Veritas Capital portfolio company, led by seasoned professionals with proven and diverse expertise in traditional and emerging technologies, markets, and agenda-setting issues driving national and global economies. For more information, please visit www.guidehouse.com.
+
+Responsibilities
+Introduction
+The U.S. Department of State (State) has placed a greater emphasis and prioritization on using data as a strategic asset and modernizing Information Technology (IT) systems and platforms. Guidehouse’s State client undertook IT modernization effort to identify opportunities to enhance and modernize its technology infrastructure, resulting in the Bureau’s first IT Modernization Strategy. Guidehouse is looking for a Security Cooperation and Assistance Data Analytics Lead to support State’s ongoing data-driven and IT modernization efforts to advance State’s efforts to improve and measure its impact in security affairs.
+Guidehouse is looking for a strategic and inquisitive Security Cooperation and Assistance Data Analytics Lead to develop and run with data-centered projects that inform and promote State’s ongoing data-driven and IT modernization efforts. In keeping with this overarching aim, the candidate will outline work requirements, monitor performance within the team, and harness their data science expertise to provide wise counsel to the client. In addition, the candidate will have primary responsibility evolving existing analytic products along a product maturity spectrum. This position will work collaboratively with a team of data scientists, data engineers, and data architects. Teamwork, made possible by strong documentation, mentorship, and collaborative practices, is critical to the success of this role.
+Position Overview
+
+The ideal candidate will have strong technical skills and a business mindset, swift to identify risk situations and opportunities, and able to generate creative solutions to business problems. The candidate’s responsibilities include managing the data science team, planning projects, leveraging large volumes of data across sources in a variety of forms, and building analytics models. You should have a strong problem-solving ability, a knack for statistical analysis, and the ability to align data products with project and client objectives. Communication is an essential factor in a work environment, and as a team lead, it is vital that you convey information effectively to manage team performance, design data visualizations, and present technical solutions to non-technical audience.
+Formulating, suggesting, and managing data-driven projects which are geared at furthering the bureau’s security cooperation and security assistance objectives.
+Reviewing and standardizing code production, methodological documentation, and mathematical procedures use to build and maintain security cooperation and security assistance evaluation products
+Collaborate with data engineers to enable deployment of sciences and technologies that will scale across the project’s data stack
+Mentoring and collaborating with junior data scientists to realize the successful completion and maturity of projects and to support analysts to develop high-level expertise in an open source language (e.g., R, Python, etc.) and data science/machine learning libraries/big data platforms
+Teach, lead, and counsel non-technical colleagues on new techniques or solutions
+Formulating, suggesting, and managing data-driven performance indicators of the project team
+Producing and disseminating non-technical written memos that detail methodologies, models’ analyses, and limitations of approaches
+Reviewing Tableau security cooperation and security assistance dashboards
+Building and maintaining a large-scale analytics infrastructure to be used across the bureau
+Formulating new prototypes for leveraging the bureau’s vast collection of data in the database
+
+Qualifications
+The following skills/experience/knowledge are REQUIRED to be considered for this role:
+Bachelor’s Degree or technical certificate in relevant field
+An active SECRET clearance; TOP SECRET clearance strongly preferred
+2+ years of project management experience in data-centered projects
+2+ years in consulting or similar client-facing role
+3+ years in applied research using R or Python
+1+ years experience with Tableau dashboards
+1+ years of experience using SQL
+Ability to relay insights in layman's terms, such that these can be used to inform business decisions.
+2+ years applying statistical techniques such as regression, ANOVA, cluster analysis, factor analysis, time series forecasting, experimental design, etc
+The following skills/experience/knowledge are PREFERRED to be considered for this role:
+2+ years as a teacher, trainer, instructor, or tutor
+1+ years experience working with venture capital firms, incubators, start-ups, mature commercial partners or academia
+1+ years experience in adult education, data literacy, or learning and development
+1+ years in a business development role
+4+ years in applied research using mix methods and data science techniques
+Advanced degree in information science, data science, sociology, political science, or something similar
+3+ years experience as a Data Scientist or similar role
+2+ statistical analysis and predictive modeling experience
+3+ years in a supervisory role
+2+ years participating in a mentorship program or internal company mentorship initiative
+1+ years experience leading Employee Resource Groups, or other internal DEIA initiative
+Capacity to foster a healthy, stimulating work environment that frequently harnesses teamwork.
+Compliance with prevailing ethical standards.
+An agile certification (Certified Scrum Master, Lean Six Sigma, etc.)
+Academic or industry publications in political-military affairs, data science, or statistics
+1+ years experience with SQL Server and/or Azure
+
+Additional Requirements
+The successful candidate must not be subject to employment restrictions from a former employer (such as a non-compete) that would prevent the candidate from performing the job responsibilities as described.
+
+Disclaimer
+About Guidehouse
+Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.
+Rewards and Benefits
+Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+Benefits include:
+Medical, Rx, Dental & Vision Insurance
+Personal and Family Sick Time & Company Paid Holidays
+Position may be eligible for a discretionary variable incentive bonus
+Parental Leave and Adoption Assistance
+401(k) Retirement Plan
+Basic Life & Supplemental Life
+Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts
+Short-Term & Long-Term Disability
+Tuition Reimbursement, Personal Development & Learning Opportunities
+Skills Development & Certifications
+Employee Referral Program
+Corporate Sponsored Events & Community Outreach
+Emergency Back-Up Childcare Program 

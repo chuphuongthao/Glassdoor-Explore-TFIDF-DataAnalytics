@@ -1,0 +1,49 @@
+Company Description
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
+Join Visa: A Network Working for Everyone.
+
+Job Description
+Are you passionate at turning data into valuable products? Are you skilled at turning hard numbers into compelling stories and useful strategic insights? Do you solve complex data challenges with creative flair? Are you talented at using mathematical models to solve human problems? Put your interests and skills to work answering strategic questions for one of the world's most respected and innovative payments companies.
+ *** We are looking for both Manager and Director level talent! ***
+Visa has the world’s largest consumer payment transaction data set. We see data on over 100 billion transactions per year from all over the world. Visa Predictive Models (VPM) develops and maintains predictive models to primarily support Visa Global Data Products, Risk and Identity Products, and Cardinal Commerce. Using mostly VisaNet data and leveraging Machine Learning (ML) and Artificial Intelligence (AI), our model scores help Visa clients all over the world for fraud defense, identity verification, smart marketing, credit underwriting and etc. Through our models and services, VPM fuels the growth of Visa clients, generates and diversifies revenues for VISA, and we greatly improve Visa Card customer experience.
+This in an Individual Contributor role. Your responsibilities range from fundamental data analytics to developing and delivering advanced machine learning models, from visualization solutions to develop high impact AI products. You will get chances to leverage your business acumen, analytics thoughts, programing skills, technical knowledge of big data and machine learning techniques.
+Primary Responsibilities
+Develop predictive risk models with artificial neural networks, gradient boosting trees, RNN, CNN and other advanced supervised and unsupervised machine learning techniques.
+Develop new analytic risk products via conducting sound statistical analyses, applying advanced machine learning technology and creatively using various data sources and formats, improve the value position of current products with continuous innovation and new technology adoptions.
+Prepare and test complex predictive model packages for production deployment, coordinate model installations with production teams.
+Define financial and analytic metrics to measure complicated predictive model outcomes and produce performance reports.
+Present and interpret modeling and analytical results to non-technical audience and provide marketing/sales materials.
+Dynamically redesign projects and execute solutions as business scope changes while bringing in and testing innovative ideas for out-of-box solutions.
+Ensure model risk governance and risk management requests are met, conduct ad-hoc data/model analyses to meet clients’ needs.
+Collaborate with the Product and Technology teams to advance our technical capabilities in developing and deploying models.
+Secondary Responsibilities
+Identify new analytic product opportunities via market research and data analysis, build business cases and prototype solutions for new products
+Interact with internal and external stakeholders for analytic requests, provide accurate estimate on cost and completion, and manage the delivery of the results
+Steer sales and marketing efforts on analytic products with sound statistical and financial analysis
+Develop business requirements and appropriate statistical analysis/prototypes to meet critical business needs, design and develop transaction attributes to grow analytic products
+Work on cross functional teams and collaborate with internal and external stakeholders, advocate analytical innovations and analytic thinking throughout the Visa organization
+Lead junior team members to deliver projects within timelines and budget requirements
+Perform R&D to explore new products and solutions with new technologies and innovations
+This is a hybrid position. Hybrid employees can alternate time between both remote and office. Employees in hybrid roles are expected to work from the office two days a week, Tuesdays and Wednesdays with a general guidepost of being in the office 50% of the time based on business needs.
+
+Qualifications
+Basic Qualifications
+5-10 years of work experience with a Bachelor’s Degree or at least 8 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or at least 3 years of work experience with a PhD.
+Preferred Qualifications
+8-10 years of work experience with a Bachelor’s Degree or
+8-10 years of experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or
+6+ years of work experience with a PhD
+Previous experience with XG Boost, artificial neural network, RNN, CNN, natural language processing or graph database analytics is desirable
+Prior fraud risk model development experience is a plus,
+Proven ability to quickly learn and apply new techniques
+Must be a team-player and demonstrated capability of handling multi-tasks in a dynamic environment
+Excellent business writing, verbal communication, and presentation skills
+Previous experience processing large datasets using Spark
+Additional Information
+Visa has adopted a COVID-19 vaccination policy to safeguard the health and well-being of our employees and visitors. As a condition of employment, all employees based in the U.S. are required to be fully vaccinated for COVID-19, unless a reasonable accommodation is approved or as otherwise required by law.
+Work Hours: Varies upon the needs of the department.
+Travel Requirements: This position requires travel 5-10% of the time.
+Mental/Physical Requirements: This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code. 

@@ -1,0 +1,24 @@
+Leidos tackles the most challenging national defense problems using advanced signal processing algorithms and data analytics. At our San Diego office, we have a dedicated and experienced team of scientist and engineers devoted to squeezing the last bit of information from every data set, and we seek a candidate with an interest in algorithm research, development, and implementation, who also possesses a strong scientific curiosity and desire to learn new things. Leidos is an employee-friendly company with a strong benefit package, flexible working hours, and a collegial atmosphere. Come join our growing team!
+Primary Responsibilities
+Work with a mentor to develop cutting edge radar signal processing and analysis algorithms for National Defense
+Work with a mentor to research cutting edge algorithms for radar noise reduction, detection, and characterization
+Work with a mentor to conduct radar data analysis
+Create efficient implementations in software
+Document results
+Work collegially within a talented team of peers
+Basic Qualifications
+BS degree in physics, engineering, mathematics, or related field and less than 2 years prior relevant experience.
+Interest in scientific algorithm development, large dataset analysis, radar detection and characterization, and efficient software implementation.
+Good analytical and mathematical skills
+Demonstrated experience in MATLAB, Python, or similar high-level language
+Interested in innovation, problem solving, and achieving technical results
+Ability and desire to learn new concepts
+Must be able to obtain a Top Secret security clearance
+Preferred Qualifications
+Some Experience with Radar data processing
+Some Experience programming in C/C++
+Ability to document work
+LInC
+Pay Range:
+Pay Range $50,700.00 - $78,000.00 - $105,300.00
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law. 

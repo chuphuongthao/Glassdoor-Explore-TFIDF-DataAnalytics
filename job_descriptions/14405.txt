@@ -1,0 +1,55 @@
+We have an immediate need for a Senior Data Scientist for Full Time Employee, Fully Remote for a 5 month contract!
+
+W2, Visa Candidates, 1099, or C2C accepted
+
+***If qualified, interested, and available (or know of somebody who is), please reply with an updated resume and pay requirements for immediate consideration to stephanie.narlesky@comcentric.com
+
+The primary purpose of this role is to provide advanced analytical capabilities to support data science initiatives. This position gains experience in various areas including, but not limited to: predictive modeling; personalization and recommendation algorithms; natural language processing and text mining; search recall, precision, ranking, and related problems; optimization and mathematical programming with applications in labor scheduling, inventory and capacity planning, network flows, and supply chain optimization.
+
+Mines and extracts data and applies statistics and algorithms necessary to derive insights
+Supports the generation of an automated insights generation framework for Lowe's business partners to effectively interpret data
+Provides actionable insights through data science on Personalization, Search & Navigation, SEO & Promotions, Supply Chain, Services, other company priorities, etc.
+Tracks success of Lowe's through the development of dashboard reports that measure financial results, customer satisfaction, and engagement metrics
+Conducts deep statistical analysis, including predictive and prescriptive modeling in order to provide a competitive advantage at Lowe's
+Translates or provides guidance to more junior level scientists to translate requirements into an analytical approach; asks the right questions to understand the problem; validates understanding with Stakeholder or Manager
+Builds or provides guidance for building the analytic approach to solving a business problem; helps identify the sources, methods, parameters, and procedures to be used; clarifies expectations with stakeholders and plans resources accordingly
+Prepares final recommendations, ensuring solutions are best-in-class, implementable and scalable in the business
+
+Minimum Qualifications
+
+Bachelor's Degree in Mathematics, Statistics, Physics, Economics, Engineering, Computer Science, Data or Information Science, or related quantitative analytic field
+
+Computer vision, Deep Learning, Pytorch, Tensorflow, Open-CV, Python
+4 years of experience in analytics
+2 years of programming experience (Python, Java, Scala, Rust, etc.)
+Minimum 2 years of experience with Search
+Semantic Search
+Neural Network
+Deep Learning/ML
+Computer Vision for Image Segmentation
+AR/VR (Augment and Virtual Reality
+Full-Stack Engineer for Knowledge Graphs
+Graph Neural networks
+E-commerce and Retail Search background
+Elastic Search
+
+OR
+
+Master's Degree in Mathematics, Statistics, Physics, Economics, Engineering, Computer Science, Data or Information Science, or related quantitative analytic field
+
+2 years of experience in analytics
+1 year of programming experience (Python, Java, Scala, Rust, etc.)
+
+OR
+
+Ph.D. in Mathematics, Statistics, Physics, Economics, Engineering, Computer Science, Data or Information Science, or related quantitative analytic field
+
+1 year of experience in analytics
+1 year of programming experience (Python, Java, Scala, Rust, etc.)
+
+
+Stephanie Narlesky
+Recruiter
+Comcentric Inc
+stephanie.narlesky@comcentric.com
+(303) 476-5927 

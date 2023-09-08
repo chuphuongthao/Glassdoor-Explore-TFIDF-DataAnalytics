@@ -1,0 +1,73 @@
+Who Are We?
+Taking care of our customers, our communities and each other. That’s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 160 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it.
+Compensation Overview
+The annual base salary range provided for this position is a nationwide market range and represents a broad range of salaries for this role across the country. The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. As part of our comprehensive compensation and benefits program, employees are also eligible for performance-based cash incentive awards.
+Salary Range
+$120,900.00 - $199,500.00
+Target Openings
+1
+What Is the Opportunity?
+As a Sr. Architect, you will help lead the effort to create the "north star" technology architecture for the Data & Analytics Unit in Business Insurance of a global, Dow 30 company.
+
+As a direct report to the Head of Information Architecture, Business Insurance you will interface directly with senior technology leaders to transform our current business and technology capabilities and pave the way for best-in-class solutions. You will be a dedicated partner to senior Technology and Business leaders as you define a target state, roadmaps and identify new and emerging technologies that will transform and optimize the business. As an organizational leader, you will humbly serve and inspire a team of high-performing Architects who you will coach, mentor, and empower. As a successful candidate, you are a visionary leader with a track record of building high-quality enterprise solutions. You are results-driven and bring strong Architecture and engineering skills and a deep understanding of modern technologies including Cloud-native, APIs, AI, and ML. You are a person of high integrity, who believes in challenging the status quo when needed, while always first seeking to understand. You will work within a community of architecture leaders, charged with establishing and evolving a unified architecture vision.
+What Will You Do?
+Expertise - Collaborate with Enterprise Architects, Business Architects, Line of business engineers and support teams to help partners and customers learn and use AWS services such as Athena, Glue, Lambda, S3, DynamoDB NoSQL, Relational Database Service (RDS), Amazon EMR and Snowflake.
+Solutions - Deliver on technical engagements with partners and customers. This includes understanding customer requirements, creating packaged Data & Analytics service offerings.
+Delivery – Engagements proving the use of AWS services to support new distributed computing solutions that often span private cloud and public cloud services. Engagements will include migration of existing datasets and development of new applications and datasets using AWS cloud services.
+Insights - Work with delivery engineering and support teams to convey partner and customer needs and feedback as input to technology roadmaps. Share real world implementations and recommend new capabilities that would simplify adoption and drive greater value from use of cloud technologies.
+Innovate - Engaging with the customer’s business and technology stakeholders to create a compelling vision of a data-driven enterprise for Business Insurance.
+Ability to think strategically about business, product, and technical challenges in an enterprise environment
+Hands on experience leading large-scale global data lake/warehousing and analytics projects
+Ability to collaborate effectively across organizations
+Understanding of database and analytical technologies in the industry including NoSQL databases, Data lake design, BI reporting and Dashboard development
+Demonstrated industry efficiency in the fields of database, data warehousing or data sciences
+Implementing AWS data services in a variety of distributed computing, enterprise environments
+Customer facing skills to represent AWS well within the customer’s environment and drive discussions with senior personnel regarding trade-offs, best practices, project management and risk mitigation
+Desire and ability to interact with different levels of the organization from development to C-Level executives
+Manage and Monitor the data quality of the content in the data architecture and platforms.
+Balance tactical vs strategic trade-offs when making decisions or proposing solutions.
+What Will Our Ideal Candidate Have?
+Bachelor’s in technology related field or equivalent with 5+ years of technology Architecture experience
+Provided mentorship to architects
+4+ years of experience of Data Lake implementation
+3+ years of experience in AWS cloud
+2+ years of hands-on experience in implementation and performance tuning in Object Storage (AWS S3 or similar.)
+Experience with one or more relevant tools (Kafka, AWS Kinesis services, AWS Glue, Data Brew, DeeQu, and Drools.)
+Experience with no SQL and GraphQL technologies.
+Experience developing software code in one or more programming languages (Java, Python, Javascript and etc.,)
+Organizational and transformational experience in an agile operating model
+Establishes strategic technology direction and architecture vision for an organization
+Strong proven Software Engineering experience
+Developed technology target state, roadmaps that aligned to Short- and Long-term business goals
+Proven track record of influencing senior leadership
+Insurance technology experience
+Strong grasp of value creation and business capability models
+Innovation and Continuous Improvement
+If Cyber; CISSP, CISM, Security+, CISA or equivalent Cybersecurity certification preferred
+Must be passionate about technology transformations
+Has hands on experience in the last 3 years
+Executed technology modernization initiatives including migration to cloud native and API Strategy
+Current deep experience with AWS, APIs, accelerators, DevSecOps
+Cloud Architecture Certification (AWS, GCP, or Azure) or strong architecture experience on Cloud
+Good understanding of security
+Experienced with large scale technology platforms
+Experience modernizing data technology and information architecture on cloud
+Exposure and understanding of advanced analytics techniques using ML and AI
+Hands on experience with data technologies on cloud
+What is a Must Have?
+Bachelor’s degree or its equivalent in work experience.
+Six years of experience in enterprise, application, and/or information architecture within a line of business or enterprise area
+What Is in It for You?
+Health Insurance: Employees and their eligible family members – including spouses, domestic partners, and children – are eligible for coverage from the first day of employment.
+Retirement: Travelers matches your 401(k) contributions dollar-for-dollar up to your first 5% of eligible pay, subject to an annual maximum. If you have student loan debt, you can enroll in the Paying it Forward Savings Program. When you make a payment toward your student loan, Travelers will make an annual contribution into your 401(k) account. You are also eligible for a Pension Plan that is 100% funded by Travelers.
+Paid Time Off: Start your career at Travelers with a minimum of 20 days Paid Time Off annually, plus nine paid company Holidays.
+Wellness Program: The Travelers wellness program is comprised of tools and resources that empower you to achieve your wellness goals. In addition, our Life Balance program provides access to professional counseling services, life coaching and other resources to support your daily life needs. Through Life Balance, you’re eligible for five free counseling sessions with a licensed therapist.
+Volunteer Encouragement: We have a deep commitment to the communities we serve and encourage our employees to get involved. Travelers has a Matching Gift and Volunteer Rewards program that enables you to give back to the charity of your choice.
+Employment Practices
+Travelers is an equal opportunity employer. We value the unique abilities and talents each individual brings to our organization and recognize that we benefit in numerous ways from our differences.
+
+If you are a candidate and have specific questions regarding the physical requirements of this role, please send us an email so we may assist you.
+Travelers reserves the right to fill this position at a level above or below the level included in this posting.
+To learn more about our comprehensive benefit programs please visit http://careers.travelers.com/life-at-travelers/benefits/.
+
+0 

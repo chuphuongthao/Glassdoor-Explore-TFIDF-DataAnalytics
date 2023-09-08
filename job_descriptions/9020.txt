@@ -1,0 +1,29 @@
+Real time communications is changing the way the world connects and the Remote Presence team is at the core of this change. COVID greatly amplified the need for people to feel together when apart, accelerated growth of products that enable it, developed new behaviors and social norms that are sticking past COVID. Remote Presence team at Meta is responsible for development of real-time communication platform and products for all apps shipped by Meta (Facebook, Instagram, Messenger, WhatsApp) and AR/VR hardware devices that connect billions of people in real-time.Our vision is to help connect people in real-time and enable them to do things they normally do not in real life while enabling richer self-expression. Engagement pillar of the Remote presence team is focused on innovating on new formats of real time communications to leverage cutting edge advances in hardware, AI, and AR/VR technologies. It is still early days, but already today hundreds of millions of people use AR effects in calls and consume content together via “Watch Together” in Messenger and Instagram. This work is on a critical path to the company mission of building Metaverse and paves the way to how people will communicate in the future.We are looking for an experienced leader for the role of Data Science Director to lead Remote Presence Engagement Data Science team and operate in close partnership with data engineering, engineering, product management, design, and user research.
+
+
+Director, Data Science - Remote Presence Engagement Responsibilities:
+
+Grow adoption and innovate on AR/VR experiences in calls in all Meta apps.
+Messenger Desktop App development and strategy and its path to hero use cases of real-time communication.
+Building and Managing Data Science teams through managers of managers.
+Increase growth and innovation on activities people can do together in calls by enabling new activities as well as growing those that are currently on the market (e.g. Watch Together).
+Maintain a high bar in terms of product thinking and analytical depth for your team through selective hiring and mentorship.
+Support and grow other data science managers and ICs.
+Technical background and ability to dive into details of technologies built by Engineering and Data Science teams.
+Lead cross-functional and cross-team relationship building and collaboration with product and engineering teams.
+
+
+Minimum Qualifications:
+
+7+ years experience managing a team of analysts, data scientists.
+7+ years of experience doing quantitative analysis.
+7+ years of work experience managing analytics teams, working collaboratively with Engineering and cross-functional partners, and guiding data-influenced product planning, prioritization and strategy development.
+Experience in cross-functional partnership among teams of Engineering, Design, PM, Data Engineering.
+Experience initiating and driving projects to completion autonomously.
+
+
+
+
+
+
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com. 

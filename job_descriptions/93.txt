@@ -1,0 +1,33 @@
+Combine two of the fastest-growing fields on the planet with a culture of performance, collaboration and opportunity and this is what you get. Leading edge technology in an industry that is improving the lives of millions. Here, innovation is not about another gadget; it is about making health care data available wherever and whenever people need it, safely and reliably. There is no room for error. If you are looking for a better place to use your passion and your desire to drive change, this is the place to be. It's an opportunity to do your life's best work.(sm)
+We have an opportunity for a Data & Analytics Developer to join the ERA (Enterprise Reporting & Analytics) team and work with our All Payer Claims Data.
+We’re an ambitious reporting & analytics team that works to solve complex business scenarios and are looking for another innovative developer to join us. You will meet directly with clients to assess and interpret their reporting needs. You will identify and design reporting solutions based on their requirements. You will use various data query and visualization tools (SQL, Tableau, Alteryx, etc.) to access multiple data sources and design insightful products for our business partners. You will work with various teams, each with unique backgrounds and perspectives, to develop solutions. You will obtain expertise with physical health based claim data and will serve as a consulting resource for our clients and internal partners.
+You’ll enjoy the flexibility to telecommute* from anywhere within the U.S. as you take on some tough challenges.
+Primary Responsibilities:
+Analyze client requirements and complex business scenarios
+Design innovative, analytical, and fully automated reports and solutions
+Execute on key projects and deliverables
+Implement large data set validation methodologies to ensure data integrity
+Identify opportunities for improvements, simplifications, and risk reduction in business processes
+Provide business consulting to teammates, leaders, and clients
+
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+Required Qualifications:
+Bachelor’s degree, or equivalent working experience
+1+ years Alteryx development experience
+1+ years SQL coding experience
+1+ years Tableau data visualization development experience
+Microsoft Office suite experience (proficient in Excel)
+Must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization (F-1 students with practical training and candidates requiring H-1Bs, TNs, etc. will not be considered)
+Preferred Qualifications:
+Agile and scrum experience
+Health care or insurance background, specifically with claims and provider data
+Intermediate level of database structures & design
+
+To protect the health and safety of our workforce, patients and communities we serve, UnitedHealth Group and its affiliate companies require all employees to disclose COVID-19 vaccination status prior to beginning employment. In addition, some roles and locations require full COVID-19 vaccination, including boosters, as an essential job function. UnitedHealth Group adheres to all federal, state and local COVID-19 vaccination regulations as well as all client COVID-19 vaccination requirements and will obtain the necessary information from candidates prior to employment to ensure compliance. Candidates must be able to perform all essential job functions with or without reasonable accommodation. Failure to meet the vaccination requirement may result in rescission of an employment offer or termination of employment.
+
+Careers with Optum. Here's the idea. We built an entire organization around one giant objective; make health care work better for everyone. So when it comes to how we use the world's large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life's best work.(sm)
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado residents is $66,100 to $118,300. The salary range for Connecticut / Nevada residents is $72,800 to $129,900. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, UnitedHealth Group offers benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with UnitedHealth Group, you’ll find a far-reaching choice of benefits and incentives.
+*All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy
+
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment. 

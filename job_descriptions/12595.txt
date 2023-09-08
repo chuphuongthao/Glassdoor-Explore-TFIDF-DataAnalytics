@@ -1,0 +1,85 @@
+Associate, Data Science
+Boston, United States of America
+WHAT YOU WILL BE DOING
+USA Job Family Description: Maintains and monitors data and databases to meet the company's current and projected future needs. Reviews and ensures the quality, accuracy and security of data in accordance with established procedures and standards. Monitors database activity and the relationships between the database users and applications to ensure appropriate data usage and resolve data conflicts. Collaborates with technology/infrastructure staff to identify data relationships and functional requirements.
+
+
+USA Job Function Description: Designs and monitors control systems which ensure the integrity and security of data and for advising on the optimal use of the organization's computing resources. Assesses the completeness, accuracy, validity and efficiency of information processing, business and application systems, reviews the operations, systems software, systems development and security of the organization's computing environment, and recommends appropriate software and hardware acquisitions.
+
+
+Essential Functions/Responsibility Statements:
+
+Translates business queries into actionable and commercial insights leveraging unstructured data and statistically robust techniques.
+
+Drives cross functional analytics projects from beginning to end: builds relationships with partner teams, frames and structures questions, collects and analyzes data, and summarizes key insights in support of decision making.
+
+Works with engineers to evangelize data best practices and implement analytics solutions.
+
+Evaluation and discovery of alternative data vendors including ability to quantifiably validate external algorithms and apply insights to commercially driven use cases.
+
+Performs quantitative analysis, including alpha assessment, risk analysis, portfolio construction and return attribution to enhance investment strategies using sourced and external data.
+
+Leverages available data tools and collaborate with data scientists and engineers across the firm and adapts data initiatives to needs of business.
+
+Collaborates across functional areas of our business at every level of seniority to uncover and address opportunities for scalability and growth.
+
+
+
+
+
+
+
+
+
+
+Qualifications:
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+Education:
+
+Bachelor's Degree or equivalent work experience in Statistics, Computer Science, Physical Sciences, Economics, or a equivalent technical field. (Req)
+
+Master's Degree in Statistics, Computer Science, Physical Sciences, Economics, or a equivalent quantitative field. (Pref)
+
+
+Work Experience:
+
+Data mining/advanced analytics applied to large-scale data-intensive projects. , 5-9 years (Req)
+
+
+
+Skills and Abilities:
+
+Knowledge of the principles of machine earning, classification models, time series regression and stochastic statistics to deliver improved business performance
+
+Demonstrated experience with SQL, R or a comparable programming language (such as Python, SAS, SPSS, or MATLAB)
+
+Demonstrated ability to communicate complex concepts.
+
+Strong quantitative and problem solving skills with focus hypothesis formulation and testing.
+
+Strong evidence of leveraging analytics to drive business results.
+
+Strong project management skills.
+
+Individually motivated and possess sound judgment, integrity, and a solid work ethic.
+
+Ability to clearly communicate complex results to technical and non-technical audiences.
+
+Ability to adapt to various programming languages and environments.
+
+Ability to utilize analytics in a collaborative manner across business functions and product lines to derive optimum solutions.
+
+
+Diversity & EEO Statements: At Santander, we value and respect differences in our workforce and strive to increase the diversity of our teams. We actively encourage everyone to apply.
+
+
+Santander is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, genetics, disability, age, veteran status or any other characteristic protected by law.
+
+
+Working Conditions: Frequent Minimal physical effort such as sitting, standing and walking. Occasional moving and lifting equipment and furniture is required to support onsite and offsite meeting setup and teardown. Physically capable of lifting up to fifty pounds, able to bend, kneel, climb ladders.
+
+
+Employer Rights: Employer Rights:This job description does not list all of the job duties of the job. You may be asked by your supervisors or managers to perform other duties. You may be evaluated in part based upon your performance of the tasks listed in this job description. The employer has the right to revise this job description at any time. This job description is not a contract for employment and either you or the employer may terminate at any time for any reason. 

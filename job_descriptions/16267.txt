@@ -1,0 +1,71 @@
+(Local or Remote)
+
+
+ROLE OVERVIEW
+
+We're seeking a talented Senior Data Scientist to join our growing team. You'll play a critical role on our Data Science team and be instrumental in driving long-term growth for the company. The ideal candidate has strong analytical and problem-solving abilities and is excited by the opportunity to navigate large amounts of data to identify patterns, distill insights, and solve complex problems. This is a highly visible role with significant autonomy and the opportunity to work across several teams.
+
+RESPONSIBILITIES
+
+Play an instrumental role across various data-intensive projects. Projects may include marketing propensity models, lead scoring, underwriting automation, fraud detection, pricing optimization, and portfolio risk modeling.
+Use Python or R to process and clean terabytes of prospect data, derive insights, and build predictive models.
+Evaluate different machine learning algorithms and models to identify optimal methodologies for a given problem.
+Work with internal and external stakeholders to lead projects end-to-end, including identifying problem statements, planning the analyses, hypotheses testing, and reporting.
+Use SQL/R/Python to collect data, visualize the situation, identify root causes, and generate recommendations.
+Design and build informative dashboards on the company's BI platform.
+
+ABOUT YOU
+
+You have a bachelor's or a master's degree from a competitive institution, or equivalent professional experience. A degree in a quantitative field such as science, math, computer science, or engineering is preferred.
+You have 6+ years of experience in data science, machine learning, data analytics, or similar role.
+You're skilled in R or Python. You ideally have hands-on experience with SQL, Excel data analyses, and large datasets.
+You have expertise with ML techniques such as logistic regression, random forest, XGBoost, etc.
+You can research and compare multiple modeling methodologies to identify the best model.
+You can identify the right loss functions to use for model evaluation.
+You're familiar with statistical topics including ANOVA, A/B testing, correlation, regression, etc,
+You're able to think creatively and critically. You thrive in a fast-paced, dynamic, and often ambiguous work environment.
+You bring strong interpersonal skills and excel in cross-functional team environments.
+
+ABOUT US
+
+Our Product
+
+"Point provides the opportunity to stabilize your financial situation without adding costly monthly payments." - Homeowner in Burlingame, CA
+
+Here at Point, we're helping homeowners unlock the equity in their homes without taking on further debt. With an investment from Point, homeowners can de-leverage and diversify their wealth, freeing them up to invest in their business, renovate and maintain their home, eliminate debt, and tackle all of life's expenses from college tuition to medical bills. Our equity investment product is an advantageous alternative for homeowners and investors alike. When partnering with Point, investors now have access to a brand new asset class - homeowner-occupied residential real estate. Point is the first fintech product that is truly aligned with consumers' interests - when the homeowner does well, Point and its investors do well.
+
+Our Team
+
+People first
+
+As a consumer fintech company, we embed integrity, transparency, and trust into everything we do at Point, including how we work. Whether you're a homeowner, investor, employee, or candidate, it's people who power our business. We keep the human experience top of mind.
+
+Experts at work
+
+We're on a mission to help the 23 million equity-rich, but cash-constrained Americans tap into their home's wealth. To do so, we have experience and expertise in all areas of the business, especially at the helm. Point's leadership have previously founded TrialPay (acquired by Visa), Yub (acquired by Coupons.com), Metails (acquired by Buy.com), SiteAdvisor (acquired by McAfee), Affirm, SendGrid (acquired by Twilio), and TXN (acquired by Envestnet).
+
+Championed by the best
+
+Point announced its $115M Series C led by WestCap in May 2022. To date, we've raised over $170M from leading investors including Andreessen Horowitz, Prudential Financial, DAG Ventures, Ribbit Capital, Greylock, and SV Angel.
+
+PERKS AT POINT
+
+Health Insurance
+
+Point provides platinum-rated plans for medical (Anthem Blue Cross or Kaiser Permanente), dental and vision (The Standard). We cover 99% of employee premiums and 75% of dependent premiums.
+
+Generous Vacation
+
+Take time for yourself and your family when you want - Point has an unlimited vacation policy.
+
+Continued Learning
+
+We encourage all team members to attend events hosted by our investors, external workshops and conferences. We believe in continuous improvement and want to support employees on their professional journeys.
+
+Family Friendly
+
+Point will top off California PFL earnings to full salary for up to eight weeks, as well as two weeks of fully paid leave to be available after exhaustion of CA PFL. An employee can take reasonable vacation time in addition to the California PFL leave. For employees outside CA, Point will top of PFL earnings in accordance with the state applicable leave laws.
+
+Work From Home Stipends
+
+With employees working remotely, Point will provide employees a $50 monthly cell phone stipend and a $50 monthly internet stipend. In addition, we will reimburse up to $150 to help you purchase supplies for your home office. 

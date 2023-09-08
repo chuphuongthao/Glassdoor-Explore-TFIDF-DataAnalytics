@@ -1,0 +1,40 @@
+Job Summary
+Performs descriptive analysis by mining past data to provide summaries regarding business performance for recent time period(s) compared to prior time period(s) and plans/targets, while employing CRISP-DM (Cross Industry Standards for Data Mining)
+Principal Duties & ResponsibilitiesAssists with special projects requiring commensurate analytical expertise and the development of executive level presentations
+Performs organizational research by gathering, interpreting and comparing operational data to benchmarking/best practice data, and provides insights/recommendations to the organization
+Develops tactical reporting and analysis frameworks, considering performance of at least one business area
+Develops and maintains databases, to include documenting standards for use, control, updating and maintenance of databases within internal business areas
+Remains abreast of the latest software to build reports and conduct analysis most efficiently
+Performs other related duties as required
+Education & Experience Required
+Bachelor’s Degree
+ Experience with analytics and successful demonstration of descriptive analyses
+Or an equivalent combination of education and experience
+Job Knowledge & SkillsExcellent analytical skills
+Excellent presentation, oral, written, and interpersonal communications skills to effectively interact with all levels of management; ability to maintain professionalism
+Ability to successfully work independently or with a team
+Excellent attention to detail to ensure accuracy of data
+Ability to meet deadlines
+Microsoft Access
+Microsoft Excel
+Microsoft PowerPoint
+Microsoft Word
+Business Intelligence Reporting Tools
+Business Case Preparation
+Business Cost/Benefit Analysis
+Advanced Analysis Tools
+Lean Six Sigma
+Statistical Analysis Tools
+Data Trend Analysis & Interpretation
+Business Performance Analysis
+Statistical Analysis
+SQL
+Python and/or R Programming
+Competencies
+Acting with Integrity - Clearly states goals and beliefs; lets people know his/her true intentions; does what he she said they would do; follows through on commitments
+Communicating Effectively - Expresses ideas and information in a clear and concise manner; tailors message to fit the interests and needs of the audience; delivers information in a manner that is interesting and compelling to the listener
+Pursuing Self-Development - Demonstrates ambition and desire to move forward in his/her career; engages others in discussions about career development; seeks feedback on ways to increase his/her performance; takes advantage of opportunities to build new skills and capabilities
+Serving Customers - Builds strong relationships with customers; stays aware of customer needs, concerns and satisfaction; responds promptly to customer questions and requests; effectively manages
+Supporting Change - Enthusiastically participates in new change initiatives and programs; focuses on reasons why changes will work and how they will be beneficial
+Supporting Organizational Goals - Actively supports organizational goals and values; demonstrates enthusiasm toward the company's goals and mission; aligns actions around organizational goals
+Working with Diverse Populations - Shows respect for the beliefs and traditions of others; encourages and promotes practices that support cultural diversity; discourages behaviors or practices that may be perceived as unfair, biased, or critical toward people with certain backgrounds 

@@ -1,0 +1,32 @@
+Company Description
+Robert Bosch is a world-class engineering and manufacturing company. Our products impact hundreds of millions of people every day, many in safety critical systems. Artificial intelligence is impacting Bosch’s products and services in many domains, including: manufacturing, autonomous driving, predictive maintenance, vehicle diagnostics and supply chain & logistics. The Bosch Center for Artificial Intelligence provides AI technologies to Bosch’s business units and plants. We are a global team of data scientists, engineers and research scientists focused on applying state-of-the-art AI models to improve all aspects of Bosch’s products and operations.
+Job Description
+This is a technical position for someone who is skilled at bringing together disparate technologies to solve business problems.
+Primary Responsibilities:
+Design and implement internal data products that have a significant impact on Bosch global business.
+Share knowledge by clearly articulating results and ideas to customers, managers, and key decision makers.
+Select and apply appropriate statistical, machine learning, and computing methods to large-scale, high-dimensional data
+Write clear, maintainable and tested code
+Stay current with the latest research and technology and communicate your knowledge throughout the enterprise
+Take responsibility for preparing data for analysis, and provide critical feedback on issues of data integrity
+Contribute to Bosch's patent portfolio
+Up to 10% travel may be required.
+Qualifications
+Basic Qualifications:
+Ph.D. (or M.S with 2+ years relevant work experience.) in Computer Science, Statistics, or related quantitative technical fields
+2+ years experience in applying machine learning and other analytic methods to solve practical business problems
+Experience in machine learning algorithms & underlying mathematical/statistical principles
+Programming experience in Python and/or R, including common data science libraries (e.g. scikit-learn, pandas, numpy)
+Experience with software engineering best practices and able to write code for production systems
+Preferred Qualifications:
+Hands-on experience with neural networks and deep learning methods
+Experience working with big data and associated distributed processing tools (e.g. Spark) as well as cloud services (e.g. AWS, Azure)
+Experience deploying machine learning models in production systems
+Excellent communication and documentation skills
+Additional Information
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives
+FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+AWIM (A World In Motion)
+By choice, we are committed to a diverse workforce – EOE/Protected Veteran/Disabled.
+For more information on our culture and benefits, please visit:
+Culture and Benefits | Bosch in the USA 

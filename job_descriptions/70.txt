@@ -1,0 +1,23 @@
+Overview:
+Under the direction of the Corporate Vice President of CRM, the Data Analytics Engineer would be responsible for coordinating the design, development, implementation, maintenance and support of data engineering solutions, predictive models and applications that ensures the development of business and operations insights.
+Responsibilities:
+Develop predictive models
+Develop optimization models
+Develop re-activation and retention models
+Advanced analytics to drive incremental revenue
+Identify performance metrics definition, algorithm development and automation
+Reporting and visualization
+Complex data analysis tasks
+Data anomaly detection and correction modeling
+Conversion of data into stories for internal and external consumption
+Cross-team support for CRM and Database Marketing Teams.
+Qualifications:
+Bachelor’s degree in an Analytical field (Business, Marketing) required.
+At least three (3) years casino database experience required, or the equivalent combination of education and experience in data analysis.
+SAS programming level 1 or higher certification required.
+Ability to use data to solve complex business problems.
+Advanced SQL skills
+Strong industry experience of Microsoft Office Suite, including Excel, Word, Access, required
+Knowledge of multiple systems that support business objectives preferred, specifically; CMP, LMS, campaign management software and knowledge of Microsoft Office Software, including Excel, Word and Access.
+Must be able and willing to work flexible hours to include evenings, weekends and holidays.
+A team player with strong analytical, communication (both written and oral) and interpersonal skills. Outstanding organizational skills are a must, as is the ability to manage multiple priorities simultaneously. 

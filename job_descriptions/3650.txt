@@ -1,0 +1,61 @@
+Why Glassdoor?
+
+Our mission is to help people everywhere find a job and company they love. In the process, we're transforming the workplace experience through the power of transparency and further cementing ourselves as the worldwide leader in employer branding and insights. By choosing a career at Glassdoor, you'll be directly contributing toward our vision for a world where transparency empowers the workforce and motivates companies to become better employers.
+
+Please note: This role may be open to remote hiring. Our office locations are in San Francisco, CA; Chicago, IL; Uniontown, OH; London, UK; and Dublin, Ireland.
+
+About the Role
+
+The Decision Science team drives strategy and decision making across the company through predictive analytics, testing and optimization. We work on a wide variety of problems by proactively finding opportunities. We drive product prioritization and inform business strategy. This person will be the specialist for the content and site discovery teams at Glassdoor.
+
+What You'll Do
+Drive a deep and holistic understanding of our users through applying a mix of machine learning, statistics and analytics skills
+Use data to track, understand and improve user performance and translate that into strategic insights and recommendations
+Responsible for strategic and analytical support for the compensation and international teams, providing data-driven guidance on improving and optimizing the content surveys, content moderation, site experience and site navigation
+Conceptualize and build data models, tools, and dashboards that enabling them to access data and draw insights in a self-serve manner
+Handle A/B testing across different surfaces to continuously improve engagement and feature-test new product offerings
+What You'll Bring
+A commitment to add to our culture of DEI
+1+ years of data science / decision science / analytics experience, ideally in an Internet company
+Bachelors or Master's degree in Data Science, Statistics, or related field
+Ability to partner with product managers to define roadmaps
+Strong desire to build, sense of ownership
+Strong applied analytics and problem-solving skills
+Experience working with large data-sets, modeling, statistics, A/B & multivariate testing
+Proficiency at SQL, R or Python
+Compensation and Benefits
+
+Base Salary Range*: $136,100.00 - $204,100.00
+
+Glassdoor base salaries are targeted to the market 75th percentile for technical roles and the 65th percentile for non-technical roles. In other words, 65-75% of comparable organizations in our industry will pay less.
+
+Annual Bonus Target**: 10%
+
+**Bonuses are paid in 6-month intervals, aligning with bi-annual performance evaluations
+
+Perks for Full-Time U.S. Employees
+
+Generous Restricted Stock Units (RSU):
+***Restricted Stock Units (RSU) are awarded at hire and may be refreshed annually. Additionally, as a pay-for-performance company, RSU grant awards are presented bi-annually to exceptional performers.
+
+You can learn more about our compensation philosophy here and see salary ranges for all Glassdoor jobs here.
+
+Health and Wellness: 100% employer-paid premiums for employee medical, dental, vision, life, short and long-term disability, select well-being programs, along with 80% employer-paid premiums for all dependents.* Generous paid time off programs for birthing and non-birthing parents are provided, along with paid injury/illness leave and paid family emergency leave.
+Coverage begins at the start of employment. After 48 months of continuous employment, 100% of all premiums for you and your dependents can be employer-paid!
+
+Work/Life Balance: Open Paid Time Off policy, in addition to 15-20 paid company holidays/year
+
+Investing in Your Future: 401(k) plan with a company match up to $5,000 per year, subsidized fertility and family planning services, and discounted legal assistance services.
+
+Our Company Values and Commitments
+Transparency: We are open and honest. We share information – the good and the bad – so we can continuously learn, collaborate and make the right decisions. Pay bands, our compensation philosophy, and employee feedback polls are shared publicly.
+Innovation: We actively pursue new and different ways to further Glassdoor's mission. We forge our own path by challenging the status quo. The ultimate goal is not just to change how we operate at Glassdoor, but for every employer to follow our lead!
+Good People: We work together with integrity, respect and compassion for one another. We have fun together! We are inclusive, fair and humble while remaining confident. We do the right thing, period.
+Grit: We are resilient, inventive and fearless. We see challenges as opportunities. With passion and courage, we come together to get the job done.
+Diversity, Equity, and Inclusion: We are dedicated to building a company that is more diverse and representative of society at large. Glassdoor externally publishes our Diversity & Inclusion report and information about our employee population to hold ourselves accountable to our dedication. We also provide programs and resources to build a greater sense of belonging for our employees.
+
+Glassdoor is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to race, color, religion, national origin, ethnicity, age, sex, marital status, physical or mental disability, gender identity, sexual orientation, veteran or military status, or any other category protected under the law. Glassdoor is an equal opportunity employer; committed to creating a community of inclusion, and an environment free from discrimination, harassment, and retaliation.
+
+US & Ontario Only
+
+Where legally permitted, Glassdoor requires all employees who report to a workplace, or travel and/or attend in-person meetings, including client visits, to be fully vaccinated against COVID-19. For positions that can only be performed at a Glassdoor office, candidates must be fully vaccinated against COVID-19 and provide acceptable proof of vaccination before their first day of employment as a condition of employment. Glassdoor will consider requests for reasonable accommodation as required under applicable law. To qualify as being fully vaccinated against COVID-19, two weeks should have elapsed since receiving the second dose (or any government recommended booster shot) in a two-dose COVID-19 vaccine series, or since receiving a single dose (or any government recommended booster shot) in a single dose COVID-19 vaccine. 

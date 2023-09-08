@@ -1,0 +1,51 @@
+Software Resources has an immediate job opportunity for a Data Scientist with a major corporation in Seattle or New York City but open to 100% remote for the right candidate.
+
+Duration: 13 month(s) with the potential to be extended
+
+Description:
+We are seeking an experienced Data Scientist to join our team focused on harnessing engineering datapoints via innovative analysis, data science approaches and engineering processes. This role will build and deploy production engineering processes, data science models and data analysis powering engineering insights and quality while uncovering data driven trends to improve our engineering practices and products
+
+Media & Entertainment Distribution brings together the Company's best-in-class product, technology, and commercialization teams together into one global organization. DMED is responsible for the P&L management and all distribution, network and engineering operations, sales, advertising, data, and certain key technology functions worldwide for the Company's content engines.
+
+Responsibilities:
+Contribute to Rapid prototyping, building and deployment of production level analysis and models to monitor critical datasets and engineering infrastructure in streaming and batch
+Perform development work on model scoring, datapoint quality processes and model deployment ensuring high quality engineering processes and scalability across all practices
+" Obtain, manipulate, and analyze data to answer specific or open-ended questions, utilizing statistical approaches as needed, and distill actionable insights
+" Contribute to Rapid prototyping, building and deployment of production level analysis and models to monitor critical datasets and engineering infrastructure in streaming and batch
+" Work to adopt statistical modeling approaches to gain data insights, draw conclusions and work with engineering partners to put those insights into action
+" Understand engineering infrastructure and business processes that power critical systems
+" Create and manage key engineering health and insight datapoints, providing intelligence into the operations of our engineering infrastructure and ultimately products via visualizations
+" Perform ad-hoc data analysis as needed to uncover engineering issues or inconsistencies and make recommendations on remediation
+" Conduct in-depth analysis on multi-terabyte scale datasets to improve our customers experience across our Streaming networks.
+" Partner with Product, Engineers, QA Analysts and Data Scientists to solve data quality issues at scale
+
+This is an on-site role. The company requires on-site workers to be fully vaccinated absent a legally required exemption approved by the vendor. Exceptions to the vendor vaccine requirement apply in states that have laws concerning employer vaccine mandates. Vendor must ensure that any unvaccinated workers follow applicable safety protocols when they are on-site. Specifically, for any of their workers who are not verified as fully vaccinated, it is the vendor's responsibility to ensure that at all times when performing services on-site at a U.S. location or property, those individuals, at a minimum, will wear a disposable face mask certified by ASTM International with an ASTM Level 1 or higher rating (to be changed every day). If the individuals regularly work within three feet of others, the vendor must also implement a secondary mitigation measure such as a face shield or safety glasses. Please note that workers may only remove the face mask if the worker is alone in an office with the door shut, or the worker is six feet of distance from others and actively eating or drinking. Additional safety protocols may be required, as determined in the sole discretion of The Company or its affiliates. If requested, the vendor must inform its contact of any safety protocols the vendor has implemented for any of its workers while on-site at a location or property.
+
+Basic Qualifications:
+" 3+ years of Python, Spark, Pyspark, SQL is required
+Applied experience of frameworks like PyTorch , Keras , Tensorflow , etc (machine learning architectures)
+
+" High familiarity with data platforms and applications such as Databricks, Jupyter, Snowflake, Redshift
+" Experience with data visualization tools such as matplotllib, plotly, tableau etc.
+" Exceptional interpersonal and written communication skills, able to concisely synthesize complex technical information
+" Strong analytical and technical skills to troubleshoot issues, perform rapid iteration and quickly come-up with the possible solutions, effectively communicating these to technical and executive audiences across the organization
+" BA or BS in a quantitative field (Business, Math/Statistics, Economics, CS, Engineering, or similar) is desired
+
+Preferred Qualifications:
+" 2+ years of experience in technology industry, knowledge of data and product a plus
+" Knowledge of data science concepts and modeling
+" Understanding of QA pipeline
+
+Required Education:
+Bachelors Degree
+
+Don't delay. Join the Software Resources team today!
+
+Software Resources specializes in connecting talented IT professionals with challenging job opportunities that transform jobs into careers.
+To meet our clients hiring needs, we continuously source talented IT Professionals with all levels of expertise and in all disciplines. We offer world class major medical, dental and vision benefits, 401(k) with match, short term disability, Life Insurance and AD&D. You, our future employees, can make a tremendous difference to our company and our clients. Please apply to this job and experience the Software Resources difference. You can view all of our jobs at https://www.softwareresources.com/careers/
+
+Company Overview
+
+Software Resources is a national staffing and recruitment firm delivering the best candidates to our clients and the best jobs to our candidates since 1992.
+We are a certified woman owned business in business to place contract, contract-to-hire, and direct-hire talent in Technology (IT, creative, marketing), finance, accounting, and executive-level positions. We serve many vertical markets including Entertainment/Media, Cruise Industry/Leisure travel, Hospitality, Government, Personal Care, Professional Services, Energy/Utilities, Security, and Financial Services.
+Headquartered in Lake Mary, FL in the Orlando metro area, we have branches and sales professionals across the US. Wherever you're located and whatever the need, count on Software Resources to provide exceptional candidates who are fully vetted and ready to go. Call (800) 774-8036 or visit us online at https://www.softwareresources.com/ and leave the recruiting to us! 

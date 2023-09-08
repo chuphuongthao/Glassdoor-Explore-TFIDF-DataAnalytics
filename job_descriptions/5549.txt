@@ -1,0 +1,40 @@
+What you'll do...
+
+H&R Block is seeking a Vice President - Data Science & Analytics. Most of the team resides in Kansas City but the company is open to the position working remote.
+
+H&R Block, Inc. (NYSE: HRB) provides help and inspires confidence in its clients and communities everywhere through global tax preparation services, financial products, and small business solutions. The company blends digital innovation with human expertise and care as it helps people get the best outcome at tax time and also be better with money using its mobile banking app, Spruce. Through Block Advisors and Wave, the company helps small-business owners thrive with innovative products like Wave Money, a mobile-first, small-business bank account and bookkeeping solution, that manages bookkeeping automatically. We are amidst a transformation journey and focused on the future with a forward-thinking, innovative culture that is led by a leadership team focused on delivering for our customers, communities, associates, and for our shareholders.
+
+We are focused on leveraging our robust data and as the VP of Data Science & Analytics, you'll lead the company's efforts in building a data-driven culture to deliver strategic initiatives. You'll leverage a rich data-set to improve customer experiences and drive profitable growth. You'll evolve our capabilities to move from reporting results to predicting outcomes that enable business transformation.
+
+You'll lead a nimble team that uses machine learning and predictive analytics to partner with product, marketing, & operations to drive growth and further efficiencies. You'll be expected to think strategically, effectively communicate and collaborate with other teams, as well as possess the technical skills to deliver sophisticated projects from concept to production.
+
+You will:
+Act as the champion of analytics to build a data-driven culture throughout the entire organization
+Be a technical leader and mentor for the data science and analytics team, focusing on continuous learning and process enhancement
+Work with the leadership team in establishing a long-term vision for the company while building out a roadmap of data science development and applications
+Enhance enterprise reporting capabilities leveraging a BI data visualization platform
+Conceive, develop, implement, and continually improve machine learning projects
+Use data insights to challenge the status quo and inform strategic decisions
+Work with business leaders to determine strategic direction for pricing of core services
+Partner with IT to assess and implement best-in-class capabilities for data structures, governance processes and analytics tools
+Communicate insights and business performance with the leadership team and other colleagues
+Lead a data science team of approximately 50 associates
+
+What you'll bring to the team...
+
+10+ years of experience managing a team of data scientists
+Experience in analytics applications including machine learning, R, Python, Adobe
+Experience with BI data visual platforms
+Excellent communication and presentation skills
+Master's degree in Computer Science, Statistics, Engineering, or a related quantitative field; MBA or PhD preferred
+
+About H&R Block...
+
+H&R Block's purpose is simple: To provide help and inspire confidence in our clients and communities everywhere. We've been true to that purpose since brothers Henry and Richard Bloch founded our company in 1955. Since then, we've grown to have approximately 12,000 offices throughout the United States and around the world.
+
+We are a people company first and a tax company second. People who join H&R Block say it feels like being part of something bigger. A place with an amazing and storied history, but with a strong and urgent focus on the future. Maybe it's how determined, forward thinking and innovative we are, or how accessible our leadership is. We believe it's all those things, and much more.
+
+H&R Block is committed to diversity and inclusion and is proud to be an equal opportunity employer. We consider qualified applicants regardless of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class. All qualified applicants are welcomed and encouraged to apply.
+
+Sponsored Job
+#hrbjob #LI-JM1 

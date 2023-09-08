@@ -1,0 +1,41 @@
+Overview:
+
+Pactiv Evergreen Inc. (NASDAQ: PTVE) is a leading manufacturer and distributor of fresh foodservice and food merchandising products and fresh beverage cartons in North America and certain international markets. It supplies its products to a broad and diversified mix of companies, including full service restaurants and quick service restaurants, foodservice distributors, supermarkets, grocery and healthy eating retailers, other food stores, food and beverage producers, food packers and food processors. To learn more about the company, please go to the company website at pactivevergreen.com.
+Pactiv Evergreen is committed to a diverse and inclusive workforce. Pactiv Evergreen is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex (including pregnancy), sexual orientation, religion, creed, age national origin, physical or mental disability, genetic information, gender identity and/or expression, marital status, veteran status or other characteristics or statuses protected by law. For individuals with disabilities who would like to request an accommodation, please call (847) 482-4320 or email TalentHelp@Pactiv.com.
+ All information will be kept confidential according to EEO guidelines and applicable laws.
+Responsibilities:
+
+This Position is for Pactiv Evergreen Inc.
+Job Overview:
+We are looking for a Data Scientist who will support our supply chain, operations, sales, and executive team with insights gained from analyzing Pactiv Evergreen data. The ideal candidate is adept at using large data sets from multiple systems to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to lead and drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+Job Description:
+Mine, process, and analyze data from multiple sources to identify meaningful relationships, patterns, or trends from complex data sets
+Define problems to be solved and apply advanced data science methods including machine learning algorithms, to discover opportunities to increase OEE, reduce cost per pound or provide insights to plants on process disruptions
+Maintain and tune analytical models to predict and monitor the condition of various assets
+Prepare data insights in narrative or visual forms, e.g., dashboards for stakeholder review or decision making, etc.
+Lead, implement and maintain data standards, data processes, and new analytics capabilities to continuously enhance asset intelligence
+Ability to travel occasionally (25% - depending on location) to work with Solutions Manager and the plants as required
+Work cross-functionally with groups such as IT, Finance, Sales, Operations and Supply Chain
+Ability to development and coding of statistical computer languages in Python/R
+Assist in the creation and documentation of Robotic Process Automation (RPA) projects aimed at process improvement
+Assist in development and coding of RPA solutions using the platform Automation Anywhere
+
+Qualifications:
+
+Requirements:
+BA/BS degree in Data Science, Computer Science, Finance, Statistics or related field
+3 to 5 Years of Data Scientist experience required
+Background in operations research or related field, e.g., manufacturing experience preferred
+Experience transforming large amounts of data
+Experience working with and creating data architectures
+Experience with data visualization software like Tableau a plus
+Knowledge of machine learning techniques like RPA
+Experience querying databases and using statistical computer languages: R, Python, SQL, etc.
+Experience with Tableau server is a plus
+Experience with SAP/Hana data sources is a plus
+Experience with Microsoft SQL server database structures is a plus
+Comfortable taking initiative and working both autonomously and in a team environment.
+Strong analytical skills and exceptional attention to detail
+Strong leadership and project management skills
+Excellent verbal and written communication skills
+#LI-TM1 #IND1P #CB1 

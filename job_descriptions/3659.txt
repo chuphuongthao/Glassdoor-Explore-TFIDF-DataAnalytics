@@ -1,0 +1,40 @@
+At Johnson & Johnson, we use technology and the power of teamwork to discover new ways to prevent and overcome the world’s the most significant healthcare challenges. Our Corporate, Consumer Health, Medical Devices, and Pharmaceutical teams leverage data, real-world insights, and creative minds to make life-changing healthcare products and medicines. We're disrupting outdated healthcare ecosystems and infusing them with transformative ideas to help people thrive throughout every stage of their lives. With a reach of more than a billion people every day, there’s no limit to the impact you can make here. Are you ready to reimagine healthcare?
+Here, your career breakthroughs will change the future of health, in all the best ways. And you’ll change, too. You’ll be inspired, and you’ll inspire people across the world to change how they care for themselves and those they love. Amplify your impact. Join us!
+At the Janssen Pharmaceutical Companies of Johnson & Johnson, we are working to create a world without disease. Transforming lives by finding new and better ways to prevent, intercept, treat and cure disease inspires us. We bring together the best minds and pursue the most promising science. We are Janssen. We collaborate with the world for the health of everyone in it. Learn more at www.janssen.com and follow us @JanssenGlobal. Janssen Research & Development, LLC is part of the Janssen Pharmaceutical Companies. is part of the Janssen Pharmaceutical Companies.
+Janssen Research & Development (“JRD”), a Johnson & Johnson company, is recruiting for a Post-Doctoral Scientist, Data Science RWE (Real World Evidence) Advanced Analytics. The primary location for this position is flexible either Titusville, NJ or remote may also be considered.
+Janssen develops treatments that improve the health of people worldwide. Research and development areas encompass oncology, cardiovascular and metabolic disorders, immunology, pulmonary hypertension, neuroscience, and infectious disease. Our goal is to help people live longer, healthier lives. We have produced and marketed many first-in-class prescription medications and are poised to serve the broad needs of the healthcare market – from patients to practitioners and from clinics to hospitals. To learn more about Janssen, one of the Pharmaceutical Companies of Johnson & Johnson, visit https://www.janssen.com/us/.
+The R&D Data Science RWE Advanced Analytics team within Janssen develops innovative solutions leveraging a variety of different data sources across multiple disease areas in support of Janssen’s key clinical programs. We are looking for an outstanding post-doctoral scientist whose responsibilities will include the development of cutting-edge methodologies to develop RWD-based solutions to enable disease insights, improve patient outcomes, and enhance clinical development.
+KEY RESPONSIBILITIES:
+Developing methodological methods to implement causal inference and automated learning of causal structures approaches to machine learning models to improve the predictability of the outcomes applied to clinical development programs.
+Leading and contributing to the development of modeling and simulation approaches to answer critical questions in clinical development. By using innovative modeling & simulation methodologies, contributing to critical decision making like study design, dose selection, adaptive designs, etc. based on real-world data (RWD).
+Leading and contributing to the development of artificial intelligence/machine learning models in healthcare (e.g., disease identification, patient stratification, disease progression, forecasting) based on RWD that will provide key insights on our pipeline assets.
+Demonstrating emerging scientific and technological developments to generate new research ideas, solutions and initiatives using real-world data (electronic health records, insurance claims, registry data, others).
+Clearly articulating highly technical methods and results to diverse audiences and partners to drive decision-making.
+
+Qualifications
+
+A Ph.D. degree in a quantitative field (e.g., Biostatistics, Epidemiology, Artificial Intelligence, Computer Science, Operations Research, Statistics, Systems Engineering, Applied Mathematics, Health Economics, Biomedical Informatics, or related field).
+Experience with any of: statistical modeling, simulation, machine learning, deep learning, causal inference methods, multivariate regression and classification, forecasting, and natural language processing.
+Hands-on technical data analysis and machine learning modeling experience.
+Experience in either EHR, insurance claims, clinical trial outcomes, or registry data.
+Proficiency in Python or R, and SQL.
+Experience working with healthcare subject matter authorities.
+Experience delivering on Data Science projects using causal inference, machine learning, or simulation preferred.
+Familiarity with and exposure to drug discovery and clinical development processes with one or more of the following therapeutic areas: oncology, immunology, cardiovascular, neuroscience, pulmonary hypertension, or infectious disease preferred.
+Excellent interpersonal, communication, and presentation skills.
+Proven track record of consistently delivering on high impact data science projects.
+At Johnson & Johnson, we’re on a mission to change the trajectory of health for humanity. That starts by creating the world’s healthiest workforce. Through cutting-edge programs and policies, we empower the physical, mental, emotional and financial health of our employees and the ones they love. As such, candidates offered employment must show proof of COVID-19 vaccination or secure an approved accommodation prior to the commencement of employment to support the well-being of our employees, their families and the communities in which we live and work.
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com (http://www.careers.jnj.com).
+#JRDDS #JNJDATASCIENCE #JNJPOSTDOC
+
+Primary Location
+United States-New Jersey-Titusville-1125 Trenton Harbourton Road
+Other Locations
+North America-United States
+Organization
+Janssen Research & Development, LLC (6084)
+Job Function
+R&D
+Requisition ID
+2206062191W 

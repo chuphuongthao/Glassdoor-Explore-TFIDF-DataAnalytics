@@ -1,0 +1,21 @@
+Summary
+Posted: Jun 3, 2022
+Weekly Hours: 40
+Role Number:200358088
+The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with dedication to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep dedication to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here. We are seeking an extraordinary Machine Learning Engineering Manager to grow and lead our team of engineers in Seattle, innovate and craft the foundation of ML engineering to make our ML solutions secure, private, performant and scalable.
+Key Qualifications
+4+ years of managing small- to mid-sized machine learning engineering team(s).
+Experience working across organizational boundaries in a globally distributed team.
+Experience in strategically initiating projects, defining roadmaps and supporting others to guide them to completion.
+Experience in building highly efficient and scalable machine learning platform
+Proven track record in building high quality Machine Learning solutions.
+A history of successfully developing junior and senior data science team members.
+Superb communication skills, both written and verbal.
+Strong expertise in one or more of statistics, econometrics and machine learning.
+Adept in coding using Java/Scala, Python or another high-level programming language.
+Experience across multiple components of a modern big data tech stack is preferred, e.g., Spark for processing large datasets, Airflow for workflow orchestration.
+Description
+You will have the opportunity to lead and grow a new team in our Seattle office. Your team will research and develop innovative ML solutions for challenging problems that will impact Apple Media Products. Whether it’s solving a problem for a specific product, or research and develop tools that can change how we develop ML solutions generally, you have the opportunity to work on a variety and unique set of problems by leveraging state of the art ML technologies. From unsupervised learning techniques to semi-supervised, supervised and deep learning. You will lead and support a team to dive into those spaces and explore how we can make our products better. Partnership matters— You are a strong collaborator, you will collaborate with broader teams within AMP and across Apple and influence on our platform, architecture and project decisions from time to time. Quality is the key — you will be leading the team to build high quality software, to work in a highly collaborative environment that strives to make our products better, to participate and influence on how we do ML engineering here to improve quality of our products. From project proposal, design discussions/reviews, code reviews, writing code that is robust, reusable, testable and maintainable, all the way to make sure our products are performant and scalable. If you want to be part of this amazing team, this is the team to join!
+Education & Experience
+PhD or Master’s degree in Machine Learning, Computer Science, Computer Engineering, or equivalent experience.
+Additional Requirements 

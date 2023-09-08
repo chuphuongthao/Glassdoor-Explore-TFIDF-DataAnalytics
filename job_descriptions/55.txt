@@ -1,0 +1,35 @@
+Department Summary:
+
+At DISH Wireless, we reimagine connectivity through new platforms, new business models and new ways of thinking.
+Today, we are building America’s first cloud-native 5G network to transform the way we live, work and play with unlimited potential. Our teams operate at the intersection of wireless, data analytics, AI and the cloud to create something state-of-the-art, radically original, and truly unlike what anyone else can.
+Navigating an ambiguous future, our mission is clear. We adapt to, and drive, change for all.
+
+Job Duties and Responsibilities:
+
+The Data Analytics Engineer is responsible for building the DISH Wireless Commercial data integrations and implementing the fully-automated analytics modules catering to DISH business team needs and the analytics product offerings in the marketplace for Commercial customers. The engineer will focus on building the data pipelines, insights, KPIs and metrics using the DISH Wireless data from BSS, OSS, NSS or external sources to business/partners/customers. This individual will play an active role in delivery and ensure alignment to the end-state architecture.
+Day-to-day job responsibilities:
+Provide technical expertise in Wireless Analytics
+Understand business needs and analytics product offerings to design and build data and analytics solutions
+Analyze business and technical requirements
+Quickly build prototypes to test out proof-of-concepts
+Address technical concerns, ideas and suggestions
+Assist in solving technical problems when they arise
+Monitor systems to ensure they meet the partner, user and business goals
+Deliver solutions, features using agile delivery methodologies
+#DICE
+Skills, Experience and Requirements:
+Specific qualifications:
+3+ years as a Data Analytics engineer in the wireless and/or telecom space esp., in Sales, Marketing, Retention, Product, Revenue and Partner Management etc
+5+ years of hands-on experience with development and delivery of secure, reliable and scalable big data solutions using agile methodologies
+Experience in building highly performant SQL based solutions delivered using file feeds, Data-as-a-Service APIs, streaming data analytics or BI tools like Tableau
+Experience in data management and engineering capabilities
+Experience in cloud technologies (like AWS) and data analytics platforms
+Experience in delivering of self-service analytics, insights, KPIs and metrics
+Experience building and maintaining data catalog with dictionary
+Experience with scheduling tools like Control-M or Airflow
+Ensure compliance on all deliverables by performing data audits and analysis
+Benefits:
+
+From versatile health perks to new career opportunities, check out our benefits on our careers website.
+Candidates need to successfully complete a pre-employment screen, which may include a drug test.
+Salary Range: USD $87500.00 - $125000.00 / Year 

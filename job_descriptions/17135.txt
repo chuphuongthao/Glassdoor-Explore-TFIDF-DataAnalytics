@@ -1,0 +1,24 @@
+PDS Tech, Inc. is seeking a Data Analytics Software Engineer - Python in Cupertino, CA.
+
+Job Summary:
+The SIML data team collects, annotates and manages large scale datasets for training and evaluating shipping machine learning models, in various domains (Computer Vision, NLP, OCR, etc...).
+We are looking for a talented engineer that will contribute to improving the day-to-day operations through data analysis.
+You will build dashboards that analyze and track the progress & status of data operations in order to improve the data processes, gain knowledge about ongoing efforts, and gain efficiencies at scale.
+You will develop scalable data pipelines that feed these dashboards.
+Description
+Develop scalable back-end data pipelines
+Create and maintain dashboards
+Work with stakeholders to understand the needs, define metrics, design appropriate visualizations
+Illustrate critical metrics to help guide operations in effective program management
+
+Key Qualifications
+Minimum of 2 years experience working as a software engineer or data analyst
+Strong Python skills
+Experience with databases (SQL, NoSQL)
+Strong visualization skills and experience building and managing dashboards
+Experience with Tableau or other data analytics platforms is a strong plus
+Experience working with Docker, Kubernetes, Airflow, Splunk or Kafka is a plus
+Strong analytical skillset and ability to translate business processes and data into insights and solutions
+Minimum Requirements
+Bachelors in Computer Science, Mathematics, Physics, or a related technical field
+2 years experience as a software engineer or data analyst 

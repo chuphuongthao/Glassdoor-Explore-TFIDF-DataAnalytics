@@ -1,0 +1,33 @@
+Director, Data & Digital Analytics
+AdTech | Marketing & Advertising | Media
+Remote | New York, NY | United States (U.S.)
+$155,000 - $185,000 + Benefits
+A leading, innovative AdTech company is looking for an experienced Director, Data & Digital Analytics to successfully lead a multi-disciplinary team in managing the media data collection process as well as developing customized tag management solutions to meet business growth on the East Coast.
+THE ROLE:
+As Director, Data & Digital Analytics, you will be the Web Analytics & Tagging Lead in which you will lead project teams supporting various clients via an array of data collection, quality assurance, and customized tag management development initiatives. You will be responsible for:
+Gathering, aggregating & querying large amounts of website data using Adobe Analytics and/or Google Analytics
+Designing/executing/implementing customized tag management solutions in Adobe Launch/Google Tag Manager
+Serving as Adobe Analytics/Launch & Google Analytics/Tag Manager SME; delivering insights to leadership
+Coaching/mentoring/managing stakeholders, growing the firm's Data/Analytics Center of Excellence
+YOUR SKILLS & EXPERIENCE:
+Extensive commercial Advanced/Digital/Media/Web analytics experience within AdTech, eComm, or Media
+Proficient in developing customized tag management solutions in Adobe Launch and/or Google Tag Manager
+Proven commercial experience aggregating & ensuring the quality of large amounts of website/digital data
+Proven commercial experience building, managing, and leading multidisciplinary data/analytics teams
+Proficient in extracting/cleaning/manipulating a lot of 1st party, 3rd party, and/or client data in SQL
+Well-versed in using advanced statistical analysis/scripting tools such as Python, R, and/or SAS
+Proficient in dashboarding/BI tools (i.e., Google Data Studio, Looker, Power BI, Qlik, Tableau)
+Familiar with data/data warehousing tools such as AWS, GCP, or related databases
+Proficient in web analytics tools such as Adobe Analytics, Google Analytics, etc.
+Well-versed in leveraging data (i.e., ETL) and statistical techniques (i.e., clustering, regression)
+Familiar with various Demand-Side (DSP) and Supply-Side (SSP) platforms and services
+Strong knowledge of various statistical testing techniques (i.e., A/B, hypothesis, multivariate)
+Proven commercial account, client, client, and/or vendor management experience within media
+Strong verbal/written communication, negotiation, and presentation skills across the business
+Bachelor's degree in Business, Computer Science, Economics, Engineering, Mathematics, Physics, Psychology, Statistics, or related field; M.B.A. and/or M.S. degree preferred
+BENEFITS:
+As Director, Data & Digital Analytics, you can make up to a $185,000 base salary (depending on your experience).
+HOW TO APPLY:
+Please register your interest by submitting your resume to George Little via the apply link on this page.
+KEYWORDS:
+Advanced Analytics, Data, Data Science, Marketing Analytics, Media Analytics, Digital Analytics, Web Analytics, Web Optimization, Website Analysis, A/B Test, Multivariate Test, Hypothesis Test, SQL, Amazon Web Services (AWS), Google Cloud Platform (GCP), Extract-Transform-Load (ETL), Machine Learning (ML), Artificial Intelligence (AI), Natural Language Processing (NLP), Demand-Side Platform (DSP), Supply-Side Platform (SSP), Google Analytics, Google Tag Manager (GTM), Business Intelligence (BI), Looker, Tableau, Qlik, Google Data Studio, BigQuery, Data Mining, Data Visualization, Multi-Touch Attribution (MTA), Media Mix Model (MMM), AdTech, Media Optimization, Media Agency, Paid Search, Social Media, eCommerce, Display, TV, OTT, Campaign Analytics, Google Ads, Facebook Ads, Python, R, Adobe Analytics, Media Pixel, Adobe Launch, Programmatic, Digital Shelf, Tag Management, Cookies, Website Tracking, Website Tag, Tag Implementation, QA (Quality Assurance) Test, Digital Monitoring Product (DMP), Adobe Dynamic Tag Management (DTM) 

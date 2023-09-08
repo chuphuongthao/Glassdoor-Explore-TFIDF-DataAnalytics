@@ -1,0 +1,47 @@
+About
+Macy’s is proudly America’s Department Store. For more than 160 years, Macy’s has served generations at every stage of their lives. Customers come to us for fashion, value and celebration. Now is an exciting time to join Macy’s, Inc. The face of retail is changing, and change requires innovation.
+Macy's, Inc is building an Enterprise Data & Analytics team to further grow our capabilities in support of our mission to be a data-led, customer-centric company. This team will focus on accelerating impact from analytics, coordinating an enterprise-wide roadmap, and ensuring proper data governance and management. This team will lead the charge to execute on our vision to build profitable lifetime customer relationships by embedding data & analytics at the heart of everything we do.
+Job Overview
+The Senior Data Engineer will develop, test and maintain architecture, including databases and processing systems, to support a robust analytical pipeline that facilitates priority analytics use cases. The Senior Data Engineer will ensure these data processing capabilities meet business requirements, use case and user needs while providing reliable, efficient and quality data.
+Essential Functions
+Adhere to processes to ensure data pulled from various sources meets quality standards, is curated and enhanced for analytical use and there is a "single source of truth"
+Work with counterparts from Tech to build frameworks that integrate data pipelines and machine learning models that facilitate use by data scientists for priority use cases; Enterprise Data and Analytics team focused on "last mile" transformations on select data required for use cases
+Maintain database structure and standard definitions for business users across Macy's
+Work with data architects to build the foundational extract / load / transform process and regularly review the architecture and recommend effectiveness improvements
+Collaborate with Technology to future-proof data & analytics software, tools and code to reduce risk and support pipeline owners
+Work with Legal and Privacy teams to adhere to data privacy and security standards
+Work with Data Architect to implement the data models, standards and quality rules
+Work with the Data Science team to understand data formatting and sourcing needs to enable them to build out use cases as efficiently as possible
+Culture
+Community builder to foster data and analytics culture and to support data-driven thinking and discussions across priority analytics use case
+Be entrepreneurial, agile, and results-oriented
+Embody data-driven culture at Macy's
+Bolster awareness, knowledge and conviction around data-driven practices and behaviors, increasing digital IQ of Business Units
+Proactively raise data issues and take action to remediate
+Support business users in identifying the correct data sets and providing easy to use tools to pull data
+Key Performance Indicators
+Quantity, type, and quality of databases and pipelines, in partnership with Technology
+Compliance with relevant laws and regulations , in partnership with Legal/Privacy
+Automation of data cleansing and harmonization processes in refined/trusted zones
+Qualifications and Competencies
+Bachelor’s degree in Computer Science (or related technical field).
+At least 5 years of overall experience in building ETL/ELT, data warehousing and big data solutions.
+At least 3 years of experience in building data models and data pipelines to process different types of large datasets.
+At least 2 years of experience with Python, Spark, Hive, Hadoop, Kinesis, Kafka.
+Proven expertise in relational and dimensional data modeling.
+Understand PII standards, processes, and security protocols.
+Experience in building data warehouse using Cloud Technologies such as AWS or GCP Services, and Cloud Data Warehouse preferably Google BigQuery.
+Able to confidently express the benefits and constraints of technology solutions to technology partners, stakeholders, team members, and senior levels of management.
+Experience implementing and supporting operational data stores, data warehouses, data marts, and data integration applications.
+In depth knowledge in Big Data solutions and Hadoop ecosystem.
+Ability to effectively share technical information, communicate technical issues and solutions to all levels of business.
+Able to juggle multiple projects - can identify primary and secondary objectives, prioritize time and communicate timeline to team members.
+Passionate about designing and developing elegant ETL/ELT pipelines and Frameworks.
+Ability and desire to take product/project ownership.
+Ability to think creatively, strategically and technically.
+Ability to work a flexible schedule based on department and Company needs.
+Physical Requirements
+Requires prolonged periods of sitting, with occasional standing.
+Occasionally requires walking, bending, reaching, hearing and talking.
+Continuous use of computers and other office equipment.
+Frequently lift/move up to 10 lbs. 

@@ -1,0 +1,23 @@
+Senior Data Scientist (TMP Worldwide Advertising & Communications, LLC (d/b/a Radancy), New York, NY)
+Collaborate with Data Scientists on designing and implementing data related products and initiatives, including participation in requirements gathering, analysis, planning, and developing solutions.
+Responsible for timely data availability and system up-time through support functions and in-depth testing.
+Gather requirements, analyze, create design documents, and perform impact analysis.
+Partner with Data Scientists and stakeholders in cultivating long-term strategic goals for development in conjunction with end users, managers, and clients.
+Continuously evaluate industry trends for opportunities to utilize new technologies and data sources for improvement and prepare strategies to implement these enhancements in the data environment.
+Research and recommend products, services, and standards in support of procurement and development efforts of the company’s data initiatives.
+Develop an automated pipeline for the Data Scientists to be able to train, test, and deploy their models.
+Produce guidelines and standards for the pipeline and the API’s that will be built.
+Assist users with problems and resolve issues.
+Create test plans, test cases, and test scripts and perform testing of the related environments.
+Minimum Requirements:
+Master’s degree or U.S. equivalent in Computer Science, Information Systems, Data Science, or a related quantitative field plus 2 years of progressively responsible post-graduate experience in each of the following:
+Query development and design using SQL;
+Working and deploying machine learning models from taking the data from the exploratory phase, to modeling, then validation, to production, and maintenance;
+Using at least one of the following Python packages: Pandas, NumPy, or SciPy;
+Using at least two of the following cloud providers: Google Cloud Platform, Amazon Web Services, or Azure;
+Using at least one of the following machine learning Python packages: Keras, TensorFlow, Scikit-Learn, or PyTorch;
+Using at least one of the following data pipeline Python packages: Luigi or Airflow; Building REST APIs with Flask or Django to deliver findings to users;
+Using at least one of the following data visualization Python packages: Matplotlib, Bokeh, or Seaborn;
+Building out Natural Language Processing (NLP) and/or Reinforcement Learning (RL) models; and
+Deploying machine learning models across hybrid environments of on-premises and cloud providers.
+Please apply online at: https://www.radancy.com/careers 

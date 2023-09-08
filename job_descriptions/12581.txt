@@ -1,0 +1,99 @@
+Pay $94, 510-$140k/year with bonus (paid monthly), the top salary is the top for the life of the role
+Onsite 3 days/week
+W2 candidates are preferred at this time
+Publications are not impressive, wants to see the real-world experience: Requisitions engines, assets, customer loyalty programs, predicated financial goal/future sales, building models, customer loss
+Team, analyst, sr. consultant, data scientist
+Data Scientist (analyst at most companies), at Publix it is Sr. level, have advanced data mining/statistical
+Python, cloud, distributed systems
+True Data Scientist role, unique-building models, working with big data, transactions, credit card data, cloud/on-premises, working in all systems.
+Work directly with CFO, CEO, decision makers, influence million-dollar decisions.
+Translate analytics into information that decision makers can utilize
+Looking for the 5 solid years of analytics/data science
+Coding R, Python (can include educational years)
+6 years without master's degree
+With Master's Degree or Ph.D., will consider this as experience (4-5 years)
+NoSQL is important, must be very strong distributed file systems and SQL
+Big Data is must
+Selling point, running loyalty program (Club Publix), relatively small, can impact the business (30-40 people across marketing). Stability of Publix, shares, benefits, etc.
+Vaccines are not required but encouraged, will require to wear masks
+Resume: cloud infrastructure experience, customer data platform; Taintain Yang, Data Scientist
+Interview process: fast turnaround, will combine interviews (within 24 hours), 2 rounds of virtual, emailed assessment/HR testing.
+Open on start date; based on right candidate
+Short-term remote while relocating
+Christian Kirkland, HM
+Jason Anders, Manager
+
+Data Scientist - Marketing Analytics, Lakeland Description
+
+Are you interested in working for a Fortune 100 retailer? Do you want to be able to apply your analytical knowledge and experience to help solve constantly changing business and customer facing opportunities?
+
+
+
+As a Data Scientist on the Business Analytics Team, you will support Marketing Measurement, identify buying behaviors and lifestyle characteristics of customers, measure the statistically significant purchasing behavior change at the product and customer segment level, develop sales forecasting methodologies, conduct A/B tests, and work with large cloud based datasets.
+
+
+
+Additional responsibilities include:
+
+
+
+
+providing research-based consultation and recommendations regarding the personalization of customer interfaces with Publix
+
+developing and implementing scalable Data Science Analytical Solutions that rely on machine learning and artificial intelligence to automate and optimize key business processes and help improve efficiency and financial results
+
+contributing to the design and measurement of customer personalization programs at the Marketing channel, omni-channel, product hierarchy, and store level
+
+communicating recommendations and analysis to business partners, ensuring understanding, and collaborating on multiple cross functional teams
+
+analyzing customer, transaction, and campaign data to identify trends and patterns in marketing campaign performance and/or customer behavior
+
+building learning systems that monitor data flows and react to changes in customer preferences, network constraints, and business objectives
+
+Required Qualifications
+
+Master’s degree in Data Science, Information Systems, Computer Science, Statistics, Mathematics, Economics, Finance, or related quantitative field from an accredited college or university, or equivalent experience
+
+at least five (5) years of analytics, computer science, marketing, finance, or similar analytics field work-related experience
+
+at least three (3) years’ experience writing SQL
+
+at least five (5) years’ experience writing R code, Python, Syntax or similar functionality within other statistical tools
+
+knowledge of NoSQL databases, data lakes and formats including text, image, sentiment and audio/video
+
+expert knowledge of statistical software knowledge (i.e., SPSS, SAS) and business intelligence tools (i.e., SQL, Visual Basic, SQL Enterprise Manager)
+
+intermediate knowledge of data visualization tools (i.e., Tableau or Microstrategy Desktop) and Python Coding
+
+ability to exhibit a natural curiosity when developing research
+
+Preferred Qualifications
+
+Ph.D. degree in data science, computer science, statistics, neuroscience, engineering, mathematics, or physics
+
+seven (7) or more years of relevant research related experience
+
+Data Science Certificate
+
+expert knowledge of data visualization tools and Python Coding
+
+
+
+Hours of Work: Minimum 45 hours per week
+
+Frequency of Pay: Monthly Base Salary Range: $7, 270 - $10, 915
+
+Potential Annual Pay with Bonus: $94, 510 - $141, 895
+
+
+
+Year End Bonus
+
+As a year-end bonus to associates, Publix issues one month’s extra pay (pro-rated in the first year) each year if associate remains employed through issue date of the bonus check that year. This is calculated as a 13th month of pay in the Potential Annual Pay with Bonus line above.
+
+Travel Frequency: 0%
+
+Address: 3300 Publix Corporate Parkway, Lakeland, FL. 33811
+
+#EPIC 

@@ -1,0 +1,22 @@
+At aiOla, we live by our mission - to bridge the gaps between Human Intelligence and Artificial Intelligence while connecting the “AI promise” for the masses. aiOla provides you with real-time, natural language ontology-driven, user-friendly, multi-sourced business insights, and intelligence on the go. With vital intelligence at their fingertips and fast access to everything they need to know when they need to know it, your frontline employees are supercharged for success.
+Our growing team of Product, Data Science, Data Engineering, Analytics, and Customer Success professionals in Israel and in the US is composed of passionate, bright minds and uncompromising ambition, boasting hundreds of years of collective experience! Aiola's unique culture is shaped by its people - with exceptional individuals, eager to learn from one another and create extraordinary solutions. Surround yourself with visionaries and creators, enthusiastic about generating a real impact on everything they do, and you will never cease to learn and grow. Join Us in Pushing the Limits of Human Intelligence!
+aiOla is looking for an experienced Data Analyst to support our Data Analytics activities and develop business logic and applicative models within the aiOla platform.
+You will work with the Client Delivery team as well as with the Data Science and Development teams.
+You will be expected to be versatile and adaptive to switch between tasks.
+You are a fast learner, a team player with a can-do approach. You are precise with an eye for small details.
+WHAT WILL YOU DO
+Work closely with Business Solutions, Product, and R&D teams to develop aiOla’s Loop that bridges the gap between knowledge, people and systems.
+Connecting business requirements and data models into actionable insights.
+Working with various data sources in multi-cloud environments, developing advanced analytics solutions while maintaining data integrity.
+Working closely with external clients, and enterprises mainly in the US.
+Requirements:
+
+5+ years of experience as a Business/ Data Analyst or any other Data-related positions - a Must.
+3+ Hands-on experience working with Python (pandas, numpy, plotly) and SQL - a Must.
+Experience with cloud environments (AWS or Azure) - a big advantage.
+Hands-on, precise, with attention to small details.
+Background in ML or advanced analytics- an advantage.
+Previous experience working with HTML/JavaScript - an advantage.
+BA / B.Sc. in computer science, statistics, economics / statistics / business administration or any other quantitative discipline- an advantage.
+Fast learner, independent, and team player with a can-do approach.
+Please add your Git Project portfolio or equivalent 

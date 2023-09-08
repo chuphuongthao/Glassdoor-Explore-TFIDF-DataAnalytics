@@ -1,0 +1,31 @@
+We’re looking for talented professionals, anywhere in the United States, to join us in bringing smart money management and payment solutions to everyone’s fingertips.
+At Green Dot, we are evolving to a new and permanent “Work from Anywhere” model designed to maximize the benefits of remote work, promote and enable a strong culture of performance and connectedness, and attract the best and brightest talent who align with our entrepreneurial spirit and mission.
+“I want the best and brightest people we can find to join our team to help us be successful, and you can live anywhere you want. What COVID did was force a mind shift; we see how productive we are working from anywhere and how much our employees love it. It’s more important to be productive than be busy. If you force people to come to an office every day, then everybody’s going to try to be busy,” Dan Henry, President & CEO. (quoted in CNBC)
+<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
+JOB DESCRIPTION
+Summary
+As the Vice President of Data Analytics, you will report directly to the COO/CFO and lead the data analytics and reporting function, including strategic analytics and insights, BI reporting, and data governance. You’ll partner with stakeholders across the organization to enable data-driven decision making. You will define and execute the data analytics roadmap and guide projects from discovery to solution. You will work closely with data scientist on your team as well as across the organization and with Technology leadership in order to collaborate on defining a long-term data strategy for the Company.
+Job Responsibilities
+Lead a team of approximately 20 professionals in the areas of business intelligence reporting and analytics, data governance and warehouse and data science with an eye towards serving internal business clients with a focus on efficiency and effectiveness.
+Advise business leaders by providing data-based strategic direction to identify and address business issues and opportunities.
+Guide and develop strategies for creating and executing analytics solutions that lead to improvement and optimization in business performance and risk minimization.
+Work in collaboration with other business leaders to drive decisions based on data, facts and analytical findings across different parts of the organization.
+Define and execute the data analytics roadmap
+Partner with Technology architects and engineers to ensure all necessary data is available for analytical use
+Empower the organization to use self-service data to act in real time in their roles through ongoing education, approachable tools and access to accurate and complete data
+Improve data quality and governance in partnership with business stakeholders and our Technology team
+Drive the overall strategy and prioritization of advanced analytics projects, including customer segmentation, demand forecasting, time series modeling, attribution modeling and predictive analytics and machine learning associated with customer retention, fraud/risk and many other areas.
+Recruit top talent and mentor team to be a best-in class analytics function
+Perform other duties as needed
+Job Requirements
+15+ years of relevant experience, including leading high performing teams responsible for data analytics, data science and data reporting
+Strong understanding of statistics and probability
+Professional experience using advanced SQL in a cloud data warehouse environment, such as Redshift, with large data sets
+Strong data visualization skills; experience with tools/platforms such as MicroStrategy, Tableau, Adobe Analytics, Salesforce Marketing Cloud, Amazon SageMaker or similar tools
+Proficiency in programming languages such as Python and R
+You thrive in a progressive environment and see yourself as a partner with the business with the shared vision of growing the business
+Ability to communicate insights simply and persuasively; bridge the gap in expertise between the data analytics team and business stakeholders.
+POSITION TYPE
+Regular
+<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
+Green Dot promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Green Dot provides reasonable accommodations for candidates on request and respects applicants' privacy rights. 

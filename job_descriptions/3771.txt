@@ -1,0 +1,80 @@
+What to Expect in our Co-op Program:
+
+Expand your technical and professional skills in a real-world setting. Emerson co-ops are given meaningful work, support, and mentorship from experienced managers and key business leaders. There is the potential to gain knowledge and experience in a variety of ways by exploring opportunities associated with your major and rotating through multiple departments.
+What We Offer:
+Competitive compensation, flexible dress code policy, and paid holidays
+Housing stipends for eligible students and a list of nearby housing options for relocation
+Access to our newly renovated fitness center and wellness program
+Opportunities for networking and professional development
+Our co-ops are a key talent pipeline for full-time employment opportunities after graduation at our many locations.
+Who You Are
+You seek out experts and innovators to learn about the impact emerging technologies might have on your business. You treat mistakes as stepping-stones and reduce risk by testing consequences. You focus on creating an effective collaborative style. You manage uncertainty with confidence. You focus on priorities and set stretch goals. You solicit both input and discussion.
+What We’re Looking For:
+Great engineers are hard to find. We’re giving them a place to thrive. If you love what you do, it makes every day better. At Emerson Professional Tools, we strive to build a work environment where ideas are celebrated, and talent is rewarded.
+We are seeking a Data Science Co-op, with an opportunity to have a significant impact on the business.
+Our Data Science team’s vision is to partner with the business to provide data analytics that improve decision quality and drive breakthrough results. Our team’s strategic priorities are to:
+Apply machine learning to sensor data to develop algorithms that unlock customer value by maximizing certainty and efficiency
+Leverage customer data and external data sources to reveal customer insights and optimize digital content
+Collaborate with internal business partners to embed data in decision making
+Emerson Professional Tools offers exciting co-op opportunities for students interested in doing software development (e.g., "programmers", "developers", "software engineers")! We are looking for creative individuals who enjoy collaboration, are excited about software development, who love to learn and share, and who want their work to make an impact. We expect this position to be more hands-on than a typical Data Scientist role. We are looking for someone with the intellectual curiosity and drive to help inform our data acquisition strategy.
+Emerson’s global Professional Tools business is an equal opportunity employer, offering the broadest portfolio of reliable tools and technologies for those working in mechanical, electrical, and plumbing trades! With unparalleled expertise from RIDGID, Greenlee, and Klauke, we deliver trusted products to handle the industries’ toughest challenges.
+AS A DATA SCIENCE CO-OP, YOU WILL:
+Work closely with Data Science team members to assist with exploratory data analysis, model development, and tuning
+Perform required analysis based on available data
+Develop and implement data processing, including data curation and normalization
+Build, test, deploy and improve models
+Perform ad-hoc analysis and present results and insights in a clear manner
+REQUIRED EDUCATION, EXPERIENCE & SKILLS:
+Undergraduate or graduate student currently pursuing a degree in Computer Science, Data Science, Math, or related field
+Able to work full-time for the scheduled semester
+Legal authorization to work in the United States - Sponsorship will not be provided for this role.
+PREFERRED EDUCATION, EXPERIENCE & SKILLS:
+Undergraduate or graduate student currently pursuing a degree in Computer Science, Data Science or Math
+Cumulative GPA of 2.75 or higher
+Possess some knowledge of statistics and awareness of algorithms relevant to Data Science
+Be driven by intellectual curiosity
+Experience in Python and understanding of query languages like SQL
+What Is a Data Science Co-op and Why Are We Hiring One?
+A Data Science Co-op is a Data Scientist in training. We are building a Data Science organization including a full-time Data Scientist to supplement our team of very hardworking Data Engineers and Software Developers. We are hiring a Data Science Co-op to directly support the Data Scientist on strategic projects while developing talent for potential future hire as we scale our capabilities.
+About the Team You Will Join
+The Engineering and Software Solutions team helps position the company in faster growth, and better dynamic businesses while strengthening relationships with customers and channel partners by providing full-stack development of innovative and differentiated features that enable new business solutions and enhanced customer experience.
+We adopt technologies and business practices that improve decision quality and accelerate time to market.
+We create a culture of collaboration, and learning through experimentation, outcome focus, and continuous change.
+We promote self-directed teams and data-driven decision-making by people with expertise, closest to the market.
+Benefits
+
+Emerson places a high value on ensuring that employees have a good work-life balance. We provide access to a competitive benefits package, including the following: medical insurance, dental and vision coverage, 401k participation with a competitive immediate match, fitness center, holiday pay, and an online wellness rewards program. Employee resource groups, including Diversity and Inclusion committee, Women In Stem, LGBTQ+ Allies, and our Veterans Group, ensure that the Emerson values are incorporated into everyday employee life.
+
+Why Work in the Greater Cleveland Area
+
+This role is located in our World HQ in Elyria (just a little west of Cleveland), Ohio USA.
+
+Our facility is located in Elyria, OH which is conveniently located within driving distance to Cleveland . The area’s generally low costs of living, excellent school systems and low crime rates create a family-friendly environment. The area is home to several growing communities with restaurants, festivals, shopping, and arts scenes that make them exciting places to live and work.
+
+About our Location
+
+Since the invention of the modern pipe wrench in 1923, the 25-acre RIDGID world headquarters in Elyria, Ohio has been developing tools that help trades professionals tackle jobs faster, safer, and more accurately. Today, more than 600 employees work in 734K sq. ft. of office and manufacturing space. The campus is also home to a factory tool service center and a state-of-the-art “School House” training center that educates and trains hundreds of tradespersons annually. In addition to the iconic wrench, the campus manufactures RIDGID battery hydraulic tools, pipe and electrical tools, and drain cleaning components, as well as Greenlee step bits and knock out tools. Emerson’s Professional Tools business provides the industry’s broadest portfolio of advanced, reliable tools and technologies for the mechanical, electrical and plumbing trades.
+WHY EMERSON
+Our Commitment to Our People
+Across the globe, we are united by a singular Purpose: We drive innovation that makes the world healthier, safer, smarter, and more sustainable.
+We invest in our employees to ensure they have the marketplace knowledge, skills, and competencies to bring this Purpose to life while competing and leading in a global economy.
+Our training programs focus on end-to-end development, from onboarding through senior leadership.
+Our success is measured by the positive impact we make on people, our communities, and the world through our unwavering focus on environmental, social, and regulatory progress. Learn more about us!
+Flexible and competitive benefits plans offer you the right options to meet your individual/family needs: medical insurance plans, dental and vision coverage, 401(k), tuition reimbursement and more. We also provide you flexible time-off plans, including paid parental leave, vacation, and holiday leave.
+Our Commitment to Diversity, Equity & Inclusion
+At Emerson, we are committed to fostering a culture where every employee is valued and respected for their experiences and perspectives – and that reflects the world around us. We believe a diverse, equitable and inclusive work environment contributes to the rich exchange of ideas that inspires innovation and brings the best solutions to our customers.
+This philosophy is fundamental to living our company’s values and our responsibility to leave the world in a better place. Learn more about our Culture & Values and Diversity, Equity & Inclusion at Emerson .
+Work Authorization
+Emerson will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J or TN, or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+Equal Opportunity Employer
+Emerson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+ABOUT EMERSON
+Emerson is a leading global technology, software and engineering company providing innovative solutions for customers in industrial, commercial, and residential markets.
+Our Automation Solutions business helps process, hybrid and discrete manufacturers maximize production, protect personnel and the environment while optimizing their energy and operating costs.
+Our Commercial & Residential Solutions business helps ensure human comfort and health, protect food quality and safety, advance energy efficiency and create sustainable infrastructure.
+We help customers in the world’s most essential industries solve the biggest challenges of modern life.
+Every day, our global workforce fulfills our unified Purpose and lives out the Values we hold close as an organization: Integrity, Safety & Quality, Support Our People, Customer Focus, Continuous Improvement, Collaboration, and Innovation.
+Our Causes – Planet, Humanity, Champion, Inclusion and Future – shape, define and fuel Emerson’s culture while inspiring our innovative spirit and driving our focus.
+Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or recently received your master’s degree, you’ll find opportunities with us. Join our team and start your journey today!
+No calls or agencies please. 

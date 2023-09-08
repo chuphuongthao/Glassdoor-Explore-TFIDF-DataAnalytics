@@ -1,0 +1,26 @@
+Who We are
+
+BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects.
+About the Role:
+
+We are looking for a Data Analytics Tech Lead to join our team. This professional will be responsible for maintaining the integrity of our data process, including origination, acquisition, flow, and processing.
+What You’ll Do:
+Perform data analysis, involving navigating and reviewing large data sets, learning and researching application data management function, and reporting.Perform investigations into monitoring and system-generated alerts/escalations relating to potential failures in the service environment.Interact with internal technical engineers and external 3rd party vendors to troubleshoot and resolve complex issues.Apply and develop knowledge of advertising technology, especially DSP operations, and digital advertising process.Help define and test automation of manual processes.
+Perform daily, weekly and monthly monitoring on reports and workflows to ensure operations are not interrupted.
+Work across teams, such as development, product management, and finance groups to research and resolve user-reported data calculation errors.Support financial billing needs by understanding billing and reports across multiple markets/countries, providing advanced support to internal and external users.Create, maintain, and document software/application and data solutions.
+You must have:
+BS Degree in Computer Science or STEM-related degree.
+3+ years of working experience in a data management role, supporting complex data solutions.
+Experience working with data analytics within the digital advertising media sector.
+- Experience as a lead, guiding, and assisting other team members - strong team player, able to work in a multicultural, global environment with remotely located team members.
+Experience working with SQL and Advanced Microsoft Excel skills.
+Ability to distinguish between critical and non-critical issues (strong triage and problem-solving skills).Experience working with Finance and Billing needs.Excellent written and verbal communication skills.
+Advanced English level.
+How we do make your work (and your life) easier:
+100% remote work.Hardware setup for you to work from home.
+- Flexible hours - make your schedule.
+Paid parental leave, vacation & holidays.Diverse and multicultural work environment.An innovative environment with the structure and resources of a leading multinational.Excellent compensation — well above the market average.Here you can grow at the speed of your learning curve.
+Our people work remotely but with a consistent and robust culture that promotes diversity and teamwork. To continue being the leading software development company in Latin America, we want to ensure that every BairesDev member gets the best growth and professional development opportunities in a diverse, welcoming, and innovative environment.
+
+Every BairesDev team member brings something unique to our company.
+We want to hear your story. Apply now! 

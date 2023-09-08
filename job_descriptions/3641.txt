@@ -1,0 +1,48 @@
+Peraton's Global Health and Financial Solutions sector is seeking an entry level Data Scientist to join our team. In this role you will work closely with data engineers, business stakeholders and application/system engineers to incorporate new technology and solutions into an existing advanced technical architecture for our customers.
+The selected individual will work with multiple scrum teams help create models that will display critical business insights and will be deployed to production environments.This position is 100% remote from anywhere in the continental U.S.
+What you’ll do:
+The Data Scientist will be responsible for the following but not limited to:
+Collaborate with cross-functional teams (business stakeholders, developers, product managers, product owners, and management) to identify requirements, data and key insights needed for developing models to derive business value from data science.
+Develop code to clean data, develop complex feature sets and build models using industry leading technologies and frameworks.
+Deploy models to production environments using ModelOps techniques and continuously evaluate model quality.
+Assist with analysis of unstructured and semi-structured data, including latent semantic indexing (LSI), entity identification and tagging, complex event processing (CEP), and the application of analysis algorithms on distributed, clustered, and cloud-based high-performance infrastructures.
+Exercise creativity in applying non-traditional approaches to large-scale analysis of unstructured data in support of high-value use cases visualized through multi-dimensional interfaces.
+Manage processing and index requests against high-volume collections of data and high-velocity data streams.
+Utilize tools and computational skills to interpret, connect, predict and make discoveries in complex data and deliver recommendations for business and analytic decisions.
+Work together with architectural oversight teams and business stakeholders to ensure model quality and effectiveness is of the highest caliber.
+Basic Qualifications:
+BS 0-2 Years or HS 6-8
+Bachelors’ degree in relevant technology field such as Data Science, Computer Science, Computer Engineering or similar field.
+Must have proven experience with Python, R, Spark, SQL and Data Science frameworks (such as Tensorflow, Sci-kit learn, Numpy, PyTorch, Matplotlib, Shap or more.)
+Must be comfortable with changing requirements and ambiguity in direction as well as prioritizing tasks effectively.
+Must have experience working directly with business stakeholders to understand complex business problems and able to derive technical requirements for data science applications to drive mission value of advanced analytics, ML/AI for organizations.
+Experience developing ETL and data quality pipelines that process vast amounts of data.
+General knowledge of distributed compute architectures such as Spark, Kubernetes and Docker containers.
+Must be comfortable and flexible with changing requirements and ambiguity in direction as well as prioritizing tasks effectively.
+Experience working with complex internal tooling or technical systems that support ModelOps pipelines.
+Experience with data science applications and dashboarding tools.
+Proven experience that displays deep interaction and problem solving skills for complex technical problems.
+Must be a US CItizen
+Must be able to obtain and maintain a Public Trust Clearance
+Desired qualifications:
+Experience with Databricks and Snowflake.
+Data Science Certifications.
+Experience with software development in Python.
+Understanding data science applications and deriving value from data to support mission objectives.
+Experience with data transport and transformation APIs and technologies such as JSON, XML, XSLT, JDBC, SOAP and REST. Experience with Cloud-based data analysis tools including Databricks and Snowflake or similar.
+Experience with visual analytic tools like PowerBI or Tableau.
+Experience with machine learning, algorithm analysis, and data clustering.
+Must have a go-getter attitude for solving complex technical problems.
+Experience contributing to a large, cross-functional agile team, hands on experience with agile tools such as JIRA/Confluence.
+Excellent written and verbal communication skills – must be able to communicate fluently in English both verbally and in writing.
+Attention to detail, quick learner, have a positive attitude, ability to multi-task, self-motivated and able to work in a fast-paced environment.
+Benefits:
+At Peraton, our benefits are designed to help keep you at your best beyond the work you do with us daily. We’re fully committed to the growth of our employees. From fully comprehensive medical plans to tuition reimbursement, tuition assistance, and fertility treatment, we are there to support you all the way.
+Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can’t be done, solving the most daunting challenges facing our customers.
+An Equal Opportunity Employer including Disability/Veteran.
+Colorado Salary Minimum: $45,700
+
+Colorado Salary Maximum: $110,800
+
+
+The estimate displayed represents the typical salary range for this position, and is just one component of Peraton's total compensation package for employees. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Peraton provides a variety of benefits to employees. 

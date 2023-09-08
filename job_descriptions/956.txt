@@ -1,0 +1,33 @@
+HR Data Analyst
+Job Location: 3x per week onsite in Financial District, NY
+Salary: $90-100k
+Requirements: Workday, Python or R, AWS, Data Visualization tools
+
+
+Working for us means working with a close-knit team of diverse and gifted individuals who are dedicated to furthering social justice by delivering a life-altering education for kids.
+
+Our nonprofit education management company is seeking a Human Resources Data Analyst to join our team! Our company reshapes what is possible in public education, and we are known for delivering education to students from all backgrounds. As one of the fastest growing and largest charter school networks, we pride ourselves on excellence and outperforming other schools in every district of NY.
+
+This position will be onsite 3x per week in the Financial District, and 2x per week remote.
+
+This is a high visibility role providing critical insight to various stakeholders including senior management.
+What You Will Be Doing
+Develop new reporting and analytics solutions using human capital data as well as maintaining existing reports and dashboards
+Utilize Workday for human resources data, reporting, and analytics
+Lead projects independently and communicate effectively across the organization
+Collaborate with data analysts, software engineers, business partners and other stakeholders and act as an evangelist for data science/analytics principles and practices
+What You Need for this Position
+3+ years of experience working within a corporation or consumer-focused environment
+Bachelors degree
+Proven expertise in utilizing Workday for human resources data, reporting, and analytics
+Experience with data visualization tools such as Qlik Sense, Power BI, Tableau, etc. - Looker preferred
+Experience working with cloud services such as AWS or MS Azure and relational databases (SQL)
+Python or R
+So, if you are a HR Data Analyst with experience, please apply today!Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

@@ -1,0 +1,32 @@
+As part of National Grid’s continued commitment to safety, all new hires must be fully vaccinated against COVID-19. Anyone unable to be vaccinated, either because of a sincerely held religious belief or medical reason can request a reasonable accommodation.
+About us
+National Grid is hiring a Lead Data Specialist for our Data Management Department located in Waltham, MA; Northboro, MA; Syracuse, NY; Albany, NY or Buffalo NY.
+Every day we deliver safe and secure energy to homes, communities, and businesses. We are there when people need us the most. We connect people to the energy they need for the lives they live. The pace of change in society and our industry is accelerating and our expertise and track record puts us in an unparalleled position to shape the sustainable future of our industry.
+To be successful we must anticipate the needs of our customers, reducing the cost of energy delivery today and pioneering the flexible energy systems of tomorrow. This requires us to deliver on our promises and always look for new opportunities to grow, both ourselves and our business.
+Job Purpose
+This role helps define the vision for business-wide data activities and champions for data ownership and stewardship, drives standardization, accessibility, and governance for (US) wide electric business unit. This role will develop and drive activities within the Electric Business Domain. These activities include business data glossary, reporting & governance. In this role they will work with the wider data management team and stakeholders to ensure Electric Business Unit has the latest and most accurate data to make decision on the safe integrity of the transmission and distribution systems to achieve company objectives, strategies, and policies.
+Key Accountabilities
+Manage the business data glossary
+Work with IT and business counterparts to develop key regulatory & process metric reports
+Work with IT and business counterparts to enhance & deploy data quality KPI reports & dashboards
+Work with the Data Management Director to inform data strategy & workplan
+Facilitate Electric Data Domain governance meetings & lead on cadence, agenda & widening participation
+Ensure all the data artifacts for the areas are up to date (Data Business Rules Dictionary, Asset Specs, Asset Classifications, Domains, and Measurements).
+Qualifications
+Bachelor’s degree in a STEM discipline is preferred (Science, Technology, Engineering, Math) with 4 years of related experience. An equivalent level of practical prior experience will be considered. Required qualifications include:
+Strategic self-starter with excellent computer & data set skills and an advocate for data analytics value across business and to diverse audiences
+Experience with complex data flows and relationship to business process
+Self-aware individual who can effectively manage stakeholders and build relationships across all levels and functions
+Effective communicator able to communicate at all levels within the organization
+Experience implementing change within an organization
+The ideal qualified candidates will also have some or all the following:
+Experience conducting structured business analysis and generating well-defined requirements
+Electric utility process & systems experience – (i.e., GIS, Work Management)
+Data Management Tools (Snowflake, Informatica Data Quality & Axon)
+Programming or Logical Rule Based Progressions (i.e., IFTTT
+More Information
+Salary
+$94k to $110k a year; Upstate, NY
+$105k to $123k a year; Boston, MA
+This position has a career path which provides for advancement opportunities within and across bands as you develop and evolve in the position; gaining experience, expertise and acquiring and applying technical skills. Candidates will be assessed and provided offers against the minimum qualifications of this role and their individual experience.
+National Grid is an equal opportunity employer that values a broad diversity of talent, knowledge, experience and expertise. We foster a culture of inclusion that drives employee engagement to deliver superior performance to the communities we serve. National Grid is proud to be an affirmative action employer. We encourage minorities, women, individuals with disabilities and protected veterans to join the National Grid team. 

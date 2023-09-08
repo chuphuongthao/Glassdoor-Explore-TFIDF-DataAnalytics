@@ -1,0 +1,33 @@
+Employment Type
+Full-time
+Industry
+Machine Learning/Computer Vision R&D
+Job Location
+ 232 Broadway, Boulder, Colorado, 80027, USA
+Base Salary
+$70,000-$90,000 Per year
+Valid through
+August 19, 2023
+Description
+Seeking an Analytics-Data Engineer for a full-time/perm/in-office position located in Boulder Colorado. We are seeking a US Citizen or Green Card Holder located near the office. This is not a remote position.
+
+Champion next generation data analytics to support Product and Applications:
+
+Provide technical leadership over existing Analytics Dashboard, used by customers and internal support staff to monitor operations globally.
+Lead an effort to help distill a large (i.e., overwhelming) amount of operational data, to allow customers/support staff to identify operational status and potential issues quickly and easily.
+Architect Industrial Machine Vision next generation analytics framework (data modelling, data API(s), dashboard(s)).
+Qualifications
+Required Qualifications and Skills
+
+Big Data Experience
+Relational, Transactional Database Design/Implementation
+Python
+Dash (Plotly)
+SQL Server
+PostgreSQL
+Data API Design
+
+Distinguishing Qualifications and Skills
+
+Ability to identify, lead, and have accountability for data analytics initiatives from start to finish. Architect and deliver work class analytics solutions for both internal support team and customer use, to surface data in ways that dramatically improve visibility into the operation of the product.
+Background in Analytics, Data Science, or Computer Science 

@@ -1,0 +1,33 @@
+Principal Investigator, Ruowang Li, PhD, is looking for a Postdoctoral Scientist to join the Department of Computational Biomedicine!
+The Department of Computational Biomedicine reflects Cedars-Sinai's commitment to advancing medical discovery and the recognition of the foundational role complex data plays in our research and clinical care. We are recruiting multiple postdoctoral research fellows in the newly established Department of Computational Biomedicine at the Cedars Sinai Medical Center (CSMC). We welcome applications from highly motivated candidates who enjoy innovative thinking. Including a cover letter and publication examples are preferred, but not required.
+Are you ready to be a part of breakthrough research?
+The Postdoc will join the research group of Dr. Ruowang Li and is expected to collaborate with investigators within and beyond Cedars-Sinai Medical Center. The Postdoc will work at the intersection of Biomedical Informatics, Human Genetics, and Machine Learning/Statistical Modeling. The main areas of research include, but are not limited to, methods development in constructing new polygenic risk scores (PRS) that can model higher-order complexities and improve transferability across different populations, in integrating data of large-scale population-level data, e.g., biobank-linked electronic health record data (EHR), in identifying causal effects through mendelian randomization analysis.
+The group has extensive experience in working with biobank-linked EHR and PRS (Li. et al. Nature Reviews Genetics, 2021), data integration (Li. et al. Nature Communication, 2021; Ritchie. et al. Nature Reviews Genetics, 2015), and biomedical informatics (Li. et al. JAMIA 2019a, 2019b). The fellow will have access to a number of large-scale datasets, including up to five million of not-previously-analyzed patients’ records in the CSMC systems. This unique opportunity provides the Postdoc the ability to perform highly original and innovative research. To learn more, please visit R. Li Research Lab | Cedars-Sinai.
+Working independently but in close cooperation and in consultation with Dr. Li and other Research scientists, the Postdoctoral Scientist will perform routine and complex computational, mathematical, and statistical procedures throughout the training period. As a Postdoctoral Scientist, you may develop, adapt, and implement new research techniques, and protocols, as well as analyze, interpret, summarize, and compile data.
+#Jobs-Indeed
+Primary Duties and Responsibilities:
+May lead the development of new methodologies under the supervision of the mentor.
+May participate in publications and presentations as author or co-author.
+Designs and performs experiments. Will keep appropriate experimental records and documentation and analyze the results with the Principal Investigator.
+Analyzes, interprets, summarizes, and compiles data.
+Develops, adapts, and implements new research techniques and protocols.
+May assist in the preparation of grant proposals, but is not responsible for generating grant funds.
+Operates and maintains equipment and instruments.
+Education:
+Minimum of a Doctoral degree in Biomedical Informatics, Bioinformatics, Biostatistics, Computer Science, Data Science, or a related quantitative field, required.
+Experience and Skills:
+Previous experience in related research is preferred but not required.
+Independently works on research projects designed in collaboration with one or more mentors within an area of specialization.
+Acquires thorough technical and theoretical knowledge of research projects and objectives during one to five (1-5) year post-doctoral appointment.
+Strong computing skills (R and Python) are desired.
+Excellent communication skills and a good track record of writing scientific papers.
+Knowledge of safety standards and maintenance of specialized equipment.
+
+Working Title:Postdoctoral Scientist - Li Lab - Computational Biomedicine
+Department:Computational BioMedicine
+Business Entity:Academic / Research
+Job Category:,Academic/Research,Academic/Research
+Job Specialty:Postdoctoral
+Position Type:Full-time
+Shift Length:8 hour shift
+Shift Type:Day 

@@ -1,0 +1,69 @@
+TITLE: Data Science Operations Lead
+
+
+
+
+Location: 100% Remote EST & CST Time Zones
+
+
+6-month contract w/ possible extension – RTH
+
+
+
+
+Our Client is Looking for a Data Science Operations Lead. This is an opportunity for a curious and motivated data scientist to make an impact on our best-in-class risk products by working with our fast-paced and cross-functional team of data scientists, product managers, strategists, and engineers
+
+
+
+
+What You’ll Do:
+ You would provide analytical and statistical support to senior members of the team to execute projects supporting all levels of government in civilian services, public health, and public safety.
+ You will support product development, research, and prototyping assignments.
+ Provide support to more senior Data Scientists and the Analytics team.
+ Design and document coding requirements for attribute/feature product development.
+ Extract and clean data to support analytic project work.
+ Conduct analysis to validate output is coded as designed by other functional areas.
+ Apply statistical techniques and work with large data assets to conduct analytic research and data studies, build statistical models and complete various analytic projects.
+ Participate in communicating analytic conclusions to both analytic and non-analytic stakeholders
+ Collaborate with cross-functional teams including fraud and crime analysts, product management, project management, and technology to execute projects.
+ Other duties as assigned.
+
+
+
+Skills / Experience You Will Need:
+ Competency in R, Python, SQL or similar statistical software packages
+ Demonstrates competencies in relevant Data Science and/or Statistical frameworks
+ Able to apply Machine Learning, Data Mining, and/or Statistical methods to build models.
+ must have knowledge in:
+ data wrangling
+ data mining
+ statistical methods
+ multiple statistical modeling
+ machine learning techniques
+
+
+Able to execute standard coding for projects and processes to do the job successfully using company standard toolsets
+
+Experience processing and manipulating large data sets including merging, slicing, sorting, and constructing new features.
+
+Strong documentation, written and verbal communication skills
+
+Strong analytical thinking skills
+
+Proficient interpersonal skills to be able to interface effectively with a broad range of contacts; from technical staff to management
+
+Proficient organizational skills with the ability to handle multiple concurrent activities and to work successfully under pressure
+
+Detail-oriented and critical thinker. Works well both independently and with cross-functional teams to execute projects.
+
+undergraduate degree in Data Science, Mathematics, Statistics or related field and 2+ years of relevant work experience. Or a Master’s Degree.
+
+
+
+About Infinity Consulting Solutions
+
+
+
+At Infinity Consulting Solutions our mission is to cultivate successful long-term relationships with candidates and clients matching the right candidate with the right client. We believe technology cannot replace the real personal relationships we cultivate. We reject the notion that technology alone is the answer to staffing which is why we are successful partnerships rely on collaboration NOT automation. ICS has been providing flexible staffing solutions for over 20 years in Information Technology, Compliance, Accounting / Finance, and Corporate Support. Our staffing solutions include Contract, Temp to Perm, and Permanent Placement.
+
+ICS is an Equal Opportunity Employer. 

@@ -1,0 +1,7 @@
+JOB DESCRIPTION
+Insight Global is seeking a Remote Full Stack Developer/Software Engineer to support a large aerospace and aviation client in the Hartford, CT area. The ideal candidate will also have a background or interest in Data Science/ML or analytics as they will be joining an advanced analytics/data science team responsible for building, testing and validating innovative digital solutions. This advanced analytics group supports all facets of the business, including Operations, Engineering, Finance, Supply Chain etc. and plays a key role in the companies' Agile digital transformation. Day to day, the candidate must provide hands on full stack development work by using HTML, CSS and Javascript on the front end and possess a strong understanding of Python (along with Django or Flask). They will also be working with applications that are hosted on AWS and Azure. The candidate will work with a team of developers and must be able to translate business requirements into technical plans or data.
+MINIMUM REQUIREMENTS5+ years of experience in Full Stack software Development to solve business requirements
+US CIT is required
+5+ years hands-on development experience with Python or R with Django/Flask frameworks
+Background or exposure to Data Science/Machine Learning or analytics
+DESIRED SKILLS2+ years of exposure to Cloud services and architecture such Azure or AWSFamiliarity with SQL database concepts (Oracle/ Postgres)Experience with Jira, Confluence or Github for software documentation. 

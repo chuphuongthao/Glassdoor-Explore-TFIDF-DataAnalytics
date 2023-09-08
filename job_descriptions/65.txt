@@ -1,0 +1,28 @@
+Working at Atlassian
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or return to an office as they reopen (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+As the Senior Analyst for Atlassian's Customer Success and Innovation (CSI) organization, you will be a key player in supporting the strategy and analytical insights for the Customer Success Management (CSM) Team. You will help identify and shape Key Performance Indicators (KPI) and key metrics to drive and support the CSM motions and align on organization and cross departmental metrics. You will be deep into the CSM operational and planning needs to manage coverage modeling and capacity and resource needs for the CSM team. This role will execute and support deep dive analytics for strategic planning efforts. Our CSM team drives success in the largest customer accounts through success management, and this role is a critical business partner for our CSM team as we continue to innovate the future of work at Atlassian and our customers. You will be interacting with all levels of CSM, from customer facing to leadership and providing them with tools and insights to facilitate best in class Customer Success Management.
+What you'll do
+Identify key metrics and drivers that support the CSM motions and align on organization and cross departmental metrics
+Identify metrics / data that can be leveraged inside and outside of Gainsight to flag at risk account
+Monitor customer health holistically and escalate high-priority risks on weekly/bi-weekly basis with dashboards
+Deep understanding of business to be able to provide educated guidance beyond day to day reporting
+Perform and provide CSM Impact Analysis - Propensity to Upsell - Propensity to Churn - Feature Adoption Analysis - Services Impact Analysis.
+Create/Manage self-service dashboards for CSMs to analyze and support Customer needs (identifying Product depth, Feature usage, Services).
+Support process and tool automation - limiting amount of manual inputted data fields, streamlining workflow processes
+Proactively identify, monitor, escalate, and resolve risks with the involvement of leadership and business partners. Support creation of Risk Mitigation & Escalation review/process (red accounts/big rocks
+Consolidate and automate existing manual reporting to enable the team to use their time more efficiently
+Ad Hoc requests for analysis and data
+Your background
+7+ years of business and data analytics
+Deep experience in Customer Success Management
+Consultative approach to continuous improvement up and down the organization with an ability to communicate data into relevant insights for leaders.
+A proven approach to analyzing large data sets and transforming data to inform business and strategic decisions
+Demonstration of excellence in process improvement
+Strong understanding of financial and accounting practices
+Our perks & benefits
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+About Atlassian
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team.
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+To learn more about our culture and hiring process, explore our Candidate Resource Hub. 

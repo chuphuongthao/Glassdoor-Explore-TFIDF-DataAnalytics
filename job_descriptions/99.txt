@@ -1,0 +1,22 @@
+Responsible for providing data-driven insight and practical, proactive optimization recommendations across the Primacy client base. This individual will be a part of the evolution of Primacy Analytics capabilities and work both internally and with clients to provide analysis and campaign optimizations necessary to accomplish their strategic objectives. By consistently delivering value, Primacy analytics team will become an inseparable part of our client relationships.
+Data Analytics Specialist
+Responsibilities
+Usage of dashboard and data visualization tools such as Google Data Studio, Domo, Tableau and others for internal and client use
+Ability to implement analytics tracking tags leveraging tools such as Google Tag Manager and Tealium and knowledge of how they integrate with web analytics
+Leveraging syndicated research tools such as Nielsen Scarborough to build audience profiles and personas to help inform the Creative, Media, UX and Account Services teams
+Ability to understand and report on how CRM data integrates with marketing data and the relationships and attribution between them
+Integrated client monthly/weekly/quarterly performance reporting comprised of insights and information derived from marketing campaigns, social platforms, CRM and website data
+Ability to build and interpret surveys via online survey tools such as Pollfish, Qualtrics, Survey Monkey and similar
+Detailed understanding of Google Analytics, Google Optimize, Google Tag Manager and similar platforms for insights, tracking and reporting
+Recommendation and implementation of KPI and tracking plans across landing pages and full website builds – ability to recommend source code to web designers for implementation of analytics tracking
+Ability to create custom javascript tags as may be required for advanced triggering in Google Tag Manager
+Qualifications
+Usage of dashboard and data visualization tools such as Google Data Studio, Domo, Tableau and others for internal and client use
+Ability to implement analytics tracking tags leveraging tools such as Google Tag Manager and Tealium and knowledge of how they integrate with web analytics
+Leveraging syndicated research tools such as Nielsen Scarborough to build audience profiles and personas to help inform the Creative, Media, UX and Account Services teams
+Ability to understand and report on how CRM data integrates with marketing data and the relationships and attribution between them
+Integrated client monthly/weekly/quarterly performance reporting comprised of insights and information derived from marketing campaigns, social platforms, CRM and website data
+Ability to build and interpret surveys via online survey tools such as Pollfish, Qualtrics, Survey Monkey and similar
+Detailed understanding of Google Analytics, Google Optimize, Google Tag Manager and similar platforms for insights, tracking and reporting
+Recommendation and implementation of KPI and tracking plans across landing pages and full website builds – ability to recommend source code to web designers for implementation of analytics tracking
+Ability to create custom javascript tags as may be required for advanced triggering in Google Tag Manager 

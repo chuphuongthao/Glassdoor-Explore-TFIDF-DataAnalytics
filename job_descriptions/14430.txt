@@ -1,0 +1,31 @@
+JOB TITLE: Data Scientist - SQL
+LOCATION: Menlo Park, CA
+DURATION: 6 Months
+
+COMPANY:
+Our client, a fortune 500 multi-national technology company is recruiting for a Data Scientist - SQL. If you meet the qualifications listed, please Apply Now! Or if you know of anyone in your network, please refer them to Ursus!
+
+Summary:
+We are seeking a temporary worker in our Small Business Group. This role entails using analytical techniques to drive impact with our cross-functional partners.
+Responsibilities
+Primary
+Provide analytical support to our cross-functional partners including pull data utilizing SQL and delivering those results via presentations, reporting, or dashboard development
+Support product development with thought leadership on how data should be collected, stored, and utilized
+Manage requests and priorities independently
+Provide documentation of queries/inbound requests for future use
+Create new or improve existing dashboards and analyses to support key stakeholders
+
+Secondary
+Communicate results with internal stakeholders
+Understand existing data infrastructure and determine if queries are possible to run/share
+Partner with cross-functional teams to identify new opportunities requiring the use of modern analytical and modeling techniques
+Skills
+Minimum Qualifications
+4+ years of experience in analytics, data science, or similar field
+Advanced proficiency in SQL
+Experience problem solving and providing business insights and recommendations from data
+Ability to manage multiple concurrent projects and drive initiatives in a cross-functional environment
+Ability to communicate complex data issues to audiences of different levels of technical expertise
+
+
+IND123 

@@ -1,0 +1,17 @@
+Onsite position for a 3+ month contract.
+
+This Consultant will help with Data Analytics. We would need this person for about 6 months.
+
+Experience Needed:
+Data Miner
+SQL Server
+SSRS (SQL Server Reporting Server)
+SSMS (SQL Server Management Studio)
+Knowledge of xml
+ETL (Extract, Transform, Load) knowledge a plus!
+
+
+Duties
+Assist \ Work with Applications Developer
+Create \ modify custom reports located in ERP and SSRS.
+Utilize ticketing software. 

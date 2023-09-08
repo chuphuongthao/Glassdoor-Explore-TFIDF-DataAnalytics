@@ -1,0 +1,24 @@
+Principal Data Engineer (Machine Learning)
+The vision of the Machine Learning (ML) Engineering team at Disney is to drive and enable ML usage across several domains in heterogeneous language environments and at all stages of a project’s life cycle, including ad-hoc exploration, preparing training data, model development, and robust production deployment. The team is invested in continual innovation on the ML infrastructure itself to carefully orchestrate a continuous cycle of learning, inference, and observation while also maintaining high system availability and reliability. We seek to find new ways to scale with our guest and partner base as well as the ever-growing need for ML and experiments.
+We’re looking for a principal software engineer interested in building optimized, efficient and reliable products, services and interfaces to federate access to data stores, simplify, automate and manage the ML development and deployment ecosystem. In addition, the ideal candidate would be excited about partnering with various data science, analytic and experimentation teams to gather requirements, seek feedback, and focus on continuous development and improvement of the ML infrastructure.
+Responsibilities:
+Design and develop infrastructure for the full cycle of machine learning such as workflow management, feature store, data discovery tools, and feature libraries.
+Implement backend microservices for large scale distributed systems using gRPC or REST.
+Work on complex, cross-functional projects that have a broad impact on the business.
+Maintain a culture of quality, innovation and experimentation
+Work in an Agile environment that focuses on collaboration and teamwork
+Basic Qualifications:
+10+ years of software experience working in large scale, real-time distributed systems
+Bachelor's degree in Computer Science (or related field) or equivalent work experience
+Experienced with cloud technologies in AWS or GCP as well as container systems such as Docker or Kubernetes
+Passion for turning ideas into products and improving the member experience
+Expertise in OO programming, either Python or Java
+Excellent communication and people engagement skills
+Preferred Qualifications:
+Familiarity with ML pipelines, data ecosystem and AWS technologies
+Experience with graph-based data workflows such as Apache Airflow, Meson
+Mentor colleagues on best practices and technical concepts of building large scale solutions
+Additional Information:
+Location: San Francisco, CA , New York, NY or Seattle, WA preferred but also open to US Remote for the right candidate
+The pay range for this position in Colorado is $142,352 to $190,960 per year, however, base pay offered may vary depending on geographic region, internal equity, job-related knowledge, skills, and experience among other factors. A bonus and/or long term incentive units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the level and position offered.
+#DisneyTech 

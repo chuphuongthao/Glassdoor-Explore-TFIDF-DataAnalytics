@@ -1,0 +1,38 @@
+Upgrade is a fintech company that helps everyday consumers move in the right direction with responsible financial products that put more money in their pockets. We were the fastest-growing company in the Americas in 2020 according to the Financial Times, and Upgrade Card is currently the fastest growing credit card in America according to the Nilson Report. In the last five years, over 25 million people have applied for an Upgrade card or loan, and we have delivered over $16 billion in affordable and responsible credit to consumers.
+Upgrade has been named a “Best place to work in Fintech”, “Best Place to Work in the Bay Area” three years in a row, one of the “Top Companies to work for in Arizona”, and we have received multiple awards for being one of the best companies to work for with respect to Diversity, Women, Culture, and Veterans.
+We are looking for new team members who get excited about designing and delivering new and better products to join a team of 1,250 talented and passionate professionals. Come join us if you like to tackle big problems and make a meaningful difference in people's lives.
+Role
+Data Analytics Manager to lead and grow our Analytical Insights & Decision Optimization team. This key leadership role will support the build-out of the team and drive the increase in organizational value of the Phoenix Service Center through better "influencing" decision making (Analytics), and "optimizing" decision making (Predicting).
+
+We have large data sets that need to be analyzed to better understand our business and to identify new opportunities for efficiencies and improvement. You and your team will be responsible for setting up an operational DataMart, automating business-critical reporting, data mining and exploration, data modeling, and communicating critical insights to improve decision making. This team will also work with business teams across the Phoenix Service Center to support things like capacity planning, workload forecasting, workforce analytics, business impact analytics, call center analytics, and customer analytics.
+What You'll Do
+Hire and develop a team of data analysts, data scientists and data engineers
+Build strong and effective relationships with internal business leaders and SMEs
+Develop knowledge about business processes & systems and become data SME
+Organize and drive successful completion of analytics projects related things like capacity planning, workload forecasting, workforce analytics, business impact analytics, call center analytics, and customer analytics
+Oversee in-depth analyses and the creation of statistical models to identify trends and key drivers that inform important decisions across the business
+Oversee development of best practices for examining, interpreting, and communicating results of analytical initiatives to stakeholders in operations
+Oversee development of best practices to improve the overall quality of data being ingested to maximize reliability of models / insights
+ Manage and optimize processes for data intake, validation, mining, and engineering as well as modeling, visualization, and communication deliverables
+Collaborate with the corporate Data Architect and oversee the development of an operational DataMart
+Partner with the Performance Measurement and Reporting team to ensure high-quality data feeds and automated extraction practices are being deployed
+Identify opportunities to automate manual processes and improve efficiencies
+What We Look For
+6+ years relevant professional experience
+3+ years of relevant work experience within data science-related fields
+Working knowledge of data mining principles: predictive analytics, mapping, collecting data from multiple data systems on premises and cloud-based data sources
+Comfortable with ambiguity, developing creative solutions, and delivering against aggressive timelines
+Working knowledge of complex data models, BI methodologies, data architecture principals (MDM, Metadata, API Integration, Database Design etc.)
+Experience using analytical concepts and statistical techniques: hypothesis development, designing tests/experiments, analyzing data, drawing conclusions, and developing actionable recommendations for business units.
+Able to write SQL, minimum 2+ years of experience in SQL or alternative coding language
+Strong leadership and management capabilities
+Strong analytical and problem-solving skills
+Strong interpersonal communication and active listening skills
+Plus
+Bachelor's degree required (Computer Science or related major (i.e. Computer Science, Information Systems, etc.,)
+Advanced degree preferred (Masters in Data Analytics, PHD etc.
+Experience in financial services
+Benefits/Perks
+Competitive salary and stock option plan100% paid coverage of medical, dental and vision insurance401K matchUnlimited vacationLearning stipend for personal growth and developmentPaid parental leaveHealth & wellness initiatives
+__________________________________________________________________________________________________
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 

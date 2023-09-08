@@ -1,0 +1,83 @@
+United States
+Position Description
+The Volvo Group North America Digital & IT Development Program does not offer current or future sponsorship. Individuals with temporary visas or who require sponsorship for work authorization now or in the future are not eligible for the program.
+
+Volvo Group North America Digital & IT Development Program – Your ticket to a world of opportunities
+
+Data Analytics Engineer
+
+Imagine yourself working with some of the sharpest and most creative brains in the transport and infrastructure industry, developing cutting-edge technologies and sustainable transport solutions that will change the future of society.
+Imagine yourself working with IT in a company that really believes that people are its driving force, fostering a culture of energy, passion and respect for the individual.
+Imagine yourself working for the Volvo Group, a global leader in sustainable transport solutions. A place where your voice is heard and your ideas matter. Together we move the world.
+
+So what do we do at Volvo Group Digital & IT? For us, AI & Machine Learning, IoT, Cloud, Mobility, UX, cyber security, advanced analytics and other IT areas are top priority bringing Volvo Group into the future. Will you join us?
+
+What is the Volvo Group NA Digital & IT Development Program?
+
+The Volvo Group NA Digital & IT Development Program gives you a unique opportunity to gain a holistic view and understanding of the Volvo Group and the full Digital & IT community. It will be kick-start to your career through different assignments or parts of the organization, networking, professional and personal development. Upon completion of the program, you will continue to work in the position you were recruited in, either in the same delivery or in another assignment.
+
+From the start, you will have a full-time position within the Volvo Group. During the one-year program, you will work on real projects, side by side with colleagues. In parallel, you and your fellow program participants will take part in common learning modules designed to help you grow your network, develop as a person, and prepare you for your future career in the Volvo Group.
+
+What will you do?
+
+If analytics and data engineering is your area of expertise and you like the challenge of working with a great team, come join our work on various advanced technologies in the automotive domain. Together we will strengthen the Data Driven Product Development initiative within Group Trucks Technology (GTT)!
+
+At Digital Engineering, we are here to help the Technology streams with Data engineering and analytics through understanding the challenges each of the streams are having and exploring the possibilities of using data engineering and analytics capability to help the team in designing more robust and Quality products with Data Driven Development.
+
+You will report to the Group Manager for GTT Americas, Digital Engineering in Volvo Group Trucks Technology, and will be based in Greensboro, NC.
+
+Areas of responsibility include:
+Work with stakeholders throughout the organization to identify the opportunities to solve the design challenges faced by various Technology streams through effective data analytics
+Provide the required solutions to the design engineers from the Technology streams
+Mine and analyze data from company databases to drive optimization and improvement of product development.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, product quality, and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+In the initial steps of your professional development, you will work close together with senior colleagues and you will find a lot of training and career opportunities within Volvo Group Digital & IT Community.
+
+Do you have what it takes?
+A BS or MS or PHD in Computer Science, Engineering science, Statistics, Mathematics or other quantitative field.
+Maximum 18 months previous working experience prior to, or after graduation
+A passion for continuous learning
+A driven high achiever full of curiosity, self-confidence, and organizational skills
+A strong communicator who works well within a team, respects others, always encourages and supports colleagues with the customer goal in mind.
+Fluent in the English language including reading, writing, comprehending, and speaking.
+Ability to present to various levels of management.
+Statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets. Hands-on experience in working with distributed computing technologies like Hadoop and Spark
+Basic Knowledge of a machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.)
+Statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.)
+Who are you?
+
+For us, IT is all about collaboration. This means that you have strong communication skills and the ability to interact with peers, colleagues, managers, and other departments around in the organization. We’re looking for people who have the will to learn from each other, who will always support the team and understand that together we reach further than going solo. To manage this position, we also believe it´s important to have:
+
+Travel
+
+Occasional travel is required.
+About us
+The Volvo Group drives prosperity through transport solutions, offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Founded in 1927, the Volvo Group is committed to shaping the future landscape of sustainable transport and infrastructure solutions. Countless career opportunities are offered across the group’s leading brands and entities that share a culture of Trust, Passion, High Performance, Change and Customer Success.
+www.volvogroup.com/career.
+Volvo Group Trucks Technology provides Volvo Group Trucks and Business Area's with state-of-the-art research, cutting-edge engineering, product planning and purchasing services, as well as aftermarket product support. With Volvo Group Trucks Technology you will be part of a global and diverse team of highly skilled professionals who work with passion, trust each other and embrace change to stay ahead. We make our customers win.
+Auto req ID
+132296BR
+Organization
+Group Trucks Technology
+State / Province
+North Carolina
+City/Town
+Greensboro
+Employment/Assignment Type
+Regular
+Travel Required (maximum)
+Occasional Travel
+Functional Area
+Information Technology
+Last application date
+04-Nov-2022
+US Disclaimer text
+Volvo Group North America is an Equal Opportunity Employer
+E.O.E./M/F/Disability/Veteran
+
+We Participate in E-verify 

@@ -1,0 +1,71 @@
+About Us
+
+BlastPoint is a B2B data analytics startup located in the East Liberty neighborhood of Pittsburgh. We give companies the power to solve business problems through discovering the humans in their data and understanding how they think. Serving diverse industries including energy, retail, finance, and transportation, BlastPoint’s software platform helps companies plan solutions to customer-facing challenges, from encouraging green behavior to managing customers’ financial stress. Founded in 2016 by Carnegie Mellon Alumni, we are a tight-knit, forward-thinking team.
+
+Salary Range: $120K - $150K
+
+ Why You Should Work for Us
+
+Solve Challenging Problems: BlastPoint’s platform incorporates cutting-edge approaches to geospatial data, psychographic clustering, data enrichment and a dynamic visualization environment, all at scale. We’re working to break new ground by pulling insights from high-dimensional data. And we’re pushing ourselves to try new and better ways to approach every step of our process.
+
+Have An Impact: Small but mighty, BlastPoint’s growth is due to big companies increasingly trusting us with supporting key decisions using their most sensitive data. What we do positively impacts the lives of millions of Americans (and beyond).
+
+Make Positive Change in the World: Our solutions reduce paper consumption, help struggling families pay their bills, and promote clean energy. We also offer our platform for free to nonprofits and civic-oriented organizations.
+
+Employee-Focused Culture: We support the individual needs of our team, offering schedule and work-from-home flexibility, health insurance, 401K, and three weeks of PTO. We also tailor growth opportunities, from skills training to industry conferences.
+
+Job Description
+
+We are looking for a talented Data Engineer to join our growing engineering team. The ideal candidate for this position brings together strong software engineering skills and cloud infrastructure expertise to ensure smooth and timely delivery of actionable insights to customers, leading engineering projects from concept to delivery, contributing to BlastPoint's data onboarding activities, and ensuring that our platform and supporting services are highly-available, secure, and well-maintained.
+
+Primary duties for this position include:
+
+designing, building, testing, and maintaining robust, scalable data pipelines to support BlastPoint's data cleansing, enrichment, processing, analysis, and validation activities
+
+writing clean and efficient server-side Python code for the BlastPoint Customer Intelligence Platform
+
+automating data onboarding and analysis processes to support greater data variety and velocity
+
+integrating client data with a wide variety of public and private sources
+
+protecting data integrity and security throughout the project lifecycle
+
+Professional Requirements
+
+Bachelor’s degree or equivalent experience in computer science, mathematics, statistics, economics, or a similar field of study
+
+2+ years of work experience in data engineering, software engineering, data science, or a related discipline
+
+Advanced proficiency developing Python code that's readable, idiomatic, and performant
+
+Strong knowledge of the pandas DataFrame API and related packages in the Python data science ecosystem
+
+Relational database experience, preferably using PostgreSQL
+
+A strong working knowledge of AWS cloud services, including but not limited to: RDS, SageMaker, ECS, ECR, EC2, S3, IAM, VPC, Elastic MapReduce, Lambda, AWS Backup, CloudWatch, and CloudTrail
+
+Excellent communication skills
+
+Authorized to work in the United States
+
+Preferred Skills and Experience
+
+Experience with cluster computing frameworks, e.g. Spark and Dask
+
+A working knowledge of common machine learning tools and techniques
+
+Experience using Terraform to deploy and configure virtual infrastructure in the AWS cloud environment
+
+Experience building CI/CD pipelines using Github Actions
+
+Highly attentive to detail, with a skeptical sixth sense about data quality
+
+An ability to work independently in a challenging, fast-paced environment with several ongoing concurrent projects
+
+A can-do mentality, with the willingness to take initiative to solve problems
+
+Recognition that there are always multiple answers to a problem
+
+An ability to engage in a constructive dialogue to find the best path forward
+
+A willingness to travel to the Pittsburgh, PA office periodically (roughly 4-6 times per year), provided that it is safe to do so 

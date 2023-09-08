@@ -1,0 +1,33 @@
+Where would you work?
+
+Adaviv aims to make every indoor farm a highly profitable and sustainable farm through our Plant Intelligence and Digital Lean Cultivation platform. We are building an AI-powered plant care software to keep digital eyes on plants and help growers know what each plant needs to get the most consistent and highest yields. By initially focusing on high value crops like cannabis, we are enabling growers to continually improve the growth of each plant.
+
+Adaviv spun off from MIT, is venture-backed and currently based in Greentown Labs, Somerville, MA (the largest clean-tech accelerator in the world). Our founding team consists of three former MIT researchers/students (2 technical PhDs + MBA), whose domain expertise covers all dimensions of our products, from Biology to AI and Operations/Business. We have an excellent track record in MIT’s entrepreneurial ecosystem, having graduated from the MIT DesignX and Delta V accelerator programs in addition to being one of only a few startups to graduate from the 2020-2021 Creative Destruction Labs Agtech Program.
+
+We are working with some of the world's leading greenhouse and indoor producers of medicinal and recreational cannabis. We are at an exciting stage of our growth and are looking forward to adding passionate and mission-driven individuals, with a growth mindset, to the team.
+
+What would you be doing?
+We are seeking highly motivated students, graduate students or professionals with a strong technical background in machine learning/vision and a passion for agriculture or sustainability to join the growing team. As a Computer Vision Data Science Engineer, you will be working with our Technical lead, Software Engineers and Project Managers to build onto our Plant Computer Vision -to- Insights pipeline. You’ll have opportunities to work on fine-tuning CNN models, quantifying and tracking model results and building predictive algorithms and data visualizations for crop performance. You will get to wear many hats and be exposed to many dimensions of building a deep-tech product. You will also gain unique experience working in a fast-moving startup project and learn the tricks of the trade with the potential to play a larger role as we grow. There will be an opportunity to grow a longer term role.
+This role is open to graduate student internships, Co-ops and Full Time positions.
+Responsibilities may include:
+
+Data exploration and integration from different sensor data streams with a focus on multiple types of image data; explorative data visualization.
+Build, parameterize and hyper-tune CNN models for plant disease detection
+Improve on crop forecasting models.
+Test and iterate model architectures and parameters to help accelerate model improvements.
+Experimenting with Model Architecture tweaks to improve Model Performance on outside data.
+Region of Interest mining using unsupervised/learning approaches.
+Present your work internally and share key results with the team on a regular basis.
+Cloud automation and deployment of data pre-processing, models and output
+Degree Requirement:
+
+Hold or pursuing a degree in Computer Science, Robotics, Machine Learning and Computer Vision or a related field.
+Skills and Qualifications:
+
+Experience with one or more general purpose programming languages, including: Python, C/C++, Java, or MATLAB.
+Experience engineering deep learning model architectures and parameterization, computer vision and CNNs, including familiarity with Tensor Flow and cloud ML pipelines such as AWS Sagemaker.
+Experience performing statistical analyses and building data visualizations.
+Contribution to research communities and/or efforts, including publishing papers and/or presenting at conferences.
+Team player and passion to work in a highly collaborative, fast-moving environment and to see your technical work applied in an industry setting.
+Final Words. Principles of sustainability are at our core. We value integrity, excellence, hard work, respect, and collaboration. You will operate as a member of a fun and diverse team (6 nationalities!) as well as completing tasks as an individual. We promote and foster diversity of people and ideas, while cultivating empathy for our customers and for fellow team members.
+Want to be part of our team? If Adaviv sounds like the type of company you’d like to be a part of and want to help us change how we grow food and medicines for the better, then please apply. We look forward to hearing from you! 

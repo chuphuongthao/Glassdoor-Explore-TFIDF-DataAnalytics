@@ -1,0 +1,25 @@
+Job Description
+The Disney Streaming Data and Analytics organization is seeking a Senior Data Analyst who will be an exceptional addition to our Advanced Analytics, Content team. As Sr. Data Analyst, you will join our content team that applies analytical rigor to optimize our content portfolio, merchandising and release strategy.
+The right person for this role has exceptional analytical capabilities, thrives in a fast-paced environment, loves problem-solving, is a strong communicator, and is passionate about television and movie content. If you are someone who gains personal satisfaction from utilizing data to drive business decisions and you’re eager to learn, then this is a great role for you.
+Responsibilities
+Apply advanced analytics techniques (data mining, data visualization, statistical analysis, machine learning) on large-scale, high-dimensional data to help drive business decisions
+Analyze customer behavior (e.g., genre preferences, viewing patterns) to identify unmet customer needs and untapped content opportunities
+Predict content engagement to help guide acquisition decisions
+Optimize our content launch and episode release strategy
+Test merchandising strategies to optimize engagement and retention
+Ideate and develop new metrics and KPIs, measuring content performance for both tactical and strategic decision-making
+Provide ad-hoc analysis support for stakeholders to help move the business forward
+Effectively communicate actionable results through compelling data storytelling across the organization
+Basic Qualifications
+At least 5 years of experience in SQL and R and/or Python
+At least 5 years of experience in statistical analysis and machine learning techniques: decision trees, regression, clustering etc.
+Demonstrated ability working independently and applying creativity in solving open-ended problems
+Outstanding data storytelling skills through verbal, written, and visual communication
+Preferred Qualifications
+A passion for Media and Entertainment
+Required Education
+Bachelor’s degree in Mathematics, Statistics, Operations Research, Computer Science or equivalent experience
+Preferred Education
+Master’s degree in Data Science, Mathematics, Statistics, Operations Research, Computer Science or equivalent experience
+Additional Information
+DISNEYTECH 

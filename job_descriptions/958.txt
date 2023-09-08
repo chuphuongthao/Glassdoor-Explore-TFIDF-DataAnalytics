@@ -1,0 +1,22 @@
+100% REMOTE Senior Data Engineer
+If you are a Senior Data Engineer with Spark and Scala experience, please read on!
+
+We are a growing company that is working with top brands in the world to evolve online marketing engagements. With more of a direct communication platform, we are creating a stronger consumer experience in hot industries such as music, sports, and gaming. We have the benefits of large company revenue but operate like a nimble startup with very little Engineering attrition (and over the course of a decade no less)! We have offices in Los Angeles, Seattle & NYC should you want to be onsite post covid but are 100% HAPPY to hire REMOTE!
+What You Will Be Doing
+- Build and edit Spark jobs in Scala for various tasks, ex - reading kinesis stream using Spark Streaming, joining and aggregating huge data sets, to integrating with third party data sources
+Develop and release new features to adapt to current business needsOwn our data infrastructure and have clear understanding of our businessMaintain high standards of code quality and encourage this by having collaborative, constructive code reviews
+Troubleshoot and solve issues across various systems
+Work in a collaborative environment with Data Science, Product, Research, and Engineering teams
+What You Need for this PositionSparkScalaSQLDatabase Fundamentals (ACID/Snowflake Schema)HDFS (Preferred)S3 (Preferred)Data Science tooling in Spark (Plus)AdTech (Plus)
+What's In It for You100% company-paid health, dental, and vision coverage for you and your dependents, as well as life insurance and disability coverageUnlimited PTOOpportunities for profit sharing, bonuses, and ownership401(k) plus matchCell phone reimbursement and subsidized gym membershipAnnual professional development stipend
+So, if you are a 100% REMOTE Senior Data Engineer with experience, please apply today or email rajeev.peterson@cybercoders.com!Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance. 

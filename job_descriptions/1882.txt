@@ -1,0 +1,40 @@
+Title: Data Scientist
+Location: 100% remote - must live in AZ
+Open to sponsorship - must live in AZ
+Term: 4-month contract to hire
+Pay rate: $70/hr
+The Data Scientist drives internal data analytics projects. Projects will vary from short explorations of our data to longer-term implementations of advanced predictive and machine learning models. The Data Scientist II constantly explores our existing data while seeking out new data to consume. They apply analytical and data science methods to real world datasets to solve ongoing business problems. The Data Scientist II effectively communicates both technical and analytical concepts across all levels of the organization, and they influence the roadmap and decision-making through presentation of data-based recommendations.
+RESPONSIBILITIES:
+Researches and resolves data inquiries and requests
+Provides insights and serves as a subject matter expert for department data.
+Documents requirements for data science and reporting projects.
+Supports the development of standard data analyses, reports, and dashboards.
+Collaborates with other teams to gather data and build relationships
+Performs time-series analyses, hypothesis testing, and causal analyses to statistically assess relative impact and extract trends across all relevant functional areas
+Transforms data into actionable insights and recommendations.
+Designs experiments and interprets the results to draw detailed and actionable conclusions.
+Builds statistical models to enhance understanding of trends and predicts future performance.
+Finds new opportunities and novel applications for our core internal data.
+Translates and champions our Machine Learning capabilities for non-technical audiences.
+Participates in end-to-end data science project lifecycle – data mining and exploration, model development and evaluation, solution deployment in production, measurement and tracking.
+Designs, validates and evaluates solutions using R, Python, SQL and other programming tools.
+Creates presentations for senior leaders, which are often used to build board level presentations.
+Performs other job-related duties as assigned or apparent.
+
+QUALIFICATIONS:
+Experience extracting data using SQL.
+
+MINIMUM QUALIFICATIONS:
+Bachelor's Degree in an analytical field (Mathematics, Economics, Statistics, Engineering)
+2 years of demonstrated knowledge of statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, decision trees. Demonstrated knowledge in working with large databases to perform complex analysis
+2 years of demonstrated proficiency with quantitative tools including MS SQL, SAS, R, Python or similar statistical software.
+
+
+
+Equal Employment Opportunity
+
+MATRIX is committed to providing a work environment that values diversity, equity, inclusion and respect. We do not discriminate based upon race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status (including registered domestic partnership status), sex (including pregnancy, childbirth, lactation and related medical conditions), gender (including gender identity and expression), age (40 and over), sexual orientation, military and veteran status and/or any other characteristic protected by federal, state or local law.
+
+MATRIX is committed to providing access and reasonable accommodations for qualified individuals with disabilities. Supporting medical or religious documentation will be required where applicable. If you are a qualified individual with a disability, you may request a reasonable accommodation under the American Disability Act (ADA) by emailing MATRIX_HR@MatrixRes.com. To ensure a quick response to your request, please use the words “Accommodation request” as the subject line of your email.
+
+For hourly W2 contract roles MATRIX offers a highly competitive benefit package including Medical, Dental, Vision, Life, Disability, HSA, and 401(k) with pre and post-tax options. Please see MatrixRes.com/Benefits for more information. For direct hire placement with our clients, benefits will be offered in accordance with that particular client’s offerings. This may include PTO, Medical, Dental, Vision, 401K and other pre and post-tax options. 

@@ -1,0 +1,34 @@
+RESPONSIBILITIES:
+Kforce has a client that is seeking a Data Analyst in Saint Louis, MO.
+
+Essential Functions:
+
+Data Analyst will design and develop CRM Analytics BI applications within Salesforce
+Train and upskill team members that are new to Salesforce
+Utilize data manipulation and aggregation techniques, descriptive statistics and/or data visualization methods to design KPIs that measure various firm strategies
+Leverage business and analytic acumen to develop prototypes that answer business questions, validate use cases or document understanding of key requirements/stakeholder needs
+Query, manipulate and validate data across multiple domains using database technologies and querying languages such as SQL or Snowflake
+Conduct meaningful descriptive statistical analysis through exploratory analysis to identify correlation among variables, data distributions, quartile rankings and measures of frequency
+As a Data Analyst, you will apply intermediate statistical concepts such as cluster analysis, multivariate regression, sensitivity and scenario analysis, root cause analysis to identify patterns or trends which inform business decisions on ambiguous or open-ended business problems; Experience with hypothesis testing, economic modeling, a plus
+Create data visualizations that simplify complex information in a robust, accurate, and appealing visual story that engages stakeholders and drives them to action
+
+Project Details:
+Come join us in Firm Analytics, where we strive to unleash the full potential of data to address business challenges. As an analyst on our team, you will design, develop, and deliver CRM Analytics to our internal customers as well as branch teams by applying best in class data manipulation, descriptive statistical analysis, and impactful data visualization techniques. You will combine data from multiple sources to develop innovative analytical solutions to business problems.
+
+REQUIREMENTS:
+
+5+ years of experience in data analytics plus an Undergraduate degree
+Ability to prioritize and execute on multiple tasks as well as adjust to changing priorities with minimal leader oversight
+Strong analysis skills, primarily investigating and explaining trends and variances using statistical techniques
+Works effectively in both an independent or team environment
+Ability to effectively communicate with associates and leadership in cross-functional settings using verbal, written and presentation skills
+Extensive knowledge and experience in working with the Salesforce data model
+Experienced in designing, building, and developing complex data objects plus developing robust data visualization in CRM Analytics within Salesforce
+Candidate must have robust experience in being the lead developer for enterprise level solutions using CRM Analytics
+
+Preferred Qualifications:
+
+Degree in Mathematics, Sciences, Engineering, Finance, and Information systems preferred; Advanced degree is a plus
+Statistical tools such as R, SAS, SPSS, Python, or Dataiku, a plus
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. 

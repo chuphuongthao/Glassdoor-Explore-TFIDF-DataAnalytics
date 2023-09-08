@@ -1,0 +1,49 @@
+Position: AVP, Data Infrastructure Transformation
+Job Location: Cary, NC (Hybrid Office Schedule of 3-days in, 2-days out)
+Department: Global Technology & Operations (GTO)
+The Role: The AVP, Data Infrastructure Transformation will provide leadership and guidance in developing and implementing a global cloud-based data technology strategy in alignment with business outcomes and industry trends. This includes assessment, rationalization and optimization of current data infrastructures, processes, and tools, recommending modern data infrastructure strategies that enable business innovation, speed to market, and reduces technology currency. The leader will partner with Infrastructure and Technology stakeholders (Architects, CIOs, and Regional Application Development Leaders) to capture requirements and effectively deliver transformative cloud data infrastructure and migration solutions to support MetLife’s data ecosystem and business priorities.
+The role will be an advisor to Executive Leadership on data technology industry trends and competitive advantage, delivering scalable and flexible technology that supports diverse data sources and consumption patterns.
+Key Responsibilities:
+Influence and drive selection process of cloud hosted data technology capabilities, including, vendor/solution evaluation, Proof of Concepts, pilots, and support developing of the business cases.
+Lead the data infrastructure design, planning and execution of enterprise class, large transformational initiatives.
+Enable self-service of resilient and secure cloud data capabilities using infrastructure-as-code.
+Develops standards, best practices, and implementation patterns for deploying cloud data capabilities.
+Develop, maintain, and cultivate strong customer relationships at all levels, with special emphasis on executive level IT leaders and architects.
+Articulate industry trends and act as a technical/trusted advisor across enterprise business units, IT and partners.
+Develop, influence, and evangelize emerging data technology trends to drive innovation, support business transformation and evolve culture.
+Work with the business and other non-technical resources to provide financial guidance and forecasting based on technical requirements.
+Recruit, manage, and build a team of innovative cloud data engineers.
+Key Relationships:
+Reports to: Vice President, Data Infrastructure Services
+Direct reports/team: TBD
+Key Stakeholders: CTO/EVPs, Regional CIOs, SVPs, VPs, Data & Analytics, Digital, AD, ITRS, GTO
+Essential Business Experience and Technical Skills:
+10+ years of IT infrastructure experience designing and building scalable, performant data solutions (e.g., OLTP, master data management, and data warehouse) on-premises, in the public cloud (e.g., Azure), and hybrid cloud.
+5+ years of experience developing technology business cases with financial assessments, value drivers and execution capabilities.
+5+ years team leadership, supervisory or other management experience.
+4+ years of Cloud data architecture, storage, compute services and solutions.
+Demonstrated experience developing and executing enterprise scale transformational strategies.
+Extensive knowledge with architecting modern data integration frameworks, highly scalable distributed systems using emerging data architecture designs and patterns.
+Expert ability to evaluate, prototype and recommend emerging Cloud data technologies.
+Enterprise scale expertise in data management standard methodologies such as data integration, data security, data warehousing, data analytics, metadata management and data quality.
+Ability to influence and drive technology innovations, execution, and adoption at an enterprise level, globally.
+Outstanding executive communication skills, written and oral.
+Bachelor’s degree in Computer Science or related discipline or equivalent work experience; Advanced degree preferred.
+MetLife Success Principles
+Experiment with Confidence – Courageously learn and test new ideas without fear of failure
+Act with Urgency – Demonstrate speed to action with agility and determination
+Seek Diverse Perspectives – Source ideas and feedback to expand thinking and make informed decisions
+Seize Opportunity – Drive responsible growth and identify areas for continuous improvement
+Champion Inclusion – Foster an environment where everyone is valued, heard, and can speak up
+Create Alignment – Partner with others across the organization with candor and transparency
+Take Responsibility – Be accountable and act in pursuit of the right outcomes
+Enable Solutions – Anticipate and address obstacles while managing risk
+Deliver What Matters – Execute meaningful priorities and follow through on commitments
+MetLife:
+MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies, providing insurance, annuities, employee benefits and asset management to help its individual and institutional customers navigate their changing world. Founded in 1868, MetLife has operations in more than 40 countries and holds leading market positions in the United States, Japan, Latin America, Asia, Europe and the Middle East.
+We are one of the largest institutional investors in the U.S. with $642.4 billion of total assets under management as of March 31, 2021. We are ranked #46 on the Fortune 500 list for 2021. In 2020, we were named to the Dow Jones Sustainability Index (DJSI) for the fifth year in a row. DJSI is a global index to track the leading sustainability-driven companies. We are proud to have been named to Fortune magazine’s 2021 list of the “World’s Most Admired Companies.”
+MetLife is committed to building a purpose-driven and inclusive culture that energizes our people. Our employees work every day to help build a more confident future for people around the world.
+The role is eligible for incentive compensation under the sales incentive plan for your position. MetLife offers a comprehensive benefits program, including healthcare benefits, life insurance, retirement benefits, parental leave, legal plan services and paid time off. All incentives and benefits are subject to the applicable plan terms.
+We want to make it simple for all interested and qualified candidates to apply for employment opportunities with MetLife. For further information about how to request a reasonable accommodation, please click on the Disability Accommodations link below.
+MetLife is a proud Equal Employment Opportunity and Affirmative Action employer dedicated to attracting, retaining, and developing a diverse and inclusive workforce. All qualified applicants will receive consideration for employment at MetLife without regards to race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital or domestic/civil partnership status, genetic information, citizenship status, uniformed service member or veteran status, or any other characteristic protected by law.
+MetLife maintains a drug-free workplace. 

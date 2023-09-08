@@ -1,0 +1,22 @@
+You have a clear vision of where your career can go. And we have the leadership to help you get there. At CNA, we strive to create a culture in which people know they matter and are part of something important, ensuring the abilities of all employees are used to their fullest potential.
+Be a member of an entrepreneurial team within the Analytics and Data Model Office helping drive analytics initiatives across the enterprise. Become a CNA data subject matter expert and be innovative in making processes more efficient through automation and the use of new tools. Build out data visualizations and assist CNA’s leaders in determining key insights to address CNA’s highest priority and most pressing problems leveraging cloud based technology such as Google Big Query, ThoughtSpot, and Looker. Be a part of the foundation of CNA’s journey towards a data-driven organization and leader to CNA’s goal of becoming the smartest underwriting company. The successful candidate will be technically strong and will enhance our analytical capabilities.
+JOB DESCRIPTION:
+Essential Duties & Responsibilities
+Design, build and own “one source of truth” business friendly data structures and visualizations to facilitate consistency and efficiency in extracting and analyzing data across the organization. Evangelize and serve as an expert on modern cloud based technologies for the entire organization Drives accountability for data integrity by developing and executing necessary processes and controls around the flow of data. Analyze data for reasonableness and accuracy, determining causes of inaccuracies and proposing solutions for improved data capture and data quality. Support Enterprise initiatives through data analytics by partnering with business leaders in identifying opportunities to build and analyze metrics through data visualizations Innovate and improve efficiency of managing data to allow for greater speed and accuracy of producing analyses, metrics and insights. Collaborates with management, technical staff and subject matter advisors to understand business needs/issues, troubleshoot problems, conduct root cause analysis and develop cost effective resolutions for data anomalies Participate in data governance initiatives to enhance current systems, ensure development of efficient application systems, influence the development of data policy, and support overall corporate and business goals. Verifies accuracy of table changes and data transformation processes. Ensures adequacy of test plans and monitors application testing results associated with data transformation processes between applications Stay up to date on data analytics trends and developments.
+Reporting Relationship
+Manager or above.
+Skills, Knowledge & Abilities
+Data analytics experience with strong SQL skills and a high level of proficiency in data visualization tools. Knowledge of applications such as Alteryx, Tableau, Looker, ThoughtSpot and other business related software a plus.
+Strong technical, analytical, and problem solving skills and ability to learn new techniques, tools, and programming languages.
+Broad knowledge of business functions, statistical methods of analysis, company systems and databases, and their integration.
+Strong verbal and written communication skills including technical topics to non-technical audiences.
+Ability to leverage enterprise applications for reporting and process improvement to meet business objectives.
+Ability to multitask in a fast-paced dynamic workforce.
+Ability to work independently as well as in a team environment.
+Readily adapts to change.
+Education & Experience
+Bachelor's degree in Analytics related field or equivalent.
+Typically a minimum of four years of related work experience.
+#LI-BN1
+#LI-remote
+CNA is committed to providing reasonable accommodations to qualified individuals with disabilities in the recruitment process. To request an accommodation, please contact leaveadministration@cna.com. 

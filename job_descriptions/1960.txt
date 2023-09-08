@@ -1,0 +1,49 @@
+Do you want to use your analytical abilities to make an impact on the healthcare of others? Join CVS Health as a Care Management Analytics Data Scientist, where you will implement analytic reporting & technology as it relates to contractual analytic reporting needs, program value evaluation, issue resolution, capabilities and stabilization. Here, you will be a part of a growing, high impact team that support various care management analytic activities as an individual contributor.
+
+Additionally, you will:
+
+Run reconciliation report and build stories for outcomes and delivery team. Develop outcome reporting, analytics and interactive Tableau dashboards. Evaluate program performance, identify opportunities, and uncover areas for program improvement. Use the information learned to provide recommendations and solutions to business partners.
+Perform analyses of structured and unstructured data to inform advanced statistical and mathematical analyses
+Use data visualization tools and techniques to effectively and efficiently communicate analytic findings to support business decisions and client reporting needs
+
+Explore, understand, and interpret sophisticated data environments, applying tools such as machine learning and natural language processing to analyze petabytes of data
+Recommend solutions to drive successful outcomes and build a data driven story of value, engage with stakeholders to obtain a true understanding of requirements to support both business decision making and client requests
+Utilize new technologies such as Teradata, R Markdown, Hadoop, Tableau, Snowflake, BigQuery, Google Cloud, and Alation to support reporting needs
+To be successful in this role you will bring with you a demonstrated history of success utilizing oral and verbal communication skills to present information and build partnerships. You should also have a high level of attention to detail. Your problem-solving skills will be tested as you further your understanding of data reconciliation, reporting, and analysis.
+
+Must be able to travel up to 10%. Travel may require but is not limited to flights, overnight stays, local travel, travel on short notice and other travel deemed necessary by the Company.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 60,000
+Maximum: 128,700
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+- 1-2 years data science experience required (experience gained at a college or higher education institute may be considered for experience required - we encourage college graduates to apply).
+1-2 years Tableau experience.2 plus years SQL & R experience or other relative programming experience.2 plus years Healthcare data analytics experience.
+
+COVID Requirements
+
+COVID-19 Vaccination Requirement
+CVS Health requires certain colleagues to be fully vaccinated against COVID-19 (including any booster shots if required), where allowable under the law, unless they are approved for a reasonable accommodation based on disability, medical condition, religious belief, or other legally recognized reasons that prevents them from being vaccinated.
+
+
+You are required to have received at least one COVID-19 shot prior to your first day of employment and to provide proof of your vaccination status or apply for a reasonable accommodation within the first 10 days of your employment. Please note that in some states and roles, you may be required to provide proof of full vaccination or an approved reasonable accommodation before you can begin to actively work.
+
+Preferred Qualifications
+4 plus years SQL experience or other relative programming experience in the context of applications such as Tableau, Teradata, Hadoop, Snowflake, BigQuery, Google Cloud, and Alation.4 plus years experience coding in R and R Markdown.4 plus years experience working in a professional environment with clients/partners including Reconciliation, Program Value Evaluation, and Root Cause Analysis.2 plus years utilizing machine learning and natural language processing tools.Masters Degree with concentration in Information Science, Mathematics, Computer Science, Statistics, Analytics, Epidemiology or other programming and data related fields of study preferred.Knowledge of epidemiology study design, healthcare claims dataExperience in designing measurements around clinical outcome (e.g. drug adherence, utilization of medical procedures), behavioral health outcome, social determinant of health.
+
+Education
+BA or equivalent experience.
+
+Business Overview
+Bring your heart to CVS Health
+Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day.
+
+CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. 

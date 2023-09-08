@@ -1,0 +1,32 @@
+Position Description
+US-based only.
+Developing database solutions to store and retrieve company information.
+Installing and configuring information systems to ensure functionality.
+Analyzing structural requirements for new software and applications.
+Build code to create databases and data infrastructure focusing on the coding visual aspects of a database, including display icons, buttons and other interactive components.
+Coding expertise in the creation of front and back-end code strings for data infrastructure and that automates data retrieval and storage process.
+Research and properly evaluate sources of information to determine possible limitations in reliability or usability.
+Apply sampling techniques to effectively determine and define ideal categories to be questioned.
+Compare and analyze provided statistical information to identify patterns, relationships and problems.
+Migrate data from legacy systems to new solutions
+Design conceptual and logical data models and flowcharts
+Improve system performance by conducting tests, troubleshooting and integrating new elements
+Optimize new and current database systems
+Define security and backup procedures
+Coordinate with the Data Science department to identify future needs and requirements
+Provide operational support for Management Information Systems (MIS) and ERPs.
+Define and utilize statistical methods to solve industry-specific problems in varying fields, such as economics and engineering.
+Prepare detailed reports for management and other departments by analyzing and interpreting data.
+Train assistants and other members of the team how to properly organize findings and read data collected.
+Design computer code using various languages to improve and update software and applications.
+Refer to previous instances and findings to determine the ideal method for gathering data.
+Identifying installation solutions for new databases.
+Determining the requirements for a new database.
+Publishing and/or presenting design reports.
+Identifying areas for improvement in current systems.
+Coordinating with other team members to reach project milestones and deadlines.
+Auditing database regularly to maintain quality.
+Creating systems to keep data secure.
+Able to compile and organize statistical information retrieved and present findings to management.
+Experience working with private and sensitive personal information.
+Confident in decision making and the ability to explain processes or choices as needed. 

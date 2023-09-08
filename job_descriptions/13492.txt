@@ -1,0 +1,54 @@
+Role: Finance Process Mining Data Engineer
+Location: Remote
+Job Term: Long-term Contract
+ Approved Remote Locations: Denver, CO, New York, NY, Houston, TX, Los Angeles, CA, and San Diego, CA,San Francisco, CA
+
+Finance Process Mining Data Engineer Description
+Client is seeking to fill the position of Data Engineer with a focus on process mining. The role will be within our Finance Transformation organization and will be responsible for planning, leading and executing on global, cross-functional, enterprise-wide projects that impact the Finance organization. We are seeking a detailed, motivated, solution-oriented individual that can work well with internal and external partners at all levels. The ability to think critically to plan and execute effectively while collaborating across teams and locations will be key to success. Currently, this role will focus on Finance related projects/initiatives, but a well-rounded process architect with experience in process mining is required.
+
+The selected candidate will drive successful adoption and maturity of Client’s Business Process Mining technology, in order to meet customer requirements, accelerate time to first value and drive measurable business impact.We are seeking a seasoned professional to work closely with Finance and supporting technical teams to drive process, system capabilities, and improvements that enable scale. This role is accountable for partnering with a large variety of cross-functional stakeholders to optimize finance processes, systems and controls with an eye to modernizing foundational tools used by the finance and broader community to enable scalable solutions to support business growth, enhance our internal controls and mitigate financial risks. Everyone at Client is expected to work with increased intensity and to meet our high expectations which are outlined in the level-specific Client Career Expectations.
+
+The main function of the Data Engineer is to develop, evaluate, test and maintain architectures and data solutions within our process mining COE. The typical Data Engineer executes plans, policies, and practices that control, protect, deliver, and enhance the value of the organization’s data assets. Looking for an experienced process mining data engineer to join our team. To succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources. Data engineer skills also include familiarity with several programming languages and knowledge of learning machine methods.
+
+Finance Process Mining Data Engineer Responsibilities
+Identify, source and analyze high volumes of complex process data and process maps from various platforms to drive analysis. Process, cleanse, and verify the integrity of data used for analysis, along with documenting the data requirement.
+Develop, test, and maintain process mining connectors, dashboards and datasets
+Configure relevant process KPIs in process mining dashboard for reporting
+Manage data engineering projects through the full cycle.
+Analyze and organize raw data
+Build data systems and pipelines
+Identify and underline business initiatives from a data engineering perspective
+Interpret trends and patterns
+Conduct complex data analysis and report on results
+Prepare data for prescriptive and predictive modeling
+Build high-performance algorithms, prototypes, predictive models and proof of concepts.
+Combine raw information from different sources
+Explore ways to enhance data quality and reliability
+Develop analytical tools and programs
+Collaborate with process owners, SME’S, and architects on several projects
+Support insight generation
+Design, construct, install, test and maintain our process mining management systems
+Ensure systems meet business requirements and industry practices
+
+Minimum Qualifications
+Bachelor’s degree in Computer Science, Information Systems, or related field
+2-5+ years working with process mining technology
+Understanding of data warehouses/lakes, data modeling, schema design
+Previous experience working directly with senior business leadership translating business needs into project requirements.
+Previous experience as a data engineer or in a similar role
+Technical expertise with data models, data mining, and segmentation techniques
+Strong programing background in Python, HTML, SQL (coding & queries), and Java
+Working knowledge of Tableau, PowerBI, Qlik
+Great numerical and analytical skills
+Able to create data visualization
+Some type of process mining training / boot camp
+Ability to work as part of a team, as well as work independently or with minimal direction.
+Excellent written, presentation, and verbal communication skills.
+Collaborate with process architects, modelers and engineering teams on project goals.
+
+Preferred Qualifications
+7+ years of experience in business intelligence, data engineering, business analytics or a similar field
+Master’s is a plus
+Self-starter with the ability to learn new tools, systems, and processes quickly.
+Experience working and influencing in a cross-functional global environment and with all levels of employees
+Data engineering certification (e.g IBM Certified Data Engineer) is a plus 

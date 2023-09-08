@@ -1,0 +1,51 @@
+Project Firstline Data Modernization Lead
+
+
+Salary Range: $70k-$90k
+
+
+Minimum qualifications:
+Bachelor’s degree in public health, health informatics, data science, or other related field
+
+AND
+
+Five years professional experience in health data or systems management
+
+
+Additional education or experience may substitute for one another.
+
+
+The purpose of this position is to accelerate the implementation of data modernization efforts, including core data modernization infrastructure, implementation of electronic case reporting (eCR), and modernization of the National Vital Statistics System (NVSS) to move towards faster, more automated sharing of vital statistics between the state and national levels.
+
+
+GOAL 1: The DMI Lead will take an enterprise approach to implementation of modernization activities and will lead and/or coordinate DMI activities across all diseases and conditions addressed by the health department.
+
+
+GOAL 2: It is expected that the DMI Lead will include all offices (e.g. informatics, public health labs, reportable conditions, vital records, and others) impacted by DMI work within the jurisdiction to appropriately select and move forward on modernization strategies in a coordinated and collaborative fashion.
+
+
+Deliverables:
+a) The Data Modernization (DMI) Lead will inventory informatics systems and staff in OPH groups including the Infectious Disease Epidemiology Section, the STD/HIV/Hepatitis Program, Immunization Program, Tuberculosis Control Program, Bureau of Health Informatics, Section of Environmental Epidemiology and Toxicology, OPH Laboratory, and the Office of the State Registrar in order to fully assess the informatics needs and opportunities across OPH.
+
+
+b) The DMI Lead will conduct an initial inventory, and identify stakeholders that will participate in an in-depth assessment of the status, strengths, needs, and potential opportunities for interoperability and collaboration between systems and groups.
+
+
+c) The DMI Lead will also include assessment for workforce competencies, proficiencies, and needs to ensure all systems are appropriately supported.
+
+
+d) Once assessments are completed, the DMI lead will compile all results and share with participating stakeholders and agency leadership.
+
+
+e) Based on the results of the DMI Assessment and informatics staff inventory, The DMI Lead will identify workforce strengths, needs, and opportunities.
+
+
+f) The DMI Lead will evaluate workforce needs and gaps in workforce competencies/proficiencies in order to determine possible approaches to improvement, including hiring additional personnel, improving access to training resources, cross-training among staff members, and technical assistance requests.
+
+
+g) The DMI Lead will identify enhancement activities to be targeted to ensure they support effective maintenance and improvement capacities for key informatics systems. Upon implementation of workforce enhancement interventions
+
+
+h) The DMI Lead will re-assess workforce capacities to evaluate effectiveness of enhancement activities.
+
+recblid mzw486636pnsbmowm06qtwaf0xvmsx 

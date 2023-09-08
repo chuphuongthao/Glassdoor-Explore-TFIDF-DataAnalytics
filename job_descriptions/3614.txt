@@ -1,0 +1,29 @@
+Description
+This role supports the fair banking oversight function by developing and implementing data analytic techniques to build business intelligence to understand and frame risks related to fair and responsible banking. The role has primary responsibility for running existing, periodic fair lending data analysis, developing an analytics program to evaluate unfair, deceptive, or abusive practices across consumer products offered by the bank to keep pace with the current regulatory and industry expectations, and expanding analytics, visualizations, and trending as needed to effectively identify risk. Additional responsibilities include engaging appropriate stakeholders in assigned business lines and applicable risk functions to produce expected deliverables and present analytical results.
+The duties of this position include but are not limited to:
+ Collect, organize and prepare data to be used in modeling/data analysis efforts
+Develop, implement, and enhance statistical models/analyses using various techniques e.g. exploratory data analysis, regression, bootstrapping, trees, cluster analysis, survival analysis, as well as traditional statistics methodologies and new techniques from computational statistics and data mining. Consider where advanced technologies and artificial intelligence can be used to monitor risks. You will have the opportunity to innovate, explore, and build solutions to identify and monitor fair banking risks.
+Provide insight into leading analytic practices, design and lead iterative learning and development cycles, and ultimately produce new and creative analytics.
+Collaborate with the first and second lines of defense on both development efforts and usage of model output. Interface with business sponsors as data and analytics solutions are deployed; validate solution and connect outputs of use cases with those responsible for taking action
+Present analytical findings in a variety of formats (reports, PPT, graphs, figures and tables), formulating recommendations, and effectively presenting the results to non-analytic audiences
+Keep current on fair banking risk industry direction, trends, and future capabilities with respect to data analysis.
+Qualifications
+Required Skills and Experience
+Minimum 5 years of experience in data analysis in financial services
+Experience with distributed database systems, such as SQL and Oracle, SAS and Python programming languages, and visualization tools such as Tableau
+Computer proficiency, specifically MS Office (Word, Excel, Access, PowerPoint, etc.).
+Must be self-starter with the ability to work independently and deliver efficient, accurate results.
+Team player who can manage to time sensitive deliverables.
+Education and Certifications:
+Master’s Degree in Statistics, Mathematics, Economics, Data Science, or Computer Science, or related field
+Ph.D. in a similar field a plus
+Hours and Work Schedule: 3 days in the office 2 remote
+Hours per Week: 40
+Work Schedule: Monday-Friday
+Some job boards have started using jobseeker-reported data to estimate salary ranges for roles. If you apply and qualify for this role, a recruiter will discuss accurate pay guidance.
+Why Work for Us
+At Citizens, you'll find a customer-centric culture built around helping our customers and giving back to our local communities. When you join our team, you are part of a supportive and collaborative workforce, with access to training and tools to accelerate your potential and maximize your career growth.
+Equal Employment Opportunity
+Citizens, its parent, subsidiaries, and related companies provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability or perceived disability, ethnicity, gender, gender identity or expression, genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague’s or a dependent’s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws.
+Equal Employment and Opportunity Employer/Disabled/Veteran
+Citizens is a brand name of Citizens Bank, N.A. and each of its respective affiliates. 

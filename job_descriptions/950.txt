@@ -1,0 +1,35 @@
+Equivalent Experience
+
+Position: Data Scientist
+Location: Hybrid, some days will be remote and some will be in-office. The office location is within Menlo Park, CA.
+Company Domain: Enterprise level high-tech company
+Client: Client name and additional position details will be discussed in initial call with recruiter.
+Job Description
+We are seeking a data scientist for our Small Business Group. This role entails using analytical techniques to drive impact with our cross-functional partners. The role will work within the Small Business Group Data Science Team.
+Responsibilities:
+Primary
+Provide analytical support to our cross-functional partners including pull data utilizing SQL and delivering those results via presentations, reporting, or dashboard development
+ Support product development with thought leadership on how data should be collected, stored, and utilized
+Manage requests and priorities independently
+Provide documentation of queries/inbound requests for future use
+Create new or improve existing dashboards and analyses to support key stakeholders
+Secondary
+Communicate results with internal stakeholders
+Understand existing data infrastructure and determine if queries are possible to run/share
+Partner with cross-functional teams to identify new opportunities requiring the use of modern analytical and modeling techniques
+Top Skills' Details
+SQL
+ A/B Testing and Statistics
+Python
+Company overview:
+The company's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at our company are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+Employee Value Proposition (EVP)
+At our company, we leverage data for good. Every piece of data helps us understand our products and growth, identify opportunities and execute ideas at global scale. They are able to make smarter, more informed decisions and develop better products that maximize our impact to bring the world closer together. In this role, you’ll see a direct link between your work, company growth, and user satisfaction. You’ll work with some of the brightest minds in the industry, work with one of the richest data sets in the world, use cutting edge technology, and get an opportunity to solve some of the most challenging business and engineering problems, at a scale that few companies can match. You will do so by partnering with stakeholders/teams and building scalable solutions that provide business critical insights and metrics, while ensuring the best uptime and responsiveness.
+Work Environment
+Fast Paced agile environment
+Business Drivers/Customer Impact
+SBG data science works on analyzing marketing campaigns impacting small/ medium sized business. This contractor will be
+directly conducting analysis that dictate how SBG will pivot from the results from the campaigns.
+About TEKsystems:
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law. 

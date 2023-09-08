@@ -1,0 +1,37 @@
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Description & Responsibilities:
+Data Scientist under general supervision will perform data engineering, data modeling and model deployment.
+Analyze large scale complex business data (time series data, structured/unstructured) from various data sources and draw insights
+Leverage common open-source Machine Learning/Deep Learning packages for identifying data patterns and/or building predictive models
+Conduct statistical analysis to determine trends and significant data relationships
+Keep up to date with latest Machine Learning and Artificial Intelligence advancements
+Work with data engineers to design and construct data pipelines for reproducible analysis
+Leverage cloud computing technologies like Microsoft Azure and distributed computing technologies like Apache Spark
+Present results of analyses, including design of graphs, charts, tables, and other data visualizations
+
+Qualifications:
+Industry experience in predictive modeling, data science and analysis.
+Knowledge of Machine Learning frameworks and packages, including Keras, TensorFlow, Scikit-Learn and cloud computing platforms like Azure.
+Experience handling terabyte size datasets, diving into data to discover hidden patterns and using data visualization tools.
+Experience writing code in Python, R, Scala, and distributed computing technologies like Spark.
+Demonstrated teamwork, strong communication skills, and collaborative in complex engineering projects.
+Completion of an undergraduate degree in STEM. Master's degree in STEM is preferred.
+
+Candidates having qualifications that exceed the minimum job requirements will receive consideration for higher level roles given (1) their experience, (2) additional job requirements, and/or (3) business needs.
+
+Halliburton is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation .
+
+Location
+2600 South 2nd St, Duncan, Oklahoma, 73533, United States
+
+Job Details
+Requisition Number: 149890
+Experience Level: Entry-Level
+Job Family: Engineering/Science/Technology
+Product Service Line: Production Enhancement
+Full Time / Part Time: Full Time
+
+Additional Locations for this position:
+Compensation Information
+Compensation is competitive and commensurate with experience. 

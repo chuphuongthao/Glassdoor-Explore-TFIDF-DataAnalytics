@@ -1,0 +1,52 @@
+Purpose of Job About USAA
+
+USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.
+
+This Data Scientist will be working in a remote (Work@Home) environment.
+
+Uses advanced techniques that integrate traditional and non-traditional datasets and method to enable analytical solutions. Applies predictive analytics, machine learning, simulation, and optimization techniques to generate management insights and enable customer-facing applications; participates in building analytical solutions leveraging internal and external applications to deliver value and create competitive advantage. Translates complex analytical and technical concepts to non-technical employees.
+
+Job Requirements
+
+Tasks:
+Identifies and manages existing and emerging risks that stem from business activities and the job role.
+Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled.
+Follows written risk and compliance policies, standards, and procedures for business activities.
+Partners with other analysts across the organization to fully define business problems and research questions; Supports SME's on cross functional matrixed teams to solve highly complex work critical to the organization.
+Integrates and extracts relevant information from large amounts of both structured and unstructured data (internal and external) to enable analytical solutions.
+Conducts advanced analytics leveraging predictive modeling, machine learning, simulation, optimization and techniques to deliver insights or develop solutions to achieve business objectives.
+Supports Subject Matter Experts (SME's) on efforts to develop , efficient, automated solutions for large scale data analyses, model development, model validation and model implementation.
+Works with IT to research architecture for new products, services, and features.
+Develops algorithms and supporting code such that research efforts are based on the highest quality data.
+Translates complex analytical and technical concepts to non-technical employees to enable understanding and drive informed business decisions.
+
+Minimum Qualifications:
+Master's degree in Computer Science, Applied Mathematics, Quantitative Economics, Statistics, or related field; OR 6 years of related experience (in addition to the minimum years of experience required) may be substituted in lieu of degree.
+4 years of related experience in predictive modeling, large data analysis and computer science.
+Proficient knowledge of the function/discipline and demonstrated application of knowledge, skills and abilities towards work products.
+Proficient level of business acumen in the areas of the business operations, industry practices and emerging trends.
+Experience in data mining and statistical analysis.
+Knowledge of Data Science principals and experience with data science methodologies.
+Experience with any one of the following statistical and predictive modeling approaches: Gaussian Process; Markov Models; Hierarchical Clustering; K-Means; Linear Regression; Logistic Regression; Monte Carlo Simulation; Neural Networks.
+
+Preferred Qualifications:
+Experience in Natural Language Processing techniques and approaches
+Experience utilizing Natural Language Processing in various Attrition modeling.
+Experience using Natural Language Processing in the analysis of call transcripts to identify sales practice errors and specific sales practice behaviors.
+
+The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+
+Compensation:
+USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: $88,200 – 158,900 * .
+
+Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors.
+
+
+Geographical Differential : Geographic pay differential is additional pay provided to eligible employees working in locations where market pay levels are above the national average.
+
+Shift premium will be addressed on an individual basis for applicable roles that are consistently scheduled for non-core hours. Benefits:
+At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.
+
+To see details on our outstanding benefits, visit USAA Total Rewards.
+
+Relocation assistance is not available for this position. 

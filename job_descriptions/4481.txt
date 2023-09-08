@@ -1,0 +1,61 @@
+Who Are We?
+Taking care of our customers, our communities and each other. That’s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 160 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it.
+Compensation Overview
+The annual base salary range provided for this position is a nationwide market range and represents a broad range of salaries for this role across the country. The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. As part of our comprehensive compensation and benefits program, employees are also eligible for performance-based cash incentive awards.
+Salary Range
+$104,600.00 - $172,500.00
+Target Openings
+1
+What Is the Opportunity?
+As an Architect in the Data and Analytics Architecture, you will be an working in an dynamic and transformative organization with a goal to create the next generation data and analytic capabilities at Travelers, a Dow 30 company. As a member within the Enterprise Architecture and Emerging Technology organization, you’ll be joining a strategic and collaborative team that is passionate about transforming our business and technology capabilities and paving the way for best-in-class solutions. You will collaborate with the other architects , engineers and business to apply your technical expertise to create best solutions to solve impactful business problems.
+
+
+In this role you will
+
+Design of the next generation information architecture that enables a business vision
+Be an expert in one or more areas across Data & Analytics domain including data storage (Data Lake & Data Warehouse), data integration, business intelligence, artificial intelligence & machine learningDrive the implementations of domain driven designs of Data Models, Data APIs and Data Products
+Partner with cloud and security architects, data and software engineers to implement cutting-edge but pragmatic solutions that will enable business outcomes with data and analytics using a combination of deep technical skills, business acumen, and strong interpersonal skillsKeep up with marketing trends in the Data & Analytics area and identify new opportunities of technologies & solutions; you will be part of the team driving the technology selection and partner with an engineering team to conduct proof of technologies
+Primary Job Duties & Responsibilities
+Architecture responsibility within a major segment of Technology Architecture in support of the Enterprise Data & Analytics business unit
+Leads technology proof of concepts to ensure feasibility of architecture solutions
+Hands-on prototyping of new technology solutions
+Partner with Software Engineering to execute proof of technologies
+Provides architecture direction for engineers in support of a technical pattern
+Displays strong thought leadership in pursuit of modern architecture principals and technology modernization
+Drives continuous technology transformation to minimize technical debt
+Create a partnership with Software Engineering
+Looks for opportunities to capitalize on technology advances through analysis of key industry and technology trends to assess potential impact on the enterprise
+Participates in defining target state technology architecture and roadmaps
+Ensures alignment of IT initiatives with the target state
+Minimum Qualifications
+Bachelor’s degree or its equivalent in work experience.
+Five years of experience in engineering software or analytic applications within a line of business area
+Education, Work Experience, & Knowledge
+Bachelor’s in technology related field or equivalent with 4+ years of technology Engineering experience
+Organizational experience in an agile operating model
+Established work in proof of concepts and technology
+Strong proven Software Engineering experience
+Supports technology target state, roadmaps that aligned to Short- and Long-term business goals
+Insurance technology experience desired
+Strong grasp of value creation and business capability models
+Innovation and Continuous Improvement
+Job Specific Technical Skills & Competencies
+Has hands on experience in build strategies, roadmaps and solution architecture in the last 3 years
+Strong experience architecting big data solutions using Data Lake, Data Warehouse , Data Products
+Champion of data technologies in areas of data integration, Business Intelligence and AI/ML
+Expertise architecting and developing solutions in AWS, Snowflake and Databricks
+Experience in AWS components including: Lambda, Kinesis/Firehose, Airflow, Glue,Spark, EC2, SageMaker, S3, NoSQL database and API Gateway
+Experience in data streaming technologies
+Experience with No SQL and GraphQL technologies
+Experience in Data Modeling, Governance and Data Management
+Experience with specific DevOps and MLOps (Machine Learning) practices
+Cloud Architecture Certification (AWS, GCP, or Azure) or strong architecture experience on Cloud
+Good understanding of security
+Employment Practices
+Travelers is an equal opportunity employer. We value the unique abilities and talents each individual brings to our organization and recognize that we benefit in numerous ways from our differences.
+
+If you are a candidate and have specific questions regarding the physical requirements of this role, please send us an email so we may assist you.
+Travelers reserves the right to fill this position at a level above or below the level included in this posting.
+To learn more about our comprehensive benefit programs please visit http://careers.travelers.com/life-at-travelers/benefits/.
+
+0 

@@ -1,0 +1,73 @@
+About Pagoda
+
+Pagoda is the first-ever Web3 Startup Platform where developers and entrepreneurs can build, launch, and operate new blockchain-based products and services. As a primary builder of the NEAR Protocol, Pagoda delivers capacity, velocity, simplicity, and affordability needed to power tomorrow's Web3 startups.
+
+We are looking for an innovative, empathetic, and productive person who is excited about building the next generation of crypto startups, feels comfortable challenging opinions, and most importantly who shares with us the same desire to make the web free again.
+
+We encourage people of all backgrounds to apply. Pagoda is committed to creating an inclusive culture, and we celebrate diversity of all kinds.
+
+What You'll Get For Joining:
+
+Unlimited Annual Leave / PTO
+$2,000 Yearly Continued Education Reimbursement
+$2,000 Home Office Setup Reimbursement
+Yearly Company Retreats (2022 in Lisbon!)
+Paid Holiday Week: the last week of the year
+Paid Summer Wellness Week: the first week of July
+Mental Health Support and access to licensed therapists through Spill, 100% paid by us
+
+About The Role:
+
+Pagoda is the first-ever Web3 Startup Platform where developers and entrepreneurs can build, launch, and operate new blockchain-based products and services. As a primary builder of the NEAR Protocol, Pagoda delivers the capacity, velocity, simplicity, and affordability needed to power tomorrow's Web3 startups.
+
+The Pagoda Data Platform team is looking for Data Scientists to build product metrics and deep insights to user behavior for all product lines at the company.
+
+What You'll Be Doing:
+
+Collaborate with product managers and executives to understand user behavior across all our products, both on-chain (NEAR) and off-chain (web applications and CLI tools);
+Build actionable product metrics using various business intelligence and data visualization tools;
+Respond to new data requests, understanding the underlying information needed, and estimating the technical efforts to query the data, visualize and present the result;
+Focus on deep insights to understand the needs of various segments of users and help identify new product opportunities.
+Cultivate data-driven decision making culture at the company and constantly research and adopt the most recent best practices in product analytics;
+Work in a global, remote-first environment, collaborating on a daily basis with teams in different regions and with different cultural and language backgrounds
+Maintain fast time to insight for all stakeholders you interact with.
+
+What We're Looking For:
+
+Fluency in writing complex analytical SQL queries;
+Fluency in any of BI tools such as Tableau, Looker, Data Studio and similar;
+Fluency in Python for Data Analytics;
+Experience in finding customer retention solutions and churn patterns through data analytics;
+Strong data storytelling skills and ability to explain complex insights in a succinct way;
+Strong communication and remote friendly working skills;
+Bachelor's Degree in Computer Science or related fields is a must
+
+We'd Love If You Have:
+
+Experience working with DataBricks and BigQuery technologies;
+Experience with custom events with Google Analytics;
+Familiarity with crypto or blockchain technologies;
+Experience working at a startup.
+
+Here's What Our Interview Process Looks Like:
+Depending on calendar availability, from the first stage to the final stage, we do our best to keep the entire process to under three weeks. Our interviews take place via Zoom and typically consists of the following stages:
+
+Internal Recruiter Call (30 to 45 minutes)
+Technical Interviews (4 x 60 minutes)
+Pagoda Values Interview (30 to 45 minutes)
+
+Please let us know if you require any special requirements for your interview and we'll do our best to accommodate.
+
+Ideal Location For This Role
+This is a fully remote role, so that your timezone matches or overlaps with our leadership for this role, you'll ideally be located in Americas or Europe.
+Our Values at Pagoda
+
+Innovate and deliver—so our customers can build. We deliver new solutions for real, often urgent, customer needs. Practical over hype. We uphold our standards of excellence while balancing velocity and pragmatism.
+
+Focus precious time and energy on what matters. We are intentional about where we aim our resources. We channel our talents to focus on the critical missions in order to make an outsized impact.
+
+Favor ownership, agency and action. Everyone is an owner. As individuals, we are responsible and accountable for our work. We empower builders to make decisions and innovate without the burden of unnecessary roadblocks or complexity.
+
+Work as a team of empathetic humans. We practice mutual respect, open communication, humility and collaboration. We are kind and empathetic. We are welcoming towards diversity in all forms, including differences of perspective.
+
+Never break trust. Integrity is rare—and valuable—in this space. Reputation is hard to build and easy to break. 

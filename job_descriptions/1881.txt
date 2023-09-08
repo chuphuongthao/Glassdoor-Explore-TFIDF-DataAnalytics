@@ -1,0 +1,27 @@
+Tech Lead - Data & Analytics
+If you are a Data & Analytics Tech Lead with 10+ years of experience in data warehousing/data lake implementations, please read on!
+
+Job Title:Data & Analytics Tech Lead
+Location: REMOTE
+Salary: $120k - $150K
+Requirements: B.S. in Computer Science/ 10+ years experience in data engineering/ Strong knowledge building data lake using Databricks and AWS
+
+This would be an amazing opportunity if you are looking to play a key role in the data processing pipeline process, working with an amazing team!
+
+Additional ways in which a candidate may stand out would be:
+You have a passion for Data and Analytics, as well as advanced Analytics using ML/AIAn expert-level understanding of ETL fundamentals and building efficient data pipelines5+ years of hands-on experience with big data technologies (Spark Required)Experience with SQL, data modeling, automated engineering solutions, and AWS cloud environments
+What You Will Be DoingDesign and develop distributed data processing pipelines to integrate data from various sources into BCIs Data/Delta Lake
+Create data models that align with Delta Lake standards
+Implement ETL, Storage, and ML/AI solutions in the Databricks platform using Python, Apache Spark, AWSUtilize Databricks Lakehouse functionality to build conformed layers within the data lakeExecute testing strategies to ensure high-quality warehouse data
+What's In It for YouCompetitive Salary
+- Full Benefits Package - Medical, Dental, Vision
+401kLife InsuranceDiscounted Gym Membership!Paid Time Off & Holiday PayRemote working environment & flexible hours!
+We are ACTIVELY interviewing, so please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Nate PaulesApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

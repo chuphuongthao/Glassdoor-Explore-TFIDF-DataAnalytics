@@ -1,0 +1,19 @@
+If end date is listed, the posting will come down at 12:00 am on that date:
+DATA ANALYTICS SPECIALIST (XA7617)
+About The Position:
+The Data Analytics Specialist is responsible for contributing, both individually and as a part of a team, to design and implement processes related to predictive/analytical modeling, data mining and research on large scale, complex data sets. This position uses statistical analysis, graph modeling, text mining and other analytical techniques from initial data collection and conditioning to draw conclusions and results. This position collaborates with various internal and vendor teams, and provides periodic updates to stakeholders through presentations and prototype demonstrations.
+Key responsibilities include:
+Assist in the development, analysis and modeling of operational, economic, management and accounting data to quantify the performance of business segments, evaluate potential operational changes, and design new approaches and methodologies.
+Collaborate with others to define problems, collect data, apply advanced economic and mathematical concepts, establish facts and draw valid conclusions.
+Partner with co-workers to recommend solutions to new and complex problems, develop innovative strategies, quantify the competitive performance of the organization's operations and/or markets, evaluate the potential impact of changes, and report on economic forecasts that affect the industry.
+Develop reports for management on the overall performance of business segments and develops metrics to measure various characteristics of the business.
+Contribute to predictive/analytical modeling architectures, modeling standards, reporting, and data analysis methodologies.
+Collaborate with unit managers, end users, development staff, and other stakeholders to enhance operations by supplying data analytics insights into business processes.
+Collaborate and leverage the skills within the IT Analytics Center of Excellence to achieve desired results and increase adoption of analytics across the enterprise.
+Qualifications
+Bachelor's Degree in a technical discipline (e.g., engineering, mathematics, or statistics) required. Advanced degree in a technical discipline, engineering, mathematics, statistics, finance/economics or business management) is preferred, and will be considered in lieu of experience. One year of professional-level experience contributing individually or as part of a team to manage data analytics projects is required; relevant professional level internship experience will be considered.
+In addition to the above qualifications, the successful candidate will demonstrate:
+Knowledge of data mining/predictive modeling tools such as SAS, SPSS, etc. Understanding of predictive/analytical modeling techniques, theories, principles, and practices. Experience in more than one of: applying decision trees, logistic regression, factor analysis, statistical modeling, text mining and other advanced analytic techniques. Ability to conduct research into predictive/analytical modeling issues, practices, and products as required. Ability to interpret the results of analytical work, assess its relevance, and communicate the information in plain language. Proficient in working on multiple projects simultaneously, often with tight deadlines.
+Additional Information
+Ameren’s selection process includes a series of interviews and may include a leadership assessment process. Specific details will be provided to qualified candidates.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, ethnicity, age, disability, genetic information, military service or status, pregnancy, marital status, sexual orientation, gender identity or expression, or any other class, trait, or status protected by law. 

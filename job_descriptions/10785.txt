@@ -1,0 +1,29 @@
+Job Summary:
+The Product Design and Modeling team has an opening for a Director II, Data Science position that will drive pricing sophistication for the Liberty Mutual Homeowners line of business as a member of the US Design Team. The role will report directly to the Property and Specialty Design Lead and manage a team of 4 direct reports and will coordinate with teams throughout Design and Modeling and the Product organization to bring new pricing programs to market.
+Responsibilities:
+Build and develop a team of best-in-class modelers
+Establish yourself as a self-driven leader, providing both strategic and tactical direction in the US Homeowners pricing space
+Oversee the design, build, and deployment of complex loss cost models for Liberty Home products and related pricing areas
+Drive research and innovation in modeling and data science techniques to improve our accuracy, efficiency, and speed to market
+Explore and utilize advanced modeling techniques
+Work with massive amounts of to build sophisticated models
+Build strong relationships with leaders across the organization to maximize the impact of our product builds
+Help implement new pricing programs into market, including strategizing complex objection responses, and leading the modeling side of the roll-out
+Qualifications
+Technical competency as typically acquired through an advanced degree in Statistics, Mathematics, Economics, Operations Research, Actuarial Science, or other scientific discipline and 5+ years relevant experience. Insurance designations such as FCAS desirable.
+Exceptional leadership, analytical, problem solving, decision making, project management, communication, and organizational skills
+Deep knowledge of predictive analytics techniques and statistical diagnostics of models
+Expert skills in Excel, PowerPoint, and statistical/data processing software packages and programming languages (e.g., Emblem, RADAR, Python, R, SQL)
+Proven ability to lead and drive projects through others, develop talent, and engage employees, typically demonstrated through prior experience effectively managing talent
+Ability to establish and build relationships within and outside of the organization
+Strong knowledge of insurance principles, underwriting and ratemaking concepts and the procedures of Underwriting, Distribution, Claims, Information Technology, Legal, and Finance departments
+High-level knowledge of data sources, tools, and the business (lines, systems, pricing plans)
+At Liberty Mutual, our purpose is to help people embrace today and confidently pursue tomorrow. That's why we provide an environment focused on openness, inclusion, trust and respect. Here, you'll discover our expansive range of roles, and a workplace where we aim to help turn your passion into a rewarding profession.
+
+Liberty Mutual has proudly been recognized as a “Great Place to Work” by Great Place to Work® US for the past several years. We were also selected as one of the “100 Best Places to Work in IT” on IDG's Insider Pro and Computerworld's 2020 list. For many years running, we have been named by Forbes as one of America's Best Employers for Women and one of America's Best Employers for New Graduates—as well as one of America's Best Employers for Diversity. To learn more about our commitment to diversity and inclusion please visit: https://jobs.libertymutualgroup.com/diversity-inclusion
+
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation, gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.
+
+20 

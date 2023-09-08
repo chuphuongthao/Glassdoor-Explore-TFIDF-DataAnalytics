@@ -1,0 +1,22 @@
+Data Analyst - McLean, VA- $55/hr on W2
+
+Job Description:
+Running queries to pull data extracts, synthesize analyses, and interpret trends and variances.
+Supporting key reoccurring business reporting including the Commercial Performance Review and Commercial sections of the Quarterly Business Review (QBR)
+Collecting and analyzing data to support projects with cross-functional analytic and business teams, including but not limited to data science, marketing, digital, customer and product teams.
+Gathering requirements with the business or key stakeholder groups.
+Measuring and monitoring the performance and effectiveness of strategic commercial initiatives.
+Logging and tracking project and ad-hoc deliverables using demand management software
+
+Qualifications:
+Collaborative and organized teammates, who build positive relationships and trust
+Strong probing and problem-solving skills while using analytical techniques
+Multi-taskers, who manage multiple projects and priorities effectively under time constraints
+Persuasive communicators, who will positively influence client’s partners with clear and concise messaging
+Self-starters, who take initiative in implementing goals, utilizes analytical skills, and possesses adaptability to change
+Accountable individuals, who effectively communicate results and recommend improvements
+Continuous learner, bringing new ideas and updated tools or methods for the team to leverage
+Minimum Years of Experience: Six months of professional experience in roles creating and analyzing reports, gathering reporting requirements, developing reports and dashboards
+Minimum Years of Experience: Six months of working with data representation, storytelling, analyses, and modeling
+Experience with BI and data tools (including SQL, Tableau, MicroStrategy, SAS, etc.)
+Exposure or knowledge of advanced analytic techniques, particularly within R or Python toolkits 

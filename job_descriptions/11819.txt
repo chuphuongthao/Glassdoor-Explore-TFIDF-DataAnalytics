@@ -1,0 +1,50 @@
+Overview of Position
+The Sr. Data Analytics Analyst will be a key Subject Matter Expert and contributor in the Internal Audit Services (IAS) continued enhancement of data analytics, data mining, and continuous auditing strategies and tactics in support of the audit charter. He or she completes all internal audit work in compliance with established audit methodology while meeting all organizational and professional ethical standards. This is a remote opportunity.
+What will be my duties and responsibilities in this job?
+Performance of Analytics (70%)
+Develop and leverage subject matter expertise in the knowledge of Assurant’s data environment; ability to access and analyze complex data; use of analytical tools and languages such as Alteryx and Python; and ability to interpret, visualize and communicate results using dashboarding tools such as Tableau and Power BI.
+Provide both advisory and execution support in audits by identifying, developing, documenting, or executing audit analytics during all relevant stages of an audit.
+Perform data mining and analysis to facilitate the identification and communication of outliers and trends in the business.
+Perform descriptive, statistical, and text analytics to test if the business is meeting its operational, financial, and regulatory requirements and benchmarks.
+Design and execute standalone Data Analytics audit projects as warranted in support of department objectives.
+Assist auditors in obtaining necessary data for audits. Identify, develop and maintain continuous auditing/monitoring activities.
+Provide additional support on audits or other IAS initiatives when necessary.
+Business Knowledge, Technical Knowledge, and Individual Development (20%)
+Actively learn and apply mature and emerging technical knowledge gained through professional development opportunities, including external and internal training.
+Actively seek to build and apply business knowledge to complement technical expertise in design and performance of analytical procedures
+Department Development (10%)
+Assist in, and sometimes lead, department initiatives to review and improve department processes, tools, and methodologies related to the use of Data Analytics.
+Mentor colleagues and provide training on professional standards, best practices, tools, and strategies for personal and department success.
+What are the requirements needed for this position?
+BS/BA degree from an accredited college or university preferably in Management Information Systems, Data Science, Statistics, Business, Management, Accounting, Finance, or related field.
+Two years of collecting and analyzing complex data, evaluating information, and drawing logical conclusions.
+Two years developing visualization and automated solutions using tools such as Power BI, Power Apps, Tableau, QlikView
+Two years of accessing and wrangling data in environments such as SAS, SQL, Oracle, and AS400.
+Two years of data cleaning and analysis using tools and programming languages, such as Alteryx, SAS, Python, etc.
+What other skills/experience would be helpful to have?
+Experience with financial services or insurance industry data.
+Experience with advanced application of data analytics techniques and tools in a complex business environment, including the application of general statistical concepts against large volumes of data.
+Experience performing data analytics in an Internal Audit or Compliance environment.
+Experience applying fraud discovery techniques during design and execution of data analytics.
+Experience in formal communications (written reports and oral) with all levels of staff and management, particularly the creation and maintenance of management reporting dashboards.
+Experience developing or maintaining a Continuous Auditing / Continuous Monitoring platform.
+Master’s degree in Data Science, Analytics, Statistics or MBA from an accredited college or university.
+One or more related professional certifications in accounting or auditing (CPA, CIA, CISA, CFE, etc.).
+#AssurantProudSD
+#IT22
+#LI-Remote
+
+Helping People Thrive in a Connected World
+
+We work with the world’s top brands to make smart devices simpler. Vehicles last longer. Homes more secure. Problems easier to solve. And we volunteer in communities all over the globe to help the world become a greener, better place. We come from a variety of countries, cultures and backgrounds. But we’re united by our enduring values of common sense, common decency, uncommon thinking and uncommon results. So connect with us. Bring us your best work and your brightest ideas. And we’ll bring you a place where you can thrive. Learn more at jobs.assurant.com.
+
+For U.S. benefit information, visit myassurantbenefits.com. For benefit information outside the U.S., please speak with your recruiter.
+
+Our Culture Defined
+Our unique culture is a big reason why talented people choose Assurant and why they tend to stay. Although we have a wide variety of skills and experiences, we share common characteristics that are uniquely Assurant. A passion for service. An ability to innovate in practical ways. And a willingness to take chances. We believe that staying on top doesn’t mean sacrificing our values. We believe clarity of vision and a sense of purpose will carry us forward. And we take charge of our own success. We call it The Assurant Way.
+
+Company Overview
+Assurant is a leading global business services company that supports, protects and connects major consumer purchases. A Fortune 500 company with a presence in 21 countries, Assurant supports the advancement of the connected world by partnering with the world’s leading brands to develop innovative solutions and deliver an enhanced customer experience through mobile device solutions, extended service contracts, vehicle protection services, renters insurance, lender-placed insurance products and other specialty products.
+
+Equal Opportunity Statement
+Assurant is an Equal Employment Opportunity employer and does not use or consider race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or any other characteristic protected by federal, state or local law in employment decisions. 

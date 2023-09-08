@@ -1,0 +1,49 @@
+JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $2.6 trillion and operations worldwide. The firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase & Co. serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands. Information about JPMorgan Chase & Co. is available at www.jpmorganchase.com.
+
+
+Chase Consumer & Community Bank (CCB) serves 63 million households and 4 million small businesses with a broad range of financial services, including banking, credit cards, auto finance, payments, mortgages, and investment advice.
+
+
+Organization Description:
+
+
+The CCB Data Consumption Team is focused on enabling and continuously improving the experience of the users of Chase data. We are building a line of products to address the entire analyst journey, driving real value by accelerating speed to market for data insights and advanced models. With data increasingly taking center stage in all aspects of Chase business functions, this role is a unique opportunity to have meaningful impact on a large scale at a leading financial services firm.
+
+
+Job Summary:
+
+
+JPMC is looking for a leader to transform the way our organization delivers data to our analyst users. As we build data products, we need an experienced and passionate product manager to build the platform that manages the creation and distribution of our data products across a large ecosystem of thousands of analysts driving billions of dollars in value.
+
+
+Responsibilities:
+
+Articulate and execute on a product vision and strategy to deliver a data product platform vision supporting a global set of analytics professionals and businesses firmwide
+Lead a diverse agile product organization and budget, making sound investment and prioritation decisions
+Relentlessly focus on ways to increase speed to market for our analyst teams and stakeholders
+Continue to support the transformation of the organization into an Agile-driven product-based model
+Coordinate with the Public Cloud teams to ensure that shifts in our platforms align to the overall consumption strategy
+Work cross-functionally with peers in technology and other critical functions to develop a holistic view of performance and growth opportunities
+Present findings and recommendations for action to senior leaders of the company, and support the contributors to do the same for their work
+
+Qualifications:
+
+The ideal candidate combines outstanding business acumen and communication skills, particularly when articulating technical matters to a broader audience
+Strong business intuition and the technical ability to understand, design, and explain complex product and data strategies to both a business audience and a data science / analyst user base
+10+ years' experience in product management, data management or related consulting with a proven record of high performance
+Experience building and managing data platforms, especially with a customer-oriented mentality
+Demonstrated understanding of Cloud computing technologies
+Demonstrated understanding of data science tools and concepts, along with experience directly enabling data science teams or delivering data science use cases
+Experience with Agile and product concepts, especially with regard to transformation
+Exceptional problem solving, and analysis skills combined with the ability to synthesize and effectively communicate findings to all levels throughout the organization
+Strong stakeholder management experience with a keen ability to influence senior leadership
+Strong team leadership and interpersonal skills, with an emphasis on teamwork, initiative and integrity
+Familiarity with Open Data, Linked Data or the Semantic Web is a plus
+A background in Library Science is a plus
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+Equal Opportunity Employer/Disability/Veterans 

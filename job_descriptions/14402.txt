@@ -1,0 +1,38 @@
+* This is a remote or work-from-home role! *
+
+About ActivateCare:
+
+At Activate Care, we’re on a mission to improve health equity and drive improved health and financial outcomes across the country by providing direct SDOH solutions to partner with individuals navigating social health challenges. Our locally-hired, representative workforce is trained to engage and empower individuals using best practices while leveraging secure, accessible technology. Our goal is simple: improve poor outcomes and high costs due to unaligned care driven by addressable social challenges. We are confident of the potential of providing social services care navigation to positively impact the health of communities with an effective, efficient, and measurable model which is locally responsive and nationally scalable.
+About the Team:
+
+Our data team is building out the country’s richest data on social determinants of health and the impact of social needs on healthcare outcomes and spending. We will combine the results of the work of our care navigators across the country with potentially hundreds of data sources, from public government data sets to private health care claims records. We need your help in building a data platform that can scale along with fast-growing data to empower many different teams across our organization.
+Responsibilities:
+
+Help us architect our new data pipeline for scale so that we can make sure to deliver the right social services to the right people
+Put in place the right tools for every department (from Data Science to Clinical Operations) to be able to get insights from our unique social determinants of health dataset
+Pursue high-standard engineering principles to build a scalable, reliable, and maintainable data platform
+Supporting and working with cross-functional teams in a dynamic environment
+
+
+Requirements:
+
+Experience with:
+architecting, implementing, and maintaining cloud-based modern data pipelines
+Amazon Redshift, Databricks, Snowflake, or other similar technologies
+dbt, Apache Airflow, Great Expectations, or other similar technologies
+Must enjoy working in a collaborative working style.
+
+
+Nice to haves:
+
+Experience with:
+managing insurance claims data
+managing Personally Identifiable Information (PII) or Protected Health Information (PHI)
+building and deploying Machine Learning models
+Familiarity with Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM)
+
+
+Diversity & Inclusion:
+
+At Activate Care, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, color, religion, sex, pregnancy (including childbirth, lactation, and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, military, and veteran status, and any other characteristic protected by applicable law. Activate Care believes that diversity and inclusion among our teammates is critical to our success as a company, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool.
+The Company will not sponsor applicants for work visas at this time. 

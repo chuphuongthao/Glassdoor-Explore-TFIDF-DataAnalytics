@@ -1,0 +1,17 @@
+Summary
+Posted: Feb 2, 2022
+Role Number:200317180
+Services at Apple help hundreds of millions of customers get the most out of the devices they love through amazing apps, award-winning shows and movies, immersive music in spatial audio, world-class workouts and meditations, super fun games and more. The Apple Media Products Data Science & Analytics organization is passionate about developing discerning insights and machine learning solutions to help continually improve these services and accelerate growth while maintaining a strong dedication to customer privacy. The Apple Media Products Data Science & Analytics team is looking for a data scientist to help support the Video business teams (including TV+) with insights on content performance, strategy, and customer experience in the TV app. As a key member of our diverse and dynamic organization, we have the rare and rewarding opportunity to work with datasets of unique magnitude, richness, and dedication to customer privacy that will frequently require innovative approaches. We work collaboratively with partners across Business, Marketing, Product and Engineering daily to deliver material customer and business value. The position is based in Culver City, CA.
+Key Qualifications
+Experience extracting insights from large datasets, more specifically familiarity with
+languages like Python and SQL.
+Familiarity employing analytics methodologies to tackle broad problems related to
+classification, clustering, and forecasting.
+Comfort working with across multiple business teams, including both technical and non-
+technical partners.
+Strong organizational and communication skills.
+Description
+Provide analytics insights to support decision-making for business and creative teams in the video domain. Help define Engineering requirements for new datasets and data products to support new feature and content releases. Collaborate with other data scientists supporting subscription and marketing initiatives to ensure a comprehensive understanding of the video business. Work closely with TV+ leads to advise their roadmap and content strategy.
+Education & Experience
+Bachelors degree in Computer Science, Statistics, Mathematics, Engineering, or related field. Past experience in the video domain is preferred, but not required.
+Additional Requirements 

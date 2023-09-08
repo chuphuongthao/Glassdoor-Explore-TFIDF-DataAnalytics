@@ -1,0 +1,43 @@
+At Johnson & Johnson Consumer Health, we’re here to change the world. We are a diverse group of leaders who think digital-first and push boundaries as much as we push ourselves. And, for other like-minded leaders out there looking to make their mark, we’ve got three words for you: change happens here.
+Johnson & Johnson Consumer Health is currently recruiting for a Senior Data Analyst to sit within our R&D Organization Data Science team to be located in Skillman, NJ. Remote work options may be considered on a case-by-case basis and if approved by the Company.
+We combine meaningful human insights and digital-first thinking to help people take better care of themselves and their loved ones. We believe in the power of new perspectives and insights to drive innovation. Our culture is diverse and inclusive – a place where being individually dynamic but collectively brilliant results in smarter solutions for all of the many communities we serve.
+We are industry leaders, earning the #1 or #2 position in most of the categories in which we compete. Our iconic and beloved brand, including TYLENOL®, ZARBEE’S NATURALS®, NEUTROGENA®, AVEENO®, LISTERINE®, OGX® and JOHNSON’S®, are rooted in science and endorsed by professionals, helping more than 1.2 billion people live healthier lives every day, from their first day.
+Learn more about Johnson & Johnson Consumer Health and follow us on LinkedIn.
+In this role you will drive accelerated and differentiated growth and engagement for our consumers and employees within the Consumer Health R&D Data Science organization.
+You will help grow data science as a core part of the overall digital strategy. You will work with life-science experts to define problems, identify data, define, design, and implement data science solutions, focusing on augmenting product development to improve outcomes and enable impact for our innovations.
+You will partner with senior R&D leaders who are life science experts, to help them be even more impactful with a differentiated lens of thinking and problem-solving abilities. It will be imperative to have expertise within Biomedical Engineering and Data Science.
+You will be customer facing with R&D and Commercial business partners and will require extensive external teamwork and collaboration. This role requires validated impact to translate business problems (from an R&D POV) into technology driven solutions designed to accelerate and improve the organization. These solutions will range from incremental and architecturally driven to truly groundbreaking opportunities for our organization.
+You will also:
+Partner with business collaborators to identify business requirements, crafting a portfolio of high-priority data science use cases or products
+Translate analytics insights into powerful narratives that drive business decisions and behaviors
+Build and apply data science and analytic solutions independent of technical direction
+Develop and implement data science solutions independent of technical direction, with a focus on Consumer-centric solutions
+Scale the use of existing social listening and NLP tools within R&D, encouraging teams and mentoring early adopters to demonstrate value through case studies
+As part of Data Science community of practice, help raise data science knowledge and support data-driven, consumer-centric culture in R&D organization
+Lead collaboration with internal partners and external vendors, build data platform or capabilities for Data Sciences to enable sophisticated data analytics, predictive consumer-technical modeling, consumer insight discovery, and innovation in product claims
+Continually explore and pilot new data science capabilities in proof-of-concept work to demonstrate potential value and build business case for further investment
+
+Qualifications
+
+A minimum of a Bachelor is required. Field of study within Science, Engineering, Technology or within biotech is preferred. An Advanced degree is also preferred.
+A minimum of 4 years’ experience is required. Experience in a R&D organization is preferred.
+Solid understanding of data science capabilities to Product Development and Digital Health
+Able to understand and apply the constantly evolving data science innovations
+Strong analytical thinking and communications, e.g., understanding sophisticated or ambiguous business problems, explaining technical topics to non-technical colleagues, translating business requests into data science strategy, effectively presenting to key decision-makers
+Data-management skills, e.g., cleaning/organizing data, data preparation, data collection, data integration across different data sources, data storage, relational/non-relational database management
+Proficient in machine learning, artificial intelligence (AI), natural language processing (NLP), structured query language (SQL), NoSQL, MATLAB, XLSTAT, and programming in Python or R
+Experience with developing and deploying descriptive, predictive, and prescriptive models.
+Experience with a variety of algorithms, including AI/ML and deep learning is required
+Johnson & Johnson announced plans to separate our Consumer Health business to create a new publicly traded company. The process of the planned separation is anticipated to be completed within 24 months, and it will be subject to legal requirements including consultation with works councils and other employee representative bodies, as required, and other customary conditions and approvals. Should you accept this position, it is anticipated that, following conclusion of the transaction, you would be an employee of a new entity within New Consumer Health and your employment would be governed by New Consumer Health’s employment processes, programs, policies, and benefit plans. In that case, details of any planned changes would be provided to you by New Consumer Health at an appropriate time and subject to any necessary consultation processes.
+At Johnson & Johnson, we’re on a mission to change the trajectory of health for humanity. That starts by creating the world’s healthiest workforce. Through cutting-edge programs and policies, we empower the physical, mental, emotional and financial health of our employees and the ones they love. As such, candidates offered employment must show proof of COVID-19 vaccination or secure an approved accommodation prior to the commencement of employment to support the well-being of our employees, their families and the communities in which we live and work.
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com (http://www.careers.jnj.com).
+
+Primary Location
+United States-New Jersey-Skillman-199 Grandview Road
+Organization
+Johnson & Johnson Consumer Inc. (6101)
+Job Function
+R&D
+Requisition ID
+2206062828W 

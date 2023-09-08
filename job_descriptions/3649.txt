@@ -1,0 +1,32 @@
+As a Data Science Analyst, you will be helping to drive our core differentiator ... AI and Machine Learning! LinkSquares is a fast growing, Series-C funded startup with Machine Learning in its DNA. We use ML in our platform to take the manual, time-consuming, tedious tasks out of the contracting process. This makes data science an impactful, integral part of the LinkSquares product roadmap and vision.
+
+What you'll do:
+
+Use data to drive insights and decision making on engineering and DS operations
+Work with the Machine Learning team understand ML model performance and prioritize work
+Design and manage experiments to answer challenging business, engineering, and product questions
+Be part of a cutting edge DS team tackling difficult projects
+Help set the direction of Linksquares for the next 5 years of growth!
+
+What you'll need:
+
+Bachelor's Degree in a quantitative field (Stats, Finance, Analytics, etc)
+Strong analytical ability. Understanding of data, metrics, and experimentation
+
+Problem solving, deconstruction, ambiguity resolution/reduction
+
+Proficiency in core data manipulation languages SQL and R or Python (Python preferred)
+Machine Learning experience a plus but not required
+Intellectual curiosity and the ability to learn quickly in a complex space
+
+About LinkSquares
+
+LinkSquares has built the leading AI-powered Contract Lifecycle Management SaaS product suite used by legal teams to move their business forward faster. Our solution provides a platform for writing better contracts, analyzing what's in existing contracts, and working better with their team. It differs from other tools on the market with its powerful AI insights, speed to providing tangible results, and ability to help the entire company collaborate better. LinkSquares saves companies hundreds of hours and thousands of dollars by eliminating manual contract processes and reducing the need for outside counsel.
+
+We are a high-growth start-up company with an established customer base and entrepreneurial culture. We have built the leading AI-powered Contract Lifecycle Management SaaS product suite that helps our customers, legal teams, optimize contract analysis, creation and execution. We are dedicated to providing tools to help enable legal teams to provide the highest and fastest level of service to their business counterparts. As a company, we're customer driven in every technical and business decision we make.
+
+Our business is growing at an unprecedented rate following an outstanding 2021 during which we receive a multitude of accolades to include being named to 2022 Best Places to Work (BuiltInBoston), 2021 Best Places to Work (Boston Business Journal), MassTLC Tech Top 50, Deloitte Fast 500, and the Inc. 5000 Fastest Growing Companies.
+
+LinkSquares is an Equal Opportunity Employer and does not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion, marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment without regard to legally protected characteristics.
+
+Founded in 2015 with headquarters in Boston, we offer a comprehensive and competitive benefits package that includes medical, dental and vision plans for employees and their families, health and wellness programs, a 401(k) plan, unlimited vacation, paid parental leave and more 

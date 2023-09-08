@@ -1,0 +1,65 @@
+Purpose of Job We are currently seeking a talented Decision Science Analyst (Mid-Level) working in a HYBRID capacity in any USAA location: San Antonio, TX, Plano, TX, Charlotte, NC, Tampa, FL, Colorado Springs, CO, Phoenix, AZ, Chesapeake, VA.
+
+USAA values a work culture that is highly collaborative, and we have found that a hybrid work type helps employees gain the best of both worlds – collaborating in-person in the office and working from home when needed to achieve focused results. The actual day's onsite are settled between each employee and the employee’s manager.
+
+Provide decision support for business areas across the enterprise. Staff in this area will be responsible for applying mathematical and statistical techniques and/or innovative /quantitative analytical approaches to draw conclusions and make 'insight to action' recommendations to answer business objectives and drive change. The essence of work performed by the Decision Science Analyst involves gathering, manipulating and synthesizing data (e.g., attributes, transactions, behaviors, etc.), models and other relevant information to draw conclusions and make recommendations resulting in implementable strategies.
+
+Job Requirements
+About USAA
+USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.
+
+Primary Responsibilities:
+Identifies and manages existing and emerging risks that stem from business activities and the job role.
+
+Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled.
+
+Follows written risk and compliance policies, standards, and procedures for business activities.
+
+Leverages intermediate and some advanced business, analytical and technical knowledge to participate in discussions with cross functional teams to understand and collaborate on business objectives and influence solution strategies.
+
+Applies advanced analytical techniques to solve business problems that are typically medium to large scale with impact to current and/or future business strategy.
+
+Applies innovative and scientific/quantitative analytical approaches to draw conclusions and make 'insight to action' recommendations to answer the business objective and drive the appropriate change.
+
+Translates recommendation into communication materials to effectively present to colleagues for peer review and mid-to-upper level management.
+
+Incorporates visualization techniques to support the relevant points of the analysis and ease the understanding for less technical audiences.
+
+Identifies and gathers the relevant and quality data sources required to fully answer and address the problem for the recommended strategy through testing or exploratory data analysis (EDA).
+
+Integrates/transforms disparate data sources and determines the appropriate data hygiene techniques to apply.
+
+Thoroughly documents assumptions, methodology, validation and testing to facilitate peer reviews and compliance requirements.
+
+Understands and adopts emerging technology that can affect the application of scientific methodologies and/or quantitative analytical approaches to problem resolutions.
+
+Delivers analysis/findings in a manner that conveys understanding, influences mid to upper-level management, garners support for recommendations, drives business decisions, and influences business strategy.
+
+Minimum Requirements:
+Bachelor's degree in quantitative analytics field such as Economics, Finance, Statistics, Mathematics, Actuarial Sciences, Operations Research, Data and/or Business Analysis, Data Science or other quantitative discipline; OR 4 years of related experience in statistics, mathematics or quantitative analytics (in addition to the minimum years of experience required) may be substituted in lieu of degree.
+
+4 years of experience in data/analytics or functional business experience within the respective industry of responsibility (i.e. Property & Casualty, Bank, Finance) OR Advanced degree in quantitative analytics field such as Economics, Finance, Statistics, Mathematics, Actuarial Sciences, Operations Research, Data and/or Business Analysis, Data Science or other quantitative discipline with 2 years experience in data/analytics or functional business experience within the respective industry of responsibility (i.e. Property & Casualty, Bank, Finance).
+
+Demonstrates competency in mathematical and statistical techniques and approaches used to drive fact-based decision-making.
+
+Intermediate and some advanced knowledge of data analysis tools, data visualization, developing analysis queries and procedures in SQL, SAS, BI tools or other analysis software, and relevant industry data & methods and ability to connect external insights to business problems.
+
+The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+
+Compensation :
+USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is:
+$72,900.00 - 131,400.00*.
+
+Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors.
+
+
+Geographical Differential : Geographic pay differential is additional pay provided to eligible employees working in locations where market pay levels are above the national average.
+
+Shift premium will be addressed on an individual basis for applicable roles that are consistently scheduled for non-core hours.
+
+Benefits:
+At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.
+
+To see details on our outstanding benefits, visit USAA Total Rewards.
+
+Relocation assistance is not available for this position. 

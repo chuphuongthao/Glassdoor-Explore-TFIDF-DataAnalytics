@@ -1,0 +1,26 @@
+Job ID:
+3891
+Pay rate range:
+$50 - $60
+City:
+Remote
+State:
+Florida
+Duration:
+07/17/2022 - 09/17/2022
+Job Type:
+Contract
+Job Description
+DATA ANALYST W/ ALTERYX AND TABLEAU |2+ MONTH CONTRACT | REMOTE
+Start Date: As soon as possible
+Duration: 2+ months (+/- 20-30 hours/week)
+Pay: $50-$60 DOE
+Location: Remote
+A large Public Accounting Firm is seeking a Data Analyst to build Alteryx workflows and Tableau dashboards for presentation. Additionally, will support the build out of a data analytics program.
+Contract term is July 2022 – August 2022 - subject to change based on Clients' needs and highly likely to be extended.
+Qualifications:
+A bachelor’s or master’s in Computer Science, Data Science, MIS or a related field.
+2-4 years of data analytics experience, preference will be given to candidates with audit experience as well.
+Experience with Alteryx and Tableau is a must have.
+Excellent communication skills, including the ability to articulate findings and project progress to stakeholders.
+#pcfa #LI-Remote 

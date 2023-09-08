@@ -1,0 +1,78 @@
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Remote - United States only
+HOURLY RANGE: Our client is looking to pay $90 – $110/hr
+ESTIMATED DURATION: 40h/week - Long-term
+ABOUT US:
+Braintrust is the only network that gives in-demand talent all the freedom of freelance with all the benefits, community, and stability of a full-time role. As the first decentralized talent network, our revolutionary Web3 model ensures the community that relies on Braintrust to find work are the same people who own and build it through the blockchain token, BTRST. So unlike other marketplaces that take 20% to 50% of talent earnings, Braintrust allows talent to keep 100% of earnings and to vote on key changes to improve the network. Braintrust is working to change the way freelance works – for good.
+We've onboarded some of the world's most reputable brands and now we need a Data Scientist for one of our clients.
+THE OPPORTUNITY
+Our client is looking for a Data Scientist to join our diverse team of Engineers, Economists, Computer Scientists, Mathematicians, Physicists, Statisticians and Actuaries tasked with mining our industry-leading internal data to develop new analytics capabilities for our businesses.
+The role requires a rare combination of sophisticated analytical expertise; business acumen; strategic mindset; client relationship skills, project management; and a passion for generating business impact.
+Responsibilities:
+
+Develop and maintain consultative relationships with key business stakeholders
+
+Identify, source, transform and join public, proprietary and internal data sources
+
+Model large structured and unstructured data sources (e.g. financial transactional, time-series, text,
+
+speech/audio and image)
+
+Implement advanced statistical methods for prediction and optimization including a wide variety of
+
+machine learning technologies (logit, regression, decision trees/forests, boosted models, clustering,
+
+etc.) for purposes including explorative analysis, survival analysis, segmentation, prediction and
+
+recommendation systems
+
+Perform analysis and implement solutions that maximize business impact
+
+Prepare and present written and verbal reports to key stakeholders
+
+Some domestic travel may be required
+
+Execute all aspects of an advanced analytical project under guidance
+Qualifications:
+
+Advanced degree (Masters or Ph.D.) in Mathematics, Statistics, Engineering, Econometrics,
+
+Physics, Computer Science, Actuarial, Data Science, or comparable quantitative disciplines
+
+Master’s degree graduates should additionally have at least two years of industry experience with
+
+responsibility for developing advanced quantitative, analytical, statistical solutions
+
+Hands-on experience applying a wide variety of statistical machine learning techniques to real world
+
+problems spanning analysis, predictive modeling and optimization on structured and unstructured
+
+data
+
+Experience using tools such as Python, R, or equivalent for statistical modeling of large data sets
+
+Well-developed written and oral communication skills with ability to present complex statistical
+
+concepts to non-analytical stakeholders (Excel, Word and PowerPoint are a must)
+
+Software engineering experience in C/C++/C#/Java/Scala or similar object oriented or functional
+
+languages is highly regarded but not a prerequisite
+
+M.B.A. when combined with advanced quantitative degree is highly regarded but not a prerequisite
+
+Prior academic or industry research experience is highly regarded but not a prerequisite
+
+Prior exposure to financial services or insurance industry may be helpful but is not a prerequisite
+
+Strong background in financial services, preferably insurance, annuities, and retirement is required
+
+Top Skills
+Scala | Python | Java
+Apply Now!
+ABOUT THE HIRING PROCESS:
+Qualified candidates will be invited to do a screening interview with the Braintrust staff. We will answer your questions about the project, and our platform. If we determine it is the right fit for both parties, we'll invite you to join the platform and create a profile to apply directly for this project.
+C2C Candidates: This role is not available to C2C candidates working with an agency. But if you are a professional contractor who has created an LLC/corp around your consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.
+
+This is a remote position. 

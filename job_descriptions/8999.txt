@@ -1,0 +1,43 @@
+Overview
+
+The Institute for Defense Analyses (IDA) is a not-for-profit corporation that operates three Federally Funded Research & Development Centers (FFRDCs). IDA’s Systems and Analyses Center is located in Alexandria, Virginia and is comprised of eight research divisions providing objective analyses of national security issues, particularly those requiring scientific and technical expertise, and conducts related research on other national challenges.
+The IDA Data Science Fellowship provides recent graduates a unique opportunity to develop and apply data science skills to important issues in national security. The Data Science Fellowship is a project-based learning experience within a variety of research areas. In a collaborative team environment, Fellows perform data manipulation and statistical, econometric, predictive, descriptive, and other quantitative analyses to help answer important sponsor-funded research questions as well as internal-funded business operations questions. In the course of research, Fellows will apply advanced data science tools, possibly including machine learning, artificial intelligence, statistics, or various big data methodologies. Fellows should expect to learn while using their critical thinking, creativity, and analytic skills to contribute to interdisciplinary project teams.
+Fellows will have opportunity to work on several research questions during their 3-year terms. Specific future research projects are unpredictable, subject to ever-changing analytical needs of sponsors and/or internal business operations questions. However, example projects include:
+Appraisal of current DoD investments in a broad range of areas: from human factors to autonomous systems, from materials science to nuclear weapons effects, from social behaviors to quantum computing;
+Analyze and research questions on DoD personnel, military readiness and efficacy, and organizational efficiency topics.
+Assessment of federal agency information and computing architectures that support data science applications (i.e., large, distributed data sets and computational assets);
+Application of data exploration, text analytics, forecasting, statistical inference, simulation to areas of military personnel, manpower, and acquisition of DOD weapon systems.
+Improve IDA’s data architecture to support efficient internal operations
+Analyze financial information to surface insights about research project execution across the company and inform decision-making
+Over the course of the three-year program, fellowship experiences will include:
+
+Involvement in workshops and discussions on relevant topics
+Mentorship from members of the IDA research staff
+Training on specific analytical methods and tools
+Attendance and presentation at professional society and/or academic meetings/conferences
+
+Qualifications
+
+This is a full-time position and is only open to recent recipients of a bachelor’s or master’s degree. Candidates with degrees higher than a master’s degree will not be considered.
+Candidates with recent Bachelor’s degree or Masters’ degree in economics, statistics, operations research, mathematics, physics, computer science, data science, data engineering, political science or other disciplines with a strong foundation in statistics and/or applied mathematics are encouraged to apply.
+Candidates must demonstrate experience with one or more programming languages or statistical software used in IDA’s research (e.g., Python, R, Julia, Stata, MATLAB, C, Java, etc.)
+Candidates must demonstrate strong written and oral communication skills. Ideal candidates are able to contribute to and support team efforts.
+Additional preferred skills include:
+Training and/or experience in quantitative or qualitative information collection, data normalization, or text analytics.
+Experience as a research assistant in an academic or policy research setting
+Experience in data engineering and/or database management
+Experience or coursework in Bayesian statistics, machine learning, predictive analytics, and/or geospatial analyses
+U.S. citizenship is required
+Candidates selected for employment are required to successfully complete a criminal background check.
+Candidates that are selected for employment are expected to start employment between May and July 2023.
+
+In addition to the application, applicants at later stages in the process will be required to submit the following:
+
+Code Sample, GitHub link or quantitative research writing sample —a code sample is preferred, but a writing sample from a research project or assignment demonstrating quantitative analytical ability is acceptable.
+Writing Sample — a single page personal statement describing your interest in the Data Science Fellowship or a writing sample from a research project or assignment. (Not required if a writing sample was submitted for requirement 1.)
+Transcripts — an unofficial transcript is acceptable for consideration, but an official transcript is needed before any offer of employment will be made.
+Contact Information for 2 Academic/Professional References or 2 Letters of Academic Recommendation — references must include name, position, phone number, email address. Letters must be signed by the individual serving as the reference and delivered in PDF format.
+
+U.S. Citizenship is required
+Ability to obtain and maintain a security clearance is required
+IDA is an equal opportunity employer committed to providing a fair recruiting process and working environment free from discrimination. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, disability or protected veteran status. Click here to learn more about IDA's commitment to diversity, equity, and inclusion. 

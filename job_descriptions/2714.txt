@@ -1,0 +1,34 @@
+We are looking for a Solutions Architect Manager – Lead Developer to join Pilgrim’s at our Corporate Office.
+Mission: Build, deploy, and maintain robust data, software, and hardware platforms and solutions for business needs.
+Responsibilities
+Hands-on technical expert and have experience working as a subject matter expert on IoT, AI / Machine Learning, Computer Vision, and Virtual / Augmented reality technologies.
+Document and monitor business requirements needed to institute proposed solutions.
+Leads multiple projects of data engineering, data science applications, software and hardware development, including solution design, analysis, coding, testing, and integration.
+Collaborate with business teams to interpret business requirements into functional solutions.
+Provides guidance and mentoring to less-experienced staff members.
+Other duties assigned.
+Qualifications
+College degree in Applied mathematics, Computer Science, Data Science, Software or Hardware Engineering, Statistics, Business Analytics, Business Administration, Robotics or related field or experience.
+Project management and leadership skills are essential
+Professional experience as a DevOps/System Engineer, Architect or Technical lead
+Knowledge of Python, SQL, and popular cloud platforms (Microsoft Azure, AWS, or Google - GCP).
+SAP BI HANA knowledge and QlikSense reporting is a plus
+Experience in software and hardware engineering and design architecture
+Strong ability to use logic and excellent problem-solving and code debugging skills.
+Demonstrated experience with agile development methods. Agile at scale is a plus.
+Excellent communication, interpersonal, and, consultative skills, work effectively with clients, vendors, peers, and business/IT management.
+A drive to learn and master new technologies and techniques.
+Experience in agricultural/meat/animal industries is a plus.
+As a salaried position with the company, you may be required to travel at some point to other facilities, to attend Company events, or as a representative of the Company in other situations. Unless otherwise specified in this posting, the amount of travel may vary and the most qualified candidate must be willing and able to travel as business needs dictate.
+The applicant who fills this position will be eligible for the following compensation and benefits:
+Benefits: Vision, Medical, and Dental coverage begin after 60 days of employment;
+Paid Time Off: sick leave, vacation, and 6 company observed holidays;
+401(k):eligible after 90 days of employment including company match which begins after the first year of service and follows the company vesting schedule
+Base salary range of $110,000-170,000 and
+Incentive Pay: This position is eligible to participate in the Company’s annual bonus plan, the amount of bonus varies and is subject to the standard terms and conditions of the incentive program
+For individuals assigned and/or hired to work in Colorado, JBS and Pilgrim’s is required by law to include a reasonable estimate of the compensation for this role. This compensation range is specific to the State of Colorado and takes into account various factors that are considered in making compensation decisions, including but not limited to a candidate’s relevant experience, qualifications, skills, competencies, and proficiencies for the role.
+The Company is dedicated to ensuring a safe and secure environment for our team members and visitors. To assist in achieving that goal, we conduct a drug, alcohol, and background checks for all new team members post-offer and prior to the start of employment. It is a job expectation that all new employees are fully vaccinated against COVID-19. Those who have, at minimum, the first of a two-dose vaccine in advance of their first date of employment will be required to receive the second dose within the manufacturers recommend timeframe and submit proof of their final vaccination dose once obtained. If you need assistance in obtaining a vaccine, the Company can help schedule you with one of its healthcare partners following a conditional job offer, if one is made. The Immigration Reform and Control Act requires that verification of employment eligibility be documented for all new employees by the end of the third day of work.
+About Us: Pilgrim’s is the second largest chicken producer in the world, with operations in the U.S., Puerto Rico, Mexico and the U.K. Pilgrim’s processes, prepares, packages and delivers fresh, further-processed and value-added poultry products for sale to customers in more than 100 countries, employs more than 50,000 people and contracts with more than 5,200 family farmers. Pilgrim’s is headquartered in beautiful Greeley, Colorado, at the JBS USA corporate office where our 1,200 employees enjoy more than 300 days of sunshine a year.
+Our mission: To be the best in all that we do, completely focused on our business, ensuring the bet products and services to our customers, a relationship of trust with our suppliers, profitability for our shareholders and the opportunity of a better future for all of our team members.
+Our core values are: Availability, Determination, Discipline, Humility, Ownership, Simplicity, Sincerity
+EOE/Vets/Disability 

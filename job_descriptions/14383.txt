@@ -1,0 +1,62 @@
+JOB SUMMARY
+
+Responsible for developing data-driven solutions to Charter’s business problems. Utilizes analytical, statistical, and programming skills to clean, aggregate, and analyze large data sets and interpret results. This position requires a strong command of statistical techniques and machine learning algorithms, as well as a demonstrated practical ability to determine where to invest time, synthesize actionable findings across diverse assignments, and present findings to audiences with diverse agendas and varying levels of technical expertise.
+
+MAJOR DUTIES AND RESPONSIBILITIES
+
+Actively and consistently supports all efforts to simplify and enhance the customer experience.
+
+Participate in the execution of the complete analytics life-cycle for problem solving, including: requirements gathering, problem formulation, data grooming, data exploration, model prototyping, model validation, and algorithm productionalization
+
+Leverage knowledge in analytical and statistical algorithms to help stakeholders explore methods to improve their business.
+
+Partner on the design and implementation of statistical data quality procedures for existing and new data sources.
+
+Communicate complex data science solutions, concepts, and analyses in a clear and effective manner to team members and business leaders.
+
+Establish links across existing data sources and find new, interesting data correlations.
+
+Present data insights and recommendations to key stakeholders.
+
+Achieve defined project goals within deadlines; proactively communicate status and escalate issues as needed.
+
+Ensure testing and validation are components of all analytics solutions.
+
+REQUIRED QUALIFICATIONS
+
+Skills/Abilities and Knowledge
+
+Ability to read, write, speak and understand English
+
+Strong interpersonal communication, verbal and written, relationship management, and customer service skills with a focus on working effectively in a team environment
+Self-motivated, results-driven, and able to work with minimum supervision
+Experience with analytical and statistical software
+Experience using a data science toolkit such as Python or R
+Intermediate level SQL skills
+Excellent analytical and problem solving skills with attention to detail and data accuracy
+Ability to perform in-depth and independent research and analysis
+Ability to maintain confidentiality and appropriately handle sensitive information
+Strong knowledge of core computer science principles including algorithms, data structures, and design methodologies
+Prior exposure to cloud-based infrastructures
+Experience with big data tools such as Spark and Hive
+Willingness to Learn
+
+Education
+Bachelor's degree in computer science, statistics, operations research and/or equivalent combination of education and experience.
+
+Related Work Experience
+
+3 years of Data Analytics
+
+2 years of Programming experience
+
+
+WORKING CONDITIONS
+
+Office Environment
+Travel as required (10%) BDA303 322151 322151BR
+
+
+Here, employees don’t just have jobs, they build careers. That’s why we believe in offering a comprehensive pay and benefits package that rewards employees for their contributions to our success, supports all aspects of their well-being, and delivers real value at every stage of life.
+
+The pay for this position has a salary range of $76,800.00 to $135,800.00. The actual salary offer will carefully consider a wide range of factors, including your skills, qualifications, experience and location. Also, certain positions are eligible for additional forms of compensation such as bonuses. 

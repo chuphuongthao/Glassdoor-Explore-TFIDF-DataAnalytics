@@ -1,0 +1,26 @@
+Abiomed is a pioneer and global leader in healthcare technology and innovation, with a mission of Recovering Hearts & Saving Lives. With corporate headquarters in Danvers, Massachusetts, and offices in Baltimore, MD, Woburn, MA, Aachen & Berlin, Germany and Tokyo, Japan, Abiomed’s 2,000 employees form one of the fastest growing medical device companies in the world. We attract and retain exceptional talent with our collaborative culture, passion for our work, and a strong commitment to employee professional development.
+Patients First | Innovation | Winning Culture | Heart Recovery
+Introduction:
+Abiomed is looking for an experienced analyst/data scientist to help lead the global supply chain organization into the future. The Senior Supply Chain Risk and Business Analyst will partner with functional leads/SME’s, business stakeholders, and IT to understand needs and opportunities, and translate them into analytics and reports that allow team to understand relationships and performance more deeply, forecast and sense changes, and monitor performance to plan.
+The ideal candidate will have a passion for continuous improvement, standardizing processes and figuring out how to leverage big data and visualization tools to solve problems, evaluate hypothesis, and optimize supply chain performance and capabilities while adapting to changing and growing business needs.
+They will achieve this through their knowledge of supply chain processes, deep data analytics subject matter expertise, and strong collaboration with operations, customer service, sales/marking, manufacturing, regional SC, and finance.
+Job Responsibilities:
+Lead the development and advancement of supply chain analytics capabilities and outputs, as we work to shift to more proactive identification of opportunities and issues and elevating performance management and reporting needs of all levels of management.
+Support the monthly Global S&OP (PSI) process through data alignment, reporting, analytics, and scenario development. Serve as liaison between commercial, international/ROW, finance, and operations teams. Conduct review meetings to align various stakeholders and inputs.
+Proposes and implements processes that proactively alerts the business to opportunities and risks within the organization’s supply chain. Develop and report supporting KPIs.
+Product life cycle planning and inventory strategy development to meet customer needs, business requirements, and service level objectives. In addition, supports, monitors and maintains finished goods inventory levels and system integrity
+Develop business analytics that enable identification, prioritization, and justification of improvement programs that optimize supply chain performance.
+Monitor and ensure the integrity and accuracy for relevant master data maintained in SAP to support the demand and inventory forecasting and purchasing processes; Model database needs based on project requirements and maintain data dictionaries and documentation associated with these data models.
+Leverages data analytics tools to create new dashboards, reports, and any additional ad-hoc requests
+Analyze supply chain and operational data, and identify key trends, correlations, and improvement opportunities/plans (e.g. Inventory DIOH & optimization; Forecast Accuracy; Forecast Bias, order mgmt., service level, EE&O, and lead time improvement) ; Build and maintain methodology and tools for ongoing analysis.
+Create and deliver impactful presentations for mid-level and senior-level audiences
+Required Qualifications:
+BS in a quantitative, IT, supply chain, or business discipline required
+5+ years of proven business analyst, reporting, and/or data science experience
+Expertise using visualization tools (e.g., Domo, Tableau, Looker, Qlik, MSPower BI) in data analysis; Solid understanding of data structures and transformations
+Proficiency with SQL, R, Python (or statistical modeling) and/or SAS/SPSS
+Experience with advanced analytic techniques (e.g., financial & predictive modeling, regression analysis and ROI measurement)
+Supply Chain & Logistics process knowledge; Demonstrated knowledge of SAP Supply Chain modules (IBP, eWM, BW, MRP, MM) and
+Strong technical knowledge and ability to express complex technical concepts in terms understandable to the business, needs to be able to train the organization
+Strong Analytical skills, ability to structure and perform complex data analysis; Proactive ability to draw conclusions and recommendations from analysis performed
+Abiomed is an Equal Opportunity Employer committed to a diverse workforce. Abiomed will not discriminate against any worker or job applicant on the basis of race, color, religion, gender, gender identity, national origin, ancestry, age, sexual orientation, gender identity, marital or civil partnership status, pregnancy, gender reassignment, non-job related mental or physical disability, genetic information, veteran status, military service, application for military service, or membership in any other category protected under law. Abiomed maintains a drug-free workplace. 

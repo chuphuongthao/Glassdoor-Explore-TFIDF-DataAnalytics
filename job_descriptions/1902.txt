@@ -1,0 +1,55 @@
+At Freddie Mac, you will do important work to build a better housing finance system and you’ll be part of a team helping to make homeownership and rental housing more accessible and affordable across the nation.
+As part of Freddie Mac’s return to the office pilot, all employees, contingent workers and visitors must be fully vaccinated against COVID-19 in order to be on-site unless they have an approved accommodation.
+Position Overview:
+Are you curious and analytical? Do you thrive on working in a team environment? Are you looking for an inclusive company culture? Freddie Mac’s Single-Family Modeling and Analytics team needs creative, forward-thinking individuals like you! We are searching for quantitative, modeling, and data science talent at all experience levels; we want to hire individuals who seek out complex business problems and develop viable solutions. As a member of our team, you will contribute to a variety of industry-leading models for assessing the creditworthiness of prospective borrowers, underwriting loans, predicting the value and condition of homes, valuing mortgages, forecasting losses, measuring house price appreciation, improving operations, and more! Your work will help make financing a home faster, fairer, more affordable, and safer for borrowers, lenders, and investors.
+Apply now and grow your career working alongside hardworking people who want you to succeed!
+**This position can be performed from a remote location in the U.S.**
+Our Impact:
+Freddie Mac’s Single-Family Modeling and Analytics team is an organization that builds models and analytics to advance the strategies of the Single-Family business so that Freddie Mac can help get people into homes they can afford and keep. Our models are behind many key business initiatives at Freddie Mac such as Credit Risk Transfer, Portfolio Management, Collateral Valuation, Risk Management, Affordable Housing, Mortgage Fair Lending. We are guided and empowered by several core principles, including the need to leverage the full team and that cross-disciplined approaches are far more likely to produce breakthrough models. We recognize that to be at our best we need to build an organization that allows individuals to learn about and participate in a variety of models and modeling techniques.
+In our team, candidates work with enthusiastic and collaborative professionals with a diverse set of backgrounds in econometrics, statistics, machine learning and analytics. Applying their quant skills, candidates routinely extract, understand and analyze data in our wide repository of sources, and further produce insights and build models that will inform Freddie Mac’s decisions on our mortgage portfolio. Candidates have the opportunity to perform a wide range of analyses with high impact on management decisions.
+Your Impact
+Your work may fall into the following categories:
+Research and Development
+Collaborate with other data scientists to solve demanding and complicated business problems by applying machine learning and statistics to large data sets.
+Build predictive models to automate business decisions.
+Develop new models and methods to assess the risk of new and existing products.
+Research enhancements to existing models and methods.
+Build pipelines to process data, train models, and test predictions—all at scale.
+Explain the results from your models and their implications for the business to key stakeholders.
+Analysis and Testing
+Perform R&D and exploratory analysis using statistical techniques and machine learning algorithms to understand data.
+Develop data profiling, deduping logic, and matching logic for analysis.
+Build dashboards for reporting and analytics.
+Coordinate model testing from research and development to implementation and deployment.
+Conduct back tests to monitor model performance.
+Perform sensitivity analyses and stress tests to validate model forecast results.
+Data Engineering
+Solve demanding and complicated business problems by applying modern technology and best practices to the engineering of large data sets.
+Cleanse, manipulate, and analyze large data sets. Data sets may consist of structured data, unstructured data, or both (e.g. XMLs, CSVs, Fixed length, JSONs and PDFs).
+Develop and maintain data processing programs/scripts to filter, map, and aggregate data, as well as transfer data across platforms (BigData Hadoop and Non-Hadoop).
+Identify, design, and implement internal data process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build data analytics tools that utilize the data pipeline to provide actionable insights into data origination, operational efficiency and other key business data movement performance metrics.
+Develop, manage and implement data quality programs/scripts from source to target with unit testing and data quality reports.
+Qualifications:
+Doctorate, Master’s degree (or Bachelor’s degree with equivalent work experience) in statistics, data science, quantitative finance, or a related quantitative field.
+Coursework or work experience applying predictive modeling techniques from data science, statistics, machine learning, and econometrics to large data sets. Qualifying coursework may include—but is not limited to—data science, statistics, machine learning, optimization, numerical analysis, scientific programming, computational methods, supervised learning, unsupervised learning, text mining, and image analysis.
+Coursework or work experience writing computer programs to implement data science pipelines and predictive algorithms. Programming languages may include—but are not limited to—Python, R, SQL, Java, SAS, and MATLAB.
+Coursework or work experience using technologies for manipulating structured and unstructured big data. Big data technologies may include—but are not limited to—Hadoop, Hive, Pig, Spark, relational databases, and NoSQL.
+Coursework or work experience using technologies for data processes supporting data transformation, data structures, metadata, dependency and workload management.
+Coursework or work experience using technologies for building data pipelines that includes development unit testing, version controls, data lineage, mapping and data quality/movements validations.
+Coursework or work experience of Advanced working SQL knowledge and experience working with relational databases, unstructured data sources, query authoring (SQL) as well as working familiarity with a variety of databases.
+Coursework or work experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Coursework or work experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Coursework or Work experience with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Keys to Success in this Role:
+Curiosity not just about data, but also about the business
+Ability to collaborate with people from a diverse set of backgrounds
+**Position levels: Quant Associate, Quant Professional, Quant Senior, Quant Lead **
+Current Freddie Mac employees please apply through the internal career site.
+Today, Freddie Mac makes home possible for one in four home borrowers and is one of the largest sources of financing for multifamily housing. Join our smart, creative and dedicated team and you’ll do important work for the housing finance system and make a difference in the lives of others.
+We are an equal opportunity employer and value diversity and inclusion at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by applicable law. We will ensure that individuals with differing abilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Notice to External Search Firms: Freddie Mac partners with BountyJobs for contingency search business through outside firms. Resumes received outside the BountyJobs system will be considered unsolicited and Freddie Mac will not be obligated to pay a placement fee. If interested in learning more, please visit www.BountyJobs.com and register with our referral code: MAC.
+Time-type:Full time
+Job Category:Research & Modeling
+FLSA Status:Exempt
+Freddie Mac provides anticipated base salary ranges where required by law. 

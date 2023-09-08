@@ -1,0 +1,48 @@
+Grammarly is excited to offer a remote-first hybrid working model. Team members can work primarily remotely in the United States, Canada, Ukraine, Germany, Poland, and Portugal. Conditions permitting, teams will meet in person a few weeks every quarter at one of Grammarly's hubs, currently in San Francisco, Kyiv, New York, Vancouver, and Berlin, or in a shared workspace in Krakow.
+Grammarly team members in this role must be based in the United States or Canada.
+
+The opportunity
+
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. Every day, 30 million people and 30,000 teams around the world use our AI-powered writing assistant. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+
+To achieve our ambitious goals, we’re looking for Data Scientist Managers to lead teams and work with product partners by understanding our users, contributing to product and growth strategy, and developing fundamental measurement frameworks. Data Scientists at Grammarly are trusted subject matter experts who uncover new insights to inform product and growth strategy. Our Data Scientists work with teams that build our core product features, demonstrate the value of our product to users, and empower people to use Grammarly everywhere they write. We have large datasets and are looking for folks with deep technical and analytical skills to break down complex business problems to provide solutions with high visibility and impact for the company.
+
+Grammarly’s data scientists have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product and growth roadmap. The complexity of the technical questions we face is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+
+Your impact
+
+As a Data Scientist Manager, you will:
+
+Have a broad scope and an evolving role in a rapidly growing company.
+Lead, motivate, and grow a team of talented data scientists to drive business growth and product roadmaps using data.
+Be a thought leader to influence the product and business partners.
+Identify new Product and Growth opportunities.
+Provide data-driven solutions to complex product and growth questions.
+Advise on experimentation strategy.
+Identify strategic data needs.
+We’re looking for someone who
+Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+Is able to collaborate in person 4 weeks per quarter, traveling if necessary to the hub where the team is based.
+Preferably has 3 years of experience managing data science teams.
+Has experience as an influential and effective thought partner to product teams and shows strong communication, proactiveness, creativity, and prioritization skills.
+Has strong analytical and critical thinking skills as well as a strong bias toward actionable insights.
+Has experience helping others understand numbers.
+Has practical experience in data analysis, statistics, and experimentation.
+Is proficient with SQL as well as programming in Python, R, Scala, or an equivalent language.
+Holds a PhD in a quantitative field or a master’s in a quantitative field with a minimum of 5 years of relevant working experience.
+Support for you, professionally and personally
+Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+A connected team: Grammarly builds a product that helps people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package encompassing superior health care (including mental health benefits). We also offer support to set up a home office, ample and defined time off, gym and recreation stipends, 401(k) matching, and more.
+For Colorado-based employment: The base salary range (excluding equity) for this position is $192,000-$326,000/year; however, base pay offered may vary considerably depending on job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity.
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with applicable law. Grammarly is an equal opportunity employer and a participant in the US Federal E-Verify program.
+
+Grammarly currently supports the long-term work of team members in the following US states: Arizona, California, Colorado, Florida, Georgia, Illinois, Maine, Massachusetts, Minnesota, Nevada, New Jersey, New York, North Carolina, Oregon, Pennsylvania (Kennett Township, New London Township, Pittsburgh City, Shaler Township), South Carolina, Texas, Utah, Virginia, and Washington, as well as the District of Columbia
+
+Grammarly currently supports the long-term work of team members in the following Canadian provinces: British Columbia, Ontario
+
+Please note that Grammarly’s COVID-19 vaccination policy requires that all team members in North America be vaccinated against COVID-19 to meet in person for Grammarly business or to work from a North America hub location. It is expected that this will be a requirement for this role. Qualified candidates in North America who cannot be vaccinated for medical reasons or because of a sincerely held religious belief may request a reasonable accommodation to this policy. For Europe, this policy requires team members to be vaccinated or produce a daily negative COVID-19 test administered on-site to work from the hub or attend in-person meetings.
+
+#LI-Remote 

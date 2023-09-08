@@ -1,0 +1,29 @@
+Job Overview
+Disney Streaming is the leading premium streaming service offering live and on-demand TV and movies, with and without commercials, both in and outside the home. Operating at the intersection of entertainment and technology, Disney Streaming has a unique opportunity to be the number one choice for TV. We captivate and connect viewers with the stories they love, and we’re looking for people who are passionate about redefining TV through innovation, unconventional thinking, and embracing fun. Join us and see what this is all about.
+The Disney Streaming Subscriber Analytics organization is focused on measuring and understanding the growth of the entire Disney Streaming business, which includes everything from acquisition to engagement to churn. Analytics teams are organized around separate focus areas, which cover the subscriber journey. The Core Growth Subscriber Analytics team is a foundational element to the broader organization. The team manages the critical subscriber data from which the entire business measures subscriber growth and fellow Analytics teams contextualize against. They lead the organization in how major initiatives result in subscriber growth and retention. Given the foundational nature of these datasets, the team collaborates widely across the entire organization.
+We are seeking a Senior Data Analyst who will focus on understanding and communicating the various aspects of the subscriber lifecycle to our many stakeholders. Collaborating with finance, product, data engineering, data science, and business teams, this position will act as a subject matter expert for specific facets of the subscriber journey data for Disney+, ESPN+, Star+, and Hulu. This expertise will manifest in the design and implementation of core subscriber data models that enable internal clients to explore, analyze, and monitor data.
+Responsibilities
+Design and implement core metrics and dimensions to be leveraged by the business in identifying the success of all business decisions
+Design and implement scalable, intuitive data structures for our subscriber pipeline to answer the analytical and business questions of today and tomorrow
+Partner with stakeholders performing quantitative analyses to provide detailed insight on the complexities of our subscriber data
+Create presentations and visualizations to communicate subscriber data patterns and insights for both technical and non-technical audiences
+Champion data quality by fostering relationships with engineering partners and prioritizing technical debt when possible
+Develop documentation for wide-ranging audience to use core subscriber data as intended
+
+Key Qualifications
+4+ years work experience developing in SQL, especially in an ETL processing pipeline
+4+ years of analytical experience
+Demonstrated experience with conveying technical and/or analytical concepts to broad set of audiences
+Familiarity with Python/R or other statistical programming languages
+Familiarity with data exploration and data visualization tools like Tableau, Looker, Chartio, etc.
+Strong communication skills, as well as written and verbal presentation skills
+Degree in an analytical field
+
+Nice To Haves
+Experience in a startup environment
+Understanding of statistics concepts (e.g., hypothesis testing, regression analysis)
+Advanced degree
+Familiarity with Airflow
+Additional Information
+DISNEYTECH
+Just like the best ensemble casts of our favorite shows, Disney Streaming embraces diversity and is an inclusive environment. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, genetic information, or other applicable legally protected characteristics. We are proud to be an Equal Opportunity Employer. 

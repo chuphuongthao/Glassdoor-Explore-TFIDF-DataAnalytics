@@ -1,0 +1,35 @@
+This role is 100% on-site daily in Addison, IL. Hybrid/Remote is NOT available for this role. Please keep this in mind when applying.
+Over the past 40 years, SWD has been providing Metal Finishing, Fastener Sorting services, and Dip Spin coatings to the Greater Chicago Area. Our team consists of marketing/sales, finance, manufacturing, and others to make an industry-leading company.
+But there’s a problem: We have a lot of data from different systems and equipment that needs to be analyzed to help us know ourselves, and our customers better to serve them better! We want to find out the most effective ways to process our customer's products. We also want to promote a data-driven culture of setting goals, making decisions, and developing strategies to enable sustained success across multiple lines of business.
+This is where you come in. The BI&A Manager will serve as the leader by developing data-driven insights and recommendations to improve business quality and performance. You will use various analytical methods like data mining, data engineering, and a data analytics (full stack) approach to provide actionable insights. We are a smaller company so this role will wear these as well as a few more hats. Does the sound of that excite you? If so, please read on.
+Role Responsibilities
+Work closely with key business stakeholders to identify, develop, and implement analytics solutions to satisfy key business information needs.
+Develop strategies for consistent metrics, reporting, testing, analysis, and forecasting to support decision-making.
+Advocate for the effective use of data and drive a culture of data-informed decision-making across the company.
+Provide leadership, mentorship, and ongoing development to a growing team of data champions in different departments.
+Inform, direct, and prioritize work based on business needs and impact.
+Educate and enable business leaders to leverage analytics techniques to accomplish business objectives.
+Actively drive the creation and adoption of a self-service strategy to promote business-delivered content and enablement of business-driven analytics.
+Function as project manager for data system implementations and QPS (Quality Performance
+System).
+Work as software admin and expert for multiple systems including ERP, document repository, and others.
+Work with technology experts to enhance data governance and security.
+Qualifications
+3+ years of work experience in analytics.
+Solid mathematical or statistics background
+Experience building and maintaining dashboards and reporting systems
+Ability to translate data into actionable insights
+Experience with enterprise-wide analytics platforms such as Power BI and Advizor.
+Experience with SQL (you’ll use it every day to get the data you need)
+Supporting business decisions through ad hoc analysis
+Extraordinary passion to solve problems (you’re not satisfied until it’s solved and backed by data)
+Superb communication skills and a results-driven mentality.
+Nice-to-Haves:
+Experience with data visualization tools like Power BI and Advizor.
+Expertise with programming languages like R and Python.
+Experience with server-side data pipelines like Veera.
+Other Things You Should Know
+Our interview process is more involved and thorough than you think it will be. But don’t let that scare you. This process helps us make sure we find you the best seat on the bus!
+We are a privately owned, with more than 200 team members.
+EOE/M/F/Vet/Disabled
+VqHITfYgp7 

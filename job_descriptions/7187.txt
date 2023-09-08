@@ -1,0 +1,38 @@
+Our customer is a global provider of information-based analytics and decision tools for professional and business customers. They help researchers make new discoveries, doctors and nurses improve the lives of patients, and lawyers develop winning strategies. They prevent online fraud and money laundering and help insurance companies evaluate and predict risk. Their events combine in-person and digital experiences to help customers learn about markets, source products, and complete transactions. In short, they enable customers to make better decisions, get better results and be more productive.
+We are seeking a Data Science Operations Lead on a contract basis to support our customer's business needs. This role will provide analytical and statistical support to senior members of the team to execute projects supporting all levels of government in civilian services, public health, and public safety.
+
+What you’ll do:
+Provide support to more senior Data Scientists and the Analytics team.
+Design and document coding requirements for attribute/feature product development.
+Extract and clean data to support analytic project work.
+Conduct analysis to validate output is coded as designed by other functional areas.
+Apply statistical techniques and work with large data assets to conduct analytic research and data studies, build statistical models and complete various analytic projects.
+Participate in communicating analytic conclusions to both analytic and non-analytic stakeholders
+Collaborate with cross-functional teams including fraud and crime analysts, product management, project management, and technology to execute projects.
+Other duties as assigned.
+Support product development, research, and prototyping assignments.
+
+Must Haves:
+2+ years of relevant work experience.
+Competency in R, Python, SQL, or similar statistical software packages.
+Demonstrates competencies in relevant Data Science and/or Statistical frameworks.
+Ability to apply Machine Learning, Data Mining, and/or Statistical methods to build models.
+Ability to execute standard coding for projects and processes to do the job successfully using company standard toolsets.
+Experience processing and manipulating large data sets including merging, slicing, sorting, and constructing new features.
+Strong documentation, written, and verbal communication skills.
+Strong analytical thinking skills.
+Proficient interpersonal skills to be able to interface effectively with a broad range of contacts; from technical staff to management.
+Proficient organizational skills with the ability to handle multiple concurrent activities and to work successfully under pressure.
+Detail-oriented and critical thinker.
+Ability to work well both independently and with cross-functional teams to execute projects.
+Knowledge in data wrangling, data mining, statistical methods, multiple statistical modeling, and machine learning techniques.
+
+Education:
+Master's or bachelor's degree in Data Science, Mathematics, Statistics, or related field.
+
+Hours & Location:
+M-F, 40 hours/week. This role is 100% remote in EST and CST timezones.
+All applicants applying for U.S. job openings must be legally authorized to work in the United States and are required to have US residency at the time of application.
+Please Note: In order to create a safe, productive work environment, our client is requiring all contractors who plan to be onsite to be fully vaccinated according to the CDC guidelines. Prior to coming into our offices, contractors will be required to attest that they are fully vaccinated.
+Perks are available through our 3rd Party Employer of Record (Available upon completion of waiting period for eligible engagements)
+Health Benefits: Medical, Dental, Vision, Life (including spouse & child), 401k, STD/LTD, AD&D, and Commuter Benefits program. 

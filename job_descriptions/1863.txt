@@ -1,0 +1,21 @@
+Summary
+Posted: Jun 3, 2022
+Role Number:200373024
+Apple Maps is changing, and data is in the driverʼs seat. Our mission is to build the best map in the world. We are looking for a talented software/data engineer to join our cross-functional data science team, focusing on the deep evaluation of Maps services and features. We work directly with the Engineering and Product teams responsible for quantifying, measuring, and monitoring usage and user experiences across Maps platform. Our day-to-day work crosses many functional areas, including experiment design, AB testing, exploratory data analysis, generative analytics, and more. This role is great for a hybrid data scientist / data engineer, or a software engineer who is looking to have a big impact while also having space to learn more about data science.
+Key Qualifications
+Excellent programming skills, preferably in Python.
+Experience in a big data processing framework such as Spark.
+Background includes at least one database system (e.g., PostgreSQL).
+Strong communication skills and be adaptive for changing requirements and tech stack.
+Nice-to-have Experience
+Prior industry experience in developing data application at web scale, but will consider talented and enthusiastic new graduates with relevant internships or coursework.
+Basic knowledge in Scala or Java for Spark data pipelines.
+Experience in developing user-friendly libraries to automate analytic tasks at scale.
+Familiar with the software ecosystem for big data analytics and business intelligence.
+Basic knowledge in backend web development such as Flask, FastAPI.
+Experience with cloud computing environment such as AWS or GCP.
+Description
+You'll build data products and tools to support collaborative decision-making with our partner teams in engineering and product management. You're willing to learn fast, and adapt well to changing requirements and new technology stacks. Example projects include: building and managing high-quality data tables, pipelines and APIs from various sources including both big data at web scale as well as small curated data sets. Developing libraries to automate analysis tasks and enable data scientists to extract insight from data in scale. Identifying optimization opportunities (e.g. improving query speed, reducing memory or storage) in our data systems, and implementing those enhancements. Integrating various tools and services and provide uniform and easy access to data scientists and other partner teams.
+Education & Experience
+Bachelor or advanced degrees in Computer Science, Statistics, Physics, Operations Research, or similar quantitative domain.
+Additional Requirements 

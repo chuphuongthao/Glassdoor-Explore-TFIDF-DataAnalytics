@@ -1,0 +1,27 @@
+Summary of Role:
+The Data Analyst role will join the Insights and Analytics team (IAX) and work alongside business intelligence analysts, data engineers, and data scientists to provide insights and data solutions in the support of Brand Activation + Engagement (BAE). This role will be responsible for providing conceptual insights, problem structuring, modeling, and other analytical support. They will report to the Manager of Data and Analytics and will work closely with other teams within Marketing to drive informed strategic decision-making.
+
+The Data Analyst has several primary responsibilities including collecting, combining and analyzing data to develop insights - (e.g., grower transactions, product sales performance, profitability, etc.) and reports to address the needs of the business.
+
+Responsibilities include:
+Data integration
+Integrating data sources, systems, and reports (e.g., pricing, CRM, sales data)
+Writing multi-language software to extract and ingest information from company databases (Python, SQL)
+Supporting Data Engineers and Data Scientists with ETL when required
+Commercial insights
+Analyzing data through programming languages (Python) and developing reporting systems (e.g., Power BI) to provide insights into real-time commercial performance as well as weekly, monthly, quarterly, and annual reports
+Supporting ad-hoc analyses and data pull requests for project owners, enabling effective project management
+Business requirements
+Collaborating with business and internal stakeholders to translate complex functional and technical requirements and validation criteria into user-friendly tools for the sales and marketing teams
+Work with the direction of Senior members of the team to produce deliverables.
+The Data Analyst will cultivate and continuously deepen expertise in agricultural inputs through this role while further developing problem-solving skills and commercial knowledge.
+
+Requirements:
+BS/BA degree (MS preferred) in a quantitative discipline such as computer science, statistics, data science, mathematics, economics or equivalent combination of education and experience.
+Strong problem solving and programming skills, with the ability to develop creative, efficient, and well-documented coding solutions based on field and business requirements
+High proficiency with Python and experience in SQL is required; Power BI a plus
+2+ years of experience with data analysis and preparation
+Comfortable explaining and translating technical techniques and results to a variety of audiences including the field sales team
+Strong business and collaboration skills, and responsive to service needs and operational demands
+Ability to deliver compelling presentations to a variety of audiences
+Agricultural industry experience is a plus 

@@ -1,0 +1,47 @@
+Title: Manager, Contact Center Analytics
+
+Viking is looking for a Manager, Contact Center Analytics to join our Sales Planning and Technology group. The successful candidate will be responsible for leading a team that curates data driven stories to offer insights and analysis about our Contact Center Operations. They will work closely with stakeholders to identify business needs then communicate project timelines and updates on the requested dashboard, report, or analysis.
+
+
+Responsibilities
+
+Build a high performing data science team to support the operational needs of the Contact Center and increase insights into customer interactions
+Manage the groups responsible for operational, performance, quality, and customer analytics
+Curate new data products that package Call Center performance information into easily readable and understandable forms
+Propagate techniques for answering basic report questions and conveying data definitions
+Use statistical analyses and mathematical models to derive insights about Call Center operations
+Maintain solutions for data governance and documentation
+Partner with other departments to build holistic cross functional dashboards for executives
+Use data to analyze Call Center performance, identify trends, and provide feedback to Managers
+Implement a ticketing system for tracking report requests, builds, and progress
+Document change management procedures for data and reporting groups
+Meet with Managers to identify their analytical needs for growing their departments
+Act as liaison between stakeholders and cross-functional support teams for data issues
+Recommend best practices for data hygiene and continuity
+Monitor industry trends to watch for new functionality and best practices that can be introduced to improve productivity
+Report on current performance trends to Management and Executives
+
+Preferred Knowledge/Skills, and Experience
+
+3+ years experience managing a Data Analytics team including developers and analysts
+2+ years experience working with data from the Genesys CX platform
+Proficiency in PowerBI including creating dashboards and data connections
+Intermediate experience with SQL of any dialect
+Prior experience and in depth understanding of omni-channel contact centers
+Prior experience with Synapse and Azure delta lakes
+Create data driven presentations for executives on short notice
+Adept at handling multiple simultaneous projects
+Excellent written and verbal communication skills with an aptitude for analytical thinking
+Ability to work in a fast-paced dynamic environment with shifting priorities
+Must be proactive, self-motivated, and be able to work both independently and collaboratively
+
+Education
+
+Bachelor’s Degree in Data Science, Business Analytics, or related field
+
+
+About Viking
+
+Viking is celebrating its 25th anniversary. With a fleet of 70+ River ships cruising over 30 itineraries across 34 countries, Viking Cruises is the largest, most award-winning company in the industry. In 2015 Viking expanded into Ocean cruising and now have 6 Ocean ships in operation, with 6 more ships coming soon. In 2020 we announced the launch of Viking Expeditions and Viking Mississippi, significantly expanding the company’s growth potential. Visit www.viking.com to learn more.
+
+The work culture at Viking Cruises is entrepreneurial, with a focus on small teams, a strong preference for action, results, and constant improvement. Join us as we shape the future of world travel while building a world-class marketing organization. 

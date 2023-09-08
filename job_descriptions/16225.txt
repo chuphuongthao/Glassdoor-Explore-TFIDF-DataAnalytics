@@ -1,0 +1,38 @@
+JDSAT, Inc. is a solutions company - utilizing data, mathematics, and software to create solutions tailored to each organization’s needs. We don’t believe a homogenized solution can address complex problems. We direct the design, iteration, and development of custom tools based upon each project’s unique landscape. We build our products the same way we built our company—with people in mind. All our employees are committed to maintaining and continuing to build a culture of inclusivity, positivity, and growth.
+The qualified candidate will be a balanced professional training and experienced in organizational analysis, budgeting and forecasting, planning and monitoring, defining business requirements, and analyze business processes while also possessing technical understanding in the areas of data analysis, data visualization, and business analytics. The qualifying candidate will have a Bachelor’s degree in a technical field (Data Analysis, Computer Science, Statistics, etc.) with at least 2-5 years of field experience. The ideal candidate will display superb balance of technical and non-technical skills, including ability to frame and solve problems, identify and understand requirements, develop solutions, communicate to decision makers and team members, and adapt in a fast-paced professional environment.
+This position requires a SECRET clearance or demonstrated ability to obtain such clearance.
+Responsibilities
+Extract and transform data from existing relational database management systems.
+Conduct exploratory analysis and data visualization to support project needs.
+Support development and implementation of proofs of concept to aide in making technology choices and validate model assumptions.
+Work with clients, managers, and technical staff to understand business needs and develop project plans to deliver needed results.
+Relate to team members, client personnel, and decision makers to help build common understanding of requirements and support for potential solutions.
+Prepare professional products, reports, and papers to support team activities, including helping teams develop the stories and messages needed to distill complex information into actionable plans.
+Requirements
+Required Skills and Abilities
+Bachelor’s degree in Analytics, Data Analysis, Mathematics, Statistics, Finance, Economics, Computer Science, or related field.
+Minimum 3-5 years applied work in relevant field as described above.
+2-5 years experience with data analysis software such as R, Python, or similar.
+Experience using Microsoft Excel and Tableau/PowerBI for data analysis and visualization.
+Experience with object-oriented programming.
+Experience with SQL and relational databases.
+Experience with advanced analytical methods (e.g. algorithms, predictive analytics, statistical modeling) and tools (e.g. Python, R, Matlab, SAS, SPSS, etc).
+Ability to assist in analyzing complex systems and processes.
+Experience gathering and analyze business requirements (processes, systems, policies, information management tools, etc).
+Excellent oral and written communication skills.
+Excellent interpersonal skills.
+Possess or be able to obtain an active Secret-level security clearance.
+Desired Skills and Abilities
+Masters degree in Analytics, Data Analysis, Business Analysis, Business Management, Business Administration, Statistics, Finance, Economics, Computer Science, or related field.
+Minimum 5 years’ experience working in a technical field as described above.
+Experience working with the Department of Defense
+Experience managing or leading small teams, business processes, or working groups.
+Experienced with advanced analytical methods (e.g. algorithms, predictive analytics, statistical modeling) and tools (e.g. Python, R, Matlab, SAS, SPSS, etc).
+Experienced extracting and transforming data for analysis using Structured Query Language or related query languages.
+Familiar with a variety of databases, including: MySQL, T-SQL, Oracle, etc.
+Experience applying Robotic Process Automation to recurring analytics activities.
+Experience as a consultant balancing technical and non-technical functional roles.
+Benefits
+At JDSAT Inc., you will be joining a collaborative and energetic team with excellent career development opportunities. You will sharpen your knowledge on challenging projects with a great deal of autonomy while operating alongside other talented Operations Research, Data Science, and Management professionals. We like to cultivate our talent and promote from within by offering a variety of leadership and advancement opportunities throughout the company. We offer: above-market salaries; a competitive benefits package; a commitment to achieving the right work/life balance; and meaningful work to improve our employees and our clients.
+JDSAT Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, gender identity, age, sexual orientation, status as a protected veteran, among other things, or status as a qualified individual with a disability.
+We are proud of our diverse environment, EOE, M/F/Disability/Vet. Strive for excellence with JDSAT Inc.! 

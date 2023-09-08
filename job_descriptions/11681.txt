@@ -1,0 +1,89 @@
+Location
+
+San Diego - CA, US
+
+Team
+
+Research & development
+
+Experience
+
+3-7 years
+
+Degree
+
+Bachelor
+
+Job Category
+
+Other technical job categories
+
+Travel
+
+10%
+Introduction to the job
+The laser-produced plasma EUV source produced by ASML generates light by firing high-energy laser pulses at Tin droplet targets at kHz repetition rates. The resulting plasma pulses create both desired EUV light, and undesired tin debris in the form of ballistic particulates and atomic vapor. If unabated, the Tin debris will coat all surfaces in the vessel, including optical components, impacting the transmission of EUV and Laser light. We are looking for a Functional Engineer (Semiconductor Equipment) supporting solution development and implementation on the product. The objective is to ensure design concepts can be developed to address the undesired Tin debris, and deliver robust product solutions. The successful candidate will be a highly motivated and enthusiastic individual with a hands-on technical background, excellent communication skills, and ability to influence others. As a Functional Engineer you will work with a team of highly professional engineers and scientists with diverse academic backgrounds and many years of experience. Your job is to provide technical input and support to the team to deliver practical solutions and ensure successful validation and implementation of these features on the product.
+This position requires access to controlled technology, as defined in the Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with applicants who are immediately eligible to access controlled technology
+Role and responsibilities
+Integrates Tin Management system modules and components, develops documentation, executes tests, supports deployment, and provides technical support for EUV systems domestically and internationally
+Troubleshoots complex multidisciplinary issues
+Supports a multi-disciplinary and cross-functional team in the design and development of modules to assure performance, operation, serviceability, and cost-of-ownership requirements
+Provides design and procedure support in a continuous product improvement effort leveraging feedback from customers, personal experience, and other field integration engineers
+Supports equipment design, performance validation and product documentation activities
+Participates in system level design reviews and provides feedback to ensure adherence to safety, process controls, and quality principles
+Assists with research and development prototype builds, testing, and evaluation efforts
+Develops test strategies and test plans. Executes testing and analyzes data to assess performance to specifications
+Oversees Integration activities of product modules delivered by projects outside of San Diego by closely coordinating with the key project stakeholders
+Uses ASML standard tools and methodologies to report, investigate and resolve technical problems in the design and validation phase
+Leads issue management to solution for Integration, Factory and Field system escalations
+Identifies metrology or performance gaps and leads design improvement effort with development team using data-driven feedback collected from the field or 1st article demonstration units
+Education and experience
+BS/MS Mechanical engineering or Physics (preferred) or equivalent with 2+(BS) / 0+(MS) years’ experience
+Experience with process equipment design including gas and vacuum technologies, thermal management systems, and process control techniques
+Experience with Simulink highly desired
+Experience with Matlab and Python with databases interaction and corresponding analytical skills
+Experience with 3D modeling tools and engineering configuration management processes or tools
+Detail-oriented problem solver with initiative and responsibility to follow through
+Experience performing Failure Modes and Effects Analysis
+Excellent written and verbal communication skills.
+Ability to statistically analyze data, and effectively report problems through written and/or graphical formats.
+Excellent customer service skills, with an advanced understanding of customer relationship building.
+Ability to use MS Word, Excel, PowerPoint, and electronic e-mail systems.
+Understanding of the concept of large complex system integration and practices.
+Understanding of the concept of optics.
+Understanding of the concept of system controls.
+Excellent analytical skills and trouble shooting skills.
+Ability to troubleshoot mechanical, electrical, optical, and control sub systems.
+Ability to read and interpret engineering specifications and drawings.
+Ability to set up and use the test and analytical equipment commonly used for the optics, laser and plasma research.
+Ability to translate the knowledge and hand-on experiences into technical instructions and procedures.
+Ability to translate the design and test requirements into comprehensive test plan documents and procedures.
+Ability to reduce large amounts of data, create a concise summary, and make a high quality presentation.
+Ability to develop or use analytical tools and perform time-domain and frequency-domain analyses.
+Ability to define and execute tasks based on project descriptions with minimum or no supervision.
+Plan activities and execute to schedules established by program
+Excellent inter-personal skills, with an understanding of customer relationship building in highly multi-cultural environment.
+Skills
+Working at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.
+To thrive in this job, you’ll need the following skills:
+Detail oriented, willing to travel, able to work in multi-cultural environment
+Versatile skill set and willing to perform hands on work in a lab environment
+Self-motivated with excellent technical written and verbal communication skills
+While performing the duties of this job, the employee routinely is required to sit; walk; talk and hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, crawl, reach, and stretch.
+The employee is occasionally required to move around the campus.
+Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.
+May require travel dependent on company needs.
+The employee may occasionally lift and/or move up to 50lbs.
+Can work under deadlines.
+Travel to overseas and domestic customer sites for > 50% of time may be required.
+May be required to climb or balance.
+Must be able to use breathing apparatus.
+Work schedule may vary considerably to include evenings and weekends as well as long hours based on business needs.
+May be assigned a compressed or alternate work schedule to meet business and customer needs.
+May be assigned an “on call” type work schedule and may be required to respond to customers with little or no advance notice.
+Diversity & Inclusion
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.
+Other information
+EOE AA M/F/Veteran/Disability
+Need to know more about applying for a job at ASML? Read our frequently asked questions.
+#LI-JB1 

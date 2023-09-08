@@ -1,0 +1,98 @@
+Req Updates:
+
+Where have candidates fallen short?
+Interview feedback?
+Submission feedback?
+
+Profile Types We Are Searching For:
+
+Career progressions you would like to see?
+Job titles you would like to see?
+Two-three job types max
+
+Looking for a technical core L3 Support/Technical Release Coordinator to help with release deployments, production issues, etc.The release management piece can be trained, they will basically take code and promote it to production – won’t be developers but should know their way around code
+
+Project Details:
+
+What does the End Goal look like?
+What current phase are they in?
+Tech stack of the environment?
+Not project based/Ongoing need?
+
+Not project based, looking for a production support resource to support a range of applications within a data analytics/customer insights organization
+
+Must Haves / Required Skills:
+
+L3 Support experience
+Linux Scripting
+Unix
+Apache
+JBoss
+SQL
+Open shift/Container knowledge
+
+**FINAL ROUND INTERVIEW WILL TAKE PLACE FROM A MATLEN SILVER OFFICE IN CLT OR NY
+
+Skills / Experience That Are A Plus
+
+“nice to have”, but not necessarily required:
+Sample question topics:
+
+Level / years of experience?
+Responsibilities they’ve held?
+Types of Projects they’ve worked on? (implementation, enhancement, upgrade, migration)
+Specific Industry experience?
+
+Hadoop
+
+Release mgmt. experience
+
+Duration:
+12-18 months
+
+Bill Rate? Conversion Salary?
+
+99.73
+
+Rate Exception Possibility:
+Any Special Client Markup Requirements:
+Preferred Location(s):
+CLT or NY (start remote then onsite in one of these locations)
+
+
+Return to office plan?
+Immediate onsite?
+Will they consider someone who will relocate (not currently local)?
+
+Can Someone Sit 100% REMOTE?
+
+No
+
+C2C friendly? H1B Eligible? W2 Only?
+
+Why Is The Role Open / Backfill?
+
+Have We Place Anyone On The Team?
+
+Names?
+
+Interview Process / Who Is Involved?
+
+
+Interview Times? When?
+How many rounds?
+Format of interview?
+
+First round technical screen with Amit, then will be a second round onsite from a matlen silver office in CLT or NY.
+
+Interview Debrief
+
+
+Candidates description of the role?
+Key questions (exact questions)
+Were there any questions you missed?
+Next Steps?(how did they end the interview)
+Interest level?
+Candidate Name:
+
+ 

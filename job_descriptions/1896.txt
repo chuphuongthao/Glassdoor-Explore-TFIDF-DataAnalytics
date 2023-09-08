@@ -1,0 +1,48 @@
+Work Styles at Zoom
+In most cases, you will have the opportunity to choose your preferred working location from the following options when you join Zoom: in-person, hybrid or remote. Visit this page for more information about Zoom's Workstyles.
+About Us
+Zoomies help people stay connected so they can get more done together. We set out to build the best video product for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.
+We’re problem-solvers, working at a fast pace to design solutions with our customers and users in mind. Here, you’ll work across teams to deliver impactful projects that are changing the way people communicate and enjoy opportunities to advance your career in a diverse, inclusive environment.
+Reporting to Corporate Chief Information Officer (CIO), the Head of Data & Analytics leader will drive all aspects of Data Engineering, Data Analytics and Data Governance for entire Zoom. This role has huge leadership opportunity to make company wide impact in terms of scaling product & operations teams, facilitating insight led decision making for all lines of businesses, improving customer experiences and monetizing opportunities enabled through strong product portfolio.
+We are seeking a seasoned leader to drive vision, strategy, and implementation roadmap for a large Data & Analytics portfolio. Partnering with cross functional executive leadership team, you will lead team to build future ready solutions that power the growth, productivity, and experience of our customers, partners, and internal colleagues. To be a strong fit for this role, you would have strong experience in executive stakeholder management, people leadership, business savviness and technical depth in multi-stack data ecosystem management at scale. You thrive in a fast-paced, hyper-growth environment. Those who are willing to roll up their sleeves and dive in to help make a long-term impact will be a strong cultural fit at Zoom. Our culture will empower you to make effective decisions, work collaboratively, and take accountability for providing world class services to customers and our internal stakeholders. In this role, you will lead a global team of Managers, Data Product Managers, Data Engineers, Data Analyst and Data Quality & Governance experts.
+Job Responsibilities:
+Develop a vision and roadmap to create best-in class analytics and reporting capabilities on behalf of the company
+Be analytics thought leader, generate deep and actionable insights. Champion an objective and data-driven decision-making culture
+Partnering with executive staff and LOB heads, create a rationalized Data and Analytics portfolio delivering best possible business value, impact, and operational efficiency
+Standardize KPI, Dashboard, data source etc. for simplicity, scale, and cost optimization
+Manage ideation to the adoption of Customer, Product, and Executive dashboards with actionable insights
+Drive Customer, Revenue and Product Analytics strategy and roadmap for the company.
+Provide thought leadership for Customer, Revenue and Product Analytics.
+Realize the true value of Telemetry, provide insights to Product, Field sales and Customer Success teams
+Embed Data Science and Machine Learning models as part of business decision making processes and realize the true value of data science
+Define and implement Data Governance framework to deliver a Single Source of Truth for the Enterprise with validated data/insights
+Build a strong and vibrant team by recruiting, training, and developing the staff
+Qualifications:
+Engineering / CS / MIS Degree (Bachelor’s; graduate degree a plus) and 15+ years of relevant industry experience.
+Strong business acumen to translate data capabilities into business outcomes that align to business objectives and support real-time decision making
+Strong knowledge of data architecture. Strong technical skills in big data, Data warehouse, Data Lake, Analytics and Machine Learning tech stacks
+Proven leadership capabilities across all disciplines of data including analytics, data science and data engineering
+Experience managing the compliance requirements and programs required to protect sensitive data, this includes SOX, GDPR, CCPA, BCP/DR etc.
+Experience building teams and organizational development
+Ability to set clear team objectives and performance measures
+Entrepreneurial mindset and results driven. Thrives in a fast-paced start-up environment.
+Ability to manage and prioritize multiple competing initiatives.
+Proven stakeholder management skills, credibility to C Suite levels
+Assertive, adaptable and demonstrates initiative in a fast-paced environment with competing priorities
+We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. Zoom is proud to be an equal opportunity workplace and is an affirmative action employer. All your information will be kept confidential according to EEO guidelines.
+We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records and any qualified applicants requiring reasonable accommodations in accordance with the law. If you need any assistance or accommodations due to a medical condition, or if you need assistance accessing our website or completing the application process, please let us know by emailing us at careers@zoom.us.
+Colorado Salary Range or On Target Earnings:
+Minimum:
+$180,000.00 USD
+Maximum :
+$315,000.00 USD
+In addition to the base salary and/or OTE listed, Zoom has a Total Direct Compensation philosophy that takes into consideration base salary, bonus and equity value. Information about Zoom’s benefits is here. Note: Starting pay will be based on a number of factors and commensurate with qualifications & experience. We also have a location based compensation structure; there may be a different range for candidates in other locations.
+Zoom requires all U.S. employees who will work in person at a Zoom office, attend in-person Zoom meetings or have in-person customer meetings to be fully vaccinated. Zoom will consider requests for reasonable accommodations for religious or medical reasons as required under applicable law.
+Explore Zoom:
+Hear from our leadership team
+Browse Awards and Employee Reviews on Comparably
+Visit our Blog
+Zoom with us!
+Find us on social at the links below and on Instagram
+View more jobs, sign up for job alerts and join our talent community. Visit the Zoom careers site.
+#LI-Remote 

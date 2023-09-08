@@ -1,0 +1,16 @@
+Summary
+Posted: Jan 29, 2022
+Role Number:200289181
+Services at Apple help hundreds of millions of customers get the most out of the devices they love through amazing apps, award-winning shows and movies, immersive music in spatial audio, world-class workouts and meditations, super fun games and more! The Apple Media Products Data Science & Analytics organization is passionate about developing discerning insights and machine learning solutions to help continually improve these services and accelerate growth while maintaining a strong dedication to customer privacy. We are currently seeking a Machine Learning Engineer to help optimize marketing communications at scale through predictive models for customer state changes, lifetime value, and engagement. As a key member of our diverse and dynamic organization, you'll have the rare and rewarding opportunity to work with datasets of unique magnitude, richness, and dedication to privacy that will frequently require innovative approaches. You'll work alongside partners across Business, Marketing, Product and Engineering daily to deliver material customer and business value. The position is based in Los Angeles.
+Key Qualifications
+3+ years of experience in a Machine Learning Engineer or Applied Scientist role, preferably for an internet technology company.
+Familiarity with a broad range of Machine Learning techniques and relevant statistical packages to engineer Machine Learning solutions end-to-end.
+Strong proficiency with SQL-based languages, Python, Spark, and additional large-scale data / Hadoop-ecosystem tools. Working proficiency with Git.
+Experience in contributing to production code bases. Ability to rapidly prototype algorithmic ideas in notebook environments and translate them into production code.
+Curious business attitude with an ability to condense complex concepts and models into clear and concise takeaways that drive action!
+Excellent communication, social, and presentation skills with meticulous attention to detail.
+Description
+Collaborate with Apple Media Products team members and partners to design Machine Learning models that help us better understand and serve our customers, focusing on Services such as Apple TV+, Apple Music, Apple Fitness+, Apple Arcade, and the App Store. Engineer end-to-end Machine Learning products which provide Apple with a granular understanding of customer preferences and user value drivers, including scalable solutions for customer acquisition and targeting. Support engineering, business, and marketing teams at Apple in optimizing all customer touch points by detecting usage patterns with data-driven / machine-learned methods and translating them into practical solutions. Dive deep into large-scale data sources to uncover opportunities for Machine Learning automation, predictive methods, and quantitative modeling across Apple services. Partner with other Apple organizations on data engineering, data governance, voicing support for Machine Learning, and democratizing data. Increase internal adoption of ML and AI products.
+Education & Experience
+Minimum of a Bachelors degree in Computer Science, Statistics, Mathematics, Engineering, or related field. Ideally, Masters or PhD in related field.
+Additional Requirements 

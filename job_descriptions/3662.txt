@@ -1,0 +1,33 @@
+This position is in the Corporate Advanced Technology Development team, which is a part of the Chief Technology Officer organization and is based at BorgWarner’s Propulsion Technology Center (PTC).
+
+This team is responsible for the development and demonstration of advanced mobility technologies, focusing on new growth areas with longer time horizons; the development is system-oriented, and involves collaboration with other functional areas and business units at BorgWarner, as well as with external technology partners.
+
+As a member of the Corporate Advanced Technology Development team you will be responsible for utilizing your data analytics, machine learning and systems engineering expertise in supporting the design, development and validation of new mobility technologies. You will support the development and evaluation of technologies in simulation, in hardware-in-the-loop set-ups, and in-vehicle.
+KEY ACCOUNTABILITIES
+Design, implement, debug, and evaluate data analytics and machine learning algorithms for mobility related products and systems, including for propulsion management related systems for electrified, connected and automated vehicles.
+Perform offline simulation, rapid prototyping, hardware-in-the-loop and vehicle-based testing.
+Prepare documentation for algorithms and systems, including functional descriptions and calibration guidelines.
+Assist with or provide initial calibration of algorithms.
+Support system-level algorithm integration and testing, including analysis of resulting data.
+Guide and oversee personnel working at external service providers as required.
+Stay current on emerging trends/technologies in the mobility field. Write Records of Invention and technical papers, and present at key mobility technology venues.
+Occasional travel; flexible work schedule necessary on occasion.
+EDUCATION/EXPERIENCE
+Required:
+MS in Electrical or Computer Engineering;
+Minimum of 3 years of experience designing, implementing, debugging, and validating complex data analytics and/or machine learning algorithms;
+Expert user of MATLAB-Simulink-Stateflow tool chain to create models and algorithms, and simulate their performance;
+Experience in the use of rapid-prototyping tools for algorithm development;
+Excellent written and oral communication skills and interpersonal skills, and effective working in a team;
+Preferred:
+PhD in Electrical or Computer Engineering;
+Knowledge of mobility systems, particularly related to passenger cars, as well as light and heavy-duty commercial vehicles;
+Experience designing, implementing, debugging, and validating complex control systems for automotive applications.
+Experience with on-vehicle algorithm implementation and testing;
+Experience with automotive data buses, such as CAN;
+Experienced user of CANape and INCA;
+Knowledge of connected and automated vehicle systems; including ADAS modules such as camera, radar, and others.
+Internal Use Only: Salary
+Global Terms of Use and Privacy Statement
+Carefully read the BorgWarner Privacy Policy before using this website. Your ability to access and use this website and apply for a job at BorgWarner are conditioned on your acceptance and compliance with these terms.
+Please access the linked document by clicking here, select the geographical area where you are applying for employment, and review. Before submitting your application you will be asked to confirm your agreement with the terms. 

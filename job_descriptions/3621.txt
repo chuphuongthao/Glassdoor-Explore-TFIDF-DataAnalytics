@@ -1,0 +1,45 @@
+Job Location: San Ramon
+Team Overview
+The aim of the Risk and Data Analytics team in the Wildfire Risk organization is to enhance the risk practices of PG&E’s Electric Operation business and thereby address changing external conditions such as climate change. To this end the Risk and Data Analytics team creates and maintains digital tools to enable PG&E to close the gap between metrics and electric system performance. These tools provide a multi-layered view of risk across the electric system so that decision-making processes include and empower employees at all levels of the company to manage risk appropriately.
+
+Sample activities include:
+Interpretation and representation of meteorological data in models that combine a range of data sources such as the electric system asset data, vegetation, and meteorology
+Prediction of electric distribution equipment failure before it occurs allowing for proactive maintenance
+Development of supervised and unsupervised machine learning models using Python and executed in Foundry or AWS
+
+Position Summary
+
+As part of the Risk and Data Analytics team under the Wildfire Risk organization, the Expert Data Scientist collaborates with a multi-disciplinary project team of data scientists, technology experts, and subject matter experts to develop and deploy models quantifying the probability of failure for the electric transmission grid assets. This individual will serve as the technical lead for development and deployment of high complex models utilizing a hybrid of ML and first principles models. This role aims to quantify risk and develop tools to enable risk-informed planning and decision making for electric grid operations
+
+(continued on second page)
+
+Responsibilities:
+Gathers, cleans, transforms, and/or reduces data from dissimilar sources from across PG&E.
+Performs exploratory data analysis (EDA) to produce actionable insights.
+Appropriately applies statistical and analytical modeling methods such as classification, regression, clustering, anomaly detection, neural networks, Bayesian etc. using Python.
+Works collaboratively with other data scientists through an iterative Agile project development lifecycle
+Assesses business implications associated with modeling assumptions, inputs, methodologies, technical implementation, analytic procedures and processes, and advanced data analysis
+Works with company subject matter experts to understand application and potential of data analytic solutions to create value for end-user
+D ocuments data sources, methodology, and model evaluation metrics
+Presents findings and makes recommendations to management and other stakeholders
+
+Minimum Qualifications:
+Degree in computer science, engineering, applied sciences, mathematics, statistics, econometrics or similar quantitatively focused subject areas or job-related experience
+Minimum of 8 years of relevant experience in data science or advanced analytics OR Master’s Degree and job-related experience, 6 years, OR Doctorate and job-related experience, 3 years
+
+Desired Qualifications:
+Demonstrated understanding of physics-based models that simulate decay, corrosion, or wear of structures, catenary cables, steel components, etc.
+Relevant industry (electric or gas utility, renewable energy, analytics consulting, etc.) experience
+Ability to clearly communicate complex technical details and insights to colleagues and stakeholders
+Experience working collaboratively on a development or analytics team
+Demonstrated proficiency with data science best practices, such as version control via Git or similar
+Demonstrated proficiency with model development for decision analysis, forecasting, or other complex quantitative modeling
+Demonstrated experience writing clear and well documented code, preferably in Python
+Demonstrated e xperience working with large datasets and knowledgeable about parallelization
+Strong understanding of statistics and experience developing supervised & unsupervised learning models
+
+Beneficial Qualifications:
+History mentoring and teaching others as well as desire to continue to do so
+Demonstrated experience creating clear data visualizations that provide business value using tools
+Enjoy working on complex multi-stage projects with a diverse team
+Familiarity with transmission and/or distribution power flow models 

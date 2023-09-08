@@ -1,0 +1,19 @@
+Summary
+Posted: Aug 5, 2022
+Weekly Hours: 40
+Role Number:200403224
+Do you love understanding every detail of how new technologies work? Join the team that serves as Apple’s nerve center, our Information Systems and Technology group. There are countless ways you’ll contribute here, whether you’re coordinating technology needs for product launches, designing music solutions for retail locations, or ensuring the strength of in-store Wi-Fi connections. From Apple Pay to the Apple website to our data centers around the globe, you’ll help design and manage the massive systems that countless employees and customers rely on every day. You’ll also build custom tools for employees, empowering them to solve complex problems on their own. Join our team, and together we’ll explore all the ways to improve how Apple operates, freeing our employees to do what they do best: craft magical experiences for our customers. The goal of the Employee Experience & Productivity (EEP) Data Analytics team is to extract insights from data using visualizations, statistical analyses, and machine learning techniques. Most of our work aims to establish causation to understand how to enable Apple employees to do their best work. This position is located in Santa Clara Valley, Elk Grove, Austin, or Raleigh.
+Key Qualifications
+5+ years experience as a data scientist, data analyst, machine learning engineer, or similar role
+Proficient in Python, SQL, and Tableau
+Deep expertise with statistical modeling and hypothesis testing
+Superlative ability to communicate using data visualizations
+Extensive understanding of machine learning: regression, classification, unsupervised techniques, NLP, and deep learning
+Capable of driving projects of varying sizes and scopes: some will take a few hours, and some will take months
+An ability to present complex analyses and concepts to a variety of audiences
+An extraordinary teammate with good interpersonal skills, and a self-starter
+Description
+This role has a variety of different responsibilities, including ad hoc data pulls, building and maintaining Tableau dashboards, performing complex analyses, and using ML to solve business problems. This role will partner with other teams to help define problem(s), identify and create metrics, build and implement solutions, and socialize them. The ideal candidates need the desire and ability to thrive in a fast-paced, highly demanding, dynamic business and information technology environment. It is essential that candidates can switch contexts quickly and perform meticulous analyses in a short period of time with acute attention to detail. This role will also be a steward of data science in our larger org. They will provide guidance on standard methodologies and cultivate maturity in consumers of data science products. Candidates with experience in contact center analytics, product analytics, and/or clickstream data (Adobe Analytics) are preferred.
+Education & Experience
+Graduate degrees (MA, MS, MBA, or PhD) are greatly preferred.
+Additional Requirements 

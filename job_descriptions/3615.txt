@@ -1,0 +1,65 @@
+Description
+
+Job summary
+Job summary
+The Return to Work program at Amazon is a 16- week paid returnship for experienced professionals returning to the workforce after taking time off. The program is open to candidates who have at least 2 years of professional experience and have been out of the paid workforce for at least 6 months caregiving for kids or loved ones, serving in the military, or time off to find their path. If you meet these criteria, we welcome you to apply.
+
+The Return to Work program inspires technologists to relaunch after taking a break in their career. This platform gives candidates an opportunity to work at Amazon, and provides on-the-job training to sharpen their professional skills while working on real world customer solutions. Participants will get training on SDE tools and technologies and technical mentoring.
+
+At Amazon we believe that every day is day one.
+A day to take a first step. A day to look forwards to new challenges. And today is that day for you. It's your day to be part of something great. A day to make your ideas come to life. And your day to join a company that redefines itself every day. That's the energy and passion behind Amazon. At Amazon, we're working to be the most customer-centric company on earth. To get there, we need exceptionally talented, bright and driven people. Amazon is one of the most recognizable brand names in the world and we distribute millions of products each year to our loyal customers.
+
+Come join us as Data Engineer Intern building robust, intuitive, feature rich data solutions for our valued customers.
+
+Responsibilities -
+
+
+Understand our data and leverage the warehouse to build solutions for our internal users.
+
+Leverage SQL and build pipelines and transformations/business logic to provide the data for our internal customers.
+
+Production support involved with monitoring our Redshift clusters and pipelines and remediating issues
+
+Participate and lead peer code reviews
+
+Upon successful completion of the Returnship Program, candidates may receive, but are not guaranteed, an offer for full-time employment.Basic Qualifications
+
+Bachelor’s degree in Computer Science, Mathematics, Statistics, Finance or related technical field.
+1+ years of industry experience in software development, data engineering, business intelligence, data science, or related field with a track record of manipulating, processing, and extracting value from large datasets
+Some Experience with data modeling, data warehousing, and building ETL pipelines
+Some Experience and moderate knowledge of SQL
+Preferred Qualifications
+
+Is not currently enrolled in a Bachelors or Masters degree program
+Has a Bachelor or Master’s degree in computer science or a related technical field or comparable experience
+2+ years experience
+Ability to read and analyze existing code
+Strong written, verbal, and collaboration skills
+Self starter with strong work ethic with a passion for problem-solving
+Ability to thrive in a fast-paced, dynamic environment
+Flexibility and ability to adapt to changing priorities and technologies
+
+Returnship candidates should not currently be enrolled full-time in an undergraduate or graduate degree program.
+6 months of current unemployment or underemployment
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.Basic Qualifications
+
+Bachelor’s degree in Computer Science, Mathematics, Statistics, Finance or related technical field.
+1+ years of industry experience in software development, data engineering, business intelligence, data science, or related field with a track record of manipulating, processing, and extracting value from large datasets
+Some Experience with data modeling, data warehousing, and building ETL pipelines
+Some Experience and moderate knowledge of SQL
+Preferred Qualifications
+
+Is not currently enrolled in a Bachelors or Masters degree program
+Has a Bachelor or Master’s degree in computer science or a related technical field or comparable experience
+2+ years experience
+Ability to read and analyze existing code
+Strong written, verbal, and collaboration skills
+Self starter with strong work ethic with a passion for problem-solving
+Ability to thrive in a fast-paced, dynamic environment
+Flexibility and ability to adapt to changing priorities and technologies
+
+Returnship candidates should not currently be enrolled full-time in an undergraduate or graduate degree program.
+6 months of current unemployment or underemployment
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. 

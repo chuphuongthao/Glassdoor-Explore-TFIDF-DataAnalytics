@@ -1,0 +1,66 @@
+Job Description
+Discovery Biologics is seeking a Senior Scientist with experience in biologics and data science to expand our abilities to design and engineer biotherapeutics. We are building a department that directly integrates computational and wet-lab researchers with state-of-the-art automation to accelerate the discovery of novel biologics. We are a highly diverse and collaborative group of biologists, engineers, and computer scientists working at the edge of computation, disease biology, and biotherapeutics. We collaborate broadly within our Company and with academic and industry partners to accelerate the pace of biologics discovery and engineering. We recognize that the diversity in our team is our strength and we are committed to creating an inclusive environment for all employees. Successful candidates must demonstrate inclusive behaviors in working with a diverse group of researchers to drive our core mission.
+We are seeking a Growth and Improvement minded Senior Scientist, Automation Specialist & Discovery Biologics that can help drive our Strategic Operating Priorities.
+Invent | Pursue the Most Promising Internal and External Science to Address Significant Unmet Medical Needs
+Execute | Prioritize Resources Behind Our Key Growth Drivers (Oncology, Vaccines, Select Specialty Areas, Animal Health) While Optimizing Our Base Business)
+Adapt | Develop Our People, Culture and Business Model to Evolve with a Dynamic Landscape
+Diverse Talent | We are committed to providing an inclusive and welcoming environment with supporting leadership behaviors because having a high-performing, engaged workforce is critical to our ability to deliver innovative solutions to patients and customers around the world
+Values and Standards | Our Steadfast Commitment to Our Values and Standards will Continue to Guide Us as We Take on New Challenges and Will Always be Fundamental to Our Success – They are a Competitive Advantage for Us
+Strategic Summary and Purpose
+In this role, the successful candidate will work side-by-side with protein engineers and wet-lab researchers to design experiments and build datasets that enable machine learning to predict improved biologics. They will contribute to the identification and application of computational tools that enable the discovery and engineering of biologics. They will partner broadly across Discovery Biologics, Data Science, and IT to implement systems and practices that support high throughput data capture, integration, and the generation of predictive models. As part of project teams, they will analyze diverse multidimensional data to enable teams to drive programs forward.
+As part of technology development teams, they will pursue novel research that enhances our ability to collect and learn from large datasets. They will mentor, coach, and train fellow researchers. The successful candidate will join a diverse group of innovative researchers who are driving the next revolution in biologics discovery and engineering.
+Key Responsibilities
+Develop data science based predictive models for biologics to advance early phase drug discovery programs
+Develop computational routines and custom visualizations that enable project teams to impact protein engineering designs and allow teams to rapidly make program decisions from real-time data
+Collaborate across groups to systematize and automate the process of capturing raw instrument data and preparing it for storage and analysis
+Provide technical expertise and leadership for data science working groups and teams
+Author and contribute to presentations, publications, and patents
+Foster a high-performance culture of collaboration, engagement, self-accountability and inclusion
+Education
+PhD in Computational Biology, Biostatistics, Biochemistry, Computer Science, or a related discipline with demonstrated expertise in biologics and data science or Master of Science with 4+ years experience or Bachelor of Science with 7+ years experience
+Required
+Fluency in at least one modern programming language such as C++, Python, or similar
+Strong expertise in data science based predictive models for life science applications
+Experience working with large multidimensional datasets to extract predictive features
+Ability to teach biologists and biochemists the fundamentals of data science
+Demonstrated ability to succeed in a collaborative, multidisciplinary team environment
+Principled written and verbal communication skills
+Champion for diverse and inclusive culture
+Mentor and coach group members to complement and strengthen their team
+Preferred
+Experience with protein engineering or the discovery and development of biologics
+Expertise in the application of relational databases and object-relational databases for semi-structured and unstructured data
+Experience with multiple types of protein structure and sequence representations, featurization, and embeddings
+Experience with protein modeling software (e.g. AlphaFold, Rosetta, TrRosetta, MOE, GROMACs, or similar)
+Familiarity with data visualization tools and libraries
+We are a research-driven biopharmaceutical company. Our mission is built on the simple premise that if we “follow the science” that great medicines can make a significant impact to our world. We believe that a research-driven enterprise dedicated to world-class science can succeed by inventing medicine and vaccine innovations that make a difference for patients across the globe.
+Who we are …
+We are known as Merck & Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+What we look for …
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+NOTICE FOR INTERNAL APPLICANTS
+In accordance with Managers' Policy - Job Posting and Employee Placement, all employees subject to this policy are required to have a minimum of twelve (12) months of service in current position prior to applying for open positions. If you have been offered a separation benefits package, but have not yet reached your separation date and are offered a position within the salary and geographical parameters as set forth in the Summary Plan Description (SPD) of your separation package, then you are no longer eligible for your separation benefits package. To discuss in more detail, please contact your HRBP or Talent Acquisition Advisor.
+#EligibleforERP
+New hires in office-based roles in the US & Puerto Rico will be required, subject to applicable law, to demonstrate that they have been fully vaccinated for COVID-19 or qualify for a medical or religious exemption to this vaccination requirement that can be accommodated without an undue burden to the operation. However, subject to applicable law, employees working in roles that the Company determines require routine collaboration with external stakeholders, such as employees in health services, customer facing commercial, or research based roles, will be required to be fully vaccinated as a condition of employment.
+US and Puerto Rico Residents Only:
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+Pay Transparency Nondiscrimination
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+:
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status:
+Regular
+Relocation:
+Domestic/International
+VISA Sponsorship:
+Yes
+Travel Requirements:
+Flexible Work Arrangements:
+Hybrid
+Shift:
+Valid Driving License:
+Hazardous Material(s):
+Number of Openings:
+2
+Requisition ID:R200500 

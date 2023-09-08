@@ -1,0 +1,21 @@
+Data Engineer/SQL Developer with Python, Hybrid( Columbus, OH)
+If you are a Senior Data/SQL Engineer with Python, Hybrid( Columbus, OH) with experience, please read on!
+
+We are currently looking for a Data Engineer to join our talented team of Data Science professionals. This position requires experience with working in large volumes of geo-spatial & relational data and an understanding of database design, management, and architecture. You will serve as a subject matter expert on data structures, data sources and tools, techniques, and methodology to process data that enables advanced analytics.
+If this sounds like you, please read on!
+Top Reasons to Work with Us
+1. We combine increasingly available crash data with proprietary analytic capabilities to create new insights.
+2. We will have the ability to quickly and cost-effectively broaden our understanding of countermeasure effectiveness in terms of reducing traffic crashes.
+3. We offer the chance to grow internally with a established company in a ever growing insurance industry.
+What You Will Be DoingDesign and maintain data pipelines that translate raw data from disparate sources into ready-to-use formats leveraging existing database systems or building new ones as necessary.Build processes that ensure the reliability of ETL cycles and verify data accuracy.Design and implement data quality monitoring reports and quickly resolve any issues.Leverage APIs to extract data from disparate sources.Write complex SQL queries efficiently to prepare data to support reporting, advanced analytics, and data visualization.Collaborate with the entire team to design new algorithms, drive optimization and continuously improve our analytical solutions.Manage and scale our AWS technical infrastructure including Databases.
+What You Need for this PositionExceptional SQL skills with hands-on deep experience querying, and organizing large and complex data sets.5+ years of experience as a backend engineer or data engineer5+years of programming using Python and UNIX Shell ScriptingExpertise with relational databases such as PostgreSQL, MS SQL Server or OracleExperience with cloud storage and computing using AWS.Expertise in creating and consuming REST APIs is highly preferredFamiliarity with Geo-spatial data is preferredStrong Critical Thinking and basic understanding of Statistics and ProbabilityProven ability to apply good software engineering principles and practicesAbility to select and use the right tools for the job, particularly open-source solutionsAbility to communicate clearly to technical and non-technical audiencesExperience working within a multidisciplinary, agile team formatA mindset and work approach that aligns with our core values
+What's In It for YouSalary 90k-120k DOEMedical, Dental, and VisionHealth Saving Account401KPaid Time OffStock options
+So, if you are a Senior Data/SQL Engineer with Python, Hybrid( Columbus, OH) with experience, please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Deuntae BroadnaxApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

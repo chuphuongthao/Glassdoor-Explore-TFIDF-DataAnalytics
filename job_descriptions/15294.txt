@@ -1,0 +1,30 @@
+REMOTE Senior Python Developer
+If you are a REMOTE Senior Python Developer with experience, please read on!
+Top Reasons to Work with Us
+We are an international healthcare consultancy specializing in end to end evidence development, optimization, and communication.
+
+
+The company's core competencies reside in Meta Research, Modeling, Data Analytics, Scientific Writing and Simulation
+
+Risk Analytics. Senior Management has over 50 years of life sciences experience working in pharma, medical device, consulting, and academia.
+
+
+Within our technology department we have developed an A.I. based platform is the largest, most comprehensive, AI-powered database of literature-based results in the world, now with nearly 100 million data points. This platform allows researchers to extract up-to-date evidence from global medical research faster, more efficiently, and from a greater breadth of sources.
+What You Will Be Doing
+We are horizontally scaling our team with principal, senior, and mid-level backend developers to support our A.I. based platform, our EVA platform, and our data dashboard/portals development capabilities. It is a fast-paced, challenging, and fun environment to further advance our successful machine learning portfolio and have company-wide impact.
+What You Need for this Position
+MUST HAVE:
+BS in related field OR equivalent professional experience3+ years of Python development experienceFlask framework experience (Django is okay as well)MySQL or other SQL based DBJavaScript (Node or React)
+NICE TO HAVE:
+AI platform experienceML platform experienceBiotech or pharmaceutical industry experienceBasic Devops
+What's In It for YouCompetitive Salary DOE401(k) with matchBonus
+Short and Long-term incentivesGenerous PTOComprehensive Benefits packageMore
+So, if you are a REMOTE Senior Python Developer with experience, please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Kurt HolzmullerApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

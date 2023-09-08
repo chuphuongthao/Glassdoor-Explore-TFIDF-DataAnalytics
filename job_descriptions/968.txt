@@ -1,0 +1,36 @@
+As a Business Intelligence Engineer in the Wegmans IT Department, you will be responsible for driving business intelligence (BI) initiatives and solutions, serving as the subject matter expert for Wegmans data and systems environment by understanding our data, how it is used by the business, and the relationship between systems. You will assist both the IT Developmental and Technical Services teams in architecting and standardizing the BI strategy, tools and BI meta-data life cycle, to be used across the organization.
+What will I do?
+Collaborate with product, technical, and operational leaders to gather data and metrics requirements
+Produce comprehensive, usable dataset documentation, metadata, BI reports, dashboards and insights; Expand self-service capabilities with interactive dashboards, reports, and other visualizations
+Partner with other BI team members to design, develop, and support semantic layers
+Create, maintain and champion the use of processes and tools to promote and facilitate mapping of data to BI sources and interfaces
+Develop BI data management methodology and best practices and educate business users who create their own content
+Collaborate and facilitate with business data analysts and stakeholders to align outcomes to data requirements
+Provide consulting services to analyst, data science, and software development teams
+Establish measurements and processes to chart and assess progress related to completeness and quality of BI information
+Required Qualifications:
+Bachelor’s Degree in a related field
+Experience with Business Intelligence Development and in shaping enterprise BI solutions, including architecting and BI data modeling
+Project coordination experience
+Database proficiency (ex. Oracle, Microsoft SQL, Netezza)
+Presentation and technical problem-solving skills
+Preferred Qualifications:
+Master’s Degree in a related field
+At Wegmans, we believe that if we take care of our people, they’ll take care of our customers. That’s why, as part of the Wegmans family, you’ll have a package of benefits that covers your health, well-being, family and future.
+Flexibility in scheduling—work-life balance
+Employee discounts
+Premium pay on Sundays and holidays
+Comprehensive benefits*
+Quality affordable healthcare coverage
+Vision coverage
+Dental coverage (Available to Full-time only)
+Pre-tax spending accounts
+Life insurance
+Paid time off
+Employee assistance program
+Employee wellness programs
+401(k) retirement savings plan
+Wegmans retirement profit sharing plan
+Scholarship Program
+Certain eligibility requirements must be satisfied
+For 25 years in a row, our employees have put us on the FORTUNE magazine’s list of the 100 Best Companies to Work For®. Discover what it means to work for a family owned, mission-driven, values-based company that believes in caring, respect, empowerment, high standards and making a difference in the community. Because with a family-like atmosphere of shared support, leaders who have your best interest at heart and growth as part of everything we do, Wegmans is the place for you to do what you love—and love what you do. 

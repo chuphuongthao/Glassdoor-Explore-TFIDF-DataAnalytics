@@ -1,0 +1,33 @@
+C3.ai, Inc. (NYSE:AI) is a leading provider of Enterprise AI software for accelerating digital transformation. The proven C3 AI Suite provides comprehensive services to build enterprise-scale AI applications more efficiently and cost-effectively than alternative approaches. The core of the C3 AI offering is an open, data-driven AI architecture that dramatically simplifies data science and application development. Learn more at: www.c3.ai
+C3 AI is hiring Data Science Instructors. Data Science Instructors are responsible for researching, preparing, conducting, and evaluating our education programs. As a member of the larger Developer Experience Group, you will be responsible for developing new skills to data scientists and engineers. You will collaborate closely with our Instructional Design team to create innovative learning experiences – this is a long way from lectures and quizzes! Our AI platform is deeply technical, and the successful candidate will be someone who loves to dive in and learn new technologies and applications. We have a lot of fun helping people be successful!
+
+Responsibilities
+
+Deliver workshops in a variety of modalities – asynchronous, online, and in person.
+Assess the training needs of learners and adjust your delivery accordingly.
+Curate content from a variety of sources to augment our own content.
+Collaborate closely with our Instructional Designers.
+Maintain a high level of engagement with learners.
+Stay up to date on new innovations in training and technology.
+Become a trusted partner in success to Customers and Partners.
+Mentor new team members.
+
+Required Qualifications
+
+Bachelor's degree is required.
+Proven experience as a facilitator, speaker, or coach.
+Great empathy skills.
+Strong communicator.
+Ability to read and edit code examples and debug code exercises.
+Working knowledge of the following:
+Python and Jupyter
+Relational (SQL) or Non-Relational (Key-Value) Databases
+Extract, Transformation, & Load (ETL) techniques
+Machine learning concepts (linear regression, PCA, decision trees, k-means clustering)
+A passion for learning new technologies.
+
+C3 AI provides a competitive compensation package:
+
+Competitive salary, generous stock options, 401K, medical, dental, and vision benefits. At the office, we offer a fully stocked kitchen with catered breakfast and lunch, table tennis and pool table, free membership at our on-site gym, Friday evening social hours with food, drink and music and a fun team of great people.
+
+C3 AI is proud to be an Equal Opportunity and Affirmative Action Employer. We do not discriminate on the basis of any legally protected characteristics, including disabled and veteran status. 

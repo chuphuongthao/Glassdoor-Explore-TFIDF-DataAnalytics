@@ -1,0 +1,41 @@
+Your Job
+The Hired Signal team plays a key role in fulfilling Indeed’s mission to help people get jobs. We build the centralized data source of hires that occur on Indeed, and we support other teams that use our data to improve Indeed’s products. Teams across the company use “hired signal” to train models, create personalized user experiences, test the impact of product changes (A/B testing), and conduct research.
+The role of Data Science at Indeed is to follow the data. We log, analyze, visualize, and model terabytes of job search data. Our Data Scientists build and implement machine learning models to make timely decisions. Each of us is a mixture of a statistician, scientist, machine learning expert, and engineer. We have a passion for building and improving Internet-scale products. We seek to understand human behavior via careful experimentation and analysis, to "help people get jobs".
+
+You understand that the best managers serve their teams by removing roadblocks and giving individual contributors autonomy and ownership. You have high standards and will take pride in Indeed like we do as well as push us to be better. You have delivered challenging technical solutions at scale. You have led Data Science or engineering teams, and earned the respect of talented practitioners. You are equally happy talking about deep learning and statistical inference, as you are brainstorming about practical experimental design and technology career development. You love being in the mix technically while providing leadership to your teams.
+
+Responsibilities:
+Program using R, Python, Java, or C++.
+Perform big data modeling work: Hadoop, Pig, Scala, Spark.
+Fish for data: SQL, Pandas, MongoDB.
+Deploy Data Science solutions: Java, Python, C++.
+Can communicate concisely and persuasively with engineers and product managers.
+Who You Are
+Significant prior success as a Data, Product, or Decision Scientist working on challenging problems at scale.
+Bachelor’s degree required in Computer Science, Statistics, or Mathematics or equivalent field required
+5+ years of industry experience, with expertise in Data Science, Business Analytics, or Data Analysis.
+Strong ability to code in Python.
+Have full stack experience in data collection, aggregation, analysis, visualization, productionization, and monitoring.
+Who we are
+We are a rapidly growing and highly-capable Engineering organization building the most popular job site on the planet. With engineering hubs in Seattle, San Francisco, Austin, Tokyo, Singapore, Hyderabad, Dublin, Aberdeen and Vancouver, we are improving people's lives all around the world, one job search at a time.
+Our Mission
+As the world’s number 1 job site*, our mission is to help people get jobs. We strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves. We're looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers.
+(*comScore Total Visits, September 2021)
+Salary Range Disclaimer
+The base salary range represents the low and high end of the Indeed salary range for this position. Actual salaries will vary depending on factors including but not limited to location, experience, and performance. The range listed is just one component of Indeed's total compensation package for employees. Other rewards may include quarterly bonuses, Restricted Stock Units (RSUs), an open Paid Time Off policy, and many region-specific benefits.
+Salary Range Transparency
+Austin 164,000 - 238,000 USD per year
+NYC Metro Area 179,000 - 259,000 USD per year
+SF Bay Area 191,000 - 276,000 USD per year
+Seattle 183,000 - 266,000 USD per year
+US Remote 164,000 - 238,000 USD per year
+Equal Opportunities and Accommodations Statement
+Indeed is a proud equal opportunity employer. We are deeply committed to building a workplace and global community where inclusion is not only valued, but prioritized. We are committed to creating an environment where all employees feel included and have a strong sense of belonging. All qualified applicants will be considered for employment without regard to race, color, religion, gender, gender identity or expression, family/marital status, refugee or immigration status, sexual orientation, national origin, genetics, neuro-diversity, disability, age, veteran status, or any other non-merit based or legally protected grounds.
+We encourage people from all backgrounds to apply and join us in our mission of helping people get jobs.Indeed is committed to providing reasonable accommodations to qualified individuals with disabilities in the employment application process. To request an accommodation, please contact Talent Attraction Help at 1-855-567-7767, or by email at TAhelp@indeed.com at least one week in advance of your interview.
+Fair Chance Hiring
+We value diverse experiences, including those who have had prior contact with the criminal legal system. We are committed to providing individuals with criminal records, including formerly incarcerated individuals and individuals with arrest or conviction records, a fair chance at employment. We also comply with state and local requirements such as the San Francisco Fair Chance Ordinance.
+Our Policies and Benefits
+View Indeed's Applicant Privacy and Accessibility Policies - https://www.indeed.com/legal/indeed-jobs
+Learn about our global employee perks, programs and benefits - https://benefits.indeed.jobs/
+Where legally permitted, Indeed requires all individuals attending or working out of Indeed offices or visiting Indeed clients to be fully vaccinated against COVID-19. For positions that can only be performed at an Indeed office, candidates must be fully vaccinated against COVID-19 and present acceptable proof of vaccination by the date of hire as a condition of employment. For positions that require some in-office work or in-person client meetings, exceptions to these in-office or in-person job requirements may be made at the discretion of the business through June 2022, at which point full vaccination will be required. Indeed will consider requests for reasonable accommodation as required under applicable law. To qualify as being fully vaccinated against COVID-19 there should have been a two week period after receiving the second dose (or any government recommended booster shot) in a 2-dose COVID-19 vaccine series, or a two week period after receiving a single-dose (or any government recommended booster shot) in a single dose COVID-19 vaccine.
+Reference ID: 39504 

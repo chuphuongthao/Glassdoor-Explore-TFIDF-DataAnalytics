@@ -1,0 +1,44 @@
+JDSAT, Inc. is a solutions company - utilizing data, mathematics, and software to create solutions tailored to each organization’s needs. We don’t believe a homogenized solution can address complex problems. We direct the design, iteration, and development of custom tools based upon each project’s unique landscape. We build our products the same way we built our company—with people in mind. All our employees are committed to maintaining and continuing to build a culture of inclusivity, positivity, and growth.
+At JDSAT, you will be joining a collaborative and energetic team with excellent career development opportunities. You will sharpen your knowledge on challenging projects with a great deal of autonomy while operating alongside other talented Operations Research and Data Science professionals. We like to cultivate our talent and promote from within by offering a variety of leadership and advancement opportunities throughout the company. We offer a competitive compensation and benefits package along with a commitment to a healthy work/life balance and meaningful work to support our employees and our clients.
+Responsibilities
+Architect/Design/Develop solutions that leverage various network domains. Responsible for defining the technical strategy as it relates to translating business needs into innovative business solutions.
+Contribute to a Data Analytics Team to deliver technical solutions that meet client requirements in order to create dynamic data visualization and analysis tools to increase the ability of leadership to make informed decisions related to quality of care requirements, resources, costs, and overall operations.
+Lead/advise mid-level and junior analysts in technical development.
+Work with clients, managers, and technical staff to understand business needs and translate these needs into technical models.
+Liaise with customer operations researchers and subject matter experts to improve algorithm effectiveness against Key Performance Indicators.
+Extract, transform, integrate, and analyze data from disparate relational database management systems.
+Conduct exploratory analysis and data visualization.
+Develop machine learning and artificial intelligence models for predictive and prescriptive analyses
+Support implementation of data and analytical products at client facilities
+Develop professional communication products in technical and functional areas that communicate business value to the client. Includes briefings (oral and written), white papers, and reports.
+Support implementation of proofs of concept to help make technology choices and validate modeling assumptions.
+Requirements
+Required Skills and Abilities
+Bachelor’s in Operations Research, Data Science, Data Analytics, Data Engineering, Industrial Engineering, Systems Analysis, Statistics, Mathematics, or related STEM fields.
+Minimum of six (6) years of experience in a relevant field as described above.
+Experience building a variety of machine learning models.
+Experience building optimization and simulation models.
+Experience in Object-Oriented Programming (Python, Java, or C++ are preferred).
+Experience with SQL and relational databases.
+Experience with statistical programming languages (R, Python, SAS, etc.).
+Experience with Excel and Visual Basic for Applications.
+Experience developing interactive data visualizations for exploratory analysis.
+Experience deploying analytic applications on government IT systems and networks.
+Excellent written and verbal communication skills with both technical and non-technical audiences.
+Possess, or be able to obtain, a SECRET-level security clearance.
+Desired Skills and Abilities
+Master of Science degree in Operations Research, Data Science, Data Analytics, Data Engineering, Industrial Engineering, Systems Analysis, Statistics, Mathematics, or related STEM fields.
+Minimum of eight (8) years of experience in a related field.
+Minimum of four (4) years of experience working in DoD.
+Experience leading analytic teams or efforts.
+Experience with enterprise-level Capability-Based Assessments, risk analyses, and readiness analyses.
+Experience creating, developing, and implementing data analytics architecture, including data warehousing, data visualization, analytic modeling, and reporting.
+Experience creating, developing, and implementing large-scale optimization models.
+Experience creating, developing, and implementing large-scale agent-based and discrete event simulations.
+Experience applying Robotic Process Automation to recurring analytics activities.
+Experience as a consultant balancing highly technical and non-technical functional roles.
+Experience designing end-to-end solutions for federal government customers.
+Benefits
+At JDSAT Inc., you will be joining a collaborative and energetic team with excellent career development opportunities. You will sharpen your knowledge on challenging projects with a great deal of autonomy while operating alongside other talented Operations Research, Data Science, and Management professionals. We like to cultivate our talent and promote from within by offering a variety of leadership and advancement opportunities throughout the company. We offer: above-market salaries; a competitive benefits package; a commitment to achieving the right work/life balance; and meaningful work to improve our employees and our clients.
+JDSAT Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, gender identity, age, sexual orientation, status as a protected veteran, among other things, or status as a qualified individual with a disability.
+We are proud of our diverse environment, EOE, M/F/Disability/Vet. Strive for excellence with JDSAT Inc.! 

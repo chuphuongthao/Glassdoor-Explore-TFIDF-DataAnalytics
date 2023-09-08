@@ -1,0 +1,27 @@
+About the team
+The Zillow Analytics organization is passionate about understanding the customer journey on our platforms through deep analysis and measurement. We relentlessly advocate for a seamless and delightful home shopping experience from dream to reality! The team works closely across the organization to discover strategic opportunities in areas spanning the search and discovery process, membership and re-engagement, evaluation and curation of potential homes, and personalization for both the Zillow and Trulia brands. We scale this work by partnering with engineering teams to build and maintain key analytics tools and infrastructure.
+About the role
+Zillow is looking for Principal Analyst to join a growing world-class analytics group dedicated to excellence. In this role you will:
+Lead analytical efforts across the organization.
+Define, measure, and report on success metrics for complex projects and pilots.
+Use data to identify large opportunities for product and operational improvements.
+Partner with product, marketing, and operations leaders across the organization to deliver impactful solutions to business problems.
+Partner with customers to understand and clarify requirements to creatively solve complex business problems with analytic solutions.
+Recruit, hire, and mentor extraordinary analysts and data scientists.
+In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location.
+Who you are
+8-10 years experience in an analytical role.
+3-4 years of experience communicating regularly with executive stakeholders.
+Strong bias for action and impact informed by your data insights.
+Ability to design and communicate your analytical roadmap to peers and stakeholders.
+Strong business acumen, communication skills and the ability to work cross-functionally and connect customer problems to business strategy.
+Expert at applying the “80/20” rule and estimating the impact and relative priority of a potential analysis project.
+Deep, intuitive understanding of core statistical concepts, such as probability, randomness, correlation and sampling distributions.
+Expert in SQL, Excel, and either Tableau, Mode, or other visualization software. Scripting and automation experience is preferred.
+Experience leading self and mentoring junior data analysts and/or data scientists.
+Get to know us
+Zillow is reimagining real estate to make it easier to unlock life’s next chapter.
+As the most-visited real estate website in the United States, Zillow® and its affiliates help movers find and win their home through digital solutions, first class partners, and easier buying, selling, financing and renting experiences. Millions of people visit Zillow Group sites every month to start their home search, and now they can rely on Zillow to help make it easier to move. The work we do is helping people move from dreaming to transacting — and no matter what job you're in, you will play a critical role in making this vision a reality.
+Our efforts to streamline the real estate transaction are supported by a deep-rooted culture of innovation, our passion to redefine the employee experience, a fundamental commitment to Equity and Belonging, and world-class benefits. We’re also setting the standard for work experiences of the future, where our employees are supported in doing their best work and living a flexible, well-balanced life. But don’t just take our word for it. Read recent reviews on Glassdoor and recent recognition from multiple organizations, including: the 100 Best Companies to Work For in 2022 list, Glassdoor Employees’ Choice Award, honoring the Best Places to Work in 2022, Bloomberg Gender-Equality Index 2022, Human Rights Campaign (HRC) Corporate Equity Index and Best Place to Work for LGBTQ Equality 2022, and TIME 100 Most Influential Companies list.
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact us at RecruitingAccessibility@zillowgroup.com.
+Applicants who receive job offers from Zillow Group will be asked to sign a Proprietary Rights Agreement which includes confidentiality, intellectual property assignment, customer and employee non-solicitation, and non-competition provisions. If you are contacted for a role at Zillow Group and wish to review a copy of the Proprietary Rights Agreement prior to receiving an offer, you may request a copy from your Recruiter. 

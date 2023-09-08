@@ -1,0 +1,25 @@
+Location: Remote (For Non-Local) or Hybrid (Local to NYC area)
+About Capital Rx
+Capital Rx is a next generation pharmacy benefits manager, overseeing prescription benefit plans on behalf of employers, unions, and government entities. Determined to transform an outdated model, Capital Rx’s mission is to change the way prescription benefits are priced and administered in the US, unlocking enduring social change. Through our platform approach, Capital Rx delivers data-driven insights and actionable strategies that reduce costs, while improving patient outcomes. Our commitment to innovation, technology and service is the reason why Capital Rx is among the fastest-growing PBMs in the country.
+Position Responsibilities:
+Integrate quantitative and qualitative analyses to provide strategic insights to clients (plan performance, utilization trends, cohort analyses, savings projections)
+Develop ad hoc and standard reports and dashboards to support internal and external analytics and reporting needs
+Collaborate with Analytics team members to design, refine, automate, and maintain data analytics capabilities across key business functions (operations, product, underwriting, implementation, client services, clinical operations)
+Manage workflow for inbound and outbound data requests, reporting deliverables, and other inquiries
+Collaborate with client management to translate data findings into strategic metrics and recommendations
+Support development of regular client deliverables
+
+Required Qualifications:
+Undergraduate bachelor’s degree in Computer Science, Actuarial Science, Statistics, Economics, or related
+1+ years of proven experience in data & analytics or consulting (financial, benefits, etc.)
+Proficient in SQL, Excel, and other data visualization tools
+Experience with or excitement to learn open source languages (R, Python)
+Experience performing analyses on large sets of data, structured and unstructured
+Knowledge of data management, statistics, modeling
+Track record of working collaboratively, driving high performance, meeting deadlines, and executing on deliverables
+Ability to balance multiple complex projects simultaneously
+Exceptional written and verbal communication skills
+Extremely flexible, highly organized, and able to shift priorities easily
+Attention to detail necessary & commitment to delivering high quality work product
+
+Capital Rx values a diverse workplace and celebrates the diversity that each employee brings to the table. We are proud to provide equal employment opportunities to all employees and applicants for employment and prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, medical condition, genetic information, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. 

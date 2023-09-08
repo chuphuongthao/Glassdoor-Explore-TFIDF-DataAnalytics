@@ -1,0 +1,54 @@
+The Associate Data Scientist will work with our Data Science, Analytics, Product, and Engineering teams to create solutions that lead to improved performance for our clients and/or improved efficiency for our internal teams. Some of the responsibilities that they will have are: analyzing large quantities of data; creating/training/testing machine learning models; running A/B and multivariate tests for different data science solutions. They will be responsible for communicating and coordinating with multiple stakeholders involved. The Associate Data Scientist will report to the Director of Data Science.
+The Role:
+
+Analyzes large quantities of data, creates data visualizations & learnings to provide feedback for solutions that are being developed
+Helps create/train/test machine learning models for current/new solutions Data Science is creating to solve challenging problems
+Designs, develops, and runs A/B & multivariate tests for different data science solutions
+Coordinates with multiple stakeholders to gather input requirements & communicates insights/results to account teams
+Helps develop innovative solutions, data-drive solutions to solve challenging problems
+
+
+Must Have:
+
+A Bachelor's degree in Data Science, Computer Science, Engineering, Statistics or other technical field
+Development experience with at least one programming language (preferably Python)
+Experience with at least one machine learning framework (scikit-learn, TensorFlow, PyTorch)
+Experience with A/B and multivariate testing
+A keen eye for detail. This role requires the ability to keep track of copious amounts of data across numerous projects in a variety of ways.
+Ability to follow procedures exactly and methodically is critical
+Ability to effectively and clearly communicate the results of analyses
+Ability to initiate and drive projects to completion with minimal guidance
+Self-motivated, flexible, and a quick learner; able to operate independently in a fast-paced environment
+
+
+Great to Have:
+
+Masters / PhD in Data Science, Computer Science, Engineering, Statistics, or other technical field
+2+ years experience doing quantitative analysis, modeling, and prediction
+Experience with Google Cloud Platform (BigQuery, Vertex AI, App Engine, Cloud Functions)
+Experience in paid search advertising (Google, Bing, Facebook, Amazon, etc…)
+
+
+ About Us:
+
+Adlucent is the performance marketing agency that proves outperformance has no limit. Powered by our purpose-built platform, Deep SearchTM, Adlucent unifies the best of human and machine for a scientific approach to marketing. We work transparently in partnership with B2C and B2B retailers and brands to create custom, predictive programs that drive ever-better outcomes. Our services include paid search, shopping, social, Amazon, display media, video, performance creative, consulting, and measurement. Headquartered in Austin, Texas, Adlucent is part of Advantage Solutions and ranked one of the top marketing companies in the U.S. by AdAge.
+Our Mission: Inspire the problem-solvers of tomorrow to reimagine client outcomes
+Our Vision: Lead the industry evolution toward always-relevant marketing
+Our Values:
+MAKE $#%& HAPPEN: We solve problems efficiently. We know when to iterate and when to innovate. Some days we get to win and some days we get to learn.
+KEEP IT REAL: We all have a little weird in us. Come as you are, and stay that way.
+DON’T BE A JERK: We don’t count ego as a KPI. We act with empathy and make others matter. We are the coworkers you want to work with.
+Location: Adlucent is a remote-forward digital performance marketing agency headquartered in Austin, TX
+
+
+What We Offer:
+
+Competitive salary
+Comprehensive Full-Time Benefits (Medical, Dental, Vision, Life)
+401(k) with Company Match
+Training and Career Development
+Generous Paid Time-Off and Flexible Schedules
+Named “Best Places to Work 2022” by Built In Austin
+
+
+Adlucent does not accept unsolicited resumes from third-party recruiters. 

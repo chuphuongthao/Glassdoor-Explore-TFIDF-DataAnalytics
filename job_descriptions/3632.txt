@@ -1,0 +1,42 @@
+Summary
+The Data Science Analyst works across multiple internal divisions and program areas to provide support for analytical, visualization, and reporting needs.
+The Data Science Analyst transforms and synthesizes information from a variety of sources and formats to enable data-driven decision making for both external and internal stakeholders.
+Grant funded.
+Posting may close at any time.
+RETENTION PAY ($$$) AVAILABLE FOR TARRANT COUNTY EMPLOYEES
+Full-time employees: May be eligible to earn up to 3 retention payments in 2022 totaling $4,900 ($1,000 on August 5th and September 16th, and $2,900 on December 9th.)
+Note: Employees must be employed on each payment date to be eligible.
+BENEFITS
+
+Tarrant County employees enjoy superior health, retirement, and insurance benefits &
+ 13 County Holidays
+
+ For more information, please click on the link below:
+ http://www.tarrantcounty.com/en/human-resources/employee-benefits.html
+Essential Duties and Responsibilities
+Applies computationally intensive techniques (e.g. record linkage, transformation of complex datasets, handling large data, and visualization) to convert raw data into actionable information.
+Develops and maintains department-wide internal and external data dashboards.
+Uses knowledge of data, systems, and tools to provide information from applicable data sources in response to standard and ad hoc requests and in support of data quality checks.
+Uses knowledge and understanding of data processes to recognize data inaccuracies and to ensure consistency and the highest quality of data and analyses.
+Creates and uses databases, algorithms, computational and statistical techniques, and theory to solve formal and practical problems arising from the management and analysis of public health data.
+Collaborates with clinical staff, epidemiologists, disease investigation specialists, and surveillance coordinators at TCPH in establishing and maintaining files and databases containing data pertaining to the health status of the population of Tarrant County.
+Maintains high level of knowledge of current public health and population health informatics applications, trends, and changes in various health information technologies.
+Performs other duties as assigned.
+Minimum Requirements
+NOTE: YOU MUST FILL OUT THE WORK HISTORY and EDUCATION SECTIONS OF APPLICATION TO SHOW YOU HAVE YEARS OF EXPERIENCE/EDUCATION AS REQUIRED BY HIRING DEPARTMENT OR BE DISQUALIFIED.
+TO APPLY, must have a Bachelor’s degree or higher in Public Health, Epidemiology, Informatics, Biostatistics, Data Science, or related field + Two (2) full-time years of public health, healthcare, or hospital work experience.
+OR
+TO APPLY, must have an Associate’s degree in Public Health, Epidemiology, Informatics, Biostatistics, Data Science, or related field + Four (4) full-time years of public health, healthcare, or hospital work experience.
+OR
+ TO APPLY, must have a High School diploma or GED + Six (6) full-time years of public health, healthcare, or hospital work experience.
+Master’s degree highly preferred.
+Knowledge of disease investigation protocols, reporting procedures, and data analysis required.
+Knowledge of programs used for data processing and analysis (e.g. R, Python, SAS, etc.) is required.
+Knowledge of HIPAA and Promoting Interoperability and experience with Microsoft Power BI or other visualization software is highly preferred.
+Knowledge of relational database management systems (RDBMS) models is preferred.
+If hired, must provide proof of educational attainment
+ at New Hire Processing or during the promotional process.
+
+Tarrant County will conduct background checks on new hires that will include a criminal background check related to convictions and deferred adjudications in the past seven years and may include credit reports, motor vehicle records, employment records and educational attainment. A conviction or deferred adjudication is not an automatic bar to employment. Each case is considered individually.
+Physical Demands and Work Environment & Other Requirements
+While performing the duties of this position, the incumbent is regularly required to bend, carry, climb stairs, grasp/squeeze, use hand tools, hear, keyboard, kneel, lift below the waist, lift between waist and shoulder, lift overhead, lift to the side/twist, tolerate noise, pull, push, reach, reach overhead, perform repetitive tasks, see color, see far and near, sit, squat, stand, stoop, talk, use his/her hands, drive a vehicle, walk, work alone and with others, and work overtime. 

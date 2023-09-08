@@ -1,0 +1,46 @@
+OVERVIEW:
+Senior Engineer, Data Analytics, Performance Assurance will drive insights from the 5G/4G EUD (end user device) ecosystem – IoT, Devices/Laptops/Tablets (Android and iOS), scanners, AGV, AMR, Video cameras and MEC, Cloud per industry vertical and use case. SME will be also responsible for conducting deep 5G/4G technology data insights from network, industry vertical, use cases and customer/business insights perspective to help enable data-based decisions. We’re looking for a Data Analytics SME to drive key 4G/5G technology and business insights for e2e performance assurance across different core, ran, security vendors, EUD ecosystem, MEC, Cloud etc. per industry vertical and use case to help deliver best in class end user experience.
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+Develop centralized visualization, analytics platform for 5G/4G EUD ecosystem – Devices/Laptops/Tablets (Android and iOS), scanners, AGV, AMR, Video cameras
+Develop centralized visualization, analytics solution for IoT, utilizing top manufacturing protocols (e.g., Ethernet/IP, Ether Cat, Ethernet Powerlink, Serco’s, Modbus TCP, ProfNet RT/IRT, MQTT)
+Evaluate and shortlist potential IoT solutions for offer (e.g., Telit’s Device Wise and Qualcomm).
+Drive deep analysis of e2e data 5G/4G nodes to enable data-based decisions based on the key performance indicators from 5G/4G – RAN / O-RAN RIC, nRIC, Core, Device, SAS
+Explore new areas to drive insights from cloud - Google / Azure analytics to drive customer experience, business insights and efficiency metrics
+Explore new areas to drive insights from MEC analytics to drive customer experience, business insights and efficiency metrics
+Develop data ingestion, processing and analytics for the complete RAN, CORE, EUD ecosystem to get real understanding of customer experience for different use cases
+Drive one stop shop performance assurance platform development with a modular approach
+Design and develop automated interactive dashboards for reporting and data visualization for performance assurance and business metrics and insights
+5G/4G centralized analytics, anomaly detection and automatic RCA using AI/ML
+Drive to deliver a unified NMS / Active Performance Assurance solution for multivendor CORE, RAN, EUD ecosystem
+Combine knowledge of several mathematical and statistical domains to help proactive analytics and ultimately deliver predictive analytics
+Deliver performance and benchmarking insights from in-lab automation for load, dynamic radio/technology, handover
+Deliver performance and benchmarking insights from in-field automation
+Prepare, extract, manipulate and transform structured and unstructured data from many disparate data sources using Python, SQL, and other programmatic tools
+Build predictive models and machine-learning algorithms to enable anomaly detection
+Exposure to multiple SQL and NOSQL databases
+OTHER DUTIES:
+This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+SUPERVISORY RESPONSIBILITIES:
+This position does not carry out supervisory responsibilities.
+KNOWLEDGE, SKILLS, AND ABILITIES:
+Good understanding of 5G/4G technology in areas of RF, RAN/O-RAN, CORE and Device engineering
+Deep understanding of RIC NWDAF 5G and RIC for open RAN
+4+ years of experience in data analytics/science or machine learning with proven ability to apply scientific methods to solve real-world problems
+Experience with Tableau, Power BI, Alteryx
+Experience with Python, SQL, Prometheus, and Grafana
+Experience with ELK – Elastic, Log Stash, Kibana
+Extensive experience developing advanced ML models for forecasting, scoring etc.
+Experience with Machine Learning techniques, e.g., classification, clustering, regularization, optimization, dimension reduction, etc.
+Hands-on experience in pulling data from external sources using APIs, joining data from disparate data systems, and distilling large data sets into actionable insights that drive business value
+Proficient in writing complex structured query language (SQL) queries on large datasets and relational databases for data manipulation and analysis
+QUALIFICATIONS:
+Proficient in data exploration and visualization tools such as Prometheus, Grafana, Tableau, Power BI, Alteryx
+Deep understanding of statistical analysis, regression and predictive modeling, data mining and data warehousing concepts
+MS or PHD in a quantitative field such as mathematics, statistics, information systems or computer engineering will be a plus
+PHYSICAL DEMANDS:
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+The employee must regularly work at a desktop or laptop computer. Typing and vision will be used constantly.
+WORK ENVIRONMENT:
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+The noise level in the work environment is usually minimal.
+#Beta1 

@@ -1,0 +1,40 @@
+Job#: 1277835
+
+Job Description:
+The AI Data Team is looking for a Language Engineer to help us deliver results on a new project. This position is an opportunity to apply your expertise and contribute to advances in Machine Learning (ML).
+
+The position is fully remote, with an initial contract duration of nine months. As a Language Engineer, you will implement data collection and annotation strategy, with a focus on iterative analysis, quality, and efficiency. You will use your hands-on data analytics skills and knowledge of machine learning (ML) techniques to ensure that datasets are optimized for model performance.
+
+
+About the team:*
+
+The mission of the AI Data Team is to engineer the datasets critical to the success of machine learning services. From chatbots to subtitles to search results and beyond, these products support dozens of languages and impact millions of people every day. We are a group of language engineers, linguists, data scientists, data engineers, and program managers, and we partner closely with the science, engineering, and product teams. We are customer obsessed and committed to delivering results with the highest quality and integrity.
+
+MAJOR RESPONSIBILITIES
+
+
+Manage large amounts of linguistic data
+Apply best practices for data collection and data annotation
+Develop scripts and tools to automate data processing and handling
+Analyze quality control metrics for data collection and data annotation
+Collaborate with other Language Engineers and stakeholders
+Use existing language processing tools to bootstrap and process data
+Annotate data according to guidelines
+Basic Qualifications*
+Native or advanced proficiency in French or German
+Masters degree in Linguistics, Computational Linguistics, or other language or data-related disciplines
+Two years experience in linguistics or NLP
+Ability to think about and analyze language abstractly
+Proficiency in scripting, querying and/or analytics tools, such as SQL, Python, R, or similar
+Experience with language data analysis and data annotation
+Experience in developing and evaluating data annotation metrics and guidelines
+Comfortable working in a fast paced, highly collaborative and dynamic work environment
+Preferred Qualifications*
+Ability to explain complex concepts and solutions in easy-to-understand terms
+Practical knowledge of version control systems such as GitHub
+Experience working with multiple languages and low-resource languages
+Advanced proficiency in languages other than English
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178. 

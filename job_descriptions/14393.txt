@@ -1,0 +1,27 @@
+Sr. Data Scientist
+Job Title: Sr. Data Scientist
+Location: Chicago, IL - Hybrid Remote (2-3 days on-site)
+Salary: $140-175K+ DOE
+Requirements: Data Scientist, Python, Tableau, SQL, Customer Acquisition, Behavior, and Profile Data
+
+Based in Chicago, we are a purposefully small custom analytics and strategy firm. We work with a small roster of clients to examine their customer, business, and operations data. Our work consists of typically ambiguous, non-specific explorations in partnership with a range of client teams, including Digital Transformation, Marketing, Product Development & Operations.
+
+
+We are looking for a Data Scientist who will pick up this role with a fresh perspective and impact the organization for years to come.
+What You Will Be Doing
+Examples of potential projects and responsibilities:
+Identify high value acquisition targets using behavior and profile dataIdentify customers or prospects for outreach and engagementCreate customer retention models using behavior and profile dataUtilize NLP/embedding techniques to contextualize unstructured business data
+Required Competencies:
+Convert business questions into mathematical frameworksLeverage messy, incomplete, and real-world data setsBuild visualizations in Python and Tableau to help illustrate results to broad spectrum of stakeholdersExplain machine learning and mathematical results to our business partnersMeasure the causal impact of key features
+What You Need for this Position
+Qualifications:
+BS/MS Degree in Statistics/Mathematics or similarExtensive SQLStrong Data Science experience in relevant spacePython coding, TableauStrong foundation in statistics and applied mathMachine Learning, NLP, Embedded Techniques
+What's In It for YouCompetitive Compensation ($140-175K+ DOE)Comprehensive Benefits401K PlanPerformance Bonuses
+So, if you are a Sr. Data Scientist with relevant experience, please apply today!Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

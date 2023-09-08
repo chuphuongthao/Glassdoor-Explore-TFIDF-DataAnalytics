@@ -1,0 +1,25 @@
+Are you passionate about serving clients, adding value, and improving process/systems? Are you solution-oriented and passionate about delivering results? Do you like thinking outside the box, learning new skills and problem solving? Would you like to pursue a career in analytics and data science? If so, LPL Financial is the place for you!
+LPL Financial (Nasdaq: LPLA) was founded on the principle that the firm should work for the advisor, and not the other way around. Today, LPL is a leader* in the markets we serve, supporting more than 18,000 financial advisors, 800 institution-based investment programs and 450 independent RIA firms nationwide. We are steadfast in our commitment to the advisor-centered model and the belief that Americans deserve access to personalized guidance from a financial advisor. At LPL, independence means that advisors have the freedom they deserve to choose the business model, services, and technology resources that allow them to run their perfect practice. And they have the freedom to manage their client relationships, because they know their clients best. Simply put, we take care of our advisors, so they can take care of their clients.
+Job Overview:
+The VOC Analyst will help the business harness customer feedback and insights to drive meaningful improvements to the LPL Financial client experience. You’ll use your analytical savvy and knowledge of to uncover trends in customer and operational pain points and unmet customer needs to collaborate with internal stakeholders across the business to build new solutions to improve the overall experience at LPL Financial.
+Responsibilities:
+Analyze quantitative and qualitative customer feedback to create insights, identify key client issues and potential improvement opportunities.
+Help improve NPS through ongoing deep dive analysis that joins customer feedback with internal operational and financial data.
+Develop statistical models that help to evaluate the importance and impact of certain drivers and internal measurements on improving an advisor’s likelihood to recommend and stay with LPL.
+Help maintain text analytics models that identify common themes within qualitative data sets to gain context of advisor sentiments.
+Identify key areas of opportunity to automate analytical processes either through coding, dashboard development or workflow design.
+What are we looking for?
+We want strong collaborators who can deliver a world-class client experience. We are looking for people who thrive in a fast-paced environment, are client-focused, team oriented, and are able to execute in a way that encourages creativity and continuous improvement.
+Requirements:
+2-5+ years of relevant experience in analytics, customer experience design/strategy, or continuous improvement.
+Familiarity with data analytics and visualization tools (R Studio, Tableau Server, Tableau Prep, Alteryx)
+Core Competencies:
+Strong Microsoft Excel and Powerpoint skills
+Verbal and written communication skills that can be used to develop effective data stories for various audiences.
+Critical thinking skills with an ability to translate business problems into an analytical design framework.
+Strong attention to detail with a pro-active approach to solving and preventing problems
+Preferences:
+Bachelor’s degree or higher
+Proficiency with R Studio or Tableau
+Proficient in Alteryx, SQL
+Advanced Excel and other data analytical skills strongly preferred. 

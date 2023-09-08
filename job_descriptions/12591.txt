@@ -1,0 +1,34 @@
+Grow your career as a Data Science Solution Architect with an innovative global bank in New York, NY. Long-term contract with excellent growth potential. Role will be open to working remotely. Will be responsible for scenario forecasting and/or market data enhancement project portfolio governance, business transformation architect, business requirement documentation, and data analytics & workflow process automation. Will step in and take over the database schema and take ownership and maintain it on daily basis.
+Responsibilities:
+Provide effective program governance, project management, including program/project setup, planning, and tracking using tools such as MS Project, JIRA, & etc., following the required essential governance operational procedures.
+Architect the business management and process transformation with innovative, simple, and optimal designs, leveraging available in house or third-party technologies.
+Produce program/project business requirement documents and ensure the documents and other tracking evidence are effectively collected and maintained for all related programs/projects.
+Manage end to end technology program/project life cycle including generating business requirements, guide functional designing, managing User Acceptance Test (UAT), and deployment.
+Collect and document business requirements for technology projects and collaborate with business group stakeholders.
+Manage User Acceptance Test (UAT) including planning, use cases collections, test scripting, execution, issue tracking, and status reporting.
+Execute release management for business groups including communication, pre/post release user training, and user functional guide documentation.
+Organize/host program or project level meetings based on the program/project plan and provides in-time meeting minutes and tracks action items based on the agreed takeaways.
+Support Technology Investment Budget Analysis and track budget expenditure status at program/project level.
+Lead the analytics and redesign of the business data analytics process and reporting process solutions.
+Support the design, the development, the execution, and the maintenance of the Risk Tech and Non-Tech Investment Process, budget review, program/project tracking and reporting.
+Set up DB for application(s) – set up from the Business side.
+Qualifications:
+Bachelor’s degree in Computer Science, Data Science, Mathematics, or other Science majors. Prefer MBA and Ph.D. degree.
+12+ years of progressive, post-baccalaureate experience as both an IT Lead Business Analyst, and a Senior Project Manager, or closely related position.
+Must have strong programming skills: Angular along with Java, C/C++ preferred.
+Experience and understanding of architecting and managing IT database, data governance, big data, Cloud, and other IT skillsets is a must.
+Hands-on DBA experience with Oracle/Sybase. Strongly prefer experience with Mongo DB.
+Data modeling experience is required.
+Must have performance tuning background/cluster background.
+Prefer Market Data experience.
+Able to lead a program with multiple projects in parallel and effectively communicate.
+About our client
+Our client stands as one of the worlds most renowned global banks and trusted brand with over 200 years of continuously evolving financial services. Its teams provide unique insights to more than 200 million clients and enable progress all over the world. While growing your career, you will work alongside some of the smartest minds in the industry who are excited to share their knowledge and to learn from you.
+
+Equal Employment Opportunity
+
+MATRIX is committed to providing a work environment that values diversity, equity, inclusion and respect. We do not discriminate based upon race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status (including registered domestic partnership status), sex (including pregnancy, childbirth, lactation and related medical conditions), gender (including gender identity and expression), age (40 and over), sexual orientation, military and veteran status and/or any other characteristic protected by federal, state or local law.
+
+MATRIX is committed to providing access and reasonable accommodations for qualified individuals with disabilities. Supporting medical or religious documentation will be required where applicable. If you are a qualified individual with a disability, you may request a reasonable accommodation under the American Disability Act (ADA) by emailing MATRIX_HR@MatrixRes.com. To ensure a quick response to your request, please use the words “Accommodation request” as the subject line of your email.
+
+For hourly W2 contract roles MATRIX offers a highly competitive benefit package including Medical, Dental, Vision, Life, Disability, HSA, and 401(k) with pre and post-tax options. Please see MatrixRes.com/Benefits for more information. For direct hire placement with our clients, benefits will be offered in accordance with that particular client’s offerings. This may include PTO, Medical, Dental, Vision, 401K and other pre and post-tax options. 

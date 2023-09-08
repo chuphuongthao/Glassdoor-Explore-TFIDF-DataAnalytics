@@ -1,0 +1,62 @@
+
+Build scalable and robust data model/infrastructure
+Own and manage our cloud data warehouse
+Dealing with data governance, such as documentation, data integrity/quality and data security
+Build data pipelines (ETL, validation, automation, monitoring and logging...) that enable analysts and other stakeholders across the organization for data-focused product and data-driven business decisions
+Make changes on the existing data system to optimize and improve accuracy of the data process
+Give instruction or/and help stakeholder on the best practice to pull and use data
+Create scalable and actionable solutions, in the form of analytics, reports and dashboards for stakeholders to solve business and technical problems through ad-hoc requests
+Work closely with the data scientists to deploy and automate machine learning algorithms
+Write and revise technical documents and blogs, including design, development and application
+Complete data engineering projects with supervisor and guidance
+
+A potential machine learning engineer track would require work in:
+
+
+Build scalable/robust MLOps infrastructure for continuous delivery of ML models
+Support Data Science team by building ML pipelines (auto-deploy, monitor, log)
+Create automated self-service procedures that allow ML models to scale across multiple business applications and entry points
+
+Education:
+Master's degree OR bachelor's degree + 5 years of equivalent work experience
+
+(STEM major or related field preferred)
+
+Experience and Skills:
+Technical skills:
+
+Python, SQL
+BI tool (Looker, Tableau, PowerBI ...)
+Object oriented programming languages (Java, C++ ...)
+Linux and bash scripting
+Git-based version control systems
+
+Soft skills:
+
+Be organized and flexible
+Take initiative to own projects
+Strong analytical skills
+Strong verbal and written communicational skills
+Be able to work with interdisciplinary teams
+Be able to explain technical concepts/results to non-technical audiences
+Passion for creating work that is well-documented and reproducible
+Ability to work with short iteration times in agile mode as well as the ability to carry out projects in a self-directed manner
+Healthcare: passion for working at a healthcare organization
+
+Preferred Skills and Experience:
+
+Experience with R
+Experience in healthcare or health insurance organization
+Experience with clinical claims and health record data
+Experience building data pipelines in the cloud under the constraints of HIPAA
+Publication or presentation of innovation in data science, machine learning or related area
+
+Machine learning engineer track:
+
+Fluency in Python
+Shell scripting
+Experience with Docker, Kubernetes
+Experience building pipelines using Python, MLFlow, Kubeflow or other similar cloud native services
+Experience working in Linux environment
+
+Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled 

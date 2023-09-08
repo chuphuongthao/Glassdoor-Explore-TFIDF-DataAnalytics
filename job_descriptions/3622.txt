@@ -1,0 +1,23 @@
+Job Overview
+The Disney Streaming Subscriber Analytics organization is focused on measuring and understanding the growth of the entire Disney Streaming business, which includes everything from acquisition to engagement to churn. Analytics teams are organized around separate focus areas, which cover the subscriber journey. The Core Growth Subscriber Analytics team manages the critical subscriber data from which the entire business measures subscriber growth and fellow Analytics teams contextualize against. They lead the organization in how major initiatives result in subscriber growth and retention. The Churn Analytics team manages the definition and development of enterprise churn KPIs and supporting metrics. They provide the organization reporting and analysis around churn performance of cohorts or initiatives, as well as strategic retention opportunities. Given the foundational nature of these datasets, both teams collaborate widely across the entire organization.
+We are seeking a Data Analyst who will focus on understanding and communicating the various aspects of the subscriber lifecycle to our many stakeholders. Collaborating with finance, product, data engineering, data science, and business teams, this position will act as a subject matter expert for specific facets of the subscriber journey data for Disney+, ESPN+, Star+, and Hulu. This expertise will manifest in the design and implementation of core subscriber data models or operational churn models that enable internal clients to explore, analyze, and monitor data.
+Responsibilities
+Design and implement core metrics and dimensions to be leveraged by the business in identifying the success of all business decisions
+Design and implement scalable, intuitive data structures for our subscriber pipeline to answer the analytical and business questions of today and tomorrow
+Partner with stakeholders performing quantitative analyses to provide detailed insight on the complexities of our subscriber data
+Create presentations and visualizations to communicate subscriber data patterns and insights for both technical and non-technical audiences
+Champion data quality by fostering relationships with engineering partners and prioritizing technical debt when possible
+Develop documentation for wide-ranging audience to use core subscriber data as intended
+
+Key Qualifications
+2+ years work experience developing in SQL, especially in an ETL processing pipeline
+1+ years of analytical experience
+Familiarity with Python/R or other statistical programming languages
+Familiarity with data exploration and data visualization tools like Tableau, Looker, Chartio, etc.
+Strong communication skills, as well as written and verbal presentation skills
+Degree in an analytical field
+Nice To Haves
+Understanding of statistics concepts (e.g., hypothesis testing, regression analysis)
+Familiarity with Airflow
+Additional Information
+DISNEYTECH 

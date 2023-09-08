@@ -1,0 +1,37 @@
+Today’s logistics marketplace is an ever-changing landscape where you can make your mark. Spot gives you the tools to tackle industry challenges for our partners. Here, initiative, drive, and teamwork form the basis for a rewarding, fast-paced career.
+We are seeking a talented Data Scientist who has a passion for solving business problems by providing critical & actionable insights through data modeling and analysis. You’ll partner directly with the most senior leadership at Spot, along with our data/technology teams to understand and solve complex business problems. You will be using our rich database of millions of data points to build a proprietary & dynamic pricing model, as well as other operational models that will greatly impact our growth, profitability & overall efficiency.
+You would be a great fit for our team if you’re a self-starter who is passionate about exploring the intersection of real business problems with huge data sets and finding ways to deliver value to our daily operations. This person will be a game changer in an industry that is ripe for AI/data analytics.
+Key Responsibilities:
+Use data modeling & analytical approaches to develop proprietary, dynamic pricing models for daily operational use
+Apply data science techniques including machine learning, AI, and statistical modeling across multiple functional areas of the organization to drive improved decision making
+Improve upon existing methodologies and tools by incorporating new data sources and implementing model enhancements
+Serve as a highly qualified technical resource to Spot’s senior management team, with heavy involvement in driving continued growth & scaling of the organization
+Create and track accuracy and performance metrics (both technical and business metrics) of models & tools
+Create, enhance, and maintain technical documentation, and present to it her scientists, engineers, and business leaders
+
+Basic Qualifications:
+3+ years of experience with data scripting languages (e.g., SQL, Python, R etc.,) or statistical/mathematical software (e.g., R, SAS, or MATLAB)
+At least 2 years experience and understanding of Microsoft Azure Synapse ML Tool
+API development experience
+At least 2-3 years of experience in quantitative analytics or data modeling
+Deep understanding of predictive modeling, machine learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, C, C++, Java, SQL)
+Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau, Power BI)
+
+Why Spot?
+Be able to make an immediate impact in a rapidly growing company
+Comprehensive training program to set you up for success
+Ongoing career development and internal advancement opportunities
+Modern, downtown office with a bowling alley and an on-site gym
+Causal dress code – company gear for the days you can’t decide what to wear
+Convenient downtown parking
+Comprehensive mental, dental, and vision insurance
+
+Great Growth: Our fast-growing company allows you to create your own path. We hire people who are driven to succeed, and we back them up with the training and support that helps them grow.
+Great People: Work in an inclusive culture with an engaged, energized team of people who are committed to a common vision of doing the little things right.
+Great Technology: Red Technologies is a game-changing proprietary software that’s been designed and developed with our shippers, carriers, and drivers in mind.
+Great Relationships: We are more than just a broker. Spot is dedicated to making sure every shipment, every customer, and every contract carrier is taken care of. That’s why, no matter what time or day, we're always available.
+Great Benefits: Comprehensive medical, dental, and vision insurance. The company paid STD and Life insurance. 401k with employer match and Paid Time Off. Modern, uptown office.
+#CPSPOT
+#LI-CH1
+Spot Freight provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Spot Freight is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a disability, you need reasonable accommodation, please send an email to recruiting@spotinc.com to notify us of your request. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. 

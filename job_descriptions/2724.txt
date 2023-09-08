@@ -1,0 +1,21 @@
+Data Science Manager
+If you are a Data Science Manager with experience, please read on!
+
+Location: West Hollywood (Sunset Blvd)
+
+Salary: $160,000 - $175,000 base + bonus + equity
+full time direct hire
+-Position will start 100% remote but will eventually go back into our office on a hybrid model around 1 time per week in office-
+What You Will Be DoingParticipate, plan and lead discussions with stakeholders across finance, marketing, underwriting and sales to identify opportunities for leveraging company data to drive business objectivesGrow the data science team and provide technical mentorship and guidance with projectsCollaborate with data engineering to create data assets needed for specific projects and contribute to improving overall data quality and reliabilityAnalyze data by mining company data to identify areas of optimization for the business and work with business stakeholders to help drive the business objectivesBe responsible for delivering machine learning models for predictive modelling purposes and solve on mathematical optimization problems
+What You Need for this PositionExperience building and leading a team of data scientists and a proven track record of delivering value to businessProficiency in Python is required with 3+ years demonstrated experience of developing machine learning models and statistical analysisProficiency and advanced knowledge in SQL are required with demonstrable understanding of writing optimal queriesKnowledge of advanced statistical techniques and experience applying them to various problemsDesirable to have experience in NLP and text mining techniquesExperience with distributed data / computing tools such as PySpark or Dask is nice to haveExcellent written and verbal communication skills for coordinating across teamsExperience working in Financial Services, Health Care or Insurance space is desirable
+So, if you are a Data Science Manager with experience, please apply today! OR email your resume to erinn@cybercoders.comApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance. 

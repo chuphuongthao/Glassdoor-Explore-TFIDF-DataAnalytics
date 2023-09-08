@@ -1,0 +1,32 @@
+Who We Are:
+Since 1906, New Balance has empowered people through sport and craftsmanship to create positive change in communities around the world. We innovate fearlessly, guided by our core values and driven by the belief that conventions were meant to be challenged. We foster a culture in which every associate feels welcomed and respected, where leaders and creatives are inspired to shape the world of tomorrow by taking bold action today. At New Balance, We Got Now.
+JOB MISSION:
+As a Data Engineer, you will be part of a fast paced, highly productive, dynamic IT Data & Analytics team creating and maintaining efficient data solutions to solve high stake business problems. You will be responsible for the full life cycle development of ETL/ELT solutions to serve reporting, data science, and analytical use cases, as well as support the integration with other applications in our data ecosystem.
+You will be working closely with members of Consumer Insights and Enterprise Data Hub and other internal business owners to create/maintain unified view of our consumers’ and enterprise data to enable effective decisions and enhance our customer experience. You will get a strong understanding of information security, data flows and governance from data ingestion to consumption.
+MAJOR ACCOUNTABILITIES:
+Develop and support analytical pipelines to acquire, ingest and process data from multiple sources, using a proven software development process, in an Agile environment.
+Work with teams to deliver effective, high value reporting solutions by leveraging an established delivery methodology.
+Continually recommend, develop, and implement process improvements and tools to collect and analyze data, and visualize/present insights.
+Address production support break-fix in timely manner, keeping IT management and business informed of status and resolutions.
+Provide on-call support outside normal business hours as needed.
+Ensure proper application, operations, standards, policies, and procedures are followed.
+Foster a positive work environment by promoting teamwork and open communication, both with onshore and offshore technical resources.
+REQUIREMENTS FOR SUCCESS:
+Requires a bachelor’s degree in computer science, MIS or a related field, or equivalent experience.
+Minimum of 3+ years of experience in data engineering implementing data solutions in a corporate environment using software development best practices.
+Strong SQL skills.
+Experience with working on a cloud environment such as Azure, using services such as Azure Data Factory, Databricks or Snowflake .
+Experience with Python or a JVM language.
+Familiarity with data visualization tools like Power BI or Spotfire is a plus.
+Experience working in an Agile environment.
+Excellent written and verbal communication skills required.
+Strong analytical, troubleshooting, and problem-solving skills.
+Strong team player with interpersonal skills to interact with all levels.
+Regular Associate Benefits:
+Our products are only as good as the people we hire, so we make sure to hire the best and treat them accordingly. New Balance offers a comprehensive traditional benefits package including three options for medical insurance as well as dental, vision, life insurance and 401K. We also proudly offer a slate of more nontraditional perks – opportunities like online learning and development courses, tuition reimbursement, $100 monthly student loan support and various mentorship programs – that encourage our associates to grow personally as they develop professionally. You’ll also enjoy a yearly $1,000 lifestyle reimbursement, 4 weeks of vacations, 12 holidays and generous parental leave, because work-life balance is more than just a buzzword – it’s part of our culture.
+Learn more about our Benefits
+Temporary associate benefits will be communicated separately.
+Flexible Work Schedule:
+New Balance is committed to creating a culture that allows our associates to do their best work. Our corporate work-from-home policy does not mandate an arbitrary number of days in-office. Instead, we’ve designed a flexible hybrid model that empowers individual teams by letting the type of work dictate where it will most effectively be performed. We are capitalizing on this unique opportunity to evolve how we work based on efficiency, productivity, and the well-being of our associates.
+Equal Opportunity Employer:
+New Balance provides equal opportunities for all current and prospective associates and takes affirmative action to ensure that employment, training, compensation, transfer, promotion and other terms, conditions and privileges of employment are provided without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, age, handicap, genetic information and/or status as an Armed Forces service medal veteran, recently separated veteran, qualified disabled veteran or other protected veteran. 

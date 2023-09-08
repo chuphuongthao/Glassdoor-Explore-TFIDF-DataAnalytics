@@ -1,0 +1,38 @@
+Travel Required: Less than 10%
+Public Trust: Other
+Requisition Type: Regular
+GDIT is looking for a Data Analyst to support the Division of Federal Systems (DFS) within the Federal Office of Child Support Enforcement (OCSE).
+This is a remote based role with occasional travel to DC office as needed for meetings (1-2 times a year). Candidates must reside in the US.
+The primary responsibility will be a lead advisory role in the requirements and design of a new data analytics platform to support the Federal Office of Child Support Enforcement's Division of Federal Systems data analytics needs. This person will function in a project leadership role, and will interact with both the customer team and the development/operations contractor that maintains the majority of DFS systems and applications.
+Serve as lead data engineer for the GDIT-maintained proof-of-concept environment, tests new tools, products and processes to evaluate potential solutions for long term production environment, and in the long term, will assist in managing the analytics infrastructure.
+Advises on designing and automating processes for extracting, manipulating, joining, and making sense of data distributed across multiple types of databases and file-systems and in various data formats.
+Develops and conducts tests to ensure data solutions meet documented user requirements.
+Supports existing legacy data analytics process by serving as an advisor/business requirements analyst for the existing management information repositories, as well as supporting the data quality and data validation processes already in place.
+Analyzes user stories to determine technical and analytical requirements to support them; work with business SMEs across the program to design and develop dashboards, data visualizations, and other analytics data products as needed to support user stories.
+Collaborates with development/operations team to transform data and integrate algorithms and models into automated processes.
+Collaborates across data analytics branch within the Division of Federal Systems to develop and support business processes for reviewing, prioritizing and developing data and analytics solutions.
+Works with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+May coach and review the work of less-experienced professionals; will likely train other analytics team and project members on the use of selected end user analytics tools.
+May serve as a team or task leader. (Not a people manager)
+Required Skills and Experience:
+BA and 8+ years of experience (or equivalent combination of education and experience)
+Knowledge of AWS and general data analytics infrastructure solutions, and experience with ETL processes and data pipelines
+Strong technical-writing and documentation skills, as well as the ability to communicate well with both technical staff and business SMEs.
+Work visa sponsorship will not be provided for this position
+Desired Skills and Experience:
+Experience with Python, Airflow (or other workflow automation), and Git/SCM/Configuration-as-code is strongly preferred.
+Experience with containerization, including building and running containers, is preferred.
+Strong communication skills
+Knowledge of data mining/data profiling, machine learning and predictive analytics
+Previous experience with leading an implementation effort or transition to a more robust analytics approach
+Previous experience with teaching/training both a technical and non-technical audience
+#GDITFedHealthJobs
+#GDITpriority
+The likely salary range for this position is $114,400 - $171,600, this is not, however, a guarantee of compensation or salary; rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.
+View information about benefits and our total rewards program.
+
+About Our Work
+We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country. We deliver. Bringing the expertise needed to understand and advance critical missions. We transform. Shifting the ways clients invest in, integrate, and innovate technology solutions. We ensure today is safe and tomorrow is smarter. We are there. On the ground, beside our clients, in the lab, and everywhere in between. Offering the technology transformations, strategy, and mission services needed to get the job done.
+COVID-19 Vaccination
+GDIT does not have a vaccination mandate applicable to all employees. To protect the health and safety of its employees and to comply with customer requirements, however, GDIT may require employees in certain positions to be fully vaccinated against COVID-19. Vaccination requirements will depend on the status of the federal contractor mandate and customer site requirements.
+GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class. 

@@ -1,0 +1,52 @@
+*InTulsa is partnering with Oseberg to find candidates for this exciting role in Tulsa*
+**Location: Tulsa, OK. This is a remote position for those already in Tulsa, OK or willing to relocate to Tulsa, OK**
+About Oseberg
+Oseberg is a next-generation oil & gas information and data analytics company. Through a suite of all-encompassing B2B SaaS products, we enable our users to search, map, mine, and perform statistical analysis on every strand of data. Our compelling new approaches to rapidly convert the most inaccessible public regulatory and county-level records paired with technology reduces weeks work to moments. These reductions empower our users to rapidly uncover leasing, drilling, enhanced completion, and acquisition opportunities.
+Data Engineer, Data Platform Team
+As a Data Engineer on our Data Platform Team, you'll be responsible for ensuring our core data product is top-notch. Our team's goal is to build a scalable data platform for acquiring, storing, processing, transforming, and preparing all of the company's data using modern data processing techniques. Our expertise is building datasets at scale. Data engineers gain experience in distributed processing, leveraging technologies like Postgres, Apache Flink, and Apache Kafka.
+Job Role
+Build datasets from disparate data points with SQL-based technologies
+Create and maintain optimal data pipeline architecture
+Assemble large, complex data sets that meet functional/non-functional business requirements
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL
+Design data models (relational and unstructured)
+Work with stakeholders including the Executive, Product, Data, and Design teams to assist with data-related technical issues and support their data infrastructure needs
+Guide and influence data architecture
+Help build-out/grow data platform
+Write server-side processes for handling data acquisition, storage, and processing
+
+We are a young and growing company. As an engineer, you will have a huge impact on the success and momentum of our organization. Our team is small but we have a fun, hard-working culture. We look for people who love learning and sharing with other team members. Our team is respectful of one another's strengths and weaknesses. At Oseberg you can expect a high-level of independence and autonomy.
+Who We’re Looking For
+We’re looking for an engineer who models our core values:
+Demonstrable experience designing and building data processes.
+Comfortable with independence and autonomy.
+Excellent communication skills. Candidates should be comfortable explaining their decisions as well as actively listening to input from their teammates.
+Attention to detail and able to resolve ambiguity.
+Respectful of teammates.
+Not intimidated by lack of present knowledge but has confidence in ability to learn, i.e. you live to grok not the other way around.
+Warrior's spirit and a servant's heart.
+Takes pride in their work and derives joy from the value it provides.
+Enjoys thinking differently and solving problems in creative ways.
+Qualifications
+A successful candidate will have the following competencies:
+Strong SQL skills
+Postgres (or similar database)
+Data pipelines and ETL processes
+Be comfortable working with structured and unstructured data
+Basic programming knowledge (bonus if Python, Scala, Java, or a JVM-based language - we use Scala)
+ElasticSearch (if not already proficient, willing to learn quickly)
+
+Experience with the following is not required but a bonus:
+Oil-and-Gas (O&G) industry domain knowledge
+Apache Flink, Apache Spark, Hadoop, or similar data processing framework
+Apache Kafka
+NoSQL methodologies
+GIS and geospatial technologies (PostGIS, ArcGIS suite)
+Scripting (bash, Python)
+Linux (or other *nix environment)
+
+EQUAL OPPORTUNITY EMPLOYER
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.
+
+
+#Li-Remote 

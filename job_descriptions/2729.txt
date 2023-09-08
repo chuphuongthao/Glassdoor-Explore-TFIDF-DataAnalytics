@@ -1,0 +1,30 @@
+REMOTE Lead Data Engineer - Python, SQL (Redshift), ETL
+There are millions of awesome spaces across the country that are sitting idle (i.e. pools, saunas, home gyms, creative studios, etc). We're creating access to these spaces and passive income for owners through our peer-to-peer online marketplace.
+
+
+We've had incredible growth since launching in 2019 (4,000% YoY) with over 45,000 transactions in the last 6 months!
+
+
+Due to this rapid growth, we have an immediate need for a Lead Data Engineer to play a key role to help lead major efforts around building a robust data ecosystem that is fast & scalable, and allows us to measure all aspects of business using Data. You will work directly with the founders and executive team with lots of autonomy and tons of room for growth!
+Top Reasons to Work with UsVERY cutting edge company!Heavily funded!Fun, fast-paced environmentTouch many technologiesWork with some extremely successful entrepreneurs
+Remote work
+What You Will Be DoingLead major efforts around building a robust data ecosystem that is fast and scalable, allowing us to realize our goal of measuring all aspects of business using dataStructure & develop our core tables so that it is efficient & usable for our core data science teamDevelop modern data pipelines to support data integrity, lineage and monitoringCreate the foundational reporting dashboards which business stakeholders use to keep an eye on the rapidly growing businessDesign fault-tolerant systems so the team can be brave & move quickly, without negatively affecting our customersBuild systems that collect & maintain customers' sensitive data while holding us to the highest standards for security & privacy
+What You Need for this Position4+ years utilizing Python3+ years in SQL (Redshift/PostgreSQL)Experience using ETL tools: Stitch, Fivetran, Airbyte, and/or Segment
+- Proven track -record working collaboratively on complex, medium-to-large ETL projects
+Interest in working w/ product & engineering teams, cross functional partners as well
+Nice to Haves:
+Experience with NestJS frameworkExperience with AWS (Kubernetes)
+What's In It for YouCompetitive CompensationEquity with tremendous UPSIDE (you are still early enough)100% REMOTE workMedical, Dental, Vision Benefits401kStock OptionsVERY Flexible PTO
+BenefitsVacation/PTOMedicalDentalVision401kBonus
+So, if you are a REMOTE Lead Data Engineer - Python, SQL, ETL with experience, please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Dylan RogelstadApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance. 

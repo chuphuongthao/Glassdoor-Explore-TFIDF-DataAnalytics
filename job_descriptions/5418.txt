@@ -1,0 +1,33 @@
+Job Summary:
+Join a high-energy data science and business experts in Liberty Mutual Global Risk Solutions (GRS) Advanced Analytics Hub as we drive business value and innovation through analytics. Using enterprise-caliber data science tools, you will work on projects/initiatives for the design, development, and delivery of advanced analytics solutions and predictive models that enable the business to make data-based decisions. As part of the Global Strategic Analytics team you will research, prototype, architect, and deploy complex analytics to create high-impact business value. In additional to collaboration with other team members, you will have high-profile engagement across the enterprise including Underwriting, Pricing, Tech and other functions.
+The Assistant Director, Data Science collaborates with business partners to develop predictive analytic solutions that enable data-driven strategic decision-making. This role utilizes data science techniques to manipulate large structured and unstructured data sets, identify patterns in raw data, and develop models to predict the likelihood of a future outcome and/or to optimize business solutions.
+This level reflects solid knowledge of predictive analytics techniques, while continuing to learn how to apply techniques to business issues.
+Responsibilities:
+Researches and develops predictive analytic tools.
+Leverages knowledge to create/design solutions for business needs.
+Mines large data sets using sophisticated analytical techniques to generate insights and inform business decisions.
+Identifies and tests hypotheses, ensuring statistical significance, and builds predictive models for business application.
+Translates quantitative analyses and findings into accessible visuals for non-technical audiences, providing a clear view into interpreting the data.
+Enables the business to make clear tradeoffs between and among choices, with a reasonable view into likely outcomes.
+Customizes analytic solutions to specific client needs.
+Responsible for larger components of projects of moderate to high complexity.
+Guides aspects of project design as a technical consultant for the team.
+Regularly engages with the data science community and participates in cross functional working groups.
+Broad knowledge of predictive analytic techniques and statistical diagnostics of models.
+Expert knowledge of predictive toolset; reflects as expert resource for tool development.
+Demonstrated ability to exchange ideas and convey complex information clearly and concisely.
+Networks with key contacts outside own area of expertise. Ability to establish and build relationships within the aligned functional area or SBU.
+Ability to give effective training and presentations to peers, management and less senior business leaders.
+Ability to use results of analysis to persuade team or department management to a particular course of action.
+Has a value driven perspective with regard to understanding of work context and impact.
+Competencies typically acquired through a Ph.D. degree (in Statistics, Mathematics, Economics, Actuarial Science or other scientific field of study) and a minimum of 2 years of relevant experience, a Master`s degree (scientific field of study) and a minimum of 4 years of relevant experience or may be acquired through a Bachelor`s degree(scientific field of study) and a minimum of 5+ years of relevant experience.
+NLP and GLM experience preferred.
+At Liberty Mutual, our purpose is to help people embrace today and confidently pursue tomorrow. That's why we provide an environment focused on openness, inclusion, trust and respect. Here, you'll discover our expansive range of roles, and a workplace where we aim to help turn your passion into a rewarding profession.
+
+Liberty Mutual has proudly been recognized as a “Great Place to Work” by Great Place to Work® US for the past several years. We were also selected as one of the “100 Best Places to Work in IT” on IDG's Insider Pro and Computerworld's 2020 list. For many years running, we have been named by Forbes as one of America's Best Employers for Women and one of America's Best Employers for New Graduates—as well as one of America's Best Employers for Diversity. To learn more about our commitment to diversity and inclusion please visit: https://jobs.libertymutualgroup.com/diversity-inclusion
+
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation, gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.
+
+18 

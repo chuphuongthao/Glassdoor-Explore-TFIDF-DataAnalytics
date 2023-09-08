@@ -1,0 +1,29 @@
+Principal Investigator, Jesse Meyer, PhD, is looking for a Postdoctoral Scientist to join the team!
+The Department of Computational Biomedicine reflects Cedars-Sinai's commitment to advancing medical discovery and the recognition of the foundational role complex data plays in our research and clinical care. To learn more, please visit Department of Computational Biomedicine | Cedars-Sinai.
+We are seeking up to three postdoctoral researchers. One position is funded by an R21 from the NIA to apply mass spectrometry based multi-omics (proteomics and metabolomics) and machine learning with stem cell (iPSC) brain organoids or neuron models of Alzheimer’s disease in vitro. Another position two positions would develop new methods for mass spectrometry based multi-omic data collection and data integration using deep learning, with a focus on basic metabolism. A third position would focus on machine learning methods for drug discovery from electronic health records, omics, and chemical informatics. Competitive candidates will have experience publishing in more than one of the mentioned disciplines.
+Are you ready to be a part of breakthrough research?
+Working independently but in close cooperation and in consultation with Dr. Meyer and other Research scientists, the Postdoctoral Scientist will perform routine and complex computational, mathematical, and statistical procedures throughout the training period. As a Postdoctoral Scientist, you may develop, adapt, and implement new research techniques, and protocols, as well as analyze, interpret, summarize, and compile data. Please visit Meyer Research Lab | Cedars-Sinai for more information.
+Primary Duties and Responsibilities:
+May assist in the preparation of grant proposals, but is not responsible for generating grant funds.
+May participate in publications and presentations as author or co-author.
+Develops, evaluates, and implements computational, mathematical, and statistical algorithms and methods. Will keep appropriate records, documentation, and software version control with the Principal Investigator.
+Integrates, analyzes, interprets, visualizes, and summarizes data.
+Operates and maintains equipment and instruments.
+Education:
+Minimum of a Doctorate (MD or Ph.D.) in bioinformatics, biomedical informatics, biomathematics, biostatistics, computational biology, computer science, data science, engineering, or related quantitative field, required.
+Experience and Skills:
+No prior postdoctoral experience is required. PhD research experience is expected with at least one or two first author publications.
+Independently works on research projects designed in collaboration with one or more mentors within an area of specialization.
+Acquires thorough technical and theoretical knowledge of research projects and objectives during one to five (1-5) year post-doctoral appointment.
+Demonstrated ability to develop, evaluate, and implement computational, mathematical, and statistical algorithms and methods for the analysis of multimodal biomedical data.
+Knowledge of software version control and high-performance computing.
+Knowledge of safety standards and maintenance of specialized equipment.
+
+Working Title:Postdoctoral Scientist - Meyer Lab - Neurodegeneration, Data Science, and Multi-Omics (i.e. Proteomics, Metabolomics)
+Department:Computational BioMedicine
+Business Entity:Academic / Research
+Job Category:,Academic/Research,Academic/Research
+Job Specialty:Postdoctoral
+Position Type:Full-time
+Shift Length:8 hour shift
+Shift Type:Day 

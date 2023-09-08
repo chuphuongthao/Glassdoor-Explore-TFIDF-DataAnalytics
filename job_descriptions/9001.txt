@@ -1,0 +1,34 @@
+BDR Solutions, LLC, (BDR) supports the U.S. Federal Government in successfully achieving their mission and goals. Our service and solution delivery starts with understanding each client’s end-state, and then seamlessly integrating within each Agency’s organization to improve and enhance business and technical operations and deployments.
+BDR is seeking a Jr. Data Analyst to join our growing team! This position may be performed remotely supporting EST time zone schedule but there is a strong preference for applicants in the San Antonio, TX or Washington, DC areas.
+This position requires US Citizenship with a Public Trust or the ability to obtain one.
+(Military Veterans are highly encouraged to apply)
+Overview
+BDR is seeking a highly motivated Jr. Data Analyst with 3+ years of experience in data analytics to support work within the Department of Veterans Affairs (VA) by maximizing the value of their data and automating business processes. You will work with clients and teammates to implement the full spectrum of data analytics and data science, from data engineering and querying to data visualization and dashboarding. There will be opportunities to help clients explore predictive analytics, machine learning, and artificial intelligence as well as robotic process automation (RPA). This work will help stakeholders define their information strategy, enable mission-critical insights and data-driven decision-making, reduce cost and complexity, increase trust, and improve operational effectiveness.
+Responsibilities
+Obtaining data through automated and computerized models.
+Extrapolating data patterns through advanced algorithms.
+Developing simple graphs and charts to explain how the mathematical information will influence the specific project or business.
+Presenting to managers how to best alter their business models to support the customer’s mission.
+Required Minimum Qualifications
+Bachelor’s degree in Data Science/Analytics, Statistics, Mathematics, Operations Research, Computer Science, Information Systems, Engineering, Economics, or other related disciplines (8 years of additional relevant experience may be substituted for education).
+Public Trust clearance or the ability to get one.
+3+ years of relevant experience OR 1+ years with a relevant Master’s degree.
+Ability to coordinate between business and IT groups, understand mission and data requirements, design data models, and develop a data warehouse and data lake solutions accordingly for “big data”.
+Deep understanding of data warehouse, data lake, and database concepts.
+Ability to address system latency, data/disaster recovery, and file transfer.
+Ability to assess new data sources (structured and unstructured) for potential integration.
+Proficiency in using SQL for data querying and extract–transform–load (ETL) functions, with an understanding of data engineering concepts.
+Familiarity with cloud / serverless computing.
+Ability to uphold strong data management and data governance.
+Ability to develop data dictionaries and other supporting documentation.
+Strong communication/presentation skills and ability to explain technical topics to non-technical audiences.
+Strong consulting skills: identifying and addressing client needs, building relationships, and driving initiatives forward.
+Excellent written and oral communication skills.
+Desired Skills and Qualifications
+M.S./M.A. in a relevant quantitative and computational field (e.g., Computer Science, Information Science, Data Science, etc.).
+Experience with VA claims data.
+Experience working with data scientists and analysts.
+Familiarity with Agile methodology.
+In addition, U.S Citizenship is required. Select applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information and be able to obtain a government-granted security clearance. Individuals may also be subject to a background investigation including, but not limited to criminal history, employment and education verification, drug testing, and creditworthiness.
+BDR is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, marital status, disability, veteran status, sexual orientation, or genetic information.
+FvWeyudrql 

@@ -1,0 +1,76 @@
+Introduction
+Ranked by Forbes as one of the world’s best employers in 2021, IBM promotes growth and innovation to lead as we enter the era of hybrid cloud and AI – helping clients transform their business.
+
+As a Data Scientist, you will work with a technical pre-sales agile team to co-develop innovative business solutions with our clients. You will be directly impacting the world’s most influential enterprises and brands on the adoption of next-generation platforms.
+
+
+IBM’s comprehensive onboarding program and industry-leading learning culture will prepare you with a strong foundation for client success. Our sales environment is collaborative and experiential. You'll be surrounded by bright minds and keen co-creators ready to assist as you apply practices that will compel our clients to invest in IBM's products and services.
+
+Your Role and Responsibilities
+In this role, you’ll be the go-to subject matter expert, collaborating with colleagues from various roles to define solutions and lead the way in how they get built in the age of cloud and AI. This role is hands-on; co-creating using data science, machine learning, and programming skills in six-week client engagements.
+
+A 'Day-in-the Life' of a Data Scientist may include, but not be limited to:
+Key contributor to a pre-sales Client Engineering team, partnering with clients to understand business problems and propose solutions.
+Involvement in the co-creation of rapid proofs of concept and Minimal Viable Solutions that demonstrate business value.
+Translates business problems into leading-edge analytics solutions using consulting skills, industry expertise, and technical knowledge.
+Delivers meaningful insights and predicts emerging trends to inform business solutions that optimize client value.
+Applying data engineering techniques to gather, prepare, cleanse, and transform client data for analysis and AI automation.
+To be successful in this role, you will need:
+Confidence to engage new customers and deliver an elevated experience.
+Motivation to achieve sales, business objectives, and high client satisfaction.
+Strong analytic, problem solving, and troubleshooting skills combined with an agile process.
+Opportunities are available in: Atlanta GA, Boston MA, Chicago IL, Dallas TX, New York NY, San Francisco CA, and Washington DC –to name a few
+
+If you are hired into a Colorado work location, the anticipated compensation range for the position $73,000 to $152,000 is based on a full-time schedule. Your ultimate compensation may vary depending on your job-related skills and experience. For part time roles, the compensation will be adjusted appropriately.
+
+Required Technical and Professional Expertise
+
+B.S./M.S. in Computer Science, Data Science, Math, Statistics, Engineering or equivalent technical degree/experience.
+Working knowledge using data analytics tools / languages such as Python, R, SQL or language in similar discipline.
+Demonstrate a growth mindset; current on technical growth in the data science space.
+Conversant about technology trends and how it is being applied to address business challenges.
+Professional verbal, written, and interpersonal skills.
+Proven team collaboration and leadership.
+Readiness to travel up to 50% annually.
+
+Preferred Technical and Professional Expertise
+
+At least 1 year experience in data analytics tools / languages such as Python, R, SQL, or similar disciplines.
+Knowledge of data science libraries and frameworks, such as, Jupyter Notebooks, scikit-learn, Pandas, Spark.
+Specialization in areas such as NLP/NLU, prescriptive analytics and optimization, MLOps, AI solutions, machine vision, and/or data visualization.
+Experience includes all settings, such as coursework, informal or side projects, internships and work experience, leading to a result or achievement.
+
+About Business Unit
+IBM has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. IBM's Global Sales organization is a strategic sales business unit that manages IBM’s global footprint, working closely with dedicated country-based operating units to serve clients locally. These country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. By complementing local expertise with global experience and digital capabilities, IBM builds deep and broad-based client relationships. This local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. Additionally, the Technology Sales organization serves clients with expertise in their industry, as well as through the products and services that IBM and partners supply. IBM is also expanding its reach to new and existing clients through digital marketplaces.
+
+This job requires you to provide your COVID-19 vaccination status with supporting documentation, where legally permissible.
+
+Your Life @ IBM
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to:
+
+
+12 weeks of paid parental bonding leave. Family care options are also available to support eligible employees during COVID-19.World-class training and educational resources on our personalized, AI-driven learning platform. IBM's learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goals.Well-being programs to support mental and physical health.Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.).Select educational reimbursement opportunities.Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe.Giving and volunteer programs to benefit charitable organizations and local communities.Discounts on retail products, services, and experiences.
+This position is eligible for participation in an IBM sales incentive plan. Actual incentive opportunity will be based on performance and the eligible Target Incentive, as addressed in the applicable plan, all of which is subject to change.
+
+
+We consider qualified applicants with criminal histories, consistent with applicable law.
+
+IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. 

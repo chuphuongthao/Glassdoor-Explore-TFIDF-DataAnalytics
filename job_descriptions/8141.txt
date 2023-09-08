@@ -1,0 +1,24 @@
+There’s never been a more exciting time to join United Airlines. We’re on a path towards becoming the best airline in the history of aviation. Our shared purpose – Connecting People, Uniting the World – is about more than getting people from one place to another. It also means that as a global company that operates in hundreds of locations around the world with millions of customers and tens of thousands of employees, we have a unique responsibility to uplift and provide opportunities in the places where we work, live and fly, and we can only do that with a truly diverse and inclusive workforce. And we’re growing – in the years ahead, we’ll hire tens of thousands of people across every area of the airline. Our careers include competitive benefits package aimed at keeping you happy, healthy and well-traveled. From employee-run "Business Resource Group" communities to world-class benefits like parental leave, 401k and privileges like space available travel, United is truly a one-of-a-kind place to work. Are you ready to travel the world?
+We believe that inclusion propels innovation and is the foundation of all that we do. United's Digital Technology team spans the globe and is made up of diverse individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.
+Key Responsibilities:
+The Senior Analyst will partner with business and operations technology teams to help define and implement data analytics initiatives that create sustainable improvements in operational efficiencies. This role requires business intuition, an ability to use analytical tools and methods to gain insights from data, organizational skills and the soft skills necessary to be a good partner to various teams supporting United operations.
+Leverage data from a variety of sources to analyze business performance, identify areas of opportunity and deliver actionable insights to operations leaders and front-line personnel
+Partner with business stakeholders to identify key initiatives and engage data analytics team members to complete delivery of sustainable solutions to business problems, using data analysis, advanced analytics and data engineering standard methodologies
+Test data and/or applications to validate data accuracy/quality
+Track small to medium-sized projects from conceptualization to completion, including helping to create project roadmaps, project plans and requirements documentation
+Lead status meetings and manage frequent status communication to business stakeholders, IT teams and senior leadership as required
+United values diverse experiences, perspectives, and we encourage everyone who meets the minimum qualifications to apply. While having the “desired” qualifications make for a stronger candidate, we encourage applicants who may not feel they check ALL of those boxes! We are always looking for individuals who will bring something new to the table!
+What’s needed to succeed (Minimum Qualifications):
+Bachelor's degree in quantitative field (statistics, engineering, business analytics, information systems, aviation management or related degree)
+demonstrated ability in analytical role (analysis, information science, data visualization or other relevant quantitative fields)
+Experience working with large datasets and reporting or visualization tools, ability to tell a story using data
+Ability to thrive in a project-based environment
+Must be legally authorized to work in the United States for any employer without sponsorship
+What will help you propel from the pack (Preferred Qualifications):
+Advanced Degree in Data Sciences
+Experience with statistical tools and concepts (R, SPSS, SAS)
+Experience with programming languages such as Python or Pyspark
+Experience with Tableau, Spotfire or other visualization tools
+United Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.
+
+Equal Opportunity Employer – Minorities/Women/Veterans/Disabled/LGBT 

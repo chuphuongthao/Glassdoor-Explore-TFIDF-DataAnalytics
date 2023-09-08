@@ -1,0 +1,63 @@
+Who we are
+
+Trilogy Education Services, a 2U, Inc. brand, partners with the world's leading universities to help companies bridge the digital skills gap. We work with experienced instructors, innovative employers, and top institutions to power boot camps that prepare today's workers for tomorrow's jobs.
+
+Our programs have been in existence since October 2015, and since that first class, we've launched an additional 300 classes with 50+ university partnerships.
+
+Job description
+
+Are you an experienced data analyst who is passionate about education and making an impact? Do you love empowering others to find life-changing opportunities? Then this may be the position for you!
+
+We believe learning a new skill, like data analytics, should be exciting and engaging — and that starts with the instructor. You'll notice that prior teaching experience isn't a prerequisite to being an Instructor. If you bring knowledge, strong communication, and a positive energy to the classroom, you're going to help students along their transformative path to a successful and rewarding career.
+
+Our Blended Online program is a mixture of asynchronous and live instruction. Students in the Blended Online program access modules through Canvas, and unlock these modules as they progress through the class. Roughly 80% of the content each week is completed by the students asynchronously. This program is ideal for individuals who cannot commit to the traditional 14-hour a week time commitment of our in-person/Live Online modalities.
+
+Check out the program details here.
+
+Skills & Requirements
+
+At least 4-5 years of data analytics experience (or equivalent)
+Bachelor's Degree
+Background in:
+Advanced Statistics with Data Analytics with Microsoft Excel and Python, Numpy, Pandas, and Matplotlib
+Databases like SQL and MongoDB
+Data Visualization using Javascript, D3, or Tableau
+Hadoop and Machine Learning
+Must have a laptop, webcam, at least one additional monitor, microphone/headset, and reliable internet connection.
+Experience with Zoom video conferencing preferred.
+
+
+What You Will Do:
+
+Lead lectures and educational product management activities
+Answer students' questions during class sessions
+Utilize Zoom's "breakout-rooms" feature during activities and in-class projects to assist the students, as needed
+Upload class content to the student facing github/gitlab repository
+Ensure that homework is graded on-time, and occasionally assist with grading
+Provide empathy, support, and encouragement to students as they go through a life-changing experience
+
+Logistics:
+
+24-week programs
+100% remote
+Approximately 5 hours of total time commitment per week split between two weekday evening sessions held on either Mondays & Wednesdays or Tuesdays & Thursdays
+
+Other Perks:
+
+Maintain your current career while teaching
+Paid Sick and Safe Leave
+Access to Wellness and Educational Resources
+20% Discount on 2U Short Courses
+Access to LinkedIn Learning
+Hone your own skills by teaching and mentoring others
+Expand your network by joining the thousands of industry professionals who make up our Instructional Staff
+Experience the gratitude and fulfillment that comes along with teaching and giving back to the tech community
+
+Hourly salary only: In Colorado, the anticipated hourly salary for this role is $43.11 - $45.84/hr. Note: The final compensation for this position may consider factors including the geographic location where the work is performed (candidate's assigned office) and prior work experience of the candidate.
+
+*You must apply in your FULL LEGAL NAME*
+
+Your full legal name must be the EXACT name and spelling as listed on your government issued ID Card, birth certificate, name change order, adoption decree, naturalization or immigration documentation. Initials are not acceptable unless initials are part of your full legal name.
+
+*You must apply in your FULL LEGAL NAME*
+Your full legal name must be the EXACT name and spelling as listed on your government issued ID Card, birth certificate, name change order, adoption decree, naturalization or immigration documentation. Initials are not acceptable unless initials are part of your full legal name. 

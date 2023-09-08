@@ -1,0 +1,42 @@
+Job Description for Data Scientist I
+Description
+Frontier Communications is looking for a junior Data Scientist to join our Data Science team under the Consumer organization.
+You will get a chance to analyze massive data sets with the most current data science techniques for an ISP serving 3 million broadband customers across 25 states. You will look at all facets of our business with the singular mission to improve customer retention, satisfaction, and lifetime value.
+Responsibilities
+ Develop predictive, causal, and prescriptive models with the ultimate aim to reduce churn rates, increase customer satisfaction metrics and improve upgrade conversion rates.
+ Provide statistical consulting for the design and analysis of experiments to conduct in call centers, field maintenance, marketing, customer onboarding and network operations.
+
+
+Must-Have Qualifications
+Any of the following combinations of work and academic experience:
+Any quantitative-oriented undergraduate degree plus 1 to 2 years of work experience as a data scientist
+Or Bachelors or Masters in Statistics, Econometrics, Biostatistics, Epidemiology, or Data Science
+Or Ph.D. in any discipline involving a dissertation with a strong emphasis on a statistical analysis of empirical data (e.g., Economics, Psychology, Sociology, Computer Science, etc.)
+Strong experience in logit and multivariable linear regressions
+We do NOT expect the candidate to be familiar with ALL the following topics, but it would desirable or “nice to have” if they have an academic or professional grounding in SOME of them. The key topics are (in no particular order):
+Experimental design (threats to validity, multiple treatment design, clinical trial design, pretests, posttests, etc.)
+Time series
+Hypothesis testing (including non-parametric methods)
+GLM
+Bayesian inference
+Choice modeling
+Causality analysis (instrumental variables, moderators, mediators, the difference in difference, etc.)
+Rules-based classifiers (e.g., RIPPER, BRL, etc.)
+Decision tree classifiers (e.g., Random Forest, other ensemble methods, specific algorithms, etc.)
+Dimensionality reduction (e.g., KNN clustering, k-means clustering, principal component analysis, etc.)
+Multiclass classification (e.g., SVM, Naïve Bayes, multinomial logit, etc.)
+Imbalanced data methods (e.g., SMOTE, F-Beta, over-sampling, etc.)
+NLP
+Imbalanced binary classification
+You have EXTREMELY strong written and oral communication skills to help translate the technical aspects of your work into plain English that a non-statistician will understand
+ Intermediate skills in SQL
+ Intermediate skills in Python (pandas, scikit-learn, statsmodels, NumPy)
+ You are interested in learning more about the programming and machine learning aspects of the data science world
+Nice to Have Qualifications:
+Familiarity with working on data involving telecoms, mobile providers, ISPs, or cable companies
+Has prior experience working with or on a data science team
+Experience working in any of the major cloud platforms: AWS, Azure, GCP
+Experience with ETLs
+Experience working with customer service, billing, network operations, behavioral, demographic and/or finance data
+Experience in data visualization
+New hires must be fully vaccinated against COVID-19 by their start date with the company (or have been granted a religious or medical exemption accommodation). 

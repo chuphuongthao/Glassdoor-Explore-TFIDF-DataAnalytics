@@ -1,0 +1,70 @@
+Data Science Associate (601)
+
+Chase
+Chase is the U.S. Consumer & Community Banking (CCB) business within JPMorgan Chase & Co. (NYSE: JPM), a leading global financial services firm with assets of $2.5 trillion and operations worldwide.
+Serving nearly half of America's households with a broad range of financial services, including: personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing, the firm places a strong emphasis on digital banking, financial fitness, innovation, leadership, analytics and strategy. Here is a snapshot of where we rank today:
+#1 Credit card issuer in the U.S.
+#1 Most visited online banking portal
+#1 Mobile banking app
+#1 Amongst Millennials for checking, savings and credit cards
+The CCB Data & Analytics team is the engine that powers Chase with insights that are used to create competitive advantages for our business, with an emphasis on creating value for our customers. Unifying data and analytics talent across Chase, the team encompasses a variety of Data & Analytics disciplines, from data governance and data strategy/partnerships, to reporting, data science and machine learning. You will partner closely with our technology partners, leveraging the cutting-edge data and analytics infrastructure they have constructed to ensure front-line impact through transformational projects.
+Within the broader CCB Data & Analytics team, the CCB Focused Analytics Solutions Team (FAST) is responsible for working across CCB to develop and execute actionable, data-driven analytical solutions, while providing the foundation for future Data & Analytics talent and leadership.
+
+The team leverages Big Data in a consulting-style environment that places a premium on creative problem solving and client interaction, while working on a wide range of strategic, highly visible projects across CCB D&A, including : Consumer Banking, Home Lending, Card Services, Business Banking, Digital, Wealth Management, Sales Science and Auto Finance.
+
+
+What to expect
+
+FAST Data Science Associates will join the team as part of a rotational program in a consulting-style environment, gaining exposure to a variety of analytical techniques, lines of business and datasets while collaborating on projects that can range from 4 weeks to a few months. FAST associates will spend ~22 months uncovering creative and innovative ways to solve business problems using a range of analytical methods, including machine learning, statistics, optimization and data engineering.
+
+You will begin your time on FAST with an induction month training curriculum aimed at providing you and your new colleagues with the foundational tools and support system required to succeed. You will continue to receive comprehensive on-the-job training throughout the program, allowing for exposure to the breadth of analytics and specialization in the track of your choosing.
+
+
+As you approach graduation from the program, you will work with our team to define the next step in your career - whether that be a role within the broader CCB Data & Analytics organization or staying on FAST as an experienced member mentoring future classes while continuing to lead projects across the organization.
+
+As a Data Science Associate, you will make a meaningful impact by:
+Partnering with project leads and fellow data scientists to design & execute analytical solutions that maximize business value
+Collecting and cleaning data from diverse data sources and locate new data sources, building and testing statistical/ML approaches, supporting the plan to operationalize and scale prototypes, and more.
+Effectively communicating proposed solutions and data-driven insights to your project team and internal clients
+Collaborating across FAST and CCB D&A teams to deliver the best solution for clients, leveraging a wide range of internal resources
+Building an in-depth understanding of the business and available data assets supporting each line of business
+Expanding the technical toolkit that Chase uses to solve analytical problems by testing and evaluating cutting-edge statistical/ML techniques and technologies in the context of project work
+Chase's FAST group is an opportunity to take your career to the next level through hands-on data analytics, management and professional networking experience, and career control that is generally not available in other 'rotational' programs.
+Program participants will be placed in the following locations, based on candidate interest and business need:
+Chicago, Illinois
+Columbus, Ohio
+New York, New York
+Plano, Texas
+Wilmington, Delaware
+About you
+We're looking for highly motivated team players with a passion for applied data science and the initiative and insight to develop innovative solutions.
+Key Qualifications:
+Enrolled in a Master's degree program, with an expected graduation between December 2022 and August 2023
+Preferred majors include quantitative disciplines, such as: Statistics, Applied Mathematics, Operations Research, Data Science, Machine Learning, Computer Science, etc. with graduate level course work in statistics, data analytics, statistical modelling and/or machine learning
+Experience in SQL, Python or R
+Awareness of Big Data technologies & their applications
+Attend college/university in the U.S.
+Desirable Skills:
+Exceptional quantitative, analytical thinking, problem solving, and communication skills
+Ability to collaborate across teams using a consultative approach
+Hands-on exposure to standard analytical tech stacks (e.g., Jupyter Notebooks, Hadoop, AWS, Spark, PyTorch, TensorFlow, Tableau, etc.)
+Experience with data wrangling, including combining multiple data sources into a final data asset and/or aggregating a large dataset into a purpose-built asset
+Self-starter, demonstrated strong work ethic and an ability to work independently and collaboratively
+Demonstrated leadership ability
+Strong track record of success as demonstrated by professional/educational background and accomplishments
+Data Science Boot Camp certifications and/or work experience as a data scientist are a plus
+Join us
+
+At JPMorgan Chase, we're creating positive change for the diverse communities we serve. We do this by championing your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you're passionate, curious and ready to make an impact, we're looking for you.
+What's next?
+
+We will review applications as they are received and extend offers on a rolling basis. We strongly encourage that you apply early since programs will close as positions are filled.
+Visit jpmorganchase.com/careers for upcoming events, career advice, our locations and more.
+©2022 JPMorgan Chase & Co. JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+Equal Opportunity Employer/Disability/Veterans 

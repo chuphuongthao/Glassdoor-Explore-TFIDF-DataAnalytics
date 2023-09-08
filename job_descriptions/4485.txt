@@ -1,0 +1,71 @@
+Overview
+Guidehouse is a leading global provider of consulting services to the public sector and commercial markets, with broad capabilities in management, technology, and risk consulting. By combining our public and private sector expertise, we help clients address their most complex challenges and navigate significant regulatory pressures focusing on transformational change, business resiliency, and technology-driven innovation. Across a range of advisory, consulting, outsourcing, and digital services, we create scalable, innovative solutions that help our clients outwit complexity and position them for future growth and success. The company has more than 12,000 professionals in over 50 locations globally. Guidehouse is a Veritas Capital portfolio company, led by seasoned professionals with proven and diverse expertise in traditional and emerging technologies, markets, and agenda-setting issues driving national and global economies. For more information, please visit www.guidehouse.com.
+
+Responsibilities
+As a Senior Consultant supporting Strategy and Mission Improvement through Data Analysis, you understand the important role data plays in driving decisions and improving processes within the Government. Business and mission data need to aggregated, combined, analyzed, and communicated to develop and continuously assess Government organizations’ Strategies in support of the National Security space. You are known for your attention to detail, efficient execution, and educating current and new customers on the importance of aligning strategy to mission, measuring progress, and improving on internal processes that affect the warfighter. You love implementing new processes by coordinating with stakeholders across organizations, and leveraging their data to gain new insights on how mission is being performed. You are also eager to expand your skillset and grow the team.
+The Senior Consultant Data Analyst will support Senior Executive clients at a large Intelligence Agency and fellow teammates to develop and deliver strategy, mission transformation, and performance measurement for the IC Agency by performing data analysis, data visualization, and metrics development. In addition, your expertise may be required to recommend and implement data process improvements to enhance data pipelines, data management and use of business intelligence. This will require close collaboration with teammates and organization stakeholders.
+As a Senior Consultant Data Analyst in our National Security Segment, you will work with client-facing consulting teams to solve complex data modernization challenges. Your projects will vary with client needs and will include coordinating with several mission offices across the organization, analyzing and communicating large data sets, and aligning inputs to the organization's strategy.
+Full time option available. Location options include DC Metro Area (Springfield, VA) and some remote work (1-2 remote days a week).
+Requirements for this position include:
+Strong presentation, verbal and written communication skills with the ability to articulate complex ideas in easy to understand business terms to all levels of management including senior leaders
+Experience working with cross-functional teams to present, analyze, update, and view technical data sets using quantitative and qualitative methods
+Demonstrated ability to effectively and successfully engage with and brief senior leadership on data, metrics, processes, and goals and recommend solutions
+Demonstrated ability to manage multiple projects with competing priorities in support of strategic challenges and mission priorities. Must be well organized with a proven ability to come to closure on a wide variety of issues
+Ability to assess data and analytics capabilities of an organization to identify areas of improvement in data operations. Implement new data management practices and frameworks that support business strategy
+Ability to collaborate with Government stakeholders to develop, integrate, and continually improve data and data visualizations
+Ability to create data visualizations in Tableau based on customers’ requirements using Agile methods and tools (e.g., JIRA, backlog, iterative reviews, user stories)
+Some experience or familiarity with extracting, aggregating, and processing data using programming languages (e.g., Python, SQL, R). Must be able to work with compiled data sets, of varying size and complexity, to calculate metrics, identify trends and communicate results
+Extensive knowledge of IC agencies' mission, organization, collection, and production responsibilities, as well as IC administrative policies, procedures, and authorities with a preference toward GEOINT
+Additional Requirements:
+This position requires successful completion of a background check and employment verification
+The successful candidate must not be subject to employment restrictions from a former employer (such as a non-compete) that would prevent the candidate from performing the job responsibilities as described
+Professionals in Guidehouse Public Sector LLP may be subject to a government security investigation and may need to meet related eligibility requirements for access to classified information
+
+Qualifications
+The following qualifications are required to be considered for this role:
+Must have an active TS/SCI clearance
+Due to the nature of the government contract requirements and/or clearance requirements, US citizenship is required
+Minimum of a Bachelor’s degree
+Minimum five (5) years of experience in data analytics, to include conducting quantitative and qualitative analysis and creating data visualizations
+Advanced data visualization skills – experience creating dashboards and visualizations used for Senior-level decision making
+Intermediate proficiency with Tableau Desktop
+Strong proficiency in statistical analysis
+Beginner proficiency with or knowledge of programming languages such as Python or SQL
+Ability to create Key Performance Indicators (KPIs) and metrics to address business questions
+The following experience/education/skills are PREFERRED to be considered for this role:
+Experience using Tableau Server
+Some experience with Python and libraries such as requests, selenium, plotly, and matplotlib
+Some experience with SQL
+Experience supporting an IT, Acquisition, or Finance organization
+Experience with data science methods (e.g. data modeling)
+Experience deploying cloud-based applications
+Strategic thinker with strong organizational and problem-solving skills
+Possesses strong analytical skills, good listening skills with ability to effectively coach and mentor others; must be able to lead by influence
+Exhibits effective team/collaboration skills
+Ability to make decisions at the project team level and properly escalate those decisions that cannot be resolved on a timely basis
+
+Additional Requirements
+The successful candidate must not be subject to employment restrictions from a former employer (such as a non-compete) that would prevent the candidate from performing the job responsibilities as described. No sponsorship is available for this position.
+
+Disclaimer
+About Guidehouse
+Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.
+Rewards and Benefits
+Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+Benefits include:
+Medical, Rx, Dental & Vision Insurance
+Personal and Family Sick Time & Company Paid Holidays
+Position may be eligible for a discretionary variable incentive bonus
+Parental Leave and Adoption Assistance
+401(k) Retirement Plan
+Basic Life & Supplemental Life
+Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts
+Short-Term & Long-Term Disability
+Tuition Reimbursement, Personal Development & Learning Opportunities
+Skills Development & Certifications
+Employee Referral Program
+Corporate Sponsored Events & Community Outreach
+Emergency Back-Up Childcare Program 

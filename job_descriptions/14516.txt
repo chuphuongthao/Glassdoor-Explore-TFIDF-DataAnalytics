@@ -1,0 +1,37 @@
+At Lacework, we strive to provide a supportive, collaborative environment where people are empowered to do the best work of their careers.
+
+Our team members enjoy solving complex problems, big sky thinking, and obsess over getting the details right—all while building bonds of teamwork and friendships that last a lifetime. We love what we do and are proud of our work to secure clouds and container environments for thousands of users worldwide.
+
+Lacework: Lacework is the data-driven security platform for the cloud. The Lacework Cloud Security Platform, powered by Polygraph, automates cloud security at scale so our customers can innovate with speed and safety. Polygraph is the only security solution that can collect, analyze and accurately correlate data across an organization's AWS, Azure, GCP, and Kubernetes environments, and narrow it down to the handful of security events that matter. Customers all over the globe depend on Lacework to drive revenue, bring products to market faster and safer and consolidate point security solutions into a single platform. Founded in 2015 and headquartered in San Jose, Calif, with offices all over the world, Lacework has raised $600M in funding and is backed by leading investors like Sutter Hill Ventures, Altimeter Capital, Liberty Global Ventures and Snowflake Ventures, among others. The company is in the hyper-growth phase and is being led by an experienced team who collectively have decades of experience taking nascent companies to hyper-scale and building robust & profitable businesses.
+
+The Role: We are looking for a Data Engineer to help bootstrap a newly formed team in the Product & Engineering org. This is a hands-on engineering role that would play a critical role in building the team from the ground up and help shape direction and decisions that are going to directly impact the trajectory of the company. This individual would be a leader in the definition and development of the data science & data engineering ecosystem at Lacework and be an integral part of product and engineering teams to identify how data science & data engineering can be applied to scale, improve & optimize our products and engineering stack
+
+Employ languages and tools like R, SQL, Python and others to build scalable data pipelines, tables and schemas to form the foundation of efficient data exploration and ML based modeling
+Design, build and launch extremely efficient and reliable data pipelines to move data across a number of platforms including Data Warehouse, online caches and real-time systems
+Build actionable insights, incl. real-time dashboards and visualizations to help drive critical decisions
+Build data expertise and own data quality for your areas
+In partnership with engineering, product and business teams, build roadmaps & goals and execute against them while balancing speed, accuracy and precision
+Actively participate in recruiting other Data Scientists and Data Engineers and mentor new members of the team
+Build strong cross functional partnerships
+Demonstrate good communication skills and present work to company leadership and at company-wide events
+Strive to use readily available, general and scalable methodologies and tools; stay current with latest tools and techniques
+
+Minimum Qualifications
+
+Degree in quantitative field (e.g. Computer Science, Engineering, Mathematics, Statistics, Operations Research or other related field)
+4+ years experience building data pipelines and /or doing quantitative analysis including experience with SQL, other programming languages (e.g, Python) or statistical/mathematical software (e.g, R, SAS, MATLAB)
+3+ years experience developing production software systems such as data pipelines, deployed machine learning models, or dashboards
+Experience analyzing data to discover opportunities and address gaps.
+Ability to deal with ambiguity, drive projects / analyses to conclusion with limited supervision and communicate analysis in a clear, concise and actionable manner
+
+Preferred Qualifications
+
+Advanced degree (Master's or PhD or equivalent experience) in quantitative field
+Experience with cloud platforms like Snowflake, AWS, GCP, etc
+Experience with anomaly/outlier detection
+Experience querying massive datasets using Snowflake, Spark, Presto, Hive, Impala, etc.
+Experience working in Cloud Security or Infrastructure Security
+Experience recruiting and mentoring Data Scientists and Data Engineers
+
+#LI-JG1
+Lacework is an Equal Opportunity Employer. It is the policy of Lacework to provide equal employment opportunity to all persons, regardless of age, race, religion, color, national origin, sex, political affiliations, marital status, non-disqualifying physical or mental disability, age, sexual orientation, membership, or non-membership in an employee organization, or on the basis of personal favoritism or other non-merit factors, except where otherwise provided by law 

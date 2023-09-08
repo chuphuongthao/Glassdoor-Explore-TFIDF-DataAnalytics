@@ -1,0 +1,40 @@
+Your Job
+We are seeking a Director of Data Science to drive strategic direction in the Small Medium Business (SMB) Labs & Jobs groups. In this role, you will lead teams of machine learning engineers, scientists, and statisticians who exhibit high energy, deep technical skills, and a drive to get things done. You will work with counterparts in the Product & Engineering organizations to set direction and ensure that these solutions have a measurable impact for clients. You will drive multiple critical work streams and drive the culture of scientific curiosity with guided autonomy. You will set science strategy for the employer experience of posting & managing their job on Indeed for both the core product as well as innovative new products early to market. This domain covers job posting, trust & safety, job management & optimization, and new product exploration in the Labs division.
+Our goal is to help employers hire the best people for their roles as quickly as possible.
+Responsibilities:
+Enrich and develop great machine learning and statistical analysis teams who are focused on delivering high-quality results with speed and accuracy
+Help our recruiting team attract and evaluate top economists, machine learning engineers, and scientists
+Foster a culture of curiosity, inclusion, and customer focus in the organization
+Lead the group to develop, align, and deliver on measurable goals
+Identify promising opportunities in research and industry to test and build better or faster
+Evolve the product portfolio to maximize impact
+Collaborating predominantly in JST timezones with various US timezone overlap.
+Who You Are
+You’re experienced in team design, growing managers, & supporting team members at all skill levels
+You know the right questions to ask to shape product direction and understand the best techniques (live causal testing, statistical modeling, simulation, machine learning) to help your team arrive at answers that make a difference to employers & jobseekers
+You have industry expertise in causal testing at scale (AB testing, reinforcement learning, etc)
+You’re able to make the wise decisions in limited information situations
+You tell clear, compelling stories from complex models & statistics
+Who we are
+We are a rapidly growing and highly-capable Engineering organization building the most popular job site on the planet. With engineering hubs in Seattle, San Francisco, Austin, Tokyo, Singapore, Hyderabad, Dublin, Aberdeen and Vancouver, we are improving people's lives all around the world, one job search at a time.
+Our Mission
+As the world’s number 1 job site*, our mission is to help people get jobs. We strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves. We're looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers.
+(*comScore Total Visits, September 2021)
+Salary Range Disclaimer
+The base salary range represents the low and high end of the Indeed salary range for this position. Actual salaries will vary depending on factors including but not limited to location, experience, and performance. The range listed is just one component of Indeed's total compensation package for employees. Other rewards may include quarterly bonuses, Restricted Stock Units (RSUs), an open Paid Time Off policy, and many region-specific benefits.
+Salary Range Transparency
+Austin 214,000 - 310,000 USD per year
+NYC Metro Area 240,000 - 348,000 USD per year
+SF Bay Area 253,000 - 367,000 USD per year
+Seattle 241,000 - 349,000 USD per year
+US Remote 214,000 - 310,000 USD per year
+Equal Opportunities and Accommodations Statement
+Indeed is a proud equal opportunity employer. We are deeply committed to building a workplace and global community where inclusion is not only valued, but prioritized. We are committed to creating an environment where all employees feel included and have a strong sense of belonging. All qualified applicants will be considered for employment without regard to race, color, religion, gender, gender identity or expression, family/marital status, refugee or immigration status, sexual orientation, national origin, genetics, neuro-diversity, disability, age, veteran status, or any other non-merit based or legally protected grounds.
+We encourage people from all backgrounds to apply and join us in our mission of helping people get jobs.Indeed is committed to providing reasonable accommodations to qualified individuals with disabilities in the employment application process. To request an accommodation, please contact Talent Attraction Help at 1-855-567-7767, or by email at TAhelp@indeed.com at least one week in advance of your interview.
+Fair Chance Hiring
+We value diverse experiences, including those who have had prior contact with the criminal legal system. We are committed to providing individuals with criminal records, including formerly incarcerated individuals and individuals with arrest or conviction records, a fair chance at employment. We also comply with state and local requirements such as the San Francisco Fair Chance Ordinance.
+Our Policies and Benefits
+View Indeed's Applicant Privacy and Accessibility Policies - https://www.indeed.com/legal/indeed-jobs
+Learn about our global employee perks, programs and benefits - https://benefits.indeed.jobs/
+Where legally permitted, Indeed requires all individuals attending or working out of Indeed offices or visiting Indeed clients to be fully vaccinated against COVID-19. For positions that can only be performed at an Indeed office, candidates must be fully vaccinated against COVID-19 and present acceptable proof of vaccination by the date of hire as a condition of employment. Indeed will consider requests for reasonable accommodation as required under applicable law. To qualify as being fully vaccinated against COVID-19 there should have been a two week period after receiving the second dose (or any government recommended booster shot) in a 2-dose COVID-19 vaccine series, or a two week period after receiving a single-dose (or any government recommended booster shot) in a single dose COVID-19 vaccine.
+Reference ID: 32993 

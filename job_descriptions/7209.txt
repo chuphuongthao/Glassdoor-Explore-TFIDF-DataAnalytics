@@ -1,0 +1,24 @@
+Supply Chain Master Data is responsible for creating and maintaining SAP master data objects to support clinical and commercial manufacturing, designing new procedures to increase the functionality of SAP modules, and providing technical expertise to support initiatives with site-wide impact to ensure sustained business excellence. In addition, the team must maintain the integrity and compliance of master data that supports, in a critical manner, the value of our rFVIII franchise.
+POSITION SUMMARY
+This position will be temporarily part of the Master Data team responsible for supporting the Berkeley site needs.
+POSITION DUTIES & RESPONSIBILITIES
+Review and accurately execute material master data requests to create and maintain SAP Master Data objects, including Material Master, Bills of Material, Master Recipes, Production Versions, and Resources within the ERP system.
+Understand the function of each SAP master data object and their impact within the organization and supporting systems to drive continuous improvements.
+Create new SAP processes and functionalities using master data and create new technical manuals and business process descriptions; revise existing documentation as needed.
+Lead and/or participate in cross-functional teams to increase efficiency and utility of SAP master data processes and implement master data projects.
+Serve as SME providing technical knowledge and expertise and perform ad-hoc troubleshooting.
+Create SAP reports as needed.
+REQUIREMENTS/PREFERENCES
+Education Requirement(s):
+BS or higher in Computer Science, Engineering or related.
+Skill & Competency Requirements:
+Minimum of 5 years of professional experience in SAP master data.
+Proficiency in relevant SAP modules (Production Planning, Sales & Distribution, Materials Management and Warehouse Management) and strong understanding of SAP master data functionality.
+Strong analytical and problem-solving abilities with keen attention to details and accuracy.
+Understanding of production and supply chain processes in a pharmaceutical manufacturing plant.
+Able to work both independently and collaboratively in cross functional teams
+Excellent written and verbal communication skills.
+Preferences:
+Familiar with master data management across multiple computerized business platforms, e.g., MES, LIMS, APO, GIM, and change management systems.
+Travel Requirements: None
+BAY1JP00014993 

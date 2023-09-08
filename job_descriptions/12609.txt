@@ -1,0 +1,41 @@
+LinQuest is seeking the immediate hire of an on-location Data Science and machine learning analyst to join our LinQuest Innovation Center (LINC) in Herndon, Virginia. We are looking for an individual who thrives on learning and implementing state-of-the-art processes across the field of data science, including machine learning and artificial intelligence research at large. Immediate projects will include contributions to multiple business intelligence ETL processes that include text parsing, NLP, and broad ML applications, the development of an expanding MLOps platform, and the application of reinforcement learning to problems in resiliency. Most typically, this data scientist will work with a team of machine learning experts, back-end/cloud developers, and UI/UX designers as they define and implement solutions. We seek an experienced colleague who can additionally directly support local customers in the DC metro area.
+LinQuest has a nationally recognized reputation for technical excellence. We provide world-class engineering and hands-on support to our DoD customers for critically important National Security space programs, systems, and vehicles, including spacecraft. This is an opportunity to contribute to a wide range of cutting-edge technologies.
+Responsibilities
+Contribute to an ELT pipeline with proper data cleaning and entity resolution processes.
+Use various Python packages, including Hugging Face transformers, TensorFlow/PyTorch, and spaCy, to implement solutions to a diverse set of problems.
+Implement reinforcement learning solutions within a Python environment.
+Develop within a test-based Git code repository and contribute to internally published modules.
+Use Python code to parse unstructured data into structured data.
+Create effective data visualizations to communicate patterns in data, explainability and performance in models, and to understand model outputs.
+Stay up to date with trends in data science and machine learning, and connect those trends to our customers’ needs as well as LinQuest’s developing capabilities.
+Work collaboratively within teams consisting of subject matter experts, software engineers, security specialists, and UI/UX designers to implement solutions.
+Required Skills:
+Ideal candidates will have the following foundational qualities and traits:
+Experience in Python (preferred) or R, including Hugging Face transformers, spaCy entity recognition, and PyTorch/Tensor Flow neural network implementation. Experience with a wide variety of model architectures and model applications is preferred.
+Exposure to software development within an agile environment supported by Git repositories.
+Experience in supporting DoD/IC Customers, or substantial related experience.
+Demonstrated expertise in the mathematical/statistical underpinnings of machine learning and data analytics.
+Independence of thought and action paired with a passion for collaboration and shared ideas.
+Comfort in writing proposals and giving technical presentations.
+A desire to work on multiple projects and teams, rather than focus on a single customer.
+Required Experience:
+Bachelor’s degree in computer science, data science, data analytics, mathematics, or a related field with significant experience or coursework in data science, data analytics, and machine learning.
+0 Years of Experience with a PhD or Masters OR Bachelors Degree with 2 years of professional experience performing work related to the skills enumerated above. More experience is preferred.
+Past performance in modeling and simulation or other model development environments, or in DevOps environments, is not required, would be advantageous.
+Experience or activities that demonstrate creative independence and a passion for learning and collaboration are preferred.
+US Citizenship with the ability and willingness to obtain a clearance is required
+Desired:
+TS/SCI clearance is preferred.
+A master’s degree or PhD is preferred
+COVID-19 Compliance Guidelines:
+As a federal contractor, all LinQuest team members may be required to comply with Executive Order 14042- Ensuring Adequate COVID Safety Protocols for Federal Contractors, which may include mandatory vaccination and ability to provide proof of vaccination status prior to start of employment. Additionally, team members are expected to comply with all safety protocols related to mask wearing and physical distancing while in covered contractor workplaces. If applicable, prospective or new employees may seek an exemption to the vaccination requirement through LinQuest Human Resources and must have an approved exemption prior to the start of their employment.
+Education
+Required
+Bachelors or better in Computer Science or related field
+Licenses & Certifications
+Required
+A+
+Preferred
+Ability to Obtain
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c) 

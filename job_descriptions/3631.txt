@@ -1,0 +1,21 @@
+Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+The Opportunity
+The Adobe Digital Video and Audio (DVA) Data Science team is seeking an experienced data science/analytics professional to help drive a culture of evidence-based decision-making. We support a phenomenal product suite including Premiere Pro, Premiere Rush, After Effects, Audition, and Character Animator: products that are used by creative professionals and hobbyists around the world to create rich video, audio, and animation content across a variety of media channels.
+We are a diverse group of data professionals drawing from a broad spectrum of studies including applied math, quantitative finance, cognitive neuroscience, and software engineering. We believe that there isn't just one path to success in data science and look forward to what unique skills and experiences you can bring to the team.
+As a Data Science Engineer, you will partner with Product Managers and Software Engineers to make informed decisions about their products through insights gleaned from statistical analysis and experimentation. Are you passionate about statistical thinking and helping people improve the decisions they make? Are you self-motivated with strong interpersonal, communication, and collaboration skills? Are you a problem solver who generates useful solutions through a combination of technical skills and practical insights? We invite you to apply today!
+What You’ll Do
+Extract and analyze data to understand the customer product life cycle and value realization from the product
+Apply statistical techniques to adjust for bias and extrapolate relevant insights to broader product development decisions
+Work with engineering teams to understand existing product instrumentation and bridge gaps in data streams
+Partner with Data Engineers to automate data pipelines using SQL or Python based ETL Frameworks
+Advocate for data-forward thinking within product management and engineering teams and help translate business questions to analytics approaches
+What You Need to Succeed
+Currently enrolled full time and pursuing a Master’s in Statistics, Mathematics, or Engineering is desired; or equivalent experience required
+Knowledge of SQL and R/Python
+Proficiency in querying and manipulating large datasets using SQL-like languages (Hive, Spark, etc.)
+Familiarity with descriptive and inferential statistics (e.g. t-test, chi-square, ANOVA, correlation, regression, etc.) to understand usage behaviors and generate hypotheses
+Interest in operating at the intersection of business, statistics, and engineering 

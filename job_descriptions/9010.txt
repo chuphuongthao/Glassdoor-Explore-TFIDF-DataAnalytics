@@ -1,0 +1,80 @@
+A career with MilliporeSigma is an ongoing journey of discovery: our 60,300 people are shaping how the world lives, works and plays through next generation advancements in Healthcare, Life Science and Electronics. For more than 350 years and across the world we have passionately pursued our curiosity to find novel and vibrant ways of enhancing the lives of others. MilliporeSigma is a business of Merck KGaA, Darmstadt, Germany.
+
+
+Your Role:
+
+
+As aData Analyst for MilliporeSigma on the Connected Company team, you will help design, build, and curate our data product offering used across the Life Science business. You will be responsible for working with business users, data scientists, and application teams to understand and assess complex data sets and problems to generate metrics and insights that will impact critical business decisions.
+
+
+Responsibilities:
+
+Partner with stakeholders to develop and implement KPIs, automated solutions, and data infrastructure improvements
+Formulate and evaluate sound application/data model metrics
+Participate in end-to-end project lifecycle, from requirements analysis to go-live and operations of an application
+Document technical work in a professional and transparent way. Create high quality technical documentation
+Collaborate with data engineers, subject matter experts and product owners to develop analytics solutions
+Maintenance and development of core ontology
+
+
+Open to Remote Worker in the US.
+
+
+Who You Are:
+
+
+Minimum Qualifications:
+
+Bachelor's Degree in Data Science, Computer Science, Engineering, Mathematics, or other discipline
+
+
+Preferred Qualifications:
+
+Quantitative and qualitative skills; being able to assess data, draw conclusions, identify trends and issues, and diagnose root cause of issues
+Experience with and knowledge in performing regression, classification, natural language processing, named-entity recognition
+Strong coder with demonstrated programming language proficiency in Python, R, MATLAB, TypeScript/JavaScript, Pyspark
+Experience in manipulating database data using SQL.
+A strong analytical approach and a desire to tackle technical challenges using data structures, storage systems, cloud infrastructure, front-end frameworks, and other technological tools.
+Understanding of Life Science business as well as business domains (ie Sales, Marketing, Controlling, etc)
+Written and verbal communication skills, with ability to communicate effectively within the team
+
+
+What we offer: We are curious minds that come from a broad range of backgrounds, perspectives, and life experiences.
+We celebrate all dimensions of diversity. We believe that it drives excellence, innovation, and human progress. We care about our customers, patients, and our rich mix of people. This diversity strengthens our ability to lead in science and technology.
+We are committed to creating access and opportunities for all and empower you to fulfil your ambitions. Our diverse businesses offer various career moves to seek new horizons.
+Join us in building a culture of inclusion and belonging that impacts millions and empowers everyone to bring their curiosity to life!
+
+
+If you would like to know more about what diversity, equity, and inclusion means to us, please visit https://www.emdgroup.com/en/company/press-positions.html
+
+
+If you are a resident of a Connecticut or Colorado, you are eligible to receive additional information about the compensation and benefits, which we will provide upon request. You may contact 855 444 5678 from 8:00am to 5:30pm ET Monday through Friday, for assistance.
+
+
+The Company is an Equal Employment Opportunity employer. No employee or applicant for employment will be discriminated against on the basis of race, color, religion, age, sex, sexual orientation, national origin, ancestry, disability, military or veteran status, genetic information, gender identity, transgender status, marital status, or any other classification protected by applicable federal, state, or local law. This policy of Equal Employment Opportunity applies to all policies and programs relating to recruitment and hiring, promotion, compensation, benefits, discipline, termination, and all other terms and conditions of employment. Any applicant or employee who believes they have been discriminated against by the Company or anyone acting on behalf of the Company must report any concerns to their Human Resources Business Partner, Legal, or Compliance immediately. The Company will not retaliate against any individual because they made a good faith report of discrimination.
+
+
+As an employee of the Company, you will be required to comply with all of the Company's COVID-19 safety protocols and policies. The organization has currently suspended enforcement of its COVID-19 Vaccination Policy, but that policy may be reinstated by the Company in its discretion.
+
+
+Job Requisition ID: 255307
+
+
+Location: Burlington
+
+
+Career Level: D - Professional (4-9 years)
+
+
+Working time model: full-time
+
+
+North America Disclosure
+The Company is committed to accessibility in its workplaces, including during the job application process. Applicants who may require accommodation during the application process should speak with our Candidate Services team at 844-655-6466 from 8:00am to 5:30pm ET Monday through Friday. If you are a resident of a Connecticut or Colorado, you are eligible to receive additional information about the compensation and benefits, which we will provide upon request. You may contact 855 444 5678 from 8:00am to 5:30pm ET Monday through Friday, for assistance.
+
+Notice on Fraudulent Job Offers
+Unfortunately, we are aware of third parties that pretend to represent our company offering unauthorized employment opportunities. If you think a fraudulent source is offering you a job, please have a look at the following information .
+
+Nearest Major Market: Boston
+
+Job Segment: Front End, Computer Science, Developer, Database, SQL, Technology 

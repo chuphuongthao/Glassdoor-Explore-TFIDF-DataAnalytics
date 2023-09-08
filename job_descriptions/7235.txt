@@ -1,0 +1,32 @@
+What You Will Do:
+Manipulate, merge, and perform exploratory analysis on large and diverse Spatial–temporal agronomic datasets across multiple databases.
+
+Expert in crafting stories, finding actionable insights and visualizations with data.
+
+Conduct data quality checks using conventional summary statistics or model-driven approaches.
+
+Write and review robust, well-documented, and well-tested code or libraries that adhere to community standards and best practices.
+
+Basic Qualifications:
+Bachelor’s degree with 3 years or M.S degree with 1 year of experience in Statistics, Economics, Computer Science, Math or a related quantitative discipline.
+
+Proficient in SQL or Spark.
+
+Strong Python coding skills for data science including experience with standard data science packages (e.g., numpy, pandas, geopandas, matplotlib, seaborn).
+
+Self-motivated and able to work independently as well as part of a team.
+
+Strong communication skills for effective interactions with peer groups and team members.
+
+Preferred Qualifications:
+Master’s degree in Data Science, Statistics or a related quantitative discipline.
+
+Experience joining large and diverse datasets across multiple databases & performing data quality checks.
+
+Experience exploring and visualizing Spatial–temporal datasets.
+
+Experience writing well-structured, reusable and well-documented code that adhere to community standards and best practices.
+
+Experience using version control systems (e.g., Git)
+
+Applied knowledge/experience with agricultural science and/or agricultural datasets. 

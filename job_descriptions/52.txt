@@ -1,0 +1,33 @@
+We’ll cut to the chase - do you have:
+Have strong SQL skills
+At least 2-5 years experience developing business intelligence solutions
+Experience with ETL development
+Excellent communication and facilitation skills
+MS SQL (T-SQL, Stored Procedures, Functions), SSRS, SSIS, Microsoft Power BI, Tableau
+Exposure to scripting in a variety of languages
+Consulting or client experience is a plus
+Azure Data Factory and Azure functions is a plus
+Job Requirements
+Deep technical knowledge of ETL systems and visualization tools
+Design, develop, and present Business Intelligence solutions
+Ability to present to business and technical stakeholders
+Maintain data dictionaries and data lineage documents for integration components of data warehouse projects
+Are you interested in joining a solid, fast-growing software development company specializing in Web, Mobile, Cloud, and Data Analytics?
+Here’s what we’re looking for:
+You solve challenges with out-of-the-box thinking (status quo is not our game)
+You love to learn and share your insights (nobody is perfect and you have to be ready to share)
+You know what it means to be a team player (egos are left at the door)
+You build relationships with clients based on trust (we are straightforward and honest at all times)
+You reliably manage yourself (you build your own role and know when things need to get done)
+You write beautiful code you are proud of and is showcase worthy (modern, sleek)
+Who are We? RTS & Our Culture:
+We are a solid, fast-growing software development company specializing in Web, Mobile, Data Analytics, and Salesforce. We have plenty of room for magic, enthusiasm and personal growth. Your ideas will be encouraged, and you will have the power to shape the direction of RTS Labs.
+At RTS, we offer a hard-working, but casual workplace with few meetings, sincere camaraderie and functional creativity. There are no closed doors, no rigid office hours and no space for big egos.
+We develop great solutions to solve each of our client’s problems, but we also build great relationships with our clients. We are straightforward and honest at all times. We work hard as a team, but we also play hard as a team. We offer competitive salaries based on experience and benefits including 401(k), health, vision, and life insurance, and short-term disability.
+You’ll find yourself in a great place to work with the resources and support you need to find a long term career fit.
+Do you prefer Mac or PC? Either way, you get to choose with us
+40 hours a year for professional development to use how you choose
+Flexible PTO
+Company values that we actually implement (https://rtslabs.com/culture/)
+Family first approach, no micro-management
+RTS Labs is committed to providing a safe and inclusive environment for all employees, contractors, vendors, and clients; where all people are honored and respected, and differences are celebrated. Proud to be an Equal Opportunity Employer, RTS Labs does not discriminate based upon race, religion, color, national origin, gender, gender identity, gender expression, sexual orientation, age, status as a protected veteran, or status as an individual with a disability. 

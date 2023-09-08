@@ -1,0 +1,28 @@
+About the team
+At Zillow - We are making new promises, and removing friction for buyers, sellers, renters, and borrowers. We’re building a seamless experience from dreaming of your next home, to moving, and beyond. We are thinking about how we deliver and measure the whole of the customer experience from search, to find, financing, buying, selling, moving... and beyond.
+
+The Data Science & Analytics organization has a critical mission. We uncover opportunities through data to deliver on the Zillow promise to customers - revolutionary and intuitive tools to find, buy, and finance your dream home.
+
+We are hiring a Senior Manager of Conversion Applied Science to lead a strong team of data scientists model and deliver insights about how customers go from shopping to actually transacting on a home.
+About the role
+The Senior Manager of Conversion Applied Science will lead a team of applied scientists, data scientists, and machine learning engineers to build operational models that help aspiring home buyers and sellers to be able to transact. This leader will play a crucial role in enabling smarter products for home buyers and sellers as well as deriving insights to shape the direction of the business. We are looking for a strong technical leader, mentor, and problem-solver.
+To be successful in this role you will:
+Recruit and mentor a team of high-performing scientists and engineers
+Provide technical expertise to raise the bar on models that inform the most important business decisions
+Set strategic priorities for your team and develop a research roadmap
+Evangelize new models and methods to senior leadership and the broader data science community at Zillow
+This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice which must be identified to the Company. Employees may live in any of the 50 US States, with limited exceptions. In certain cases, an employee in a remote-designated job may need to live in a specific region or time zone to support customers or clients as part of their role.
+In Colorado, Connecticut, Nevada and New York City the standard base pay range for this role is $169,400.00 - $270,600.00 Annually. This base pay range is specific to Colorado, Connecticut, Nevada and New York City and may not be applicable to other locations.
+In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location.
+Who you are
+An empathetic and conscientious leader with experience providing technical guidance to scientists and analytical support to stakeholders.
+A technical leader who can identify and apply state-of-the-art models across a variety of data science fields and engineer the solutions to perform at scale whether using exceptionally large datasets or in real-time on all site traffic.
+Have consistently prioritized coaching and engaging members of your teams throughout your career.
+You should have experience in a business involving complex user journeys
+Are familiar with the tools of data science, including Python, SQL, various ETL, Airflow, and Spark.
+Get to know us
+Zillow is reimagining real estate to make it easier to unlock life’s next chapter.
+As the most-visited real estate website in the United States, Zillow® and its affiliates help movers find and win their home through digital solutions, first class partners, and easier buying, selling, financing and renting experiences. Millions of people visit Zillow Group sites every month to start their home search, and now they can rely on Zillow to help make it easier to move. The work we do is helping people move from dreaming to transacting — and no matter what job you're in, you will play a critical role in making this vision a reality.
+Our efforts to streamline the real estate transaction are supported by a deep-rooted culture of innovation, our passion to redefine the employee experience, a fundamental commitment to Equity and Belonging, and world-class benefits. We’re also setting the standard for work experiences of the future, where our employees are supported in doing their best work and living a flexible, well-balanced life. But don’t just take our word for it. Read recent reviews on Glassdoor and recent recognition from multiple organizations, including: the 100 Best Companies to Work For in 2022 list, Glassdoor Employees’ Choice Award, honoring the Best Places to Work in 2022, Bloomberg Gender-Equality Index 2022, Human Rights Campaign (HRC) Corporate Equity Index and Best Place to Work for LGBTQ Equality 2022, and TIME 100 Most Influential Companies list.
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact us at RecruitingAccessibility@zillowgroup.com.
+Applicants who receive job offers from Zillow Group will be asked to sign a Proprietary Rights Agreement which includes confidentiality, intellectual property assignment, customer and employee non-solicitation, and non-competition provisions. If you are contacted for a role at Zillow Group and wish to review a copy of the Proprietary Rights Agreement prior to receiving an offer, you may request a copy from your Recruiter. 

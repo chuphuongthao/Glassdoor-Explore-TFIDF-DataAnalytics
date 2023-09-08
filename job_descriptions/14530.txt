@@ -1,0 +1,55 @@
+What is Underdog?
+
+Founded by a team of industry veterans, Underdog was born with the idea that bringing strategic innovation to sports gaming and entertainment is the key to success in an exceptionally competitive market. Underdog has quickly established itself as a leader in the space, and is committed to building the best sports gaming platform in the industry - and supporting the most passionate community of sports fans while doing it!
+
+At Underdog, we're not only about creating these awesome products, but also about growing our culture of passion, ownership, and fun! We believe that great companies are made out of great people. Our continual aim is to create an inclusive environment for everyone, at all levels, to achieve their highest potential at work.
+
+As the Director of Data, you will be responsible for crafting and developing a holistic vision of the data organization to support the strategic goals of Underdog. Reporting directly to the CTO, you will lead the Data Engineering, Business Intelligence, and Data Science teams in the execution of the overall vision, and serve as a mentor and collaborator for your team in defining, scoping, and solving problems with data.
+Please note, Underdog is a US based company and no sponsorship is available for this position at this time.
+
+What you'll do:
+Create a broad vision for the future of the data organization at Underdog; identify the ways we can use our data to know our customers better, improve internal processes, create efficiencies and competitive advantages, and positively impact the bottom line; report to the CTO and work with the executive team to continuously improve, recalibrate, and refine the vision in keeping with Underdog's evolving needs
+Develop strategic plans to accomplish the vision; work with the Product Manager to create a roadmap that clearly defines ownership and responsibility between the related teams, and develop KPIs to track progress
+Work with the BI team to develop a robust self-service offering to allow stakeholders across the company to interact with data and take action accordingly
+Lead qualitative and quantitative analysis of industry trends and the competitive landscape to highlight improvements and growth opportunities, identifying key business challenges and developing insights and recommendations to address them
+Build a Data Science & Insights team (which includes predictive analytics) within the data department to facilitate deeper analysis and hypothesis testing with regard to business questions; create an environment of collaboration between this and the BI team to deliver those insights to senior leadership
+Grow, manage, and support the Business Intelligence & Analytics, Data Engineering, and Data Science teams, ensuring the work being performed is in line with the broader objectives of the department
+Identify and lead the evaluation of new technologies that could potentially solve problems in the data department and other departments, engaging key stakeholders from impacted teams for input
+Own and manage the data department's budget
+Establish career paths for the various roles in the department and take an active role in developing the talent of the team members and supporting them in their career goals
+Work with the Data Engineering team to ensure the company's data is being ingested, stored, and accessed in accordance with best practices, and in a tool-agnostic way that properly facilitates analysis (i.e., the data structure isn't dependent on any BI or analysis tool)
+Who you are:
+A transformational leader with a passion for data and analysis, who believes in the power of data to drive and calibrate a company's strategic objectives and has experience crafting a vision for how to do so from the ground up
+Minimum of 5 years experience in a senior leadership position managing a BI and/or analytics team
+Minimum of 10 years experience working with data in a BI, data science, data engineering, or analytics capacity
+Bachelor's degree in business, computer science, management information systems, or a related field
+An extremely effective communicator, both verbally and in writing, who values relationships and constant, clear communication
+An effective manager who is comfortable giving regular feedback and coaching
+Curious, full of questions, and passionate about solving problems
+Experienced in leveraging organizational data for competitive advantage as well as for internal analysis and improvement
+Experienced in a high-growth company, where the landscape and corresponding needs evolve and change quickly
+Experienced with SQL and relational databases
+Experienced with a cloud-based BI tool such as Tableau
+Experienced with predictive analytics and/or machine learning
+Able to work cross-functionally to investigate problems and gather the necessary resources to solve them
+Even better if you have…
+An advanced degree in a quantitative or computer science field
+Hands-on experience with Google Cloud Platform
+Exposure to Radical Candor
+
+
+Underdog Sports is firmly committed to equity, inclusion, and diversity. Our unique culture was built on the foundation of a safe and inclusive environment for people of all backgrounds. We highly value the mental, physical, and emotional health of our employees, and are continuously asking ourselves: what can we do better? Underdog is an equal opportunity employer and doesn't discriminate on the basis of creed, race, sexual orientation, gender, age, disability status or any other defining characteristic. Below you'll find a few of our perks:
+
+Unlimited PTO (we're extremely flexible with the exception of the first few weeks before & into the NFL season)
+16 weeks of fully paid parental leave
+Company paid Health, Dental, Vision plan option for employees and dependents
+401k Match & FSA
+Remote, In-Person, or Hybrid Scheduling – we are 100% VIRTUAL FIRST!
+A $500 home office allowance
+$100 in UD cash
+Support for learning and development
+Book club – expense your books!
+Lastly, an extremely transparent, fun, and engaging culture where you will grow both personally and professionally!
+
+
+#LI-REMOTE 

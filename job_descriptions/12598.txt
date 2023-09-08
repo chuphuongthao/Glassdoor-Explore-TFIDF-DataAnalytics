@@ -1,0 +1,42 @@
+General Information
+Req #
+WD00039409
+Career area:
+Data Management and Analytics
+Country/Region:
+United States of America
+State:
+North Carolina
+City:
+Morrisville
+Date:
+Friday, September 9, 2022
+Working time:
+Full-time
+Additional Locations:Morrisville - North Carolina - United States of America
+Why Work at Lenovo
+Here at Lenovo, we believe in smarter technology that builds a brighter, more sustainable and inclusive future for our customers, colleagues, communities, and the planet.
+
+And we go big. No, not big—huge.
+
+We’re not just a US$70 billion revenue Fortune Global 500 company, we’re one of Fortune’s Most Admired. We’re transforming the world through intelligent transformation, offering the world’s most complete portfolio of smart devices, infrastructure, and solutions. With more than 71,500 employees doing business in 180 markets, we help millions—not just the select few—experience our version of a smarter future.
+
+
+The one thing that’s missing? Well… you...
+Description and Requirements
+Lenovo is expanding our AI team to lead the Intelligence Transformation by making Artificial Intelligence (AI) solutions accessible for all and deploy from the largest supercomputer customers in the world, to enterprises just getting started on their Transformation journey. To achieve our mission, we are seeking a results-oriented and innovative recent college graduate as a Data Analyst to help us execute on our mission.
+This high impact role requires a good understanding of the AI technology ranging from hardware to software, but most importantly, be able to translate AI technology capabilities into business outcomes for key vertical industries including retail, manufacturing and healthcare. The right candidate for this newly created role will be responsible assisting our Sr. Data Scientist with customer projects, proof of technology, AI software testing and benchmarking.
+This role will be located onsite at our Morrisville, NC office. Some onsite presence will be required. The target start date is Summer 2023.
+Responsibilities:
+Requirements:
+
+common NN Models - ResNET50, Yolo V3, etc.
+
+traditional ML tools such as MatLab
+Preferred:
+Master’s degree in data analytics or data science is strongly preferred
+Some knowledge of the underlying infrastructure that powers AI workloads such as NVIDIA GPUs and accelerators
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any federal, state, or local protected class.
+Lenovo adopted a COVID-19 Vaccination Policy for US-based employees. As a condition of employment, employees must adhere to Lenovo’s US Vaccination Policy and be fully vaccinated against COVID-19, subject to any applicable accommodations. To be fully vaccinated means individuals must receive the full series of a vaccine either approved by the FDA or WHO and listed by the CDC (e.g. two dose of the Moderna, AstraZeneca or Pfizer-BioNTech vaccines; or one dose of the Johnson & Johnson vaccine). This applies to all US-based employees, contractors and interns, regardless of work location. As a condition of employment, you must provide proof that you are fully vaccinated or follow Lenovo’s accommodation process.
+Morrisville - North Carolina - United States of America 

@@ -1,0 +1,22 @@
+As a Data Science Manager at Meta, you will help shape the future of the experiences we build for billions of people and hundreds of millions of businesses, creators, and partners around the world.You will apply your people leadership, project management, analytical, and technical skills, creativity, and product intuition to one of the largest data sets in the world. You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will influence product strategy and investment decisions with data, be focused on impact, and lead and grow a high-performing team. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.About the role:Product leadership: You will use data to understand the product and business ecosystem, quantify new opportunities, identify upcoming challenges, and shape product development to bring value to people, businesses, and Meta. You will help develop strategy and support leadership in prioritizing what to build and setting goals for execution. Analytics: You will guide product teams using data and insights. You will focus on developing hypotheses and employ a diverse toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won’t simply present data, but tell data-driven stories. You will convince and influence leaders using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.People leadership: You will inspire, lead and grow a world-class team of data scientists.
+
+Manager, Data Science Responsibilities:
+
+Lead a team of data scientists to develop strategies for our products that serve billions of people and hundreds of millions of businesses, creators, and partners around the world.
+Drive analytics projects end-to-end in partnership with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions.
+Influence product direction through clear and compelling presentations to leadership.
+Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches.
+Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends.
+Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations.
+Contribute towards advancing the Data Science discipline at Meta, including but not limited to driving data best practices (e.g. analysis, goaling, experimentation), improving analytical processes, scaling knowledge and tools, and mentoring other data scientists.
+
+Minimum Qualifications:
+
+Bachelor's degree. Degree must be completed prior to joining Meta.
+A minimum of 4 years of work experience (2+ years with a Ph.D.) in applied analytics, including a minimum of 2 years of experience managing analytics teams.
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R).
+Experience initiating and completing analytical projects with minimal guidance.
+Experience communicating results of analysis to senior leadership.
+
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com. 

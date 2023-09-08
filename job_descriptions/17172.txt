@@ -1,0 +1,45 @@
+Where applicable, confirmation that you meet customer requirements for facility access which may include proof of vaccination and/or attestation and testing, unless an accommodation has been approved.
+Secure our Nation, Ignite your Future
+Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech International , you’ll help protect our national security while working on innovative projects that offer opportunities for advancement.
+Currently, ManTech is seeking a motivated, career and customer-oriented Data Analytics and Visualization Specialist to join our team in Springfield, Virginia!
+This position is part of the ODE PMO that sets, maintains, and ensures standards for project management by directing project activity, tracking project status, and applying best practices. The individual will support the Government Lead to deliver a comprehensive and integrated oversight and compliance capability that enables the agency to conduct authorized missions in accordance with Federal law and policy protecting privacy rights and civil liberties. Provide support the Government to apply deep subject matter expertise and develop new and update existing policies, procedures, strategic implementation plans as well as develop and deliver tailored training related to the ODE mission.
+JOB DUTIES INCLUDE, BUT ARE NOT LIMITED TO:
+Carrying out both primary and secondary (e.g., HRIS) data collection and analysis activities, interpretation of data and analytic results, development, and vetting of recommendations.
+Developing reports and presentations and delivering reports and presentations to a variety of audiences, to include senior leaders.
+Utilize and develop queries and reports from the customers HRIS system (PeopleSoft), CAVE, and Cognos using appropriate data science and business intelligence tools (Python, R, SQL, Alteryx, Tableau, Microsoft Office, IBM SPSS); and analyze data using descriptive (e.g., means, percentages) and inferential statistics (e.g., ANOVA, t-test, regression modeling techniques).
+Partner with ODE's government staff to provide diversity-related workforce analytics for the agency and to oversight (e.g., ODNI, EEOC, OPM).
+Identify, collect, and analyze data; then report on findings concerning triggers and barriers to equal employment opportunities and an inclusive workplace, the current and historical status of the customer's workforce metrics, and employee sentiment (e.g., awareness of and satisfaction with agency programs and policies).
+Administer quality control and process improvement activities, including data entry and data cleanup.
+Display analytic results in text and visually using appropriate data science, business intelligence, and visualization tools (Python, R, SQL, Alteryx, Tableau, Microsoft Office, IBM SPSS), and communicate results to audiences at all levels.
+Write and maintain supporting documentation, Standard Operating Procedures (SOPs), and guidelines for data cleaning and process documentation.
+Support annual, quarterly, and ad hoc internal and external reporting requirements for the customer by preparing and delivering briefings and reports as needed for both technical and non-technical audiences.
+Participate in meetings with ODE and partners (to include leaders at all levels and others, as needed) related to diversity and inclusion and data topics.
+Participate in the customer, IC, and Federal Government working groups as directed.
+BASIC QUALIFICATIONS:
+Active TS/SCI security clearance (CI polygraph preferred)
+Eleven (11) years of related experience and a Bachelors' degree (in Operations Research, Mathematics, Statistics, Data Science, Computer Science, or a similar field) with quantitative workforce analytics experience – OR – 19 years of related experience and no Bachelors’ degree.
+Experience and demonstrated ability with appropriate data science, business intelligence, and visualization tools predominantly Tableau, or others such as Python, R, SQL, or Microsoft Office.
+Experience in the social science or workforce diversity related field.
+Experience and demonstrated ability to extract and synthesize complex information to prepare briefings, staff material, read-aheads, presentations, and other material as required with attention to detail.
+Excellent written and oral communication skills.
+Experience conducting qualitative and quantitative data analysis using descriptive (e.g., means, percentages) and inferential statistics (e.g., ANOVA, t-test, regression modeling techniques), making data-driven conclusions, and turning the findings into meaningful and or actionable recommendations.
+Experience working independently or under limited supervisor and deliver outcomes on time.
+Professional experience interacting with senior-level directors and agency heads/senior leadership.
+Experience utilizing both human capital data (e.g., promotion, attrition rates, internal churn) and diversity and inclusion topical areas (e.g., unconscious bias) are required.
+PREFERRED QUALIFICATIONS:
+SME quantitative and qualitative human capital research with advanced degree in in a quantitative field.
+Proficiency in coding to include SQL.
+Data Science experience.
+SECURITY CLEARANCE REQUIREMENTS:
+Active TS/SCI with ability to obtain and maintain a CI Polygraph
+CERTIFICATION REQUIREMENTS:
+None
+SCHEDULED WEEKLY HOURS:
+40 (Full Time)
+PHYSICAL REQUIREMENTS:
+Must be able to remain in a stationary position 50%.
+Must be able to communicate, converse, and exchange information with peers and senior personnel.
+For all positions requiring access to technology/software source code that is subject to export control laws, employment with the company is contingent on either verifying U.S.-person status or obtaining any necessary license. The applicant will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. ManTech may choose not to apply for a license for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. 

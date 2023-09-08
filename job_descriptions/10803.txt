@@ -1,0 +1,55 @@
+JOB DESCRIPTION
+Insight Global is looking for 6 SQL developers ranging in experience to join remotely the fastest growing retail analytics firm in Northwest Arkansas. You will be joining the client services team, partnering with account managers, and helping meet the needs and custom requests from clients. This is an exciting time to join the firm because they are growing their number of clients and retail partners. You will be automating internal processes, utilizing data visualization tools, and working on micro products based on clients needs. Based on your level you might also be responsible for mentoring junior developers.
+
+MINIMUM REQUIREMENTS
+Jr SQL Developer
+
+2-5 years of SQL experience
+Some experience with advance SQL knowledge ie. windowing functions, grouping sets, subqueries, etc.
+
+
+Mid-level SQL Developer
+5+ years of SQL experience
+
+Advance SQL knowledge ie. windowing functions, grouping sets, subqueries, and query optimization tactics
+Familiar with multiple database environments and how to tune SQL for each
+Some Knowledge of C#
+
+Sr SQL Developer
+
+7+ years of SQL experience
+
+Skilled at query optimization ie. writing optimized queries on multiple database platforms
+Has utilized C# to dynamically create optimized SQL queries
+Worked with an array of data analytics toolkits (Python, or Power Bi, Tableau, Qlik Sense)
+Familiar with data science methods and technologies (R, Julia, Haskell, Lisp, R, JavaScript, C++, Prolog, or Scala)
+Experience mentoring junior team members
+
+Lead SQL Developer
+
+10+ years of experience in SQL development
+
+5+ years of technical leadership experience
+
+Proven ability to design and implement SQL and C# in the most efficient manner
+
+DESIRED SKILLS
+Jr Developer
+
+Some Knowledge of C#
+Data analytics or retail analytics Background
+
+Data visualization technologies (Power Bi, Tableau, Qlik Sense, etc)
+
+Data science/AI programming (Python, Julia, Haskell, Lisp, R, JavaScript, C++, Prolog, or Scala)
+
+Mid-level SQL Developer
+Data analytics or retail analytics Background
+
+Data visualization technologies (Power Bi, Tableau, Qlik Sense, etc)
+
+Data science/AI programming (Python, Julia, Haskell, Lisp, R, JavaScript, C++, Prolog, or Scala)
+
+Sr and Lead SQL Developer
+
+Data analytics or retail analytics Background 

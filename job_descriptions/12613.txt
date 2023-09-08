@@ -1,0 +1,31 @@
+Who We Are:
+Since 1906, New Balance has empowered people through sport and craftsmanship to create positive change in communities around the world. We innovate fearlessly, guided by our core values and driven by the belief that conventions were meant to be challenged. We foster a culture in which every associate feels welcomed and respected, where leaders and creatives are inspired to shape the world of tomorrow by taking bold action today. At New Balance, We Got Now.
+JOB MISSION:
+The Junior Data Scientist will assist senior data scientist to leverage the power of big data, data science, and built-in ML/AI capability within NB existing platforms to uncover hidden relationships from vast troves of data, generate insights, inform decision-making, and improve SCP planning models. This position will play an important role to advance data science adoption and usage across Global Planning organizations to improve operational performance.
+
+MAJOR ACCOUNTABILITIES:
+Initiate and participate in discussions with business stakeholders to understand and identify Use cases where data science can be applied to improve operations
+Ability to identify the data sources that can be used to conduct data analysis, and be able to prepare the data to meet data science model needs
+Assist senior data scientist to build up algorithms, ML/DL data models to improve Global Planning operation performance
+By leveraging NB Business Intelligent tools to build up complicated and in-depth reports to meet Global planning operation and performance management needs
+Measure and optimize the quality of deployed data models and data analysis reports
+Explain data science models to non-data science people in business terms and connect to business cases.
+Provide training and tutoring to help transform Global Planning into a data-driven organization
+REQUIREMENTS FOR SUCCESS:
+Solid knowledge in machine learning, statistical modeling, and mathematical optimization such as predictive modeling, time series forecasting, A/B testing, etc
+Ability to be flexible and adjust to rapidly changing environments, test and learn with new data sets and parameters
+Experience with data wrangling, data mining, and visualization
+Bachelor’s Degree in any quantitative field such as Statistics, Mathematics, Engineering, Economics, etc.
+Ability to work with a cross-functional team
+Experience within the consumer goods retail industry is a big plus
+Experience in SQL/Non-SQL, Python, Databricks, Snowflake is preferred
+Strong communication skills and ability to work with ambiguity.
+#LI-SQ1
+Regular Associate Benefits:
+Our products are only as good as the people we hire, so we make sure to hire the best and treat them accordingly. New Balance offers a comprehensive traditional benefits package including three options for medical insurance as well as dental, vision, life insurance and 401K. We also proudly offer a slate of more nontraditional perks – opportunities like online learning and development courses, tuition reimbursement, $100 monthly student loan support and various mentorship programs – that encourage our associates to grow personally as they develop professionally. You’ll also enjoy a yearly $1,000 lifestyle reimbursement, 4 weeks of vacations, 12 holidays and generous parental leave, because work-life balance is more than just a buzzword – it’s part of our culture.
+Learn more about our Benefits
+Temporary associate benefits will be communicated separately.
+Flexible Work Schedule:
+New Balance is committed to creating a culture that allows our associates to do their best work. Our corporate work-from-home policy does not mandate an arbitrary number of days in-office. Instead, we’ve designed a flexible hybrid model that empowers individual teams by letting the type of work dictate where it will most effectively be performed. We are capitalizing on this unique opportunity to evolve how we work based on efficiency, productivity, and the well-being of our associates.
+Equal Opportunity Employer:
+New Balance provides equal opportunities for all current and prospective associates and takes affirmative action to ensure that employment, training, compensation, transfer, promotion and other terms, conditions and privileges of employment are provided without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, age, handicap, genetic information and/or status as an Armed Forces service medal veteran, recently separated veteran, qualified disabled veteran or other protected veteran. 

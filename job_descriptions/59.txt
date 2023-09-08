@@ -1,0 +1,46 @@
+Bachelors Degree
+3+ years of relevant work experience in analytics, data engineering, business intelligence or related field
+Experience using, writing and optimizing SQL queries in a business environment
+Knowledge of data warehouse technical architecture, infrastructure components, ETL and reporting/analytic tools and environments
+Experience in business intelligence and visualization software (Looker, Tableau, Qlikview, MicroStrategy, QuickSight).
+
+Job summary
+AWS Talent Acquisition Data Analytics (TADA) is looking for Business Intelligence Engineer professionals to drive our analytical revolution in the AWS Talent Acquisition space. You get the opportunity to work on a ground up rebuild of our analytical capabilities, from data ingress, to complex business transformations to end user reporting and beyond. In this role, you will invent and build on behalf of candidates, experiment and test new ideas, evangelize successes, and drive consistency.
+
+The ideal candidate is an independent Business Intelligence Engineer who can source data, cleanse, analyze, refine, enrich, model, present, automate and document our business data pipelines. You will always be on the lookout for ways to optimize the information flow process, stay on top of latest trends in data warehousing and be able to coordinate and work on multiple, related projects.
+
+Are you passionate about driving business & customer impact through thoughtful analysis and data-driven insights?
+
+Are you a deeply technical individual who enjoys working with customers to transform how a business operates?
+
+Are you a builder that excels with ambiguity?
+
+Are you inspired by invention?
+
+Is problem solving through teamwork and working in a startup environment in your DNA?
+
+Do you like the idea of seeing how your work impacts the bigger picture?
+
+Answer yes to any of these and you’ll fit right in here.
+
+
+Key job responsibilities
+
+Collaborate with recruiting operations, data scientists, and business leaders to define business processes and provide analytical support
+Leverage code to analyze complex datasets and design, develop and evaluate data transformations to solve specific business problems
+Build scalable, efficient, and automated data processes to facilitate customer-facing reporting
+Automate TA processes to streamline business operations
+Communicate verbally or in writing to business customers / leadership to sharing insights and recommendations
+This role can be based within 100 miles of any US AWS Corporate location (i.e. Seattle, WA, Arlington, VA, Herndon, VA, New York, NY, Boston, MA, Chicago, IL, Dallas, TX, Austin, TX, Cupertino, CA, Palo Alto, CA, etc).
+
+About the team
+The AWS Talent Acquisition and Data Analytics team owns the end-to-end data and analytical support for our AWS recruiting organization. We strive to provide products and services that empower our end-users, which directly improves our AWS business partners’ experience. The empowerment comes in many forms, such as automating manually-collected data, to enable recruiters to focus on their core functionality and fulfill AWS builders demand faster. TADA’s data-driven insights, combined with our customers’ feedback, form a comprehensive understanding of risks and opportunities for our stakeholders. Our recommendations influence strategic and tactical recruiting leadership decisions.
+
+Graduate degree in Computer Science, Mathematics, Statistics, Finance, related technical field
+5+ years of relevant work experience in analytics, data engineering, business intelligence or related field
+Strong communication and writing skills necessary to build effective working relationships and positively influence decision making
+Strong business acumen
+Experience in performing regression analysis and building classification models using machine learning algorithms
+Coding proficiency Python and/or R
+Experience with AWS technologies including Redshift, RDS, S3, EMR
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. 

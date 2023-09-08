@@ -1,0 +1,34 @@
+The mission of the AI Transformation & Engagements team is to enable at-scale development, testing, deployment, and continuous integration and delivery of AI/ML technologies in order to drive fundamental improvement in the quantity and quality of AI training data sets, accelerate AI delivery (measured in days and months), and improve AI performance. Enable a firmwide AI ecosystem with integrated platform, controls, compliance, and responsible AI. Provide the foundation and support for our business partners to consistently deliver AI solutions within targets, and in turn, create next generation market share.
+
+
+What you will be doing:
+
+Lead the implementation of test infrastructure and best practices that enable ML and Data engineers to test and deploy scalable, reliable, and cost-effective code and models into production.
+Build a test-driven data science and engineering culture that drives improvements in quality and reliability.
+Work closely with other engineers to understand features, technical implementation, deployment architecture and cost.
+Collaborate with Product Management, Data Scientists, and Customer Operation to understand customer usage.
+Implement process changes to scale testing efforts across multiple products.
+Plan, develop and execute test coverage for multiple platforms.
+Diagnose issues, report defects, and propose regression tests to discover reoccurrences.
+Work with engineers and project leads to triage and prioritize issues for resolution.
+Own the process of creating metrics to measure and monitor product performance.
+Identify quality assurance process bottleneck and suggest actions for improvements.
+Identify, test, track and report KPI trends over the course of the projects.
+
+What you need in order to succeed:
+
+5+ years experience in testing large scale systems.
+Hands-on leadership experience and influencing skills.
+Core development experience as a Software Engineer.
+Strong understanding of computer science fundamentals and data structures.
+Strong analytical and problem solving skills.
+Demonstrable experience in writing clean code quickly.
+Command of QA methodologies, life cycle and processes.
+Experience in writing testing frameworks and automation tools.
+Background in test automation.
+Knowledge of industry standard test automation tools & automation frameworks.
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+Equal Opportunity Employer/Disability/Veterans 

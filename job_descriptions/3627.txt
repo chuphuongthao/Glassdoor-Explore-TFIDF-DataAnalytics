@@ -1,0 +1,51 @@
+Requisition ID # 114022
+
+Job Category : Accounting / Finance
+Job Level : Individual Contributor
+Business Unit: Shared Services
+
+Department Overview
+PG&E’s Transportation Services team is responsible for operating and managing one of the largest commercial fleets in the U.S. PG&E has pioneered efficient and sustainable green transportation technologies as part of our commitment to provide safe, reliable and affordable gas and electric service. PG&E’s industry leading green fleet includes a range of electric vehicle technologies—from hybrid electric bucket trucks to extended range pickups. Transportation Services is nationally recognized as a leader in green fleet technology and continues to innovate, invest and work closely with our industry, regulators, automakers and other partners to develop policies and best practices.
+
+The Transportation Services department is responsible for managing all aspects of PG&E’s vehicles & equipment fleet, from design to disposition. The team is comprised multiple operating departments including Engineering, Field Operations, Business Operations, Strategy and Analytics. Operating departments within Transportation Services are responsible for company-wide management of over 14,000 vehicles & equipment, regulatory and compliance requirements, capital planning, clean air and alternate fuel initiatives, project support, company policy review, safety and technical analyses.
+
+Work location is flexible within PG&E territory; final location will be determined by the hiring leader and successful candidate. You must be able to attend meetings in the San Ramon location as needed.
+
+Position Summary
+The Business Analysis and Applications team is a high-profile group that provides a unique environment for talented professionals who are passionate, dedicated & enthusiastic about participating in high-visibility projects, engaging in the heart of the business, and have built their career on making ongoing meaningful contributions that drive the success of the organization.
+
+The team is responsible for providing comprehensive hands-on operational and analytical support for PG&E’s Transportation Services organization. The team also focuses on a variety of cross-functional value-added services including; project management & execution, in-depth financial & operational analysis/analytics, operational reporting & development, performance reporting, vehicle diagnostics, vehicle maintenance and part analytics and modeling, long-term strategic planning & strategic initiative execution, as well as support and enhancement of Transportation’s suite of information systems and applications that keep the fleet running.
+
+Job Responsibilities
+Partners with leaders to drive high performance in their operations. Develops deep understanding of business drivers and financial levers to provide strategic decision support
+Develops and maintains up-to-date detailed project schedules and work plans
+Collaborates with leaders and stakeholders to work on issues, projects or activities
+Performs analysis on complex data models requiring custom SQL queries and understanding of vehicle maintenance and repair data
+Presents findings and makes recommendations to high level leaders
+Performs ad-hoc data mining and analysis leveraging data from multiple, disparate sources
+Oversees resolution of complex projects and programs
+Creates shared process models, activity diagrams and process documentation to effectively articulate multiple views of the business solutions that support discovery of levers that drive internal and outsourced maintenance, overtime, mechanic productivity and more
+
+Qualifications
+Minimum: Bachelor’s Degree in Computer Science, Econometrics, Economics, Engineering, Mathematics, Applied Sciences, Statistics or job-related discipline or equivalent experience
+5 years job-related experience, OR Master’s Degree and 3 years job-related experience, OR Doctorate Degree
+
+Desired:
+Graduate Degree in job-related discipline or equivalent experience
+Utility industry experience, 1 year
+5+ years direct experience coding/query writing in SQL, Oracle and Python
+Experience with vehicle and equipment (fleet) maintenance and repair terminology
+Experience working with classic ASP and newer .NET applications and associated framework
+Experience with Microsoft Power BI
+LSS-Lean Six Sigma Green Belt or higher certification
+Experience with Change Management/Leadership
+
+Knowledge, Skills, Abilities and Competencies Experience with the elements of the data management lifecycle (data acquisition, security, storage, architecture, integration, governance, compliance, reference data management, data quality and metadata) and best practices Experience with fleet maintenance software and vehicle maintenance programs Knowledge of relevant project management tools, theories and techniques as needed to support the timely and successful execution of project requirements Knowledge of commonly used data science and/or operations research programming languages, packages, and tools
+Understanding of data science/machine learning models and algorithms
+Ability to synthesize complex information into clear insights and translate those insights into decisions and actions
+Ability to clearly communicate complex technical details and insights to colleagues and stakeholders
+Knowledge of the mathematical and statistical fields that underpin data science
+Ability to collaborate and/or work on a team
+Knowledge of systems thinking and structuring complex problems
+
+#featuredjob 

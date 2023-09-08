@@ -1,0 +1,44 @@
+Zurich North America is looking for a Data Scientist to join our growing Data & Analytics Team based out of our North American headquarters in Schaumburg, Illinois. While this position will be based out of our Schaumburg Headquarters, we are offering the flexibility to work both in the office and remotely. You will collaborate with your manager to set a schedule that supports you, your customers, and the team.
+
+This position will join a team that uses that uses a combination of analytics and advanced data science techniques (e.g., natural language processing, machine learning models, artificial intelligence techniques) to solve our business partners most pressing problems and help our customers better understand their risks. This person will work within one of our cross functional Agile teams (Data Analysts, Data Engineers, and Data Scientists) that support various business units within the organization to achieve impact.
+In this role you will:
+Develop & validate supervised & unsupervised learning models, create machine learning and AI models, and use other statistical techniques to solve business problems
+Contribute to the development of a strategy on how to use the model/solution to generate impact
+Collaborate with business stakeholders to understand their challenges and develop an analytical solution that creates business impact
+Contribute to the effort for team to democratize data by consolidating, integrating, cleansing, and minimally curating operational production system data and external data for insight generation
+Perform exploratory analysis which includes understanding the key statistical metrics on data columns, determining the granularity of the data, & assessing any related merge keys for combining the data
+Develop a production, end to end solution for deployment, working closely with Data Engineers
+Contribute to the development of monitoring framework to ensure the tool is performing as intended
+Support stakeholders after deployment to ensure impact is achieved
+Contribute to the development and maintenance of best practices
+
+Basic Qualifications:
+Bachelors Degree in Computer Science or Mathematics/Statistics and 2 or more years of experience in the transforming data and developing insights for use in business decision area
+OR
+High School Diploma or Equivalent in Computer Science or Mathematics/Statistics and 4 or more years of experience in the transforming data and developing insights for use in business decision area
+OR
+Zurich Certified Insurance Apprentice including an Associate Degree in Computer Science or Mathematics/Statistics and 2 or more years of experience in the transforming data and developing insights for use in business decision area
+AND
+Experience applying data transformation techniques such as exact and probabilistic matching methods; fuzzy matching, text mining, and data reduction
+
+Preferred:
+Masters Degree
+Advanced analytical and problem solving skills
+Strong verbal and communication skills
+Experience with programming and database mining tools such as Hadoop, Hive, Pig, Java, SQL and Python
+
+As a condition of employment at Zurich, employees must adhere to our COVID-related health and safety protocols (https://www.zurichna.com/careers/faq), including, without limitation, a requirement that employees attest as to their vaccination status with a YES/NO, and upload proof of vaccination status, or a negative COVID test result when applicable, to a third-party vendor. These protocols are continuously re-evaluated and the requirements may change at any time.
+
+A future with Zurich. What can go right when you apply at Zurich?
+
+Now is the time to move forward and make a difference. At Zurich, we want you to share your unique perspectives, experiences and ideas so we can grow and drive sustainable change together. As part of a leading global organization, Zurich North America has over 150 years of experience managing risk and supporting resilience. Today, Zurich North America is a leading provider of commercial property-casualty insurance solutions and a wide range of risk management products and services for businesses and individuals. We serve more than 25 industries, from agriculture to technology, and we insure 90% of the Fortune 500®. Our growth strategy is not limited to our business. As an employer, we strive to provide ongoing career development opportunities, and we foster an environment where voices are diverse, behaviors are inclusive, actions drive equity, and our people feel a sense of belonging. Be a part of the next evolution of the insurance industry. Join us in building a brighter future for our colleagues, our customers and the communities we serve. Zurich maintains a comprehensive employee benefits package for employees as well as eligible dependents and competitive compensation. Please click here to learn more.
+
+As a global company, Zurich recognizes the diversity of our workforce as an asset. We recruit talented people from a variety of backgrounds with unique perspectives that are truly welcome here. Taken together, diversity and inclusion bring us closer to our common goal: exceeding our customers’ expectations. Zurich does not discriminate on the basis of age, race, ethnicity, color, religion, sex, sexual orientation, gender expression, national origin, disability, protected veteran status or any other legally protected status. EOE disability/vet
+
+Zurich does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resume will become the property of Zurich American Insurance. If you are a preferred vendor, please use our Recruiting Agency Portal for resume submission.
+
+Location(s): AM - Schaumburg
+Remote Working: No
+Schedule: Full Time
+
+Linkedin Recruiter Tag: #LI-MF1 #LI-HYBRID 

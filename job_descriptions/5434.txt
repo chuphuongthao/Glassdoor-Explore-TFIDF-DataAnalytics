@@ -1,0 +1,29 @@
+At Johnson & Johnson, we use technology and the power of teamwork to discover new ways to prevent and overcome the world’s the most significant healthcare challenges. Our Corporate, Consumer Health, Medical Devices, and Pharmaceutical teams leverage data, real-world insights, and creative minds to make life-changing healthcare products and medicines. We're disrupting outdated healthcare ecosystems and infusing them with transformative ideas to help people thrive throughout every stage of their lives. With a reach of more than a billion people every day, there’s no limit to the impact you can make here. Are you ready to reimagine healthcare?
+Here, your career breakthroughs will change the future of health, in all the best ways. And you’ll change, too. You’ll be inspired, and you’ll inspire people across the world to change how they care for themselves and those they love. Amplify your impact. Join us!
+ETHICON, part of the Johnson & Johnson Family of Companies, is recruiting new college graduates for the Data Science track of our Engineering Development Program (EDP) in Cincinnati, OH. The program offers multi-disciplinary rotations across the R&D organization, with Data Science track rotations focusing on both data and engineering principles as tools to transform the landscape of surgery. After completing this 3-year program, participants will continue in challenging data science and engineering roles, delivering tomorrow’s surgical innovations.
+At Johnson & Johnson, we use technology and the power of teamwork to discover new ways to prevent and overcome the world’s the most significant healthcare challenges. In particular, the ETHICON business in Cincinnati, OH offers a broad range of products, platforms, and technologies—including surgical staplers, advanced energy devices, robotic surgery, capital equipment, and advanced visualization systems. Our innovations are used in a wide variety of minimally invasive and open surgical procedures in specialties including colorectal, thoracic, women’s health, cancer, and obesity treatment. Our Cincinnati site was founded 30 years ago and has developed innovative devices that have driven ground-breaking shifts in modern surgery!
+As an associate in the Data Science track of the Engineering Development Program you will:
+Have the opportunity to complete multiple rotations over a 3-year period centered on Data Science, Machine Learning, Data Engineering, and Software Development for R&D, supporting the development of innovative medical devices and digital health technologies.
+Have a strong support network of seasoned data scientists, engineers, and mentors guiding your technical and career development.
+Leverage powerful tools and fundamental principles of engineering and data science to contribute to engineering solutions in a dynamic, team-focused environment.
+Collaborate with external partners and across Johnson and Johnson to identify and implement project solutions.
+Continue your technical growth and development through training in anatomy, statistics, data modeling, signal processing, cloud tools, and software development practices.
+
+Qualifications
+
+Candidate must be a new college graduate, graduating no more than 12 months prior to their 2023 start date, with a Bachelor’s, Master’s, or PhD in Computer Science, Data Science, Statistics, Mechanical Engineering, Electrical Engineering, Biomedical Engineering, or a related field.
+Possess previous co-op, internship or work experience and proven leadership/participation in campus programs and/or community service activities.
+Demonstrate past experience with several data analysis and data science tools and techniques, such as, but not limited to: Python, Pandas, R Shiny, SQL, Tableau, Machine Learning, Regression, Signal Processing, and Git.
+Ability to work in a regulated environment
+At Johnson & Johnson, we’re on a mission to change the trajectory of health for humanity. That starts by creating the world’s healthiest workforce. Through cutting-edge programs and policies, we empower the physical, mental, emotional, and financial health of our employees and the ones they love. As such, candidates offered employment must show proof of COVID-19 vaccination or secure an approved accommodation prior to the commencement of employment to support the well-being of our employees, their families and the communities in which we live and work.
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com.
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+Primary Location
+United States-Ohio-Cincinnati-4545 Creek Road
+Organization
+Ethicon Endo Surgery Inc (6041)
+Job Function
+R&D
+Requisition ID
+2206060952W 

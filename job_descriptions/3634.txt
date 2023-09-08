@@ -1,0 +1,53 @@
+Location
+Singapore, Central Singapore
+Planning Area
+MARINA SOUTH
+Job Type
+Full Time
+Salary
+$5,000 - $9,000 Per Month
+Date Posted
+11 hours ago
+Expiry Date
+26-Sep-2022
+Additional Details
+Job ID
+375746
+Job Views
+49
+Job Description
+Roles & Responsibilities
+How to apply?
+Please apply by uploading your CV and academic transcript to https://talent.sage.hr/jobs/015a1842-175b-4cba-9238-d9fec2ad9ade. If you have any questions, please feel free to reach out to the HR team at (Requires log in to see email address) .
+Who are we?
+We are the University of Cambridge presence in Singapore called Cambridge CARES, sponsored by the NRF CREATE program CAM.CREATE. The research programme Cambridge Centre for Carbon Reduction in Chemical Technology (C4T) is a joint Cambridge, NTU and NUS research activity within Cambridge CARES.
+Our team is comprised of world-class scientists and engineers working in a vibrant, fast-paced environment with great opportunities for knowledge and skills development.
+Who are we looking for?
+Urban growth is driving the need for sustainable operational models for city planning. Simultaneously, the proliferation of urban data has introduced a fragmentation into myriad types, formats, and qualities, hindering data integration into urban planning. The project aims to address one of the grand challenges in urban planning today: to connect and catalyse the unprecedented growth of cities and the exponential proliferation of data. The project will develop a Master-planning Knowledge Graph, transforming the conventional instrument of urban planning–the city master plan–into a knowledge management system that supports cross-domain evaluations of planning proposals by enabling the integration of siloed data, software tools and Application Programming Interfaces from disparate knowledge domains. The overall goal is, to use ideas from Smart Nation, the Internet of Things, the Semantic Web, machine learning, and statistics, to create a system allowing planners to explore and compare more variations and more iterations for a particular development proposal, leading to improved master plans.
+The successful candidate will be expected to assume intellectual leadership in the development of the theoretical and mathematical foundations as well as the wider, ongoing development of our main software tool. This will involve keeping abreast of the latest web technologies, making key design decisions, and ensuring their realisation. Being part of a 2-member consortium will require close interaction with collaborators. Activities will include participating in research discussions with local industries and partners, and overseas universities, and writing reports as required by the National Research Foundation (NRF) of Singapore.
+Other responsibilities include:
+Working closely with data owners and domain experts to understand their problem statements and identify opportunities for data science solutions.
+Develop ideas for applications of research outcomes.
+Develop and/or modify ontologies and data models together with domain experts.
+Develop and/or apply description logic and reasoning for use cases.
+Big data handling, data extraction, analysis and integration.
+Performing programming and scripting utilizing various technologies.
+What skills do you have?
+A PhD degree in a relevant discipline such as mathematics, computer science, (theoretical) physics/chemistry, software engineering, or a related subject ideally involving semantic technologies and/or description logics.
+Excellent mathematical and programming skills.
+An understanding of the software development lifecycle and design patterns.
+Experienced in working with a diverse range of data types.
+Willingness and capability to acquire software skills and knowledge about modern technologies.
+Computational thinking with a proven ability to conduct independent research and an outstanding publication record in at least one of the research areas concerned.
+Proactive problem solver with critical thinking and attention to detail.
+Excellent interpersonal, oral and written communication skills.
+The ability to work as part of a dynamic, multidisciplinary team of researchers.
+What can we offer you?
+A stimulating working environment with friendly, highly motivated colleagues.
+Opportunities to develop and implement new ideas in a creative environment.
+A competitive salary in line with your skills and experience.
+A one-year contract in the first instance, extendable following satisfactory performance.
+A comprehensive medical insurance cover as part of your employment.
+Please note this post is mainly based in the CREATE Tower at NUS University Town, Singapore and is likely to be suitable for recent graduates.
+Tags
+computer scientist computer scientist 

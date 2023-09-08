@@ -1,0 +1,22 @@
+Summary
+Posted: Jul 1, 2022
+Role Number:200385733
+At Apple, we work every day to create products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in Apple News and Search Ads in the App Store. Our platforms are highly performant, deployed at scale, and set new standards for enabling effective advertising while protecting user privacy. We are seeking a junior Data Scientist to help build the next generation of analytical solutions for the Advertising Platforms Marketing team. We are looking for a self-starter with a wide variety of technical skills and the ability to transform large data sets into practical insights and recommendations. You’ll be responsible for measuring and optimizing marketing campaign effectiveness and helping our go-to-market teams acquire new customers, enhance retention, improve customer success and design and conduct A/B testing for marketing campaigns. You’ll need to be comfortable with ambiguity and working within a highly skilled team distributed globally.
+Key Qualifications
+Programming skills in SQL required
+Demonstrated skills using Python and R, or at minimum interest in learning & developing these skills
+Skills in developing compelling data visualizations, dashboards and reporting in Tableau
+Skills in exploratory data analysis and familiarity with sophisticated quantitative analysis including (but not limited to) regression, classification, clustering, and time-series analyses
+Comfortable working with modern data science technologies. Familiarity with database modeling and data warehousing principles
+Ability to communicate the results of analyses in a clear and effective manner
+Ability to work effectively with data science and engineering partners to meet the data needs of the business, translating business needs into analytical requirements
+Knowledge of the digital advertising industry or related field
+Excellent written, verbal, presentation and communication skills
+Proactive work style and creative problem solver who has the ability to handle multiple projects, demonstrating a strong work ethic
+Ability to operate comfortably and effectively in a fast-paced, highly cross-functional, constantly evolving environment
+Experience engaging with the business and leadership on problem definition
+Description
+-Support the Marketing team with analytics and customer insights -Empower the Marketing team with insights that inform and fulfill strategic objectives and goals for every fiscal quarter -Quantify the impact of marketing initiatives on customer success and future behavior -Responsible for business analytics work through all phases, including data quality, data analysis, data visualization, and presentation of results and deliverables -Supervise usage metrics, understanding business-based explanations for large scale trends and patterns in customer lifecycle behavior -Collect, analyze and interpret advertising campaign performance and transactional data -Develop data models and analytical tools for ongoing audience segmentation, benchmarking, trending and competitive analysis -Build dashboards, reports and presentations -Collaborate with cross-functional team, including Data Insights, Operations, Product, Finance and Engineering -Design, conduct and analyze A/B tests to optimize performance of marketing campaigns
+Education & Experience
+Bachelor of Arts or Science in a quantitative field of study including business, statistics, mathematics, economics or a related field; graduate degree a plus but not a requirement
+Additional Requirements 

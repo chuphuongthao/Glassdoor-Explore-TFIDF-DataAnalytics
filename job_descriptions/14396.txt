@@ -1,0 +1,29 @@
+Machine Learning Software Engineer
+If you are a Machine Learning Software Engineer with 3+ years of experience, please read on!
+
+Job Title: Machine Learning Software Engineer
+Location: 100% Remote
+Salary: $130-180K based on experience
+Requirements: BS Computer Science or related field with Masters or PhD preferred and 3+ years of experience
+
+This would be an amazing opportunity for you if you are looking for the opportunity to design systems from the ground up!
+
+Additional ways in which a candidate may stand out would be:
+Entrepreneurial SpiritBring a blend of Software Engineering and Data Science
+What You Will Be DoingHelp reimagine our systems from the ground up, designing the next generation of technology applicationsDeveloping predictive algorithms producing high-level architecture designs, building, and operating services at scalePartner with a team Software/Data/ML/Applied engineers for building high performing applications that interact with large scale distributed systemsInstill best practices in development of algorithms, design, build, and maintenance systems that deal with streaming big data for analytics and ML use casesParticipate in all phases of software development including concept, design, prototyping, and production release
+What You Need for this Position
+- BS in Computer Science, Computer Engineering, Industrial Engineering/OR or related field - MS/PhD preferred
+5+ years of professional software engineering experienceDemonstrated success in development / design of large scale big data systems that perform complex event processing, machine learning and/or data miningStrong diagnostic, debugging, and troubleshooting skillsExperience building applications on one or more public Cloud Platform
+Experience designing and implementing highly reliable, fault-tolerant distributed ML applications with focus on ML OperationsStrong scripting skills in a Linux/Unix environment (not limited to but may include Bash, Python, Perl)Experience working with relational databases and NoSQL data stores on-premise and in the Cloud
+Experience working with data processing frameworks (Hadoop, Spark, Kafka) a plusExperience building demand forecasting platforms
+What's In It for YouVacation/PTOMedicalDentalVision401k
+BenefitsVacation/PTOMedicalDentalVision401k
+So, if you are a Machine Learning Software Engineer with 3+ years of experience, please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Jenn ParrellaApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

@@ -1,0 +1,28 @@
+Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+The Opportunity
+Do you love to tackle complex business problems and use data to find the signal in the noise? Join the Customer Analytics team at Adobe! We are a high-impact, high-visibility team well suited to individuals with a highly quantitative, inquisitive bent of mind. We use data engineering in conjunction with Data Science to quantify and optimize the product experience for our customers! The ideal candidate will be able to work autonomously and will have a technical background with strong communication.
+As a member of the Data Engineering team, you will have significant responsibility to help build large scale cloud-based data and analytics platform with enterprise-wide consumers. This role is inherently multi-functional, and the ideal candidate will work across teams. The position requires ability to own things, come up with innovative solutions, try new tools, technologies, and entrepreneurial personality.
+What You’ll Do
+Build fault tolerant, scalable, quality data pipelines using cloud- based tools.
+Deliver End to End Data Pipelines to run Machine Learning Models in a production platform.
+Innovative solutions to help broader organization take significant actions fast and efficiently.
+Chip in to data engineering and data science frameworks, tools, and processes.
+Implement outstanding data operations and implement standard methodologies to use resources in an optimum way.
+Architect data ingestion, data transformation, data consumption, data governance frameworks.
+Help build production grade ML models and integration with operational systems.
+Work in a collaborative environment and contribute to the team as well as organization’s success.
+What You Need to Succeed
+1+ years of experience
+Master’s in Statistics, Mathematics, or Engineering is desired; or equivalent experience required
+Solid understanding of distributed data technologies e.g., Hadoop, Hive, Presto, Spark etc.
+Familiarity with Cloud based technologies – Databricks, S3, Azure Blob Storage, Notebooks, AWS EMR etc. Familiarity and usage of different file formats in batch/streaming processing i.e., Delta/Parquet/ORC etc.
+Outstanding SQL experience. Ability to write optimized SQLs across platforms.
+Ability to produce production quality data pipelines in Python/PySpark/Scala and ability to manipulate data using Pandas, NumPy, Koalas etc. and using APIs to transfer data.
+Exposure to CI/CD tools i.e., GitHub, Jenkins, open- source orchestration tools i.e., Apache Air Flow/ Azkaban etc.
+Teammate with excellent communication/teamwork skills when it comes to closely working with data scientists and machine learning engineers daily.
+Knowledge of ML algorithms & frameworks i.e., Keras, Tensor Flow, PyTorch, XGBoost, Linear Regression, Classification, Random Forest, Clustering, mlFlow etc.
+If you’re looking to make an impact, Adobe’s the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer. 

@@ -1,0 +1,88 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+Are you looking for a patient-focused, innovation-driven company that will inspire you and empower you to shine? Join us as a Real World Data & Analytics Lead, in our Cambridge, MA office.
+At Takeda, we are transforming the pharmaceutical industry through our R&D-driven market leadership and being a values-led company. To do this, we empower our people to realize their potential through life-changing work. Certified as a Global Top Employer, we offer stimulating careers, encourage innovation, and strive for excellence in everything we do. We foster an inclusive, collaborative workplace, in which our global teams are united by an unwavering commitment to deliver Better Health and a Brighter Future to people around the world.
+Here, you will be a vital contributor to our inspiring, bold mission.
+POSITION OBJECTIVES:
+The Real-World Data & Analytics Lead is responsible for the adoption and utilization of technologies, models, and methods for science-driven Real-World data analytics across R&D. The role demands knowledge of RWD types and resources, a strong execution focus, and excellent communication skills. Success in this role will require constant attention to changing priorities and needs, readiness to proactively develop solutions in the market where none yet exist, and a collaborative approach as this role is embedded in matrix teams to ensure visibility and exchange of information.
+POSITION ACCOUNTABILITIES:
+Lead the implementation and operational activities of Takeda R&D use cases utilizing scientific data for insights and broad effect.
+Drive the definition, design, implementation and validation of cutting-edge algorithms to analyze diverse sources of data to achieve targeted outcomes by leveraging complex statistical and predictive modeling concepts, machine-learning approaches, clustering and classification techniques.
+Prioritize and oversee portfolio of projects ensuring alignment of activities and standards.
+Advance socialization of techniques and new technologies throughout organization.
+Oversee the ingestion and classification of diverse data sources, such as clinical trial data, electronic health record data, insurance claims data, and disease, patient data
+CORE ELEMENTS RELATED TO THIS ROLE
+Deliver Takeda’s RWD strategy and ecosystem covering existing, emerging, and developmental data sources compliantly and in alignment with Takeda’s business priorities, focused on business value and impact.
+Deliver on data-driven research projects through organization of team efforts and hands-on approach
+Actively listen, integrate input from diverse sources, and collaboratively translate medical or business questions into data and analysis requirements
+Partner with domain experts to verify and drive model capabilities and translate modeling outputs into business language
+Partner with IT resources to enable appropriate data flow/data model, development using appropriate tools/technology, rapid prototyping and informs the design of analytical products
+Coach, develops and mentor employees (team) on data science tools and methodologies
+Builds external alliances to gain and share information and industry trends.
+Deliver objective RWD assessments that focus on potential value and fit in the RWD ecosystem
+Deliver a global RWD governance system that enables innovation within compliance limits and monitors legal and contractual obligations; ensure Takeda is in compliance with applicable law, contracts and standard operating procedures (SOPs)
+Drive the broadening of the RWD user base
+Develop global RWD partnerships to bring unique data opportunities that address Takeda’s data priorities; establish Takeda as a partner of choice for novel data exchange projects
+Enable the data acquisition process to ensure appropriate RWD fit for Takeda; partner with Legal to embed this process into global SOPs
+Collaborate with research leaders to identify RWD use cases and gaps, and engineer appropriate project-level solutions
+Provide Takeda functions with consultative support on RWD solutions to ensure high quality, value-driven research projects
+Assess the global RWD environment across geographies and engagement points
+Partner with Global Evidence and Outcomes (GEO) and Information Technology (IT) to deliver a state-of-the-art analytics ecosystem; ensure that access to externally hosted databases/platforms is streamlined and secure
+Lead global organizational RWD transparency and education by delivering learning modules on relevant dimensions for users’ qualifications
+Technical/Functional (Line) Expertise
+Comprehensive understanding of the pharmaceutical industry and drug development
+Understand and enable analytic infrastructure, including CFR 11 certified software tools, semi-automated, validated SAS algorithms and a skilled data visualization team offer efficient delivery of research and rapid analytics
+Leadership
+Demonstrated ability to work across functions, regions and cultures
+Excellent communicator, able to persuasively convey both ideas and data, verbally and in writing
+Proven skills as an effective team player who can engender credibility and confidence within and outside the company
+Ability to distil complex issues and ideas down to simple comprehensible terms
+Embraces and demonstrates a diversity and inclusion mindset and role models these behaviors for the organization
+Interaction
+Effectively navigates the changing external and internal environment and leads others through change by creating and inspiring and engaging workplace
+Cultivates a broad network of relationships throughout Takeda, with affiliates and external partners, in the industry and area of expertise.
+Effectively represents function in negotiations with the ability to resolve conflict in a constructive manner
+Ability to build strong relationships and collaborate effectively with other interfacing Takeda functions
+Innovation
+Forward thinking with the ability to recommend, influence and implement organizational change and continuous innovation
+Comfortable challenging the status quo and bringing forward innovative solutions
+Ability to take risks implementing innovative solutions, accelerating time to market
+Identifies opportunities and anticipates changes in the business landscape through an understanding and ongoing assessment of the environment affecting the business.
+Role models respect and inclusion, creating a culture that fosters innovation
+Complexity
+Ability to work in a global ecosystem (internal and external) with a high degree of complexity
+Deep expertise required
+Ability to see and understand broader, enterprise level perspective
+EDUCATION, BEHAVIORAL COMPETENCIES AND SKILLS:
+Advanced degree (PhD, MS) in a data-related field with a substantial scientific and statistical component
+10+ years experience working in pharmaceutical / biotechnology / healthcare / health IT industry, and 5 + delivering end-to-end data analysis projects
+Strong management and organizational skills
+Ability to effectively interact with and influence all levels of management.
+Seasoned data scientist with experience in large-scale healthcare data analysis and industry models/standards
+Advanced knowledge of a subset of analytical approaches (ex. machine learning, statistical analysis, predictive modeling, visual analytics)
+Experience in observational healthcare data analysis
+Advanced hands-on knowledge of R and/or Python
+Working knowledge of SQL and relational databases
+Experience analyzing data from traditional healthcare databases (electronic medical records, claims, etc) is preferred
+Experience with Hadoop platforms (Cloudera a plus) and related “big data” technologies is preferred
+Experience working in Cloud Computing environments (ex AWS, Azure, etc) is preferred
+WHAT TAKEDA CAN OFFER YOU:
+401(k) with company match and Annual Retirement Contribution Plan
+Tuition reimbursement Company match of charitable contributions
+Health & Wellness programs including onsite flu shots and health screenings
+Generous time off for vacation and the option to purchase additional vacation days
+Community Outreach Programs
+Empowering Our People to Shine
+Discover more at takedajobs.com
+No Phone Calls or Recruiters Please.
+This job posting excludes CO applicants
+EEO Statement
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.
+Locations
+Boston, MA
+Worker Type
+Employee
+Worker Sub-Type
+Regular
+Time Type
+Full time 

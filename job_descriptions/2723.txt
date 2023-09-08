@@ -1,0 +1,19 @@
+Summary
+Posted: Aug 4, 2022
+Role Number:200409452
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, resourceful people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our dedication to leave the world better than we found it. Do you want to join us in these pursuits? Join us to help deliver the next groundbreaking Apple products! The Tools and Process team creates solutions to address operational needs for Apple’s Hardware Technologies group. Leveraging Apple's internal software and services, we develop custom tools to address gaps and novel business needs. We design and standardize processes along with automating manual steps. We collect, analyze, and leverage data to provide critical insights for Hardware Tech. Our tools and processes impact numerous product lines and are transforming the way people work at Apple. We are looking for an outstanding analyst who can understand business needs, track and develop analytics, and implement technical solutions. This includes review of existing reports and making recommendations to improve quality and process efficiency. They will be expected to communicate relevant insights to senior leadership and key decision-makers. The ideal candidate works well in a collaborative setting with minimal formal structure and is comfortable in changing environments with competing priorities. They must possess solid business acumen, a strong technical background, natural curiosity, and the ability to effectively shift between communications styles based on the audience (technical peer review through leadership presentation).
+Key Qualifications
+Expert in Microsoft Excel, equipped with advanced skills, ex. PivotTables, Vlookup, index / match, and data tables.
+Advanced skill in managing large datasets, and process automation
+Competent in Python and data visualization
+Prefer familiarity with SQL and ThoughtSpot or similar data management tools
+Familiar with statistical analysis and predictive modeling
+Ability to tell meaningful and accurate stories with data analysis and visualization
+Focus on data integrity
+Drive to continuously improve and expand value of their own work and impact of the team
+Ability to synthesize multiple sources of competing feedback to deliver the best solution
+Description
+- Capture business requirements, identify problems and opportunities to make an impact - Interpolate, process, and analyze data from multiple sources - Generate both regular and ad-hoc reports. Create standards for common reports, and create self-service reporting dashboards - Present data analysis and insights to business partners and executives - Identify and implement improvements to data structure and collection - Design and standardize processes - Identify manual business processes and work with developers to automate them - Develop relationships with cross-functional business partners to stay informed on their processes and needs - Respond to questions and concerns from managers and executives with supporting reports and documentation - Explore opportunities to leverage data and capabilities for new insights - Role is based in either Santa Clara Valley, or in San Diego with periodic travel to Santa Clara Valley
+Education & Experience
+Deep background in data science or statistics required. Masters degree preferred in Data Science, Statistics, or MBA with data analysis focus
+Additional Requirements 

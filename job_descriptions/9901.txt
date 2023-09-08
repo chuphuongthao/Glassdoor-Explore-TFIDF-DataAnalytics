@@ -1,0 +1,58 @@
+Interested in a startup experience? We're scaling fast at Zip (YC S2020)! Zip is tackling the $50B+TAM space to transform the way businesses manage spend. We started Zip because we saw the challenges companies had using outdated 20 year old software to manage hundreds of millions of dollars every year. We are a small but mighty team that helped scale category-defining companies like Airbnb, Facebook, Salesforce, Apple, Quora, Pinterest, and Square.
+
+We graduated from YC as part of the S20 batch. We've raised $43 million in Series B funding – led by YC Continuity (Y Combinator) with participation from Tiger Global and CRV – bringing Zip's valuation to $1.2 billion in 18 months. We're growing quickly and need your help: we launched in early 2020 and are growing by 40+% every month. We've most recently been featured on YC Top Companies list!
+Your Role
+
+We are looking for a hands on analytics leader who is passionate about transforming how companies transact and manage their B2B spend. You will be a multiplier for scaling Zip's business by providing product insights to leadership at the company.
+
+You Will
+Start as a senior individual contributor and transition to managing 2+ people next year
+Define & develop metrics used to measure business performance & customer health
+Build dashboards to communicate metric trends to Product, Customer Success, Finance, Sales
+Architect new business-critical core data models that would be used to power business decisions
+Conduct metrics validation and implementation monitoring for regressions
+Define requirements for backend and frontend events with the logging schemas
+Conduct product analysis and leverage insights to inform and shape team roadmap
+
+Risk Analyst Experience:
+
+Build machine learning, user behavior sequence, anomaly detection models to detect high risk activities like account takeovers, fraud transactions, or high risk entities like fake accounts
+Experiment new Zip product features to deter and mitigate risk
+Work cross functionally with operations and product teams to define and collect labels for model training, optimize effectiveness of manual review, and build self-satisfiable verifications that scale
+
+Management experience:
+
+You will design effective interviewing processes for the data organization, set a high hiring bar, and onboard new Zippers
+You will retain top talent by helping data analysts through career development, coaching, and performance management
+Work cross functionally to deeply understand data opportunities in Product, Customer Success, Finance, and Sales. Work with cross-functional leadership to define a data strategy and execute on it to drive top line ARR growth, product adoption, and customer retention
+Required Qualifications
+Passion for high data quality and scaling data science work
+Experience in working with raw and unstructured data and open business/data questions
+Proven ability to design analytical solutions to complex business problems and to partner cross-functional peers to tailor those solutions for the greatest possible impact
+8+ years of relevant industry experience
+Degree in quantitative field
+Strong skills in SQL and expert in Python for data analysis
+Experience in schema design and dimensional data modeling
+Ability to perform basic statistical analysis to inform business decisions
+Proven ability to succeed in both collaborative and independent work environments
+Strong communication skills both in written and verbal
+Detail oriented and expected to learn new skills and tools
+Nice to haves
+Experience with data systems and tools such as Airflow, Superset, Snowflake
+An eye for design with it comes to dashboards and visualization tools
+Experiences with logging best practices
+Python software development skills preferred
+Perks & Benefits
+
+At Zip, we're committed to providing our employees with everything they need to do their best work.
+
+ Start-up equity
+ Full health, vision & dental coverage
+️ Catered lunches & dinners for SF employees
+ Commuter benefit
+ Team building events & happy hours
+ Unlimited PTO
+ Apple equipment plus home office budget
+ 401k plan
+
+We're looking to hire Zippers and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you! 

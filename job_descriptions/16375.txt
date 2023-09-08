@@ -1,0 +1,29 @@
+Spokeo is a people search engine that both enlightens and empowers our customers. With over 12 billion records and 18 million visitors per month, we reconnect friends, reunite families, prevent fraud, and more. Every day our nimble team takes on enormous challenges in data science that push the limits of the cloud and search architecture.
+
+Note: This is not a corp-to-corp opportunity. Individual applicants only.
+
+As a Data Engineer at Spokeo, you will be responsible for developing, optimizing, and maintaining the ETL data pipeline. This involves working with infrastructure built in AWS, including Spark EMR, S3, and DynamoDB. This role will help build statistical tools, develop unit and stress tests, and create automation surrounding the orchestration of the ETL data pipeline.
+
+Responsibilities:
+
+Build infrastructure and automation for the extraction, preparation, and loading of data from various sources
+Create unit and stress test components to monitor technical performance and ensure identified issues are resolved
+Build and maintain data-backed tools to give data insight and capture key metrics
+Automate and integrate new components into the data pipeline.
+Use best practices for data governance, data quality, data cleansing, and other ETL-related activities.
+Maintain technical documentation
+
+Requirements:
+
+3+ years development experience in data engineering
+1+ years professional experience working in big data ecosystems, preference for Spark
+1+ years professional experience working with dataflow management tools, such as Airflow
+1+ years experience working with Pentaho (or equivalent tools such as Talend, DataStage, and Informatica)2Hands-on scripting experience with Python, Scala and/or shell scripting
+Preference for development experience in highly-scalable, distributed systems and cluster architectures (e.g. AWS, Azure, Google Cloud, etc)
+Familiarity with complex NoSQL databases (e.g. DynamoDB, Cassandra, Elasticsearch, etc)
+Prior experience working with large data sets (>1M+ records)
+B.S. preferred in Computer Science, Information Systems, or related fields (foreign education equivalent accepted)
+Privacy Notice for Candidates: https://www.spokeo.com/recruiting-policy
+Spokeo is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Spokeo fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best products, and be relevant in a rapidly changing world.
+Recruiters or staffing agencies: Spokeo is not obligated to compensate any external recruiter or search firm who presents a candidate or their resume or profile to a Spokeo employee without 1) a current, fully executed agreement on file and 2) being assigned to the open position (as a search) via our applicant tracking solution.
+This is a remote position. 

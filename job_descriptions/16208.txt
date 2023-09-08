@@ -1,0 +1,44 @@
+Senior Data Engineer
+Job Location: United States: North Carolina: Cary
+Role Value Proposition
+MetLife’s Employee Experience organization is seeking an experienced and highly motivated Full Stack Engineer to work as a member of our strategic Data and Integration product team. In this role, the candidate will work collaboratively within a DevOps team to lead the design and engineering of a modern data platform supporting data workloads including business intelligence, data analytics and online operational data stores. This is an exciting opportunity to enable Digital Transformation through Cloud Acceleration by working hands-on with data model design, data acquisition, data curation and data integration.
+Key Responsibilities
+Engineer end to end data solutions in support of Employee Experience and Human Resource business objectives
+Assists in the creation of architectural specifications, ensuring feasibility, functionality, and integration with existing systems/platforms
+Participate in the collection and documentation of user requirements as well as the development of user stories and estimates
+Participate in Agile ceremonies such as scrum, grooming, retrospective and PI Planning
+Participates in technical design, development, implementation, and maintenance of application systems
+Participate in peer reviews of solution designs and related code
+Participates in the investigation and resolution of production management incidents, problems, and service requests.
+Supports production applications
+Identifies innovative solutions to technical challenges
+Essential Business Experience and Technical Skills
+Required:
+4+ years of experience architecting and implementing end to end data solutions including data platforms, data models, data integrations and data access
+Experience with modern data architectures (Data Lake, Data Warehouse, Operational Data Store, etc) and strategies and applying them to solve business needs
+Experience designing various types of data models (relational, star schemas, document, columnar) with a foundational understanding of when to apply each
+Exposure to Business Intelligence environments including data integration (ETL/ELT), data warehouse, data marts and Business Intelligence and analytical tooling
+Experience consuming data from other systems using APIs, Secure File Transfers and/or Message Bus
+Experience programming in one or more of the following languages including Python, SQL, PL/SQL, C#/.NET
+Ability to understand user stories and/or business requirements with ability to implement in required language or technologies
+Preferred
+Employee Experience and Human Resources industry experience
+Experience with Azure Cloud and Azure PaaS platforms, particularly ADLS, Data Factory, Azure SQL DB, Cosmos DB, Data Bricks, Service Bus and Events Hub
+Experience with Data Visualization tools such as Power BI or Tableau is a plus
+Linux and shell scripting experience
+Experience in Data Science, Machine learning or statistical analysis is a plus
+Experience working in an Agile environment with DevOps tooling and mindset
+Experience creating data governance artifacts such as data dictionaries, data lineage or data glossaries
+Business Category
+GTO
+Number of Openings
+1
+#LI-WRAPJOB
+MetLife:
+MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies, providing insurance, annuities, employee benefits and asset management to help its individual and institutional customers navigate their changing world. Founded in 1868, MetLife has operations in more than 40 countries and holds leading market positions in the United States, Japan, Latin America, Asia, Europe and the Middle East.
+We are one of the largest institutional investors in the U.S. with $642.4 billion of total assets under management as of March 31, 2021. We are ranked #46 on the Fortune 500 list for 2021. In 2020, we were named to the Dow Jones Sustainability Index (DJSI) for the fifth year in a row. DJSI is a global index to track the leading sustainability-driven companies. We are proud to have been named to Fortune magazine's 2021 list of the "World's Most Admired Companies."
+MetLife is committed to building a purpose-driven and inclusive culture that energizes our people. Our employees work every day to help build a more confident future for people around the world.
+We want to make it simple for all interested and qualified candidates to apply for employment opportunities with MetLife. For further information about how to request a reasonable accommodation, please click on the Disability Accommodations link below.
+MetLife is a proud Equal Employment Opportunity and Affirmative Action employer dedicated to attracting, retaining, and developing a diverse and inclusive workforce. All qualified applicants will receive consideration for employment at MetLife without regards to race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital or domestic/civil partnership status, genetic information, citizenship status, uniformed service member or veteran status, or any other characteristic protected by law.
+MetLife maintains a drug-free workplace.
+Requisition #: 124273 

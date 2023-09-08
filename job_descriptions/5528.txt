@@ -1,0 +1,73 @@
+Introduction
+A career in IBM Consulting embraces long-term relationships, meaningful impact, and close collaboration with clients across the globe.
+
+You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology platforms across the IBM portfolio; including IBM Software and Red Hat.
+
+Curiosity and a constant quest for knowledge serve as the foundation to success in IBM Consulting. In your role, you'll be supported by mentors and coaches who will encourage you to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground breaking impact for a wide network of clients. Our culture of evolution and empathy centers on long-term career growth and learning opportunities in an environment that embraces your unique skills and experience.
+
+Your Role and Responsibilities
+As an Associate Data Scientist at IBM, you'll help transform clients' data into tangible business value by analyzing information, communicating outcomes, and collaborating on product development. In your role, you will be responsible for:
+Implementing and validating predictive and prescriptive models, creating and maintaining statistical models with a focus on big data
+Incorporating a variety of statistical and machine learning techniques
+Writing programs to cleanse and integrate data in an efficient and reusable manner
+Using leading edge and open-source tools such as Python, R, and TensorFlow, combined with IBM tools
+Working in an Agile, collaborative environment and partnering with other data scientists, engineers, and consultants to bring analytical rigor and statistical methods to the challenges of predicting behaviors
+Communicating with internal and external clients to understand and define business needs and appropriate modelling techniques to provide analytical solutions
+Evaluating modelling results and communicating the results to technical and non-technical audiences
+We have a number of positions open in these locations:
+Atlanta, GA
+Cambridge, MA
+Chicago, IL
+Dallas, TX
+Houston, TX
+New York, NY
+San Francisco, CA
+Washington, DC
+
+Required Technical and Professional Expertise
+
+Familiarity with programming/scripting in a language such as Java or Python
+Basic understanding of statistical programming in a language such as R, Python, SAS, or Scala
+Exposure to analytical software such as SAS, SPSS, or MATLAB
+Have past work or internship experience using data science tools in a corporate environment
+Strong interpersonal skills with ability to collaborate and work effectively with individuals, strengthening relationships to achieve win-win solutions
+Ability to look at things differently, debug, troubleshoot, design, and implement solutions to technical issues
+
+Preferred Technical and Professional Expertise
+
+Exposure to Cloud – AWS, Azure, Google Could or IBM Cloud
+Exposure or interest in Design Thinking and Agile development methodology
+Initiative to actively seek new knowledge and improve skills
+A passion for innovative ideas, coupled with the ability to understand and assimilate different points of view
+
+About Business Unit
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+
+This job requires you to provide your COVID-19 vaccination status with supporting documentation, where legally permissible.
+
+Your Life @ IBM
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to:
+
+
+12 weeks of paid parental bonding leave. Family care options are also available to support eligible employees during COVID-19.World-class training and educational resources on our personalized, AI-driven learning platform. IBM's learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goals.Well-being programs to support mental and physical health.Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.).Select educational reimbursement opportunities.Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe.Giving and volunteer programs to benefit charitable organizations and local communities.Discounts on retail products, services, and experiences.
+We consider qualified applicants with criminal histories, consistent with applicable law.
+
+IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. 

@@ -1,0 +1,21 @@
+Piper Companies is currently searching for a remote Tableau Data Engineer to work as a full time employee for a lead data science firm which has deep expertise in the fields of business intelligence, predictive modeling, and data mining – and in the design and development of customized technology tools that support forecasting, simulation analysis, optimization modeling, and data visualization..
+
+Overview
+
+Support the team throughout the project life cycle, including confirming business requirements, contributing to and reviewing design artifacts and technical documentation, prototyping, development, quality testing, user acceptance testing, deployment, and maintenance.
+Ability to design Tableau data flows that allow both internal developers and business users to quickly and intuitively create BI products and make deployment recommendations based on industry best practices and client environment/technology considerations.
+Position Specific Responsibilities:
+Design, develop, and maintain Tableau data flows to join and transform very large datasets from multiple sources into client-ready datasets to support BI products
+Collaborate with internal teams to identify data needs and methods for cleaning, transforming, and standardizing data to meet business requirements
+Perform and document data exploration, data validation, and data mapping/design
+Conduct unit tests and develop database queries to analyze effects and troubleshoot issues
+Represent the company in client-facing meetings
+Qualifications:
+3-5 years of experience building data pipelines and using ETL tools
+2+ years of experience with Tableau, including hands-on experience with Tableau Prep
+Solid understanding of business information systems, database architecture, data modeling, data analysis, testing, and application integration
+Compensation
+
+Competitive salary with full employee benefits (401k Match, PTO, Holidays, Medical, Dental, Vision, education reimbursement, career advancement, and much MORE!)
+
+Tableau, Tableau Prep, Data, Data Engineer, Data Developer, Data Programmer, Data Analysis, Data Development, Data Engineering, Extract, Transform, Load, Data Flow, Data Chart, Data Table, Data Graph, Data Validation, Data Confirmation, Data Verification, BI, Business Intelligence, Microsoft, MS, Data Map, Data Design, Data Exploration, Data Architecture, Data Application, Data Integration, Remote, WFH, Work from Home, Telework, Telecommute, Data Science, Salary, Full Time, United States, US Citizen, Green Card, GC, USC, Mid, Senior, 

@@ -1,0 +1,63 @@
+Ready to take the next step in your career? Maybe you’re looking for advancement opportunities, a better work-life balance, or just something new and exciting.
+
+At Pekin Insurance, we strive to go Beyond the expected® in everything we do.
+
+The Data Analyst is responsible for identifying, capturing, analyzing, and managing the company’s data, contributing to better decision-making and planning. The Data Analyst performs data analysis, including conceptualization, modeling, and presentation of data. Additionally, the Data Analyst performs a variety of technical tasks related to capturing, managing, and analyzing data; turning information into insights to support and enable key decisions and business processes. The Data Analyst also supports information governance in conjunction with Architects and Data Stewards.
+
+The Data Analyst works to support data science activities by analyzing information, focusing on particular products or business areas. The Data Analyst has the ability to apply an array of basic data science methodologies including statistics, text analytics, algorithms and numerical optimization, along with specialties such as machine learning. The Data Analyst applies these skills on an ad-hoc basis dependent on the problem they are solving.
+
+The Data Analyst participates in program increment (PI) planning, pre-and-post planning, system and solution demos, and inspect and adapt events. The Data Analyst may also contribute to the development of the team backlog and architectural runway, management of work in process (WIP) levels, and support of program and solution Kanbans.
+
+What You'll Do
+
+Works with varying teams to determine and understand how data analysis can support organizational goals
+Gathers data to support recommendations to address problems
+Develops recommendations for resolution of problems for review by other team members
+Understands and applies information and data analysis requirements
+Catalogs existing data sources
+Designs, creates and maintains relational databases and data systems of low to moderate complexity
+Works with open datasets, including populating and extracting data from internal and public open datasets
+Cleans and prunes data to discard irrelevant information
+Assists in designing reporting dashboards to translate data to an understandable illustrative format
+Assists in creating data visualizations and reports to present to a variety of audiences using presentation layer tools
+May support the establishment of standards, guidelines, and procedures for data validation, analysis and presentation
+Fulfills ad hoc reporting requests
+Assists with initial data exploration (binning, pivoting, summarizing and finding correlations, for example)
+Analyzes and interprets results using standard tools and techniques
+May suggest analytics opportunities and best practices
+Performs other duties as assigned
+
+What You'll Need
+
+Required
+
+Bachelor’s degree or in Computer Science, Information Systems, Business, or another related field. Or equivalent work experience
+Typically requires 1-3 years of relevant technical and business work experience, including internships
+
+Preferred or Specialized
+
+Experience in an agile environment strongly preferred
+Experience with SAFe® framework preferred
+
+Certifications & Licenses
+
+N/A
+
+Knowledge, Skills & Abilities
+
+Basic knowledge of:
+
+Business operations, systems requirements and IT processes and technologies
+Relational databases, NoSQL databases, data extraction, querying, and scripting
+How data is used within business processes and its impact on desired business process outcomes
+The security, privacy and quality requirements for critical data entities
+
+Basic ability to:
+
+Perform data analysis identifying, analyzing and interpreting trends or patterns in structured and unstructured complex data sets
+Provide support for the adoption of data governance policies
+Assist in resolving the different points of view and requirements that invariably collide during cross-team and cross-organization efforts
+Use/leverage spreadsheets and databases
+Interpret trends or patterns in structured and unstructured complex data sets
+Summarize findings, draw conclusions and put together presentations for a wide variety of audiences
+Apply original thinking to produce new ideas and innovate 

@@ -1,0 +1,37 @@
+Department Summary:
+
+At DISH Wireless, we reimagine connectivity through new platforms, new business models and new ways of thinking.
+Today, we are building America’s first cloud-native 5G network to transform the way we live, work and play with unlimited potential. Our teams operate at the intersection of wireless, data analytics, AI and the cloud to create something state-of-the-art, radically original and truly unlike what anyone else can.
+
+Job Duties and Responsibilities:
+
+The Transport Specialist will manage all activities related to implementation of transport circuits within a given market including but not limited to the following:
+Develop analytic methodologies to identify implementation related issues, recommend and lead implementation on areas of opportunity within key initiatives
+Review and analyze Telco ready requirements and ensuring that they are properly defined for construction team
+Lead periodic meetings with transport vendor(s) to ensure that circuits are delivered on time
+Work with market deployment team and transport vendor to conduct site visits
+Work with market deployment team to ensure that NTP is issued to the transport vendor promptly
+Attend deployment meeting regularly to provide updates on transport implementation
+Establish excellent relationship with transport vendor(s) at the market level
+Intake all circuit design and expedite ordering and testing related activities with transport engineers and provisioners
+Post Deployment issue resolution, planning and analyzing to ensure proper coverage when traffic drastically increases due to external factors
+Troubleshoot and optimize traffic performance on live network
+Plan and coordinate transport requirements for Special Events, DAS, and small cell projects
+Skills, Experience and Requirements:
+
+The successful Transport Specialist will have:
+2-4+ years in the Telecom industry
+Basic understanding of wireless data and voice network architecture
+Advanced understanding of transport implementation
+Experience with Microsoft Office and Google Suite
+Ability to identify and understand complex problems/issues and develop solutions
+Ability to manage multiple commitments simultaneously
+Excellent written and oral communication skills
+Excellent attention to details
+Outstanding organizational and analytical skills
+Able to work independently and inside a team
+Bachelor' Degree or an equivalent combination of education and experience.
+Benefits:
+
+From versatile health perks to new career opportunities, check out our benefits on our careers website.
+Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test. 

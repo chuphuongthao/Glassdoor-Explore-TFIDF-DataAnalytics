@@ -1,0 +1,55 @@
+EnergyHub empowers utilities and their customers to create a clean, distributed energy future. Our customers are real utilities managing the real electrical grid supporting the normal lives of millions of real people. Our mission is to keep the grid running reliably while enabling more renewables and less reliance on fossil fuel.
+
+ We are looking for a Data Engineering Manager who thrives in a fast-paced, dynamic environment, comfortable navigating ambiguity while moving projects forward, and motivated to build programs and processes that foster greater team organization, efficiency and scalability across the organization. This person will focus on people management, strategic alignment and software development projects that have a meaningful impact on the progress of EnergyHub everywhere.
+
+Projects you will work on:
+
+The Data team's mission is to make current, accurate, actionable data, available everywhere it's needed. The team works on projects related to:
+
+ETL pipelines for DER (Distributed Energy Resource) data at scale
+Imagine millions of smart thermostats, EV chargers, solar inverters, etc all sending us data every 15 minutes 24/7/365
+Maintaining our data warehouse and the integrations, tools and services built on top of it
+Relational and dimensional data modeling
+Analyzing and reporting on the data including meeting with stakeholders to understand how we can leverage data to deliver the insights they need.
+
+What excites us about you:
+
+Experienced in managing software development teams, ideally in a Python based environment
+Believe in guiding teams with clear direction to ensure team has the right resources, ability to participate in solution development and making sure team is able to deliver quality, well-tested code on time, in scope, and focus on continued scalability
+Work in partnership across the organization, including Product to define the team's mission, vision and roadmap
+Comfortable providing strategic oversight, architectural direction and execution for new team initiatives
+Solid understanding of designing and building highly scalable data warehouses, data pipelines, data modeling, designing data lakes and big data analytics
+You get excited about data observability, monitoring and quality
+Thrive on building your team's skills through coaching, mentoring and training opportunities
+Believe in continuously raising the bar through sustainable, high quality execution of your team through organizational evolution, process improvement efforts and leveling your team's technical prowess
+
+What's important to us:
+
+At EnergyHub we care about your passion and how you can contribute to our mission, not about the schools and companies on your resume.
+
+This is not a list of requirements and we certainly don't expect that you need to hit every bullet point to be a great candidate or great in the role. However, these things will catch our eye and demonstrate many of the core skills needed.
+
+Core technical knowledge and experience with some of the tools and technologies at EnergyHub with a focus on Python, Snowflake, Airflow, AWS, SQL
+2+ years of experience directly managing teams of developers (ideally with teams of 5-7+)
+Clear the way for architectural conversations and conclusions with teams while also providing framework and process needed to effectively deploy software in an Agile environment
+Conduct code reviews across the team and undaunted about working in the existing code base as needed
+Ability to learn from unsuccessful projects with appropriate corrections to improve process, resource, and coaching
+Ambiguity and a dynamic work environment are exciting and present unique opportunities for growth, innovative solution development, etc
+Believe in a test first approach to coding
+Successful launch of multiple products or new features into the market
+
+Company Information
+
+EnergyHub is a growing enterprise software company that works with the most forward-thinking companies in smart energy. Our platform lets consumers turn their smart thermostats, electric cars, water heaters, and other products into virtual power plants that keep the grid stable and enable higher penetration of solar and wind power. We work on technology that already provides energy and cost savings to millions of people through partnerships with the leading companies in the Internet of Things.
+
+Focus on fun:
+
+EnergyHub places high value on our team culture. Happy hours and holiday parties are important to us, but what's also important is how our employees feel every single day.
+
+Company Benefits
+
+EnergyHub offers a generous benefits package including 100% paid medical for employees and a 401(k) with employer match. We offer a casual environment, the flexibility to set your own schedule, a fully stocked fridge, and pantry, free Citi Bike membership, secure bike rack, gym subsidy, paid parental leave, and an education assistance program.
+
+EnergyHub is an Equal Opportunity Employer
+
+EnergyHub strongly supports diversity and encourages women, BIPOC, veteran and non-traditional candidates to proactively apply. In connection with your application, we collect information that identifies, reasonably relates to or describes you ("Personal Information"). The categories of Personal Information that we may collect include your name, government-issued identification number(s), email address, mailing address, other contact information, emergency contact information, employment history, educational history, and demographic information. We collect and use those categories of Personal Information about you for human resources and other business management purposes, including identifying and evaluating you as a candidate for potential or future employment or future positions, recordkeeping in relation to recruiting and hiring, conducting analytics, and ensuring compliance with applicable legal requirements and Company policies. 

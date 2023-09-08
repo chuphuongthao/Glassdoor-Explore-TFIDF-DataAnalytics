@@ -1,0 +1,38 @@
+Location: 7000 Target Pkwy N, Brooklyn Park, Minnesota, United States, 55445
+As a Lead Data Scientist in our Digital and Marketing Core Capabilities team, you will develop machine learning models and algorithms for next-gen capabilities that are cross-cutting to multiple, high impact product areas for Target including Recommendations, Personalization, Search, and Marketing. You will work with business partners, data science product teams, and other data scientists and engineers to gain an understanding of our business needs and technology processes. You will build end-to-end AI/ML solutions to meet those needs, including development, deployment, and maintenance of algorithms and models at the grandest scale!
+In this role, you’ll translate your knowledge of deep learning from the fields of Computer Vision and Natural Language Processing into reusable data science assets that impact millions of Target guests on a daily basis. You will get to work with the latest research and technology as your solutions will drive the next generation of guest experiences and business insights with a diverse, global team.
+Following are the specific job duties:
+Analyze multi-modal data sets to formulate and validate statistical hypotheses and to find patterns and other actionable insights
+Leverage your in-depth understanding of modern neural networks (transfer learning, representation learning, multi-task learning, multimodal learning, metric learning) to design and implement application-specific solutions
+Scale deep learning models to learn from large data sets, work with ML engineers to optimize these models for efficient performance
+Test, validate, and deploy these models on modern computer hardware (GPUs, for example)
+Collaborate with other data scientists and ML engineers to solve high-impact business problems and to create operational efficiencies
+Partner and closely communicate with internal stakeholders and cross-product teams in stitching together end-to-end technical solutions
+Follow agile methodology to build high quality technical products
+Keep abreast with the relevant work and research in the industry as well as in academia
+About you:
+MS or PhD in Computer Science, Applied Mathematics, Statistics, or equivalent quantitative and foundational expertise
+5+ years of experience in building and optimizing Machine Learning models to solve complex business problems
+Proficient in Python, R, Java or equivalent programming language
+Extensive hands on experience working with modern Deep Learning frameworks: Tensorflow and PyTorch
+Expert in creating Deep Learning -based NLP and CV models
+Theoretical and practical understanding of modern neural network architectures in transfer learning, representation learning, multi-task learning, multimodal learning, metric learning
+Able to adopt and modify publicly available Deep Neural Network (DNN) architectures for internal application needs
+Demonstrated ability to develop large scale ML models and deploy them to production
+Ability to test, measure, and monitor performance of algorithms - including in production
+Demonstrated experience in working with business teams and in driving value to business through analytical methods
+Able to produce reasonable documents/narrative suggesting actionable insights
+Excellent communication skills. Ability to clearly tell data driven stories through appropriate visualizations, graphs, and narratives
+Self-driven and results oriented; able to meet tight timelines
+Strong team player with ability to collaborate effectively across geographies/time zones
+About Us:
+As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.
+Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel, and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win together.
+Every time a guest enters a Target store or browses Target.com, they experience the impact of Target’s investments in technology and innovation. We’re the technologists behind one of the most loved retail brands, delivering joy to millions of our guests, team members, and communities.
+Join our global in-house technology team of more than 4,000 engineers, data scientists, architects, coaches, and product managers striving to make Target the most convenient, safe, and joyful place to shop. We use agile practices and leverage open-source software to adapt and build best-in-class technology for our team members and guests—and we do so with a focus on diversity and inclusion, experimentation, and continuous learning.
+A role with Target Data Sciences means the chance to help develop and manage state of the art predictive algorithms that use data at scale to automate and optimize decisions at scale. Whether you join our Statistics, Optimization or Machine Learning teams, you’ll be challenged to harness Target’s impressive data breadth to build the algorithms that power solutions our partners in Marketing, Supply Chain Optimization, Network Security and Personalization rely on.
+Every Scientist on Target’s Data Sciences team can expect modeling and data science, software/product development of highly performant code for Model Performance, and to elevate Target’s culture and apply retail domain knowledge.
+This position may be considered for a Full-Time Remote or Hybrid work arrangement based on Target’s needs. A Hybrid work arrangement means the team members core role will be a blend of virtual and onsite at a Target location. A Full-Time Remote work arrangement means the team member works full-time from home or an alternate location that’s not a Target location, does not have a desk at their primary HQ work location and may travel to HQ up to 4 times a year.
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado, Connecticut or Nevada residents is $118,200 to $212,800 Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Find competitive benefits from financial and education to well-being and beyond
+Americans with Disabilities Act (ADA)
+Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information. 

@@ -1,0 +1,34 @@
+Location: 7000 Target Pkwy N, Brooklyn Park, Minnesota, United States, 55445
+About us:
+Target is an iconic brand, a Fortune 50 company, and one of America’s leading retailers. Target as a tech and data company? Absolutely! We’re the behind-the-scenes powerhouse that fuels Target’s passion and commitment to cutting-edge innovation. We anchor every facet of one of the world’s best-loved retailers with a strong technology framework that relies on the latest tools and technologies—and the brightest people—to deliver incredible value to guests online and in stores. Target’s Tech and Data Sciences teams are on a mission to offer the systems, tools, and support that guests and team members need and deserve. Our high-performing teams balance independence with collaboration and we pride ourselves on being versatile, agile, and creative. We drive industry-leading technologies in support of every angle of the business and help ensure that Target operates smoothly, securely, and reliably from the inside out.
+About the role:
+As a Senior Data Scientist on the Demand Forecasting team with Target Data Sciences, you’ll develop models and algorithms for our retail business. You’ll work closely with partner team data scientists and Merch business partners to continuously learn more about our business and particularly develop an understanding of the various processes we have in play. You will partner with ML Engineers and Applied Scientists on our partner teams to build solutions for business needs including development, deployment, and maintenance of algorithms and models at scale!
+Our team oversees the creation and development of the Demand Forecasting quantitative platform, building the key components which allow us to evaluate the demand and prices of our products and proprietary ‘new ventures’ products. We aim to develop these tools to be more efficient and precise – while also making them directly available to our business team users, allowing us to quickly respond to our Guests’ needs in stores and online.
+In this role at Target as a Senior Data Scientist, you’ll:
+Change the way demand forecasting and pricing is originated in retail in Target Data Sciences
+Create our next generation demand and pricing platform at a Fortune 50 company
+Write code for math/stats models to evaluate demand for millions of items and compute prices
+Partner with business users and other scientists / engineers to build a framework allowing us to develop a new platform to more efficiently estimate demand and price on the fly
+Impact our business by improving our ability to serve our Guests and by directly reducing compute cost through more efficient algorithms
+Coordinate the analysis, troubleshooting, and resolution of issues in our software and the broader infrastructure
+What we're looking for:
+M.S/Ph.D. in Mathematics, Statistics, Operations Research, Economics, Physics, Computer Science, or in a related Mathematical or Computational Engineering major (or equivalent research experience)
+2+ years of experience in building forecasting models, artificial intelligence models, optimization algorithms or equivalent school experience
+Proficient in one or more of R, Python, C++, Java, Scala or equivalent programming language
+Understanding of data structures and algorithms
+Knowledge of linear algebra, statistics, information theory or related mathematical domains
+Understand deep learning, dynamic programming, reinforcement learning or related areas
+Ability to test and measure algorithms
+Excellent written and verbal communication skills
+Bonus Points:
+Strong quantitative skills including specific experience with Statistical Inference, Generalized Linear Models, Markov Decision Processes
+Experience working with large event-driven distributed systems and multi-threaded applications.
+Why grow your career with Target Data Sciences?
+You will work directly on the data science problems that have the most impact on Target's entire supply chain, forecasting and merchandising teams.
+We value diversity. We believe that diversity and inclusion is of core importance when we try to create positive in-store experiences for our guests, and we think it is also critically important when building our teams. Read more about our commitment to diversity and inclusion
+We love open source! Many of our team members contribute to open source communities and get to do it during work time. We try to contribute back to our communities where we can and are grateful to be able to open source some of our own projects!
+We value our team members for who they are, not just what they can get done. We treat our team members like people, not like cogs in a machine. We are parents, hobbyists, enthusiasts, family members, and community members, and can offer flexibility to our team members' schedules and work arrangements so that they can flourish both inside and outside of work.
+This position may be considered for a Full-Time Remote or Hybrid work arrangement based on Target’s needs. A Hybrid work arrangement means the team members core role will be a blend of virtual and onsite at a Target location. A Full-Time Remote work arrangement means the team member works full-time from home or an alternate location that’s not a Target location, does not have a desk at their primary HQ work location and may travel to HQ up to 4 times a year.
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado, Connecticut or Nevada residents is $87,600 to $157,700.00 Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Find competitive benefits from financial and education to well-being and beyond.
+Americans with Disabilities Act (ADA)
+Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information. 

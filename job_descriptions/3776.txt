@@ -1,0 +1,61 @@
+About Invoca:
+
+Invoca is the industry innovator in AI and machine learning-powered Conversation Intelligence technology. Forrester Research identified Invoca as a Leader in The Forrester Wave™: Conversation Intelligence: Sales And Marketing, Q4 2021 report, stating that "Invoca is one of the few established conversation intelligence vendors that can legitimately claim AI capabilities."
+
+With over 300 employees, more than 2,000 customers, and nearing $100M in revenue, there are tremendous opportunities to continue growing the business. We are building a world-class SaaS company, having raised over $100 million from Accel, Upfront Ventures, Salesforce Ventures, Morgan Stanley, and H.I.G. Growth Partners.
+
+At Invoca, we live by our four core values:
+
+Figure it Out: we take ownership of our work and are given the freedom to blaze our own trails.
+Help Each Other Thrive: we foster an inclusive and humble culture that allows us to build value for both our customers and our people.
+Continuous Improvement: we challenge the status quo every day to develop creative solutions that make our products better and our customers more successful
+Light the Customer's Way: we don't just sell a product or turn on a service; we are partners and trusted advisors who support and invest in our customers and their success.
+
+If these values resonate with you, we encourage you to come join us - we are building something special.
+
+About the Role:
+
+The core of this role is running data science experiments, training both proprietary and open source models with different data sets and parameters, assessing the results, and presenting to the team.
+
+You Have:
+Required Skills
+Python
+Standard data processing libraries
+pandas, numpy
+Experience with at least one machine learning library
+keras, huggingface, scikit-learn, pytorch, tensor flow
+Machine learning experiment design
+Preferred Skills
+DataBricks or Jupyter notebooks
+Interest in the following:
+Experimentation and visualization using notebooks
+DataBricks / Jupyter / Streamlit / Python
+Analyzing data, understanding our unique data sets
+Conceptualizing and extracting important properties
+Working with a combination of machine learning techniques
+Bayesian systems, neural networks, Random forests, ensemble models
+Recombining and repurposing for new applications in the product
+Testing whether new ideas work with those techniques
+Salary, Benefits & Perks:
+
+Teammates are eligible to begin receiving benefits on the first day of the month following or coinciding with one month of continuous employment. Below are some of our offerings:
+
+Paid Time Off - Invoca encourages a work-life balance for our employees. We have an outstanding PTO policy, starting at 20 days off, for all full-time employees. We also offer 15 paid holidays, 10 days Compassionate Leave, 3 days volunteer time and more.
+Healthcare - Invoca offers a health care program that includes medical, dental and vision coverage. There are multiple plan options to choose from so you can make the best choice for yourself, partner and family.
+Retirement - Invoca offers a 401(k) plan through Fidelity with a company match of up to 4%.
+Stock options - All employees are invited to ownership in Invoca through stock options.
+Employee Assistance Program - Invoca offers well-being support on issues ranging from personal matters to everyday life topics through the WorkLifeMatters program.
+Paid Family Leave - Invoca offers up to six weeks 100% paid leave for baby bonding, adoption, and caring for family members
+Paid Medical Leave - Invoca offers up to twelve weeks 100% paid leave for childbirth and medical need
+Sabbatical - We thank our long-term team members with an additional week of PTO along with a bonus after 7 years of service.
+Wellness Subsidy - In further support of your well-being, Invoca provides a wellness subsidy that can be applied to a gym membership, fitness classes and more.
+Position Base Range - $84,000.00 - $111,100.00/ plus bonus potential
+DEI Statement
+
+"Our company is committed to creating a culture that is not only grounded in continuous learning, teamwork, and customer success, but is fair, equitable, and welcoming for everyone." - Gregg Johnson, CEO
+
+And to us, diversity, equity and inclusion means more than treating current employees well and making them feel welcome. It also means hiring people who bring different insights because of their unique demographics, ways of thinking, and prior experiences.
+
+We intend to continue hiring great people and protecting our culture so everyone can be themselves and speak their minds. That way Invoca will always be a place filled with laughter, positivity, thoughtfulness and respect.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace. 

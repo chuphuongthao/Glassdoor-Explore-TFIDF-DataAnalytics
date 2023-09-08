@@ -1,0 +1,36 @@
+The opportunity
+TC Energy’s is seeking a Data Analytics Developer. This is a key position on a team that believes our business needs continual evolution. We blend strategy, creativity, and technology to provide solutions that are customer focused and fit for purpose. This role is fit for someone who is passionate about data and has experience increasing its value through the following activities:
+Preparation & Modeling
+Analytics & Data Science
+Reporting & Visualization
+A Data Analytics Developer is a mesh of a data architect, engineer, analyst, and a developer who is responsible for the design development and testing of technological solutions for our internal partners. Your solutions will drive actionable improvements to our business and must be customer focused and innovative.
+This position reports to the Manager, Business Intelligence and Enablement in the U.S. Gas business unit.
+What you'll do
+Be a subject matter expert but stay humble. Continue learning and trying new technology, tools and services that will be needed to architect your solutions.
+Be a Power Platform fanatic, KNOW EVERYTHING about Power BI and sharpen and explore as many other data platforms and tools as you can (Offices 365, AWS, etc)
+Design and develop technological solutions such as data platforms, dashboards, and advanced analytics.
+Shape and transform data into data models that will be highly effective for self-service and reusable for numberless future reports and analysis.
+Learn about and explore opportunities and use cases for machine learning and artificial intelligence to predict and provide recommendations, and improvements.
+Be a disrupter, challenge the status quo, and encourage team members and partners in the business unit to embrace what is possible and think 'outside of the box'
+Provide thought leadership to our team and be an advocate and support citizen development within the business unit. Demonstrate and teach leading practices for development and analytics.
+Minimum Qualifications
+Requires relevant post-secondary education (typically a bachelor’s degree) with 6+ years of experience in data analytics related work. Equivalent combination of education and experience may be considered.
+4 or more years of experience with data transformations and modeling (shaping)
+4 or more years of experience with data visualization or reporting
+2 or more years of work experience with Power BI
+Bachelor’s Degree, Certifications or equivalent experience.
+Knowledge of relational and dimensional database structures, theories, principles, and practice
+Knowledge of software development best practices and agile delivery methodology
+Preferred Qualifications
+Degrees desired in Accounting, Computer Science, Economics, Engineering, Finance, Information Technology, Mathematics, Statistics, Psychology, or related field.
+Certifications desired in data analytics, data science, data management from accredited institutions such as AWS and Microsoft.
+6 or more years post-educational experience in data analytics, business intelligence or information management
+4 years or more of experience working with a query or programming language (for example: Power Query (M), DAX, SQL, Alteryx, Python, R, VBA, Spark, Hive, Jaql, etc)
+Expertise with Power Platform tools (Power BI, Power Automate, Power Apps, Dataverse, etc.)
+Experience with effective design/data visualization
+About our business
+TC Energy is a leading energy infrastructure company in North America. We have three complementary businesses of natural gas pipelines, liquids (oil) pipelines, and power generation. Our operations span three countries, seven Canadian provinces, and 34 U.S. states.
+TC Energy is an equal opportunity employer.
+Learn more
+Visit us at TCEnergy.com and connect with us on our social media channels for our latest news, employee stories, community activities, and other updates.
+Thank you for choosing TC Energy in your career search.Depending on qualifications, the successful candidate may be offered a position at a more appropriate level and/or ladder.Applicants must have legal authorization to work in the country in which the position is based with no restrictions.All positions require background screening. Some require criminal and/or credit checks to comply with regulations.TC Energy is committed to provide employment opportunities to all qualified individuals, without regard to race, religion, age, sex, color, national origin, sexual orientation, gender identity, veteran status, or disability. Accommodation for applicants with disabilities is available on request during the recruitment process. Applicants with disabilities can request accessible formats or communication supports by contacting careers@tcenergy.com. 

@@ -1,0 +1,24 @@
+About Us
+Luxury Presence is a rapidly growing Bessemer-backed SaaS startup that enables real estate agents to manage their online presence. We are moving fast to build the next generation SaaS platform in the rapidly growing PropTech industry. Now we’re looking for our first Data & Analytics Leader to take our data game to the next level. It’s time that we take the entirety of our operational, financial, and product data and start driving insights, predictions, and better decisions across the entire company.
+Position:
+Team: Data
+Title: Head of Data & Analytics
+Location: U.S. Based, Remote
+Compensation: 200k-240k, Bonus, Stock Options, Flex PTO, Health/Vision/Dental, Retreats
+Why Now?
+We’ve enjoyed tremendous growth over the last 5 years. With that growth comes a treasure trove of data that is valuable to us, and our customers. We need an experienced and passionate leader to come in and help us realize that value and unlock the insights that exist at the intersection of our operational, financial, and product data. This is a unique opportunity to join a fast growing startup and build our data team, culture, and processes from the ground up. You’ll start by owning traditional analytics dashboards before moving onto more sophisticated data science models for churn prediction, lead scoring, and more. Finally, you’ll work with our product teams to deliver data products to our
+
+What you will do as our Head of Data & Analytics:Hire our initial team of Data Analysts, Scientists, and Engineers.
+Provide requirements for, and help to build our data stack.
+Understand and deliver on the data needs across our Executive, Sales, Success, Marketing, Operations, and Product teams.
+Skills & Qualifications:7+ years of experience in Data Science and Analytics2+ years of management experienceVery strong communication and presentation skillsIntimate knowledge of SQL and PythonAble to lead both analytical and machine learning work streamsStrong command of all phases of the data science development process, from initial analysis and model development through to deploymentExperience applying advanced statistical and modeling techniques to solve business problems
+Our Data Stack (so far):SnowflakedbtStitchSigma & Metabase
+Who we are: Luxury Presence is the real estate industry's most powerful marketing platform, providing award winning websites and cutting edge tech to the world’s top agents.
+
+Founded in 2016 by Stanford Business School alumni Malte Kramer, Luxury Presence currently serves over 5000 clients in the U.S. and Canada with its SaaS model — including over 20 of the top 100 WSJ real estate agents and teams. In addition, Luxury Presence is the official website partner to some of the industry's most powerful brokerages.
+
+The Los Angeles-based SaaS company raised $25.9 million for its Series B round. Bessemer Venture Partners led the round alongside fellow existing investors Toba Capital and Switch Ventures. Former Dallas Mavericks basketball player Dirk Nowitzki also participated in the round, along with other angel investors.
+
+Its solutions include stunning website design, an engaging home search tool, an agent-to-agent listing referral network, powerful content & SEO strategies, expert-lead social media management, and digital advertising for lead generation. In 2020, Luxury Presence was recognized as a Best Place to Work by BuiltinLA and by Inc. as the 322nd fastest growing private company in America and then again in 2021 — LP ranked 598th.
+
+Luxury Presence is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. 

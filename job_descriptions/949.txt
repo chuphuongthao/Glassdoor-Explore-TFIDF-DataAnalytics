@@ -1,0 +1,28 @@
+ALTA IT Services is a wholly owned subsidiary of System One, a leading provider of specialized workforce solutions and integrated services. ALTA is an established leader in IT Staffing and Services, for both government and commercial enterprises across the United States, specializing in Program & Project Management, Application Development, Cybersecurity, Data & Advanced Analytics, and Agile Transformation Services.
+
+ALTA IT is looking for a Data Scientist for a 6 month contract to hire, fully remote position. As a Data Scientist, you’re a strategic thinker who can apply data science and machine learning to make well-informed people decisions. You ask questions about people, the business, and how we can use data to find creative solutions. You are candid and collaborative in taking on our most difficult analytics projects as well as the process and culture changes that accompany them. Responsibilities will include but are not limited to:
+Translating business questions and identifying and implementing appropriate modeling or analysis techniques
+Taking projects from initial concept through deployment
+Creating data visualizations using common tools (Python or R libraries, Tableau, etc.)
+Utilizing exceptional interpersonal and communication skills to present complex models or analyses to business partners
+Collaborating with stakeholders, teammates, and business leaders
+
+Basic Qualifications:
+Bachelor’s or Master’s degree in a STEM field with X years of experience, X with a PhD.
+Focus in data science, computer science, or statistics preferred
+Expertise in machine learning, modeling algorithms, or statistics
+Experience with Python, R, or another scripting language
+Experience with SQL, ETL, and databases
+Experience collaborating on projects with multiple teams, managing relationships, and communicating findings to audiences
+US Citizenship is required due to classified data
+
+Preferred Qualifications:
+Experience building pipelines for machine learning models
+Experience automating processes
+Experience with talent or people or t related data analytics
+Ability to work with the utmost confidentiality when applicable
+Ability to work both independently and collaboratively on a team
+
+ALTA IT Services is an equal opportunity/affirmative action employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, disability, veteran status, sexual orientation, or any other factor.
+
+3 

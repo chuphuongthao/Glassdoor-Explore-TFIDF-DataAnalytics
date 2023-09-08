@@ -1,0 +1,25 @@
+YOUR TASKS AND RESPONSIBILITIES
+The primary responsibilities of this role, Data Science Co-Op, are to:
+Perform research to advance the science and technology of data science;
+Familiarize large scale data query tools, and cloud computing infrastructures;
+Build, test and validate prescriptive/predictive models through iterative process;
+Evaluate the model performance with solid metrics;
+Write detailed documentation;
+Understand the key domain breeding process;
+Present project results to leadership team and partners;
+Work closely with data scientist in Breeding Analytics team, other stakeholders, and breeders in any/all regions.
+WHO YOU ARE
+Your success will be driven by your demonstration of our LIFE values. More specifically related to this position, Bayer seeks an incumbent who possesses the following:
+Required Qualifications:
+Currently in the process of obtaining, a degree such as Ph.D., Masters, or Bachelors with relevant research experience in Computer Science; Operations Research, Statistics, Mathematics or related field;
+Must obtain work authorization at the time of hire and maintain ongoing work authorization during employment.
+Preferred Qualifications:
+Experience in machine learning, artificial intelligence (AI), computer vision, optimization, computer science, statistics, applied mathematics, or data science;
+Experience solving analytical problems using quantitative approaches;
+Ability to manipulate and analyze complex, large scale, high-dimensionality data from varying sources;
+Experience in utilizing theoretical and empirical research to solve problems;
+Understanding of statistics and experience applying statistical concepts to real-world data;
+Ability to communicate complex research in a clear, precise, and actionable manner;
+Fluent in Python and/or R programming language;
+Experience building systems based on machine learning and/or deep learning methods;
+Strong analytical and quantitative problem-solving ability. 

@@ -1,0 +1,58 @@
+Are you ready to make an impact?
+West Monroe is seeking an Analytics leader for our rapidly growing Data Engineering and Analytics practice.
+
+As a Managing Director/Partner, you will join a Leadership Team focused on cultivating teams that leverage data to unlock actionable insights for our clients, while mentoring the next generation of data science leaders at West Monroe. This role entails significant responsibility in shaping and delivering our Analytics vision; candidates should be passionate about what they do and be prepared to embrace West Monroe’s fast-growing and entrepreneurial environment.
+
+This leadership role will have three areas of responsibility:
+
+Practice Development
+
+Collaborate with national and local leadership within Data Engineering & Analytics practice and across West Monroe (WM) industry and functional practices, to develop and deliver multi-disciplinary, data-driven offerings
+Actively lead innovation activities, often in partnership with industry and functional experts and data engineers, to expand and enhance WM’s Analytics solutions and capabilities
+Develop knowledge of emerging data science techniques; socialize and teach concepts to WM data science community
+Lead, mentor and grow consultants and actively participate in the career advisory and performance management process
+Actively participate in recruiting and retaining top quality data scientists
+
+Client Delivery
+
+Provide quality assurance and conduct frequent touch bases with client executives to ensure value is realized and understood from our engagements
+Manage and influence multi-disciplinary teams to translate client business objectives into data and analytics solutions; collaborate with data engineering, industry, and product teams to deliver impactful results for our clients
+Develop and deploy data-driven offerings and accelerators focused on addressing industry-specific challenges
+Provide leadership and mentorship for teams of data scientists on analytical techniques, and guide the translation of insights into actionable recommendations across multiple projects
+Excellent communication skills to be able to work with client representatives at all levels
+Establish and maintain relationships with external data and analytics vendors
+
+Business Development
+
+Engage with business partners across the firm to identify and cross sell opportunities
+Cultivate new and existing client development opportunities related to data and analytics
+Understand client needs to translate challenges and objectives into proposals
+Develop thought leadership in leading analytics techniques, including how to apply emerging ML techniques to deliver commercial results
+Attend conferences and networking events to further WM’s brand and market perception related to data and analytics
+
+
+Qualifications
+
+Preferred Master's degree or PhD in a quantitative discipline (e.g., computer science, applied statistics, mathematics, econometrics, engineering) or equivalent experience
+10+ years of technical experience in machine learning and statistics related work
+5+ years of experience managing data scientists
+Demonstrated ability to apply advanced analytical and data science methods to commercial scenarios
+Extensive programming experience in Python or R
+Extensive experience designing and deploying machine learning solutions, including experience with leading cloud platforms (AWS, GCP, Azure) and corresponding machine learning services
+Ability to collaborate with WM team members across the firm (e.g., levels, geographies, practices)
+Strong presentation and communication skills, including the ability to explain complex technical concepts to non-technical audiences
+Entrepreneurial spirit and willingness to innovate on new and emerging solutions
+Legally authorized to work in the United States without limitation
+Ability to Travel, as required based on client and practice demands (expected to be 10-20%)
+
+#LI-HYBRID
+West Monroe is a digital services firm that partners with companies in transformative industries to deliver quantifiable financial value. We believe that digital is a mindset and it’s something companies become, not something they do. We bring together diverse, multidisciplinary teams that use their expertise to develop and execute new ideas and ways of working.
+
+At West Monroe, we invest in our people and care in a big way. We are growing the next generation of leaders who lead with inclusion, enabling us to address our clients’ most complex challenges. If you’re looking for a place where you’ll feel supported, our team will help you grow. We believe that growth breeds opportunity for all. And know that when we come together, we can do what's never been done.
+
+Our fast-paced culture and collaborative teams bring the energy and expertise needed to make an impact and deliver beyond expectations. If you are ready to set big goals with us, join us on our journey of building what matters for our clients, our people, and our communities.
+
+West Monroe is an Equal Employment Opportunity Employer
+We believe in treating each employee and applicant for employment fairly and with dignity. We base our employment decisions on merit, experience, and potential, without regard to race, color, national origin, sex, sexual orientation, gender identity, marital status, age, religion, disability, veteran status, or any other characteristic prohibited by federal, state or local law. To learn more about inclusion and diversity at West Monroe, visit www.westmonroe.com/inclusion.
+
+If you are based in California, we encourage you to read West Monroe’s Notice at Collection for California residents, provided pursuant to the California Consumer Privacy Act (CCPA). 

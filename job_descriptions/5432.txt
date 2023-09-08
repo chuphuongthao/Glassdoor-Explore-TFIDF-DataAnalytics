@@ -1,0 +1,93 @@
+Mars is a family-owned business with more than $35 billion in global sales. We produce some of the world’s best-loved brands: M&M’s®, SNICKERS®, TWIX®, MILKY WAY®, DOVE®, PEDIGREE®, ROYAL CANIN®, WHISKAS®, EXTRA®, ORBIT®, 5™, SKITTLES®, BEN’S ORIGINAL®, and COCOAVIA®.
+Alongside our consumer brands, we proudly take care of half of the world’s pets through our nutrition, health and services businesses such as Banfield Pet Hospitals™, BluePearl®, Linnaeus, AniCura, VCA™ and Pet Partners™. Headquartered in McLean, VA, Mars operates in more than 80 countries. The Mars Five Principles – Quality, Responsibility, Mutuality, Efficiency and Freedom – inspire our 125,000 Associates into taking action every day towards creating the world we want tomorrow.
+Data & Analytics at Mars Petcare:
+The Petcare Segment consists of five Divisions: Pet Nutrition, Royal Canin, Mars Veterinary Health N. America, Mars Veterinary Health International & Diagnostics, Kinship. Under this new organization of Petcare Product and Service brands, we launched our Strategy in 2018 with an objective to “Create a Better World for Pets by extending global leadership in Nutrition, Health and Services powered by Data”.
+With the breadth and scale of our Petcare businesses we have unique and unrivalled data assets. The potential to create benefits for Pets and sustainable competitive advantage is huge and we need to seize this opportunity now.
+Our data assets consist of Veterinary data including appointment and invoice details as well as the medical histories and diagnostic details this provides. We have breed and disease marker data from our DNA diagnostics business (Wisdom Health), Location and Activity Tracking data from our Whistle business. From our nutrition businesses we have sales data, some consumer data as well as valuable information about retailers, Veterinarians, Breeders and Shelters. We also have third party data providing us with product purchasing insights and the potential to develop deeper and broader views into Petcare shopping through collaboration and D2C engagement.
+We began our work to leverage these more strategically to power our ecosystem in 2018 and there is a core team at the Petcare level incubating and guiding these efforts.
+
+About the role:
+To deliver on this ambition of a Powered by Data strategy we need talent with expertise and experience of data science and advanced analytics to deliver multiple initiatives and help lead the change in data and pet- and pet-centric thinking across the entire Mars Petcare business.
+The purpose of this role is to join and be an integral part of the data science function, planning, and leading projects to deliver the Powered By Data project across Mars Petcare divisions using the ecosystem of data available.
+We need an individual who can apply their knowledge and experience of data science / ML techniques to our unique data sets and lead data science projects. This will involve building a clear understanding of the potential benefits that connected data and analytics can bring and supporting this vision with stakeholders.
+The role involves hands-on delivery of analytics and insight as well as leading and mentoring others. Collaboration with stakeholders will be essential throughout to ensure the insights are actionable and that the business is ready to apply them to deliver the benefits. The role requires end-to-end expertise from data, analytics and insight delivery to stakeholder engagement and support of benefit realization. Being self-starting and self-sufficient while also communicating and collaborating effectively within the team and beyond is key.
+
+Key Responsibilities
+This is a leadership role within our data science team, and we are searching for a highly experienced data; to help deliver the ecosystem analytics roadmap across all divisions; working closely with the division stakeholders and head of data science in managing and delivering projects; working with global / regional teams to identify and implement efficient delivery of the vision; and, to articulate the strategic opportunities of a pet-centric analytics driven strategy.
+This will demand rapidly learning about the data we have, the business needs/challenges and applying expertise in analytics and data science delivery to turn this into great insight that is ultimately actionable and leads to valuable outcomes for the business
+The role reports into the Head of Data Science - North America. The primary responsibilities are:
+Plan and lead data science projects to understand and predict pet and pet owner behaviors
+Review work of team members identifying optimum methodologies, advising on implementation, and checking business logic
+Use machine learning techniques, visualizations, & statistical analysis to gain insight into various data sets – some readily available, and some you create and curate yourself
+Collaborate with internal and external teams to ensure we focus on pet-centric product and service recommendations and be a key player in our network of talent
+Mentoring, coaching, and inspiring the team
+Manage multiple projects
+Develop compelling stories that provide insight into the drivers of business performance and Pet/Pet Owner behavior
+Contribute to a high performing data science function
+Context and Scope:
+Ensuring outstanding delivery of pet and pet-owner centric insight, analytics, and data science across Petcare divisions to fulfil our purpose of creating a better world for pets
+Working closely with and leading team members and stakeholders to achieve this
+Explain complex concepts and solutions to non-technical and business users
+Regularly presenting work to stakeholder with context and Implications as well as Insights
+Apply a pet and pet-owner centric approach to problem solving across divisions ensuring highest standards of insight and data science delivery to create change
+Maintaining a strong customer focus and a keen understanding of commercially actionable deliverables that provide added value and services to our pet-owners
+Participating in communities of data science talent with a desire to share, network and communicate with other analytical and data experts to advance learning and understanding of pets and pet-owners
+Application and documentation of best practice standards in the execution of analytics projects for value creation including suggesting enhancements
+Enthusiastically advancing your and the team's skillset learning new technologies and techniques advance our problem-solving capabilities
+Contribute to the upskilling of Petcare by inspiring local teams with insight and storytelling to gain deeper engagement with the Powered By Data strategy
+Adherence to consumer and pet privacy frameworks, terms, consents, and approaches to ensure we position ourselves to empower consumers, to effectively leverage data for their advantage, to abide by all laws and relevant best practices
+Education & Professional Qualifications:
+Master's degree or equivalent in Data Science, Mathematics, Statistics, or other numerate discipline
+Nice to have – PhD / Degree with computing, scientific, statistical, or mathematical component
+Knowledge & Experience:
+8+ years varied technical experience in delivering statistical analytics, data science and insight on large-scale consumer data sets across multiple sectors.
+Strong preference for candidates with experience in packaged goods, or retail / DTC, or healthcare
+Demonstrable experience of using data science and advanced analytics to generate business value and change
+Demonstrable experience of planning and managing multiple projects in parallel
+Excellent knowledge of Python (NumPy, pandas, etc.) is required; Familiarity with PySpark is also desirable
+Capacity and enthusiasm for coaching and mentoring less experienced data scientists
+Must have excellent communication skills, and interact effectively with all levels of internal / external business stakeholders to engage and Influence
+Strong problem-solving skills
+Superior planning, project management and organizational orchestration skills and a strong attention to detail
+Able to Identify and resolve or escalating key points/issues
+Truly inspired by, and want to live, our purpose of creating a better world for pets.
+4 + years experience writing productional level code
+Can estimate time required to productionise code
+Understands potential pitfalls in code productionization
+Review and update production ready code
+Understands the performance issues for performance code
+
+Desirable:
+Passion for growing and strengthening a business using data driven / ML approaches
+Enjoys explaining how models and systems work to both non-technical and technical stakeholders
+Experience working on Azure cloud computing
+
+Personal traits:
+Comfortable with ambiguity, with a passion for collaboration to achieve objectives
+Quick learner, ability to understand and simplify highly complex scenarios
+Ability to work under pressure and prioritize workload
+Comfortable liaising with senior management as required
+Ability to collaborate with and influence peers
+Value focused with high energy and drive
+Key Mars Leadership Competencies:
+Problem Solving
+Learning on the fly
+Dealing with Ambiguity
+Decision Quality
+Action Orientated
+Key Functional Competencies & Technical Skills:
+Data Science / ML
+Statistical Analysis
+Data processing, standardization, and management
+Strategic Impact
+Work with over 130,000 like-minded and talented Associates, all guided by The Five Principles.
+Join a purpose driven company, where we’re striving to build the world we want tomorrow, today.
+Best-in-class learning and development support from day one, including access to our in-house Mars University.
+An industry competitive salary and benefits package, including company bonus.
+Find out more about what Mars can offer you by visiting our Global Careers site.
+
+Telephone call
+Video Call with Hiring Managers
+Tech Case Study
+Offer!
+Python, Numpy, PandasPython, Numpy, Pandas, Pyspark, Data Driven, Machine Learning, Azure 

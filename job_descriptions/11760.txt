@@ -1,0 +1,32 @@
+We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as a tech startup within a Fortune 100 company, we are leading a digital disruption that will redefine how people experience insurance.
+Liberty Mutual Insurance Information Technology is actively searching for an experienced Systems Administrator. In this role you will perform the administrative activities required to support large, complex systems. You will perform hardware and software installation and upgrades, systems administration, operational support, and problem resolution for large systems.
+Most importantly, you'll be engaged in meaningful work for an organization that is committed to "helping people live safer, more secure lives" every day.
+Experience with some of the following: Qlik (data replication), Snowflake, Informatica AWS, Snaplogic, SQL, Java & Unix scripting is a plus.
+Responsibilities:
+Under direct supervision, works within an agile squad to engineer and deliver incremental features and capabilities resulting in a high-quality product or service. Monitors system performance and capacity, and reports changes in usage.
+Forecasts system demand, recommends upgrades, expansion, and reconfiguration.
+Troubleshoots hardware and software problems, takes appropriate corrective actions and/or interacts with IT staff or vendors in performing testing, support, and troubleshooting functions.
+Participates in site set-up, user training, hardware/software installation, maintenance and support, and documentation of hardware/software logs and operating procedures.
+Performs basic user administration (adds, changes, deletes, disk space management, backups and file restore). Documents standards and operating procedures for a large based system, and acts as a technical resource to the IT staff and systems users.
+Leads projects or subprojects including developing project plans, assigning tasks and facilitating team process.
+Consults on technical issues.
+Bachelor`s degree in technical or business discipline or equivalent experience, technical degree preferred.
+Generally, 5+ years of professional experience.
+Experience with some of the following: Qlik (data replication), Snowflake, Informatica AWS, Snaplogic, SQL, Java & Unix scripting is a plus.
+Proficient in multiple scripting or software engineering languages, ability to develop or deliver scaled automation across multiple platforms.
+Thorough knowledge of the following: IT concepts, strategies, methodologies.
+Well versed in diverse technologies and new technical architecture principles and concepts.
+Thorough knowledge in infrastructure, cloud-based platforms, and development tools.
+Thorough understanding of agile concepts and processes. Must be proactive, demonstrate initiative and be a logical thinker.
+Proficient consultative skills, including the ability to understand and assist in applying customer requirements, including drawing out unforeseen implications and making recommendations for design, the ability to define design reasoning, understanding potential impacts of design requirements.
+Thorough understanding of backlog tracking, burndown metrics, and incremental delivery.
+Collaboration, prioritization, and adaptability skills required.
+At Liberty Mutual, our purpose is to help people embrace today and confidently pursue tomorrow. That's why we provide an environment focused on openness, inclusion, trust and respect. Here, you'll discover our expansive range of roles, and a workplace where we aim to help turn your passion into a rewarding profession.
+
+Liberty Mutual has proudly been recognized as a “Great Place to Work” by Great Place to Work® US for the past several years. We were also selected as one of the “100 Best Places to Work in IT” on IDG's Insider Pro and Computerworld's 2020 list. For many years running, we have been named by Forbes as one of America's Best Employers for Women and one of America's Best Employers for New Graduates—as well as one of America's Best Employers for Diversity. To learn more about our commitment to diversity and inclusion please visit: https://jobs.libertymutualgroup.com/diversity-inclusion
+
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation, gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.
+
+16 

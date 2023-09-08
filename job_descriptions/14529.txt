@@ -1,0 +1,67 @@
+Overview
+
+Verantos (https://verantos.com) is a market leader in high accuracy real-world evidence (RWE) generation. The Verantos RWE platform integrates heterogenous real world data sources and generates evidence with the accuracy necessary for regulatory and reimbursement use. The Verantos RWE platform leverages data science and artificial intelligence along with advanced data sources such as electronic health records (EHR) to generate RWE capable of supporting complex clinical studies. Some of the largest biopharma companies in the world are Verantos customers.
+
+Description
+
+We are looking for a data engineer to join the AI team. You will work closely with the product manager and AI engineers to productionize an AI system.
+
+Responsibilities
+
+Build scalable cloud-based data pipelines to support ML/DL-based models for real-time and large-scale offline use cases, and increasing data volume and complexity
+
+Evaluate and integrate open source and vendor tools for various parts of data infrastructure
+
+Maintain and test data pipelines, including tracking data availability and stability
+
+Manage the quality and integrity of structured, semi-structured, and unstructured data
+
+Ability to work across structured, semi-structured and unstructured data
+
+Build REST APIs and/or applications in microservice framework (using message-broker) for data and model access across our infrastructure
+
+Design and build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources
+
+Create/Recommend data tools to help ML/AI engineers build and optimize their models
+
+Work closely with machine learning and data scientists to scale model training and explore new data sources and model features
+
+Work closely with the DevOps/infrastructure teams to containerize and deploy applications containing ML components
+
+Qualifications
+
+BS/BA in a technical field such as computer science or equivalent IT experience
+
+3+ years of experience as a Data Engineer or in a similar role, or data-centric DevOps
+
+Experience with building ETL pipelines, data warehousing and data modeling
+
+Experience with tech stack of Python (necessary), and Java/C++ (a plus)
+
+Experience with Python package management tools from distributions such as Anaconda
+
+Experience with containerization in the productionization process, including docker/K8
+
+Experience with AWS or another cloud platform
+
+Familiarity with unstructured-data local-store tools such as redis, memcached, elasticsearch, etc
+
+Familiarity with tools and systems for data analysis and big data (Hadoop, Hive, Kafka, Spark, Airflow, etc.)
+
+Familiarity with the latest cloud, query and database technologies as well as query languages like SQL
+
+Familiarity with agile development and associated tools
+
+Why Verantos?
+
+At Verantos, we are pioneering technologies that power advanced real-world evidence (RWE). Advanced RWE helps understand how patient characteristics and behaviors affect health outcomes – helping to predict the progression of a disease, a patient's responses to a therapy, or the risk of adverse events. Come and join a team at the intersection of cutting-edge technology, complex data, and healthcare research. We offer:
+
+Flexible work location to support employees in the new pandemic-shaped reality.
+
+Medical, dental, vision benefits.
+
+401K plan with employer match.
+
+Work-life balance.
+
+Opportunity to work with healthcare technology visionaries. 

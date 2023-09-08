@@ -1,0 +1,127 @@
+Position Requires a Top Secret (TS/SCI) Clearance with a Polygraph.
+
+WORK REQUIREMENTS
+
+Data Science
+
+The Contractor Team shall provide technical expertise to identify emerging technologies to support and expand the Customers capabilities. The Contractor Team shall provide technical expertise to identify and implement new or improved methods for aggregating and analyzing disparate datasets. The Contractor Team shall review collected holdings to determine and identify technical information relevant to the Departments mission. The Contractor Team shall engage with application developers to identify potential areas for improvements to existing applications that would improve Departments work flow and data analysis. The Contractor shall conduct open source research utilizing strategies to minimize attribution of queries. The Contractor shall learn and maintain the requisite skills to maximize research methodologies. The Contractor shall maintain a strict need-to-know approach in handling requests.
+
+The Contractor shall identify types of information needed to enable further research as applicable. The Contractor shall provide written products on research results, which can include narratives, presentations and visuals. The Contractor shall provide support to multiple offices, requiring interaction with branch level management on an as-needed basis for technology consultation.
+
+Cyber Security
+
+The Contractor shall liaise with offices outside the Customers department on technical topics.
+
+The Contractor shall document technical discoveries. The Contractor shall provide technical training to other Customer department members as necessary. The Contractor shall participate as a technical expert in interactions with other USG partners. The Contractor shall be responsible for the appropriate handling and storage of technical equipment. The Contractor shall conduct holistic and comprehensive routine audits of electronic systems and networks. The Contractor shall identify instances where Customers personnel are abusing their access to the Customers sensitive data holdings, providing program information to unauthorized personnel, or exhibiting issues requiring further investigation. The Contractor shall perform assigned and self-initiated special audits and monitoring of specific incidents on Customers electronic systems and networks involving the Customers program and personnel. The Contractor shall maintain records of all analysis performed. These analyses shall demonstrate a comprehensive approach. They shall expand beyond the context of the specific issue that surfaced the concern and address any relevant security issue found in the Customers data holdings.
+
+The Contractor shall propose self-initiated tasks to Customer management and initiate upon Customers approval and prioritization. The Contractor shall prepare reports on investigative leads resulting from analytic activities performed under this task. The Contractor shall communicate both verbally and in written format the results of any analysis performed as requested by the Customer. The Contractor shall
+
+provide results that include, but are not limited to investigative reports, research discoveries, recommendations, additional requirements, trends, or other issues. Specific formats will vary by requirement and circumstance. The Contractor will work with Customer to determine format on a case-by-case basis. The Contractor shall, for technical audits, present or document reports in a standard agreed-upon formats as directed by the Customer. The Contractor shall produce a number of deliverables, including but not limited to Routine Technical Audit Schedule and Reports and Special Audit and Monitoring Reports. The Contractor shall prepare a schedule for conducting routine technical audits of Customers systems and networks on a quarterly basis and present it to Customer management for review and approval. The Contractor shall propose a schedule for producing each special technical audit report and present it for Customer management review and approval.
+
+Estimated Salary:
+Position Level: All Levels
+Salary Range: Up to $215,000.00 per year
+
+B4Corp Estimated Salary Ranges:
+Position Level Min Salary Max Salary
+Level 1 – Subject Matter Expert $160,000 $215,000
+Level 2 – Expert $140,000 $195,000
+Level 3 – Senior $110,000 $170,000
+Level 4 – Full Performance $60,000 $100,000
+
+Mandatory Requirements:
+
+REQUIRED SKILLS AND DEMONSTRATED EXPERIENCE
+
+The Contractor shall have the following required skills, certifications and demonstrated experience:
+
+Data Science
+Demonstrated experience working with little to no supervision.
+Demonstrated ability to prioritize and determine next research steps based on an understanding of the stated priorities.
+Demonstrated strong written and oral communications skills in the elements of investigations, personnel security, and counterintelligence matters.
+Demonstrated familiarity with standard commercial computer analytics and cyber security tools.
+Demonstrated ability to identify emerging technologies to support and expand the Customers capabilities and implementing methods for aggregating and analyzing disparate datasets.
+Demonstrated experience processing data sources containing structured or unstructured data.
+Demonstrated professional experience creating and customizing data visualization dashboards.
+Demonstrated experience with the ability to apply knowledge, skills, and expertise with computer analytic and investigative capabilities to support counterintelligence, personnel security, and insider threat related inquires.
+Demonstrated familiarity with standard commercial computer analytics and cyber security tools.
+
+Cyber Security
+Demonstrated experience working with little to no supervision.
+Demonstrated ability to prioritize and determine next research steps based on an understanding of the stated priorities.
+Demonstrated strong written and oral communications skills in the elements of investigations, personnel security, and counterintelligence matters.
+Demonstrated experience and discretion to protect the privacy of investigative subjects and equities.
+Demonstrated experience with the ability to apply knowledge, skills, and expertise with computer analytic and investigative capabilities to support counterintelligence, personnel security, and insider threat related inquires.
+Demonstrated familiarity with standard commercial computer analytics and cyber security tools.
+Demonstrated experience hunting for and identifying CI or cyber threats on a network.
+Demonstrated experience briefing personnel from the junior- to executive-level of an organization.
+Demonstrated experience collecting information and accurately representing it to third parties.
+Demonstrated experience with investigative judgment with the ability to follow up on who, what, when, and where questions generated.
+Demonstrated experience with making effective judgments to end investigative efforts and present findings for management review and action.
+
+Optional Requirements:
+
+HIGHLY DESIRED SKILLS AND DEMONSTRATED EXPERIENCE
+
+Other skills and demonstrated experiences that are highly desired but not mandatory to perform the work, include:
+Demonstrated ability to communicate Customer, CI, and security policies and best practices.
+Demonstrated experience with organizational skills, flexibility and the ability to continually re-evaluate competing priorities.
+Demonstrated experience negotiating reasonable compromises among a diverse group of stake holders.
+Demonstrated experience writing about technology to include associated risks and opportunities.
+Demonstrated experience exhibiting communication skills, both oral and written, as well as making presentations to small audiences.
+Demonstrated experience or working knowledge of Intelligence Community Directive (ICD) 503 (Intelligence Community Information Technology Systems Security Risk Management, Certification and Accreditation) and associated appendixes.
+Demonstrated experience or working knowledge of Intelligence Community Policy Guidance 704.2 (Personnel Security Adjudicative Guidelines for Determining Access to Sensitive Compartmented Information and Other Controlled Access Program information).
+Demonstrated experience in current and recent cyber and CI threats and compromises; familiarity with current computer exploitation techniques.
+Demonstrated experience in a technical background, such as, but not limited to, Computer Engineering or Mechanical Engineering.
+Demonstrated experience with identifying actionable opportunities to streamline work processes and improve the effectiveness of work products.
+Demonstrated experience providing impromptu as well as prepared briefings.
+Bachelors Degree in Computer Science or Software Engineering, a related field, or equivalent experience
+
+B4CORP Company Information
+
+B4Corp is a small defense contracting company that focuses on providing an optimum environment for mission-focused, highly-skilled consultants to support the United States of America’s intelligence community and other defense organizations. B4Corp provides a low overhead, highly efficient, high salary environment that allows employees to excel at meeting the client’s needs. B4Corp is looking for information technology professionals that have a high sense of personal responsibility, self-motivation, and mission drive.
+
+B4Corp’s dedication and care for its employees is reflected in the outstanding compensation and benefits B4Corp provides. Our salaries are second to none. B4Corp’s benefits reflect the company’s policy of putting the employees first. Our health insurance demonstrates this with 100% employer coverage and providing employees with a plan that has $0 copay, 0% coinsurance and an HSA that can allow employees to accrue health savings for the future. B4Corp’s maximum flexibility comp / makeup time policy, along with the company’s cafeteria-style benefit plan that allows employees to maximize their benefit dollars, reflects B4Corp’s commitment to its employees.
+
+Compensation:
+
+Outstanding Salaries
+
+Retirement:
+
+Full Vanguard 401k Plan – Featuring a full scope of investment options
+– 100% employer matched contribution up to 6% of employee’s salary
+– Ability to max out 401k savings $57k ($63.5k if over 50)
+Employees receive B4Corp phantom stock each year (2-year vesting period)
+
+Insurance 100% Employer-Paid Premiums:
+
+United Health Care Choice Plus HSA POS Gold 1500 w/HSA
+– Employer funded HSA to cover 100% health care deductible
+– Health insurance: $0 copay, $0 co-insurance. Full scope protection for you and your family!
+– 100% employer premium coverage for single and family
+Health Equity HSA – B4Corp contributes $1500.00 for single and $3000.00 for family into your Health Equity HSA to cover 100% of your health care deductible.
+Mutual of Omaha Dental VSP Vision Insurance Mutual of Omaha short-term disability (60% of salary up to $2,000.00/week)
+Mutual of Omaha long-term disability (60% of salary up to $10,000.00/month)
+Mutual of Omaha life insurance ($200,000.00)
+
+Employee Referral Bonus:
+
+Refer a friend or a coworker and receive $3,000 per year for every year the person works for B4CORP
+
+Paid Time Off (PTO):
+
+Seven weeks of leave per year (including ten federal holidays)
+Ability to purchase 2 additional weeks of vacation
+Flexible work schedule with comp time (with customer approval)
+
+Tuition and Training:
+
+Free CBTNuggets Online Training Account
+– More than 200 online IT courses on a large variety of topics, including networking, security, virtualization, and the cloud — from trusted vendors such as Cisco, Microsoft, and Google.
+– Train anytime, anywhere, and on a variety of devices – even offline!
+– Transcender® Practice Exams
+– Virtual Labs
+Free L inux Academy Online Training Account
+
+Internal Tracking -RV1666-04 

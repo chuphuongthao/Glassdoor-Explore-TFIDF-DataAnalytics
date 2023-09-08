@@ -1,0 +1,96 @@
+This role directly supports Internal Audit’s goal of
+increasing the use of data analytics across the department.
+This role will be responsible for assisting in the
+development, implementation, and ongoing monitoring of
+the Internal Audit Data Analytics Program as well as other
+Internal Audit technology related process improvements.
+Follow and help refine Internal Audit’s Data Analytics
+Methodology.
+
+Support the Internal Audit Department by building data
+driven solutions in support of the Audit Plan and
+digitization goals.
+Work with the audit teams, business partners and other
+data analytics team members to create data driven
+solutions leveraging various analytical tools and
+techniques.
+Validate all datasets received are complete and accurate
+Required Qualifications :
+COVID Vaccine Required :
+COVID Requirements :
+and confirm the significance and meaning of all fields,
+including any related validation (queries run, parameters
+set, environment, etc.) such that the data extract could be
+reproduced as needed.
+Develop relevant data pipelines to various sources.
+Automate the acquisition, validation, and analytics
+wherever possible.
+Execute descriptive analytics on provided datasets to
+identify trends, gaps, outliers, or other insights within the
+dataset that serve the audit or indicate an area for further
+inquiry.
+Apply advanced data visualization approaches in support
+of department projects and objectives.
+Design, build and maintain the infrastructure for ‘sensors’
+identified within the audit process to mitigate risks
+associated with various controls around the enterprise.
+Ensure that all analytical work is tested, validated, and
+subsequently reviewed by management and the audit
+business partner. Work with broader Internal Audit Data
+Analytics team to ensure that all assumptions,
+dependencies, conclusions, and unresolved ambiguities
+are explicitly documented and evaluated for their impact on
+the audit findings and conclusions.
+Participate in training the audit teams in analytics-oriented thinking and the use of relevant analytical tools.Perform additional special projects (investigations, risk
+assessments, etc.) as directed by the Chief Audit
+Executive.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 46,400
+Maximum: 97,400
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+0 to 2 or more years of experience in finance, accounting,
+economics, audit, statistics, computer science, actuarial
+science, physics, engineering, mathematics and/or project
+management experience in a professional and/or
+academic setting.
+
+COVID Requirements
+
+COVID-19 Vaccination Requirement
+CVS Health requires certain colleagues to be fully vaccinated against COVID-19 (including any booster shots if required), where allowable under the law, unless they are approved for a reasonable accommodation based on disability, medical condition, religious belief, or other legally recognized reasons that prevents them from being vaccinated.
+
+
+You are required to have received at least one COVID-19 shot prior to your first day of employment and to provide proof of your vaccination status or apply for a reasonable accommodation within the first 10 days of your employment. Please note that in some states and roles, you may be required to provide proof of full vaccination or an approved reasonable accommodation before you can begin to actively work.
+
+Preferred Qualifications
+Ability and willingness to learn, understand, and use new
+technologies
+
+Knowledge of CVS and/or Aetna business processes
+Internal or External Audit experienceKnowledge and experience with data visualization tools
+(PowerBI, Tableau, D3, Domo, etc.).
+Familiarity with Data Science and Statistical Modeling
+techniques and technologies (Machine Learning, Deep
+Learning, Natural Language Processing, etc.).
+Excellent written and verbal communication skills. Able
+to present information to various audiences.
+Strong analytical mindset on organizing, validating, and
+developing solutions leveraging data and technology
+
+Education
+Bachelor’s degree required
+
+Business Overview
+Bring your heart to CVS Health
+Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day.
+
+CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. 

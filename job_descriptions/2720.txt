@@ -1,0 +1,59 @@
+About the Company:
+
+Avalon Healthcare Solutions, headquartered in Tampa, Florida, is a clinical services and information technology company using evidence-based medicine to develop and deploy medical policies and protocols in the high-volume, dynamic and complex diagnostic lab environment. The company manages the appropriate use of thousands of existing lab tests and researches new tests to determine efficacy and impact on patient care.
+
+Studies show that 30% of clinical laboratory testing is unnecessary or overused. Inappropriate testing or missing a key screening can lead to complications and expense arising from unwarranted care, or not obtaining proper care when needed, leading to increased health risks and costs. Avalon helps ensure delivery of the right test, at the right time, and in the right setting. We seek to ensure the most effective patient treatment, improve clinical outcomes, and optimize cost and affordability.
+
+Avalon is a portfolio company of Francisco Partners, a global private equity firm that specializes in investments in technology and technology-enabled service companies. Since its launch 15 years ago, FP has raised approximately $10 billion and invested in more than 150 companies.
+
+Avalon is a high growth company where every associate has an opportunity to make a difference. You will be part of a team that shapes a new market and business. You'll enjoy seeing the results of your work as we rapidly implement our plan. Most importantly, you will help Avalon to achieve its mission and improve clinical outcomes and health care affordability for the people we serve.
+
+For more about Avalon, please visit our web site at http://www.avalonhcs.com.
+
+About the Data Science Manager Position:
+
+The Data Science Manager will run a small but growing group of data scientists and engineers in developing new ideas and analyses into data-driven and predictive analytics products for health plans, members/patients, and providers/hospitals aimed to improve quality of patient care and reduce costs.
+
+Avalon Healthcare Solutions is based in Tampa, Florida. This is a full-time, W-2 position. At this time, we can consider only local candidates authorized to work in the US. No sponsorship is available. No recruiter calls, please.
+
+Data Scientist Manager - Essential Functions and Responsibilities:
+
+Manage and develop a team of analysts, data scientists, engineers in developing new products and analyses
+Evaluate business needs and objectives
+Design and build algorithms and prototypes
+Identify analytical approaches using statistical and machine learning methodologies
+Interpret trends, patterns and outcomes
+Identify opportunities for data acquisition
+Acquire data to meet project requirements
+Design data systems and pipelines to generate reliable and repeatable processes to onboard data
+Design and build software components and modules for production deployment
+Conduct complex data analysis and report on results
+Collaborate with team members on several projects at once
+Employ strong analytical and organizational skills and attention to detail
+Integrate model outputs with visualization
+Combine raw information from different sources
+Explore ways to enhance data quality, integrity, and reliability
+Curate data for advanced analytics and data science
+Develop analytical tools and programs
+
+Data Science Manager - Qualifications:
+
+Bachelor's degree in relevant field, or relevant experience
+Minimum of 7+ years of experience in a data science role
+Strong, hands-on experience with tools such as Python, R, Stata, SPSS, or SAS to run statistical and machine learning analyses
+Strong knowledge of statistical and machine learning methods, algorithms, and expected outcomes for descriptive, diagnostic, and predictive analytics
+Excellent problem solving, communication, and analysis interpretation skills
+Desire to learn new software and methods
+Familiar with cloud service offerings such as Azure, AWS
+Good working knowledge of Jupyter notebooks
+Healthcare experience – pharmacy, managed care, health plans, hospitals, pharmaceutical
+Excellent numerical and analytical skills
+
+Data Science Manager - Preferred Qualifications:
+
+Experience in big data applications and processes
+Experience in data presentation and visualization
+Experience building Python software components and production pipelines
+
+PM18
+PI190844784 

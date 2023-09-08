@@ -1,0 +1,54 @@
+*InTulsa is partnering with FreeWorld to find candidates for this exciting role in Tulsa*
+**Location: Tulsa, OK. This is an remote position for those already in Tulsa, OK or willing to relocate to Tulsa, OK**
+Job Description
+FreeWorld seeks an experienced, innovative, and get-stuff-done self-starter who is experienced in program analysis, program evaluation, and data systems in a mission-driven organization. This position requires a detail-oriented capacity for data collection, cleaning, analysis, and a systems-level thinker with the ability to critically assess data and determine trends to improve outcomes and build capacity to scale.
+Our Data Scientist is the first position of its kind at FreeWorld. Reporting to the Chief Operating Officer, the Data Analyst will establish the departmental framework and protocol for evaluating the efficacy of our program. You will work with internal stakeholders to set data requirements, and design, develop, and implement reporting using business intelligence technology. Your work will support program decisions and inform our philanthropic partners about FreeWorld’s performance. This role will serve multiple areas, including programs, education, philanthropy and technology enhancements.
+Above all, you are incredibly passionate about our mission and believe that everyone deserves a legitimate second chance.
+Mission
+To end the era of mass incarceration and generational poverty by:
+Placing returning citizens into high wage careers at scale.
+Developing a self-sustaining revenue model to accelerate our growth. Today, we are using income share agreements.
+Creating systemic change by leveraging our incredibly deep layers of graduate data in partnership with the Criminal Justice System to become the Gold Standard for re-entry.
+What you'll do
+Lead the design and implementation of FreeWorld data and evaluation, encompassing shared metrics across the organizations.
+Collaborate with our program and development teams to gather requirements and deliver analytics solutions that provide reporting to internal and external stakeholders.
+Work cross-functionally to identify and develop data collection gaps, goals, and processes.
+Own the design and manage the development of objectives and key results (OKR’s), metrics, reports, dashboards, etc. to drive key business decisions.
+Build visualizations in PowerBI, Kibana, Tableau, QuickSight or similar business intelligence reporting solutions to enhance existing ways of working.
+Make recommendations for new metrics, techniques, and projects to improve student’s experience, operational efficiencies and build a best in class product.
+Challenge existing processes and work streams with data-driven insights that offer alternatives to drive more scalable execution.
+Create the foundation for evaluation of FreeWorld programming by scoping metrics and developing recommendations on how to track and assess them
+Support evaluation at the organizational level to design best practices for organizational and programmatic improvement.
+Analyze data for regional and individual partners.
+What you’ll have
+5+ years of experience in data analytics within a rigorous environment and building dashboards and reports using modern BI visualization software (PowerBI, Kibana, Tableau, QuickSight) and SQL development
+Strong experience in reviewing business requirements with a demonstrated ability to interpret the information provided and ask clarifying questions to understand the underlying needs that need to be addressed.
+Strong experience in developing data pipelines, data analysis, and developing Business Intelligence applications.
+Strong analytical or problem-solving skills
+Experience delivering BI solutions through rapid, iterative delivery methods such as Agile, Kanban, or Scrum preferred.
+Expert knowledge in SQL. Ability to optimize complex queries.
+Experience in a startup environment
+Experience working with a tech company/non-profit
+Impacted by the criminal justice system (not required)
+Where you’ll work
+FreeWorld is a 100% remote company.
+Board of Directors
+Jason Green - Founder - Emergence Capital, Endeavor, Kauffman Fellows
+Andy Bromberg - Co-Founder and President - CoinList
+Jason Wang - Founder/CEO - FreeWorld
+Kumar Garg - Managing Director - Schmidt Futures
+Hiring Process
+Read our FreeWorld Culture FAQ if you still think you are a fit…
+Submit an application and cover letter. If your qualifications are a match…
+We have a 15-minute introductory call. If we love each other, then…
+You complete a brief task related to the role (such as submitting a work sample).
+You meet with a few additional members of the team for a full interview.
+We agree on terms, pending references. I talk to a few of the folks that you worked with.
+Compensation and Benefits
+The compensation for this position is based on experience, but we are targeting $100k - $120k.
+Remote work flexibility
+Health insurance, dental, and vision coverage
+4 weeks of paid vacation
+Fun, fast paced environment
+Creating tremendous impact at scale
+#Li-Remote 

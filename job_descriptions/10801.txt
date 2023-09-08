@@ -1,0 +1,30 @@
+JOB DESCRIPTION
+This team works with various parts of the organization and SMEs that have data science knowledge and data scientists to collaborate with this person and also be able to synthesize the info the SMEs will be providing them.
+
+Give them a problem statement and have them apply their analytic skills to help solve this problem. They’ll have support from SMEs and Analysts to solve these problems.
+
+They have identifiers for entities that they have for customers and if they bring in external entities they need to match that with the common identifier to build a model to confirm the entity.
+NLP side: NLP problem resolution, not being able to match entities, need to match the entities to the text.
+Build forecasting models so accurately predict what the sales will be (time series related) any work they’ve done around time series/advanced time series forecasting
+Segmentation: that problem statement is around a massive customer base with a wide range of attributes and segment the customer work done differently with different attributes and test the segmentation that has been done
+Forecasting side: NLP problem resolution, not being able to match entities, need to match the entities to the text.
+
+Building forecasting models so accurately predict what the sales will be (time series related) – any work they’ve done around time series/advanced time series forecasting
+Segmentation: that problem statement is around a massive customer base with a wide range of attributes and segment the customer work done differently with different attributes and test the segmentation that has been done (back testing, revers testing skills
+MINIMUM REQUIREMENTS
+5+ Advanced Data Scientist skills
+Knowledge of Relative Strength Index or IRI
+Knowledge of pricing elasticities/NRM/RMS
+Strong programming skills, Python preferred
+Data Science: machine learning skills around forecasting, time series analysis, language processing and customer segmentation as well as model tuning
+ML Pipeline, data modeling
+AWS or Azure experience (Azure highly preferred)
+DESIRED SKILLS
+Pyspark
+Neural Network modelling experience
+Azure with Databricks- loud based analytics
+OCR experience
+Recommender system experience (building recommender systems internally in python)
+NLP, advanced modeling
+
+Creative thinking 

@@ -1,0 +1,26 @@
+Sr. Technical Lead - Data & Analytics
+Please Note: This position is 100% remote, however you must reside within driving distance of our offices in Costa Mesa CA or Coppell, TX to attend meetings and team collaboration.
+The Data Tech Lead is a member of the Insurance Data Engineering Team. They will play a critical role on the team developing data solutions to solve business and technical problems.
+Responsibilities:
+Leading development & delivery of technical solution
+Architecting and coding solutions using big data tools and techniques
+Understanding complex business problems to ensure projects are leveraging the appropriate technology and analytical tools in the delivery of a comprehensive solution
+Understand the business goals/needs while utilizing big data and cloud technology to ingest, process, and analyze large amounts of data
+Understand how to transform findings into actionable business opportunities
+Understand the changing business needs of the organization/projects and recommend viable strategies for the future.
+Author and/or Review architecture/design and other technical documents ensuring high quality deliverables and systems development across tech stacks and applications teams
+Job Requirements:
+Work with Big Data teams project leads and data science managers to review business requirements, estimate technical work and provide approaches and/or solution options
+Data Architecture and Data Modeling for Big Data Engineering teams
+Solution Design, and architecture for Big data use cases development
+Lead data engineers on the Big Data Engineering for code development
+Develop and enforce Best practices
+Ensure and accountable for technical documentation
+Conduct code reviews and approve production implementations for performance and quality
+Tools & technology evaluations and implementations
+#LI-SJ1
+Remarkable benefits:
+Health coverage for medical, dental, vision401(K) saving plan with company match AND PensionTuition assistancePTO for community volunteer programsWellness programEmployee discounts
+AAA Texas is part of the largest federation of AAA clubs in the nation. We have 14,000 employees in 21 states helping 17 million members. The strength of our organization is our employees. Bringing together and supporting different cultures, backgrounds, personalities, and strengths creates a team capable of delivering legendary, lifetime service to our members. When we embrace our diversity – we win. All of Us! With our national brand recognition, long-standing reputation since 1902, and constantly growing membership, we are seeking career-minded, service-driven professionals to join our team
+"Through dedicated employees we proudly deliver legendary service and beneficial products that provide members peace of mind and value.”
+AAA is an Equal Opportunity Employer 

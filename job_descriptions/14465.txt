@@ -1,0 +1,52 @@
+Seniority Level: Director
+
+Location: Long Beach, CA or Remote
+
+About the role and about You:
+
+Zwift is looking for an innovative, experienced and mindful manager to build and lead the data science team. The focus of this role is on proactively seeing opportunities to improve our products, services, marketing and customer experience, partnering with multi-functional teams from across the organization to develop and iterate on innovative solutions and products, and building the capabilities and platform to enable rapid deployment of these new capabilities.
+
+The company is at a pivotal moment in its development with exciting strategic plans, continuing rapid growth and offers the chance for a motivated and forward-thinking leader to have high impact and help shape the future of the business.
+
+The ideal candidate will have a proven track record of applying sophisticated statistical and machine learning techniques to solving exciting business problems across a broad range of business functions. If you are a genius at balancing deep technical wizardry with the ability to deliver practical applications in a fast-paced environment, then this is the role for you.
+
+What you'll do:
+
+Establish the vision and roadmap for the data science team, prioritize the most impactful analyses, and guide team members in solving ambiguous and complex problems
+Translate business objectives into data and analytics solutions and, translate results into business insights using appropriate data engineering and data science applications
+Partner closely with Engineering, Product and Marketing leaders to develop innovative analytics solutions and products
+Provide thought leadership and hands-on expertise in advanced analytics applications to business problems across the spectrum, including: data mining, forecasting, target setting, retention / churn prediction, LTV, segmentation, experimentation, marketing effectiveness, auto-categorization, personalization and recommendations
+Partner with Data Engineering to build a platform for the development, testing, productization, deployment and monitoring of ML models
+Hire and develop a growing team of data scientists
+
+What you'll have:
+
+Advanced Degree in Computer Science, Engineering, Econometrics, Math, Statistics, Information Sciences, or other quantitative fields
+12+ years of experience in analytics or data science teams, with 5+ years of industry experience building data science driven solutions to solve business problems and managing data science teams
+Proven experience with: machine learning, data mining, predictive modeling, statistics, experimental design, attribution, and econometric modeling
+Fluent in SQL and Python or R
+Expertise in synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication
+
+(Colorado only) minimum salary $217,000. + Bonus + Equity + Benefits
+
+Bonus points:
+
+Experience building and leading Experimentation best practices and capabilities across multiple platforms / products and customer touch points
+Passion for cycling, running, triathlons and/or experienced Zwifter
+Passion for video games
+
+How to stand out among the rest:
+
+Your resume/CV is enough to show off your skills, accomplishments, and experience. However, if you choose to include a cover letter introducing us to your awesome personality, we will read that too.
+
+We strongly believe that different backgrounds and ideas are a competitive advantage; we hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Zwift is proud to be an Equal Opportunity Employer. If you have a disability or special need that requires accommodation, please let us know by emailing careers@zwift.com.
+
+Zwift, Inc. is an Equal Opportunity Employer.
+
+Transparency in Coverage:
+
+Health plan price transparency is designed to help consumers know the cost of covered items or healthcare-related services prior to the date upon which they receive care. Transparency in Coverage (TIC) regulations require health insurers and group health plans to create machine readable files (MRFs) that contain the negotiated rates for in-network providers and allowed amounts derived from historical claims for out-of-network providers and make those files publicly available.
+
+Here is the link to the site on which Kaiser Permanente posts its in-network and out-of-network allowed amount machine-readable files (MRFs).
+
+Here is the link to the site on which Anthem posts its in-network and out-of-network allowed amount machine-readable files (MRFs). The link will allow you to search for your files using your Employer Identification Number (81-2798595) 

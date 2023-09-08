@@ -1,0 +1,27 @@
+Job Description
+
+Minimum of 5+ years’ experience in IT within one or more specific technical domains
+Bachelor's from an accredited university in business, management information systems or equivalent field - Master's preferred
+Works under the direction of a lead architect
+2+ years’ of experience with configuration and deployment of infrastructure and services in one or more cloud-based platforms
+2+ years’ experience with design and deployment of data integration platforms in the cloud
+2+ years’ experience with software development and scripting, including SPARK and Python
+2-4+ years’ experience with various data integration patterns and technologies, including event-driven/message-based, APIs, Change Data Capture, file-based, service bus and ETL technologies
+
+PREFERRED
+
+Recent design and implementation experience with cloud-based data analytics platform services
+Recent experience with implementation of data lake technology in the cloud
+Experience building data pipelines in the cloud with design and deployment of Microsoft Azure cloud infrastructure, Azure Data Lake, and Synapse analytics services, Informatica, Databricks technology, including Delta Lake capabilities
+
+Azure SQL Database, EDW, Cloud Technologies
+
+Technology Doesn't Change the World, People Do.®
+
+Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
+
+Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity – even on the go. Download the Robert Half app and get 1-tap apply, instant notifications for AI-matched jobs, and more.
+
+Questions? Call your local office at 1.888.490.4429. Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. All applicants applying for U.S. job openings must be authorized to work in the United States. Benefits are available to temporary professionals. Visit https://roberthalf.gobenefits.net/ for more information.
+
+© 2022 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to Robert Half’s Terms of Use . 

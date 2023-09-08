@@ -1,0 +1,8 @@
+JOB DESCRIPTION
+A social news company in the San Francisco Bay Area is looking for a REMOTE contract Product Data Scientist to join their performance DS team. This DS will be measuring impact on performance in a few areas. One being video, quality of video, comment loading, video performance, etc. These DS's will be involved with writing SQL queries, performing A/B tests (using statistical analysis), and having a strong understanding of product sense. This person can be coming from a Product Analytics/Data Analytics/Data Science background!
+MINIMUM REQUIREMENTS1-3 years working experience as a data analyst or product analyst
+Excellent experience with SQL (Oracle, Vertica, Hive, MySQL, etc) or a scripting language for data analysis (python, R) is required.
+Strong product sense to identify trends and communicate recommendations
+Experience performing A/B tests and root cause analysis
+Experience with statistical analysis. Stat packages such as R, MATLAB, SPSS, SAS, Stata, etc.
+Dashboarding experience with Mode or other similar tool 

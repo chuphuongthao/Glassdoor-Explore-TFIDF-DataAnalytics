@@ -1,0 +1,46 @@
+Combine two of the fastest-growing fields on the planet with a culture of performance, collaboration and opportunity and this is what you get. Leading edge technology in an industry that's improving the lives of millions. Here, innovation isn't about another gadget, it's about making health care data available wherever and whenever people need it, safely and reliably. There's no room for error. Join us and start doing your life's best work.(sm)
+Responsible for the deployment and management of local data warehouses and various business intelligence systems for the Optum Care Pacific West region’s Care Delivery Organizations (CDO’s), inclusive of employed medical groups, affiliated provider networks, and risk bearing entities. Manages geographically dispersed professional staff (onshore/offshore) and subcontractor teams tasked with the design, implementation and deployment of analytics and reporting solutions. Collaborates with business & clinical operational teams to understand data sources, scope requirements, and design new solutions using direct, matrixed, and subcontractor teams. Oversees the build of a new single cloud environment consisting of a unified data architecture, with services and technologies that will enable Optum Care Pacific West to manage integrating legacy CDO’s into a One-Optum Platform ecosystem.
+If you are located within the Pacific West regional states - CA, AZ, CO or WA, you will have the flexibility to telecommute* as you take on some tough challenges.
+Primary Responsibilities:
+Responsible for leading a large team (100+) of professionals in data management and analytics
+Drives design and implementation of regional data warehousing and analytics solutions
+Leads consolidation/deprecation strategy and execution for legacy data assets in the Region
+Collaborates with local, regional, and national (Healthcare Economics) teams to implement data source acquisition to support regional analytic needs
+Partners with CareData Platform team to implement data ingress/egress patterns to synchronize data between Optum Care’s enterprise Snowflake-based data warehouse and regional solutions
+Leads the Region’s data engineering and analytics teams in establishing a “Cloud First” approach to data and analytics work
+Applies technical expertise and leadership to guide teams in design decisions
+Establishes appropriate teaming structure to support multiple regional customers
+Helps resolve data issues as they arise in collaboration with local and national data operations teams
+Exhibits effective collaboration with both technical and non-technical staff; translate business needs into technical requirements
+Represents the regional Data & Analytics department in appropriate work groups, teams, committees and meetings
+Defines and upholds data practices, policies and operating procedures within the department
+Ensures stakeholders have the information needed and the context needed in a timely, accurate manner to produce favorable results
+Establishes measurement criteria and systems to track daily processes, implementation of new initiatives and projects
+Provides clear direction to achieve goals, creating an environment that fosters team commitment and employee engagement
+Translates initiatives into actions through a thoughtful, organized and well-planned approach
+Ensures that Company patients’ protected health information (PHI) is used/disclosed only in accordance with Health Insurance Portability and Accountability Act (HIPAA) standards
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+Required Qualifications:
+Bachelor’s degree from a four-year college and/or extensive related professional experience (IS-related field preferred)
+10+ years of technology experience
+10+ years of data and analytics experience within the healthcare industry
+8+ years of experience working with data warehousing systems for large enterprises with both internal and customer facing portals, preferably with near real time transactional data
+8+ years of progressive management experience
+Full understanding of analytics within capitated risk contract (ACO, upside/downside, global risk), medical management (UM/CM/DM), and Medicare Advantage
+Proven track record of implementing data management best practices, methodologies, relational structures, dimensional data modelling, and data warehousing and reporting techniques
+Comprehensive knowledge of ETL/EAI/EII, data cleansing, security and data access technologies, data virtualization and modern data architectures
+Comprehensive knowledge of various tools including Microsoft SQL Server Business Intelligence Studio (SSRS, SSIS, SSAS), Informatica, Tableau, PowerBi, DataBricks, Data Factory
+Demonstrated ability to manage budget spending/forecast through managers to meet functional objectives
+Experience utilizing stakeholder management skills and the ability to define and communicate the data strategy
+Proven understanding of healthcare privacy and security practices
+Experience utilizing excellent communication skills, both written and spoken
+Preferred Qualifications:
+Demonstrated understanding of cloud-based data platforms, Azure & Snowflake
+Familiarity with systems of engagement and systems of record, (e.g., Claims, Eligibility, Patient\Provider Portals, EMR, Cozeva)
+Full COVID-19 vaccination is an essential job function of this role. Candidates located in states that mandate COVID-19 booster doses must also comply with those state requirements. UnitedHealth Group will adhere to all federal, state and local regulations as well as all client requirements and will obtain necessary proof of vaccination, and boosters when applicable, prior to employment to ensure compliance. Candidates must be able to perform all essential job functions with or without reasonable accommodation
+To protect the health and safety of our workforce, patients, and communities we serve, UnitedHealth Group and its affiliate companies now require all employees to disclose COVID-19 vaccination status prior to beginning employment. In addition, some roles require full COVID-19 vaccination as an essential job function. UnitedHealth Group adheres to all federal, state, and local COVID-19 vaccination regulations as well as all client COVID-19 vaccination requirements and will obtain the necessary information from candidates prior to employment to ensure compliance. Candidates must be able to perform all essential job functions with or without reasonable accommodation. Failure to meet the vaccination requirement may result in rescission of an employment offer or termination of employment.
+Careers with Optum. Here's the idea. We built an entire organization around one giant objective; make the health system work better for everyone. So, when it comes to how we use the world's large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life's best work.
+All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy.
+Colorado Residents Only: The salary range for Colorado residents is $174,600 to $332,200. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, UnitedHealth Group offers benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with UnitedHealth Group, you’ll find a far-reaching choice of benefits and incentives.
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+UnitedHealth Group is a drug - free workplace. Candidates are required to pass a drug test before beginning employment. 

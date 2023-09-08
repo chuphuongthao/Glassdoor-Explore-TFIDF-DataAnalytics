@@ -1,0 +1,28 @@
+Chicago, St. Louis or Remote
+Position Summary
+
+Brado’s Data Analytics Specialist should have a passion for data. With an ability to collect and analyze data to identify trends and provide clients or management with valuable information they use data to improve marketing and business practices. This role works across all areas of Brado, with a focus on the Data and Analytics team. The main duties include collecting, analyzing data, and communicating findings to the company through written reports, presentations, and dashboards.
+
+
+Key Areas of Responsibility
+
+Develop custom data models and algorithms to apply to data sets as well as applying predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes.
+Organizing and transforming information into comprehensible structures.
+Utilize Natural Language Processing (NLP) techniques to analyze large sets of unstructured text data and pull insights.
+Identifying and recommending new ways of streamlining business processes for cost savings/efficiencies.
+Communicating with stakeholders to understand data content and business requirements.
+Mine and analyze data from databases to drive optimization and improvement of product development, marketing techniques, and business strategies.
+NOTE: Role does not have Direct Reports but offers coaching and mentorship throughout Brado.
+
+
+Qualifications & Additional Basic Responsibilities
+
+2+ Years of Python Experience for Data Analysis
+Experience querying databases and using statistical computer languages: Python, SQL, etc.
+Experience of Machine Learning Platforms: Google Cloud (Tensorflow), AWS, IBM, etc.
+Advanced Natural Language Processing skills
+Experience analyzing data from 3rd party providers: Google Analytics, Google Ads, Facebook Insights, Semrush, etc.
+Experience pulling data from 3rd party APIs
+Experience visualizing/presenting data for stakeholders using: Tableau, Google Data Studio, Business Objects, D3, ggplot, etc.
+Aligns with our values: People, Commitment, Aspiration, Trustworthiness & Impact
+Demonstrates these Brado-wide hard & soft skills: Agile, Bold, Innovative, Curious, Empathetic, Teamwork, Self-starter, Verbal & Written Communication, Creative Thinking 

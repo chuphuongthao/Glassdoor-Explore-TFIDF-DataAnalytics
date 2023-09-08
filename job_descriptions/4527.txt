@@ -1,0 +1,19 @@
+The Role
+For our Energy products Reliability and Test team, we are looking for an extraordinary Data Engineer who is proficient in database development and data management to create and manage large-scale data pipelines as well as data management-centered applications (database, back-end, and front-end user interface). As a successful candidate, you will utilize your data analysis and programming expertise to collect, integrate, analyze, and report the test and field data that ultimately drives key decisions related to Tesla’s solar and other sustainable energy products. This is a cross-functional position in which you will work with reliability, quality, design, process and manufacturing teams.
+Responsibilities
+Access and process large amounts of lab and field data through developing customized code and scripting in Python or other programming languages.
+Own projects ranging from data structure design to extraction / transformation / loading (ETL), as well as building dashboards for analysis to provide varying levels of visualizations tailored for each audience.
+Develop and maintain databases and applications to automate real-time monitoring as well as the collection and analysis of reliability data from laboratory tests and field evaluations.
+Interface with engineering, design and product management to understand data needs and provide customized solutions.
+Develop programming and technical tools that leverage artificial intelligence and machine learning and to pave the way for smarter and faster data-driven decisions and predictions.
+Requirements
+Excellent knowledge of SQL working with large data sets.
+Outstanding programming skills (Python and HTML are preferred, Java, JavaScript and cyclone will also be considered).
+Demonstrated experience creating automated data analytics tools.
+Skills in building dashboards using Tableau, Power BI, or similar visualization software.
+Excellent teamwork/interpersonal skills, willing to gain and share new knowledge and the ability to communicate effectively.
+Remaining engaged, proactive and positive in tough circumstances. Own assignments and take full accountability for their success.
+Positive attitude, eager to learn and ability to change direction quickly.
+Preferred Qualifications
+Hands-on experience in statistical analysis, machine learning and data driven forecasting.
+Previous course work and understanding in power electronics and/or solar energy is a plus. 

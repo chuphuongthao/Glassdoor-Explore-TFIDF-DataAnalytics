@@ -1,0 +1,47 @@
+
+Contribute to the creation of analytics platforms and data products that will drive core business processes and be used by analysts across the organization
+Support ongoing deployment of predictive models which help instED identify ER and in-patient utilization patterns as well as service needs of high-risk patient populations
+Conduct directed analysis and translated complex information into actionable insights to help clinical/business leadership make better, data driven decisions
+Maintain a current knowledge of emerging tools and techniques in machine learning, natural language processing, database systems, visualization, statistical modeling, data extraction/manipulation and so on
+Be an expert and keep expanding knowledge in urgent care, health insurance and non-traditional care delivery models
+Complete data science projects independently with minimum supervisor and guidance
+Propose and conduct optimal solution to projects independently
+
+Standard office conditions.
+
+This position can be remote with the option to work on-site in the Boston office location.
+
+Education:
+
+Master's degree + 4 year of equivalent work experience
+OR bachelor's degree + 8 years of equivalent work experience (STEM major or related field preferred)
+
+Experience and Skills:
+Technical skills:
+
+Expertise with Python (numpy, pandas, sklearn, nltk...)
+Expertise with relational databases and SQL
+Expertise with data visualization and tools
+Experience with data exploration, data wrangling and feature engineering
+Experience and excellent understanding of machine learning modeling techniques and algorithms
+Experience with applied statistics
+Strong scripting and programming skills
+Strong analytical mindset
+Willingness to learn new technologies
+Experience with cloud data warehouses and cloud provider services (e.g., GCP, AWS, Azure)
+Track record of working on the machine learning pipeline from ideation, model training, through to deployment and production support
+Track record of success in technology or software development environment
+Track record of successful analytics projects of define and decomposite business/technical problems and solve them
+Ability to develop competence in any programming, tool, or technology, that a problem requires; be data and tool omnivorous
+
+Preferred Experience and Skills:
+
+Experience with R
+Experience in healthcare or health insurance organization
+Experience using Power BI, Tableau, and Looker Experience with clinical claims and health record data
+Experience building data pipelines in the cloud under the constraints of HIPAA
+Publication or presentation of innovation in data science, machine learning or related area
+
+Required Language(s): English
+
+Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled 

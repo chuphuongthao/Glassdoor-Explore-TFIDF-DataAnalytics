@@ -1,0 +1,38 @@
+Data Scientist
+Job Title: Data Scientist
+Job Location: Raleigh, NC (hybrid option)
+Job Salary: $100k - $115k + bonus + stock
+Requirements: Python, Keras, TensorFlow
+
+We are a US-based biometric technology company that develops biometric sensor technology for wearables and hearables, and provides its patent-protected technology to consumer electronics manufacturers in various industries. We are seeking an experienced Data Scientist who has a strong background with Machine Learning Algorithms, Python, Keras, and/or TensorFlow. This role will be on-site/hybrid in Raleigh, NC.
+
+If you are a Data Scientist with 5+ years experience, please read on!
+What You Need for this Position
+Must Have Skills:
+
+1.) 5+ years of experience as a Data Scientist
+
+2.) Fluent in Python
+3.) Experience with Keras and/or TensorFlow
+4.) Experience developing machine learning algorithms
+5.) B.S. or higher in Mathematics, Computer Science, EE, or a related major
+
+Nice to have skills:
+
+1.)Experience practicing data science in a product development environment
+2.) M.S. or higher in Mathematics, Computer Science, EE, or a related major
+What's In It for You
+If hired, you will be rewarded with an offer that includes:
+
+1.) $100k -$115k Salary + Bonus + Stock
+2.) 401k
+3.) Health Benefits
+4.) Work/Life Balance
+So, if you are a Data Scientist with experience, please apply today!Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

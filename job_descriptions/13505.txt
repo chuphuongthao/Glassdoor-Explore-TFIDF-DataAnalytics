@@ -1,0 +1,57 @@
+About us:
+Here at Sojern, we are on a mission to empower travel marketers to move travelers from dream to destination. Powered by machine learning and travel data, Sojern is quickly becoming the #1 travel marketing platform serving thousands of hotels, attractions, airlines and destinations worldwide.
+We made Deloitte’s Technology Fast 500 list 6 years in a row, were recognized on the Top Company Cultures list by Entrepreneur Magazine, and were named a Best Place to Work by AdAge. As a globally distributed company, we are headquartered in San Francisco with employees based in 14 countries and counting.
+Our team is passionate about travel and the core values that define our culture: Win as a Team, Embrace Inclusion, Be Genuine, Deliver Wow, and Center Around the Customer.
+Need more convincing? Check out our Glassdoor reviews!
+The Role:
+Travel planning is complex and thus results in a wealth of diverse data that can be leveraged extensively both for actionable insights and compelling marketing. Rigorous analyses of travel data can result in better understanding of the complex trip planning process. We are looking to bring on board an experienced Senior Data Analyst to be an integral member of a Travel Insights, Analytics, and Reporting team.
+Responsibilities:
+Become a travel industry expert and develop a wealth of material that will provide clients with up-to-date knowledge about current travel trends and the planning behavior of their customers.
+Mine through billions of data points with SQL in order to generate actionable insights.
+Visualize key insights into Tableau, Google DataStudio, MS Excel, or MS PowerPoint.
+Work closely with business stakeholders to understand and translate their needs into data insights that drive client relationships.
+Contribute to the ideation, design, prototyping, and productization of scalable travel insights that will guide our clients through their media planning efforts. Close partnership with Product and Engineering teams is expected.
+
+What you bring to the table:
+Experience in data analytics within a Big Data environment.
+
+Data engineering/ETL experience a plus.
+
+Technical skills: Proficiency in both SQL and Tableau (or similar BI tool). Experience in Python a plus.
+Strong business acumen required.
+Strong understanding of statistics and probability required.
+Excellent oral and written communication skills; comfortable presenting to clients and to all levels of organization.
+Experience in one of the following industries a plus: Travel, eCommerce, Digital Advertising, AdTech
+BS in Computer Science, Mathematics, Statistics, Economics, Business Analytics, Data Analytics, or related field; MBA a plus.
+Perks:
+
+Flexi-Fridays: No internal meetings and shut down at Noon every Friday
+
+Flexibility: Remote and hybrid work options, so our team can enjoy flexibility and do their best work regardless of location
+
+Equity: Stock options are offered to every employee
+
+Tech: Monthly cell phone & wifi stipend provided, in addition to laptop and tech equipment for your home office
+
+Paid Parental Leave: 16 weeks pay for birthing parents and 12 weeks pay for non-birthing parents, beginning the day of joining until the child's first birthday. Where a local country has more liberal leave protocol, we happily comply! #embrace-inclusion
+
+Learning Opportunities: All employees receive a membership to LinkedIn Learning, plus you will have access to training and support to help you grow while leading creative and challenging projects
+
+Sojern Gives Back: We regularly organize office volunteer programs with local charities and organizations, as well as provide 40 hours of paid time per year to volunteer
+
+Culture: Strong core business values, focus on teamwork, vibrant, social and fun environment
+
+Travel Perks: IATA membership and personal travel “hotel stay” benefit
+
+Recognition: We use Bonusly to allow our team to recognize performance and teamwork #deliver-wow #win-as-a-team
+
+Wellbeing: We take a whole-person approach to your wellness with Spring Health mental health benefits, a Wellness Coach, and Employee Assistance Programs
+
+Our Commitment to Diversity Equity and Inclusion:
+At Sojern, we work to create a brave space that seeks out, embraces, and promotes diverse thoughts, beliefs, and experiences of Sojernistas globally.
+
+We are building a workforce that represents the customer base we are serving and the world we live in. A diversified workforce is an innovative workforce. Just as there is no one archetype traveler, there is no one archetype employee. We foster diversity and inclusion across the company, actively seeking to amplify underrepresented voices and apply diverse perspectives to ensure products, policies, and programs are relevant for our employees and clients alike.
+
+Embracing our differences and celebrating them moves us towards our goal of making travel inclusive of all. Sojern has over 15 employee-led Affinity Groups, including Embrace Inclusion, So-Proud, Sojern Women's Group, Sojern Gives Back, and more, which are the core of our culture, fostering belonging, inspiring learning, and creating opportunities for all Sojernistas across the globe.
+At Sojern, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, gender orientation, sexual orientation, age, marital status, veteran status, or disability status.
+This is a remote position. 

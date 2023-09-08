@@ -1,0 +1,37 @@
+Vaco Technology is currently recruiting for a Data Analytics - Product Owner for a leading manufacturing company. This position is a permanent one with a competitive salary and great benefits package. This position follows a remote work model where the member will also have the opportunity for occasional travel.
+As a Product owner you will focus on tactical day to day work ensuring requirements are clearly defined and assist with development tasks to include but not limited to: Data support, training, validation, documentation, and communication.
+Responsibilities:
+Functional Support
+Partner closely with key stakeholders
+Define and document requirements in the form of user stories
+Own, maintain, and prioritize product backlog
+Demonstrate product and process improvement outcomes
+Facilitate technical discussions with data engineers
+Data Management
+Perform data troubleshooting, validation, and support.
+Identify root data sources
+Perform analysis on ad-hoc reporting
+Educate users on how to use the enterprise data warehouse tools and datasets
+Key Competencies & Attributes
+Ability to develop and leverage drive data to quantitively and analytically make business decisions and take smart risks
+Able to think strategically and act tactically
+Ability to lead in a matrixed and highly collaborative environment to influence change and core processes
+Business curiosity; quick learner with a proactive and agile mindset
+Demonstrated experience in leading a diverse team- setting vision, strategy, tactics, and delivery.
+Strong change management skills
+Proficiency in the use of analytic tools
+Education/Experience
+High School Graduate or GED required.
+Bachelor's Degree in Computer Science, Business, Engineering, or related discipline preferred.
+IT product management experience.
+Agile, preferably Scrum, experience
+Experience in Manufacturing environments is a plus
+Skills/Abilities
+Working knowledge of Azure DevOps
+SQL, Power BI, Excel, and SSRS tools
+Understanding of Machine Learning Algorithms and Data Sciences techniques are a plus
+Ability to thrive in a fast-paced environment
+Strong analytic and problem-solving skills
+ABOUT VACO:
+Don't think of us as another agency, we are the fast track to your dream role. Vaco opens the door to exclusive clients that you won't find on job boards
+Let Vaco advocate for you! When you partner with Vaco, you have an advantage over your competition, because we promote your strengths to the hiring manager, so you are NOT another faceless resume. 

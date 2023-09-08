@@ -1,0 +1,40 @@
+Dematic is looking for a high caliber Data Analyst who will work with a global team of other data analysts as well as business process owners.
+
+Dematic is developing and enhancing its global data analyst skillset to support the company with advanced data analysis, analytics, trending, statistical forecasting and demand planning, identification of leading indicators, and other beneficial uses of data for improved decision making and tracking of important KPIs and metrics.
+What we offer:
+This Is What You Will Do In This Role:
+Interpret data, analyze results using statistical techniques and provide ongoing reports and analysis
+Work independently and within a team to develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
+Acquire data from primary or secondary data sources
+Identify, analyze, and interpret trends or patterns in complex data sets
+Identify data cleansing opportunities within our source systems, and suggest ways to improve data accuracy and/or collection of new data points
+Work with management to prioritize business and information needs
+Locate and define new process improvement opportunities
+Expected benefits and focus of the role
+Aid in the implementation and maintenance of a statistical forecast while understanding the legacy demand plan
+Provide BI reports and support to teams across the globe
+Be part of a team that provides daily updated reports via QMC and a Qlik access portal to a large internal customer base
+ Provide process insights and improvements both to the customer base and within the Data team
+Tasks and Qualifications:
+This Is What We Are Looking For:
+BS in Mathematics, Computer Science, Information Management, or Statistics or similar
+Experience with BI tools such as QlikView or Power BI most useful
+Knowledge of SQL, SAP, Excel and Snowflake
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Proven ability presenting data findings in simple and easy to understand ways
+Technical expertise regarding data models, database design, data mining and segmentation techniques
+Familiarity with ERP systems & underlying data sources, SAP most useful
+An understanding of statistical forecasting and demand planning
+Ability to work with different cultures
+Demonstrated outstanding team interaction and communication skills
+Proven history of successful problem-solving
+Excellent MS office skills
+Be comfortable working in a ticketing system and an Agile structure
+What We Offer:
+Career Development
+Competitive Compensation and Benefits
+Pay Transparency
+Global Opportunities
+Learn More Here : https://www.dematic.com/en-us/about/careers/what-we-offer/
+Vaccination Policy
+Some positions in the U.S. may require vaccination against COVID-19. Where legally permitted or required, offers for such roles are contingent on the candidate providing proof of full vaccination against Covid 19 (currently one dose of the Johnson & Johnson vaccine or two doses of the Pfizer or Moderna vaccine). Candidates with medical issues or religious beliefs or practices that prevent them from getting the vaccine may request an exemption from the vaccine requirement 

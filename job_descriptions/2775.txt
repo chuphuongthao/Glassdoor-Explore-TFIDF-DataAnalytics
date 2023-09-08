@@ -1,0 +1,14 @@
+Employment Requirements
+This opportunity is not open to C2C relationships or visa sponsorship.
+
+This opportunity is for local candidates only.
+
+Job Description
+Solu is currently seeking a Healthcare Economics Analyst - Analytics and Data Science I to join our Phoenix based client.
+
+
+Responsibilities
+Provide strategic analysis that impacts business decisions, improves efficiency, and drives innovation.Perform data extraction, healthcare cost analysis, analytical model development, as well as production of various reports to support corporate strategies and initiatives.Execute complex analyses that guide the development of reimbursement policy, provider negotiations, network development, value-based care, population health management, utilization management programs and other medical cost containment solutions.Provide accurate, timely and reliable delivery of data, metrics, reporting and analysis in support of multiple strategic goals, mandates, and legislation.Develop processes, write programs and/or create databases using analytic tools to produce accurate and timely completion of analytic solutionsIdentify, analyze, interpret, and validate healthcare data metrics, trends, and patterns.Develop and analyze business performance reports (e.g., for claims data, provider data, utilization data) and provide notations of performance deviations and anomalies.Model financial impact analyses for a variety of business initiatives.Partner with peers to establish, evaluate, and continually improve measurement methodologies, while adhering to nationally accepted analytic and reporting standards.Act as liaison to both internal business partners and external providers or vendors.Create, modify, maintain, and enhance existing programming or business processes associated with specific responsibilities.Interpret, communicate, and present results to all levels of management in consistent and easy to understand formats to facilitate fact-based decision-making.Complete projects within preset timelines and report status to supervisor and project manager.Prepare written documentation on projects to provide a peer review trail and ensure continuity and integrity.Build and maintain close working relationships with internal stakeholders and key external client contacts (e.g., Providers, Internal Clinicians, Vendors, Customers, Brokers, BCBS Association, Blues Plans, Auditors).
+
+Qualifications
+A minimum of 3 years work experience in healthcare data analytics.A minimum of 3 years work experience in the health insurance industry OR with a provider such as a hospital or medical facility.A minimum of 3 years work experience using SAS or SQL to query complex data warehouses and doing cost analysis, cost metrics, healthcare data, and build trend analysis.A minimum of 3 years work experience with Tableau or other data visualization tools. 

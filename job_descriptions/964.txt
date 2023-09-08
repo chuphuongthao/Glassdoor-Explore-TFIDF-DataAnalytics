@@ -1,0 +1,45 @@
+Overview:
+
+We are not just offering a job but a meaningful career! Come join our passionate team!
+REMOTE: Qualified candidates (outside of hub locations listed below) may be considered for 100% remote work arrangements based on where a candidate currently resides or is currently located.
+HYBRID: Qualified candidates (in or near hub locations listed below) should plan to spend time working from home and some time working in the office as part of our hybrid work environment.
+HUB LOCATIONS: Dunwoody, GA; Richardson, TX; Tempe, AZ; or Bloomington, IL
+*SPONSORSHIP: Applicants for this position are required to be eligible to lawfully work in the U.S. immediately; employer will not sponsor applicants for U.S. work authorization (e.g. H-1B visa) for this opportunity.*
+As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. State Farm embraces diversity and inclusion to ensure a workforce that is engaged, builds on the strengths and talents of all associates, and creates a Good Neighbor culture.
+We offer competitive benefits and pay with the potential for an annual financial award based on both individual and enterprise performance. Our employees have an opportunity to participate in volunteer events within the community and engage in a learning culture. We offer programs to assist with tuition reimbursement, professional designations, employee development, wellness initiatives, and more!
+Visit our Careers page for more information on our benefits, locations and the process of joining the State Farm team!
+Responsibilities:
+
+As a data scientist at State Farm, you will help business partners build advanced analytic solutions to help drive results for the enterprise. You will serve not just as a subject matter expert and consultant, but also as a teacher. Through this role, you will work to increase the use of analytics for decision making across the company.
+Why Join Our Team:
+Being part of our data science team will help facilitate your professional growth across multiple development areas. First, you will strengthen your communication skills through interactions with business partners that require you to articulate statistical concepts in a non-technical way. Additionally, the variety of projects that you work on will allow you to refine your knowledge for supervised and unsupervised learning techniques. Finally, the landscape of the data science field is quickly changing, so this role includes an opportunity for practical research which equates to unbounded development opportunities for your analytic skills.
+Qualifications:
+
+Data Scientist Skills & Professional Experience Preferred:
+Completed Masters, other advanced degrees, in an analytical field such as statistics, economics, data science, mathematics, quantitative marketing, operations research, management science, industrial engineering, etc.
+Experience with gathering and interpreting business requirement to design and create scalable data science solutions in a regulatory environment (including but not limited to insurance, health-care, and finance).
+Experience with data cleansing, feature creation, feature selection, value imputation and dependent variable analysis
+Broad experience building different types of advanced analytic solutions, including some of the following: time series analysis, cluster analysis, tree based algorithms, generalized linear models, or neural networks.
+Excellent communication skills and the ability to work with multiple, diverse stakeholders across business areas and leadership levels.
+Exercise sound judgment to diagnose and resolve problems within an area of expertise
+Proficiency with SQL and with Python, R and/or SAS
+Familiarity with experimental design for business experiments and/or natural language processing techniques
+Experience in prioritizing work using the Agile framework
+Familiarity with DevOps systems, such as GitLab
+For Los Angeles candidates: Pursuant to the Los Angeles Fair Chance Initiative for Hiring, we will consider for employment qualified applicants with criminal histories.
+For San Francisco candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+For Colorado candidates:
+Compensation: $69114.50 - $169250.00
+Competitive Benefits, including:
+401k Plan
+Health Insurance
+Dental/Vision plans
+Life Insurance
+Paid Time Off
+Annual Merit Increases
+Tuition Reimbursement
+Health Initiatives
+For more details visit our benefits summary page
+SFARM
+#LI-LP1
+#LI-Remote 

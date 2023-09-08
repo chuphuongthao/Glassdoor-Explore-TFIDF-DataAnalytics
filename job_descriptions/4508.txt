@@ -1,0 +1,25 @@
+RESPONSIBILITIES:
+Kforce has a client seeking a Technical Data Analyst II in Mountain View, CA.
+
+Duties Include:
+
+Technical Data Analysts serve as a technical subject matter expert to business analysts and data consumers on one or more datasets (datamarts)
+Leverage knowledge of data analytics principles and business acumen to evaluate user needs, define technical problems, and work with engineering/development staff to identify data-driven solutions
+As a Technical Data Analyst, you will assist stakeholders in developing and prototyping solutions to optimize access to data
+Participate in ongoing operational activities to maintain, monitor, and enhance overall system performance
+Contribute to the creation of logical and physical data models for a signal domain
+
+REQUIREMENTS:
+
+5+ years of work experience involving quantitative data analysis
+Advanced SQL skills to get the data you need from a data warehouse and perform data segmentation and aggregation from scratch
+Data query and data processing tools/systems (e.g., relational, NoSQL, stream processing)
+Familiarity with AWS (Redshift, Athena, and AWS core concepts)
+Familiarity with Data modeling and schema design
+Proficient in analytical and data modeling tools, such as Python, R, or PyCharm preferred
+Self-starter who attacks the problem with excellent critical-thinking skills, creativity, and end-to-end quantitative and qualitative analysis
+Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner to executives and non-technical leaders
+High level of professionalism, passion, strong organization, time management, and task prioritization skills with attention to detail and bias to action; Inquisitive, curious, and bias toward learning and continuous improvement
+Ability to grasp quickly and get up to speed on instrumentation, clickstream data, data architecture, and complex business system interactions such as Salesforce, Amazon Connect, EWFM preferred
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. 

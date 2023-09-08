@@ -1,0 +1,24 @@
+Title: Junior Data Analyst
+
+Location: Remote - Flexible
+
+Minimum Skills required:
+
+Bachelor's degree in mathematics, statistics, analytics, data science, or related discipline
+2+ years of experience in consulting or professional services
+Experience in extracting insights from large databases, translating market research into actionable solutions and presenting findings and recommendations to clients
+Experience querying data from relational databases using SQL.
+Experience using Python, or other similar statistical software to develop analytical solutions.
+Experience with data wrangling, data cleaning and prep, dimensionality reduction.
+Experience with Big Data concepts, tools, and architecture (e.g. Databricks, Hadoop, Pig, Hive, Spark, Sparkling Water).
+Strong interpersonal and communication skills.
+Excellent attention to detail, organization skills and ability to work in a collaborative environment
+
+Position Specific Skill Preferences/Desires:
+
+2+ years of experience with a focus on causal inference, experimental design, A/B testing
+
+Key Responsibilities:
+Design and measure the impact of marketing-controlled tests, A/B and observational studies
+Be hands on with respects to the analysis of a retailer database, using the full suite of 84.51 technical tools Python, Spark, SQL, Azure, Tableau, Excel, and other specific internal tools
+Create timely, relevant, and actionable insights 

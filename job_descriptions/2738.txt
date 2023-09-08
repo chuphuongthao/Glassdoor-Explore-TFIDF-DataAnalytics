@@ -1,0 +1,25 @@
+Company Summary
+Come join First American's Digital Title Group, newly formed to re-imagine and digitize the title search and examination process through Big Data, AI, document automation and modern, cloud-native application development. As a market leading title insurance company, powered by the nation's largest and most complete property information, ownership and recorded document database, First American is committed to advancing title automation and removing friction from the real estate closing process. Our modern title decisioning solutions create certainty and speed through data and analytics, delivered to real estate agents, lenders, title agents and homebuyers. Join a team that puts its People First! Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For® list for seven consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.
+Job Summary
+Come join First American's Digital Title Group, newly formed to reimagine and digitize the title search and examination process through Big Data, AI, document automation and modern, cloud-native application development. As a market leading title insurance company, powered by the nation's largest and most complete property information, ownership and recorded document database, First American is committed to advancing title automation and removing friction from the real estate closing process.
+Our modern title decisioning solutions create certainty and speed through data and analytics, delivered to real estate agents, lenders, title agents and homebuyers. We're looking for a Solutions Architect, Data Engineering interested in transforming our industry by solving cutting-edge problems with modern technologies, want the benefit of working for an established real estate insurance leader and seek a culture awarded as a Fortune 100 Best Companies to Work.
+What You’ll Do:
+Design data infrastructure to support the analysis of hundreds of millions of real property records
+Design and plan cloud data architectures to deliver high-performing, scalable, secure, and dynamic solutions to drive business objectives
+Provide technical leadership, mentoring other engineers on best practices in the data engineering space
+Collaborate with domain SMEs, application owners, development teams, and management to ensure solutions meet business needs
+Remain hands-on with architecture and engineering activities and deeply embedded in technology and software engineering
+Knowledge & Experience:
+7+ years experience in architecting and developing complex software initiatives
+Expertise building data products incrementally, integrating and managing datasets from multiple sources
+Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets (e.g., Spark, Kafka, Flink, Hadoop)
+Strong understanding of data architecture concepts such as data warehousing, data lakes, data lakehousing, partitioning, file formats, schema & metadata management, lineage, data mesh design, and other architectural patterns to effectively organize teams around data
+Experience leading large-scale data warehousing and analytics projects with Snowflake, Redshift, PostgreSQL, etc. with demonstrable technical expertise
+Demonstrable, hands-on experience with foundational AWS services such as EC2, IAM, and S3, along with data science/analytics/engineering services such as EMR, Glue, Athena, and Sagemaker
+Ideal Candidates:
+Have broad experience across various technologies, methodologies, and frameworks
+Create excellent technical documentation and architecture diagrams
+Have expertise in agile, lean, DevOps, and other iterative development methodologies
+#LI-EL1
+First American invests in its employees' development and well-being, empowers them to provide superior customer service and encourages them to serve the communities where they live and work. First American is committed to diversity and inclusion. We are an equal opportunity employer.
+Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan. 

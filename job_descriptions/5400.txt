@@ -1,0 +1,26 @@
+Machine Learning Researcher
+Retail Company
+New York, New York
+$180,000 - $210,000 + Benefits
+THE COMPANY
+This company is one of the oldest and most successful e-commerce websites on the Internet. This company consistently has millions of buyers and sellers as well as billions of daily queries. They are looking to expand their team of talented individuals with a data scientist who has a focus in machine learning as well as NLP.
+RESPONSIBILITIES
+Lead a team of one or more technical areas of research and development
+Collaboration with other research teams in the company to build the best-of-breed experience
+Develop ML Applications and stay up to date with Deep Learning, NLP, and Machine Learning
+Work closely with engineers and other teams, including Applied Researchers, Project Managers, QA, etc.
+Will work on various projects related to: Deep Learning, Transfer learning, Multimodal Deep Learning, Language Models, Weakly Supervised and Semi-Supervised Learning, Behavioral Modeling, and more.
+SKILLS AND EXPERIENCE
+Minimum Master's degree in Computer Science, Data Science, Mathematics, Business, or related field. Master's Strongly preferred.
+Strong Machine Learning with a focus on neural networks, predictive modeling, and statistical analysis skills; NLP is a plus.
+Proven experience working with PyTorch, ML Algorithms or TensorFlow
+Highly functional knowledge of Python/R, SQL, and Machine Learning libraries.
+History of designing and leading research projects that produce insightful and actionable analysis
+Strong collaboration and communication skills.
+Proof of publications in machine learning or NLP conference
+BENEFITS
+Compensation consists of the base salary + a standard benefits package
+HOW TO APPLY
+Please register your interest via the Apply link on this page.
+KEYWORDS
+Machine Learning, Data Science, Research, Technology, NLP, Advertising, Stakeholder Management, Client Facing, Analytics, Predictive Modeling, ML, Python, R, SQL, Statistics 

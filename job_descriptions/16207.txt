@@ -1,0 +1,15 @@
+Summary
+Posted: Feb 7, 2022
+Role Number:200340270
+Services at Apple help hundreds of millions of customers get the most out of the devices they love through amazing apps, award-winning shows and movies, immersive music in spatial audio, world-class workouts and meditations, super fun games and more. The Apple Media Products Data Science & Analytics organization is passionate about developing discerning insights and machine learning solutions to help continually improve these services and accelerate growth while maintaining a strong dedication to customer privacy. We are currently seeking an experienced Marketing Experimentation Data Scientist to own A/B Testing end-to-end, build partner relationships, and grow Apple’s subscription services. As key members of our diverse and dynamic organization, we have the rare and rewarding opportunity to work with datasets of unique magnitude, richness, and dedication to user privacy that will frequently require innovative ways. We work collaboratively with partners across Business, Marketing, Product and Engineering daily to deliver material customer and business value. The position is based in Austin, TX.
+Key Qualifications
+3+ years of proven ability as a Data Scientist, Data Analyst, or Data Engineer. Preferably for a digital media, MarTech, digital subscription business, or technology business.
+2+ years applied experience in building sophisticated datasets that enable data science and BI. Experience working with structured and unstructured data stored in distributed files systems.
+Strong proficiency with SQL, Python or R. Experience with data visualization tools a plus.
+Strong background and knowledge in statistics, probability, and data analysis.
+Project ownership with an ability to condense & communicate sophisticated concepts and analysis into clear and concise takeaways that drive action.
+Description
+Partner with Business and Engineering to define data collection, reporting requirements, metrics, and aggregates to power testing, machine learning, and reporting. Apply statistical methods, such as A/B Testing, causal inferences, and etc, to identify incrementality, benchmarking, sizing, forecasting, and etc to accurately understand the effect of multiple and often interrelated initiatives. Establish, improve, and socialize top line and operational metrics that accurately represent the business state of health to craft the product strategy.
+Education & Experience
+Minimum of a Bachelors degree in Computer Science, Statistics, Mathematics, Engineering, Economics or related field. Advanced degree preferred.
+Additional Requirements 

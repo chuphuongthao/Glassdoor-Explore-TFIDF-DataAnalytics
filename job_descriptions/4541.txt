@@ -1,0 +1,39 @@
+Data Analytics QA Consultant
+
+
+Position Description
+
+CGI is adding a Data Analytics Software Quality Assurance Consultant to our team in Atlanta, GA. This is an exciting opportunity to join a world-class IT company, for a permanent position in the Atlanta metro area providing leading IT services to our local enterprise clients. The Data Analytics Software Quality Assurance Consultant is responsible for supporting the quality assurance and data validation process in client engagements. This includes developing quality assurance data strategies and plans, leading quality assurance data testing efforts, collaborating with development teams, and reporting results to internal and client management.
+
+Your future duties and responsibilities
+
+Quality Assurance Analysts have the important job of ensuring the satisfaction of client quality expectations by performing manual, automated, and performance testing on client applications in accordance with CGI QA methodologies. Analysts also:
+Collaborate with team members to find better, more efficient ways of doing thingsPerform all aspects of testing (functional, regression, load, and system testing), taking part in every phase of the Software Development Life CycleEnsure that all test items follow established change management processes and are tested and tracked using the provided test management softwareCreate system test plans and software documentation including requirements, design, and user manualsSolve challenging business and technical problems, detail oriented.Learn from your peers and from our years of experience through training classes, engineering reviews, and our mentor programGrow in your career, and enhance your technical abilities
+Required qualifications to be successful in this role
+Bachelor's degree in Computer Science, MIS, or directly related field2+ years of quality assurance experience.Strong knowledge in all aspects of testing including manual, performance and automated testing.Strong knowledge of SQL and the ability write queriesStrong written and verbal communications skillsStrong Analytical skillsKnowledge of testing tools to support automation and performance testing (e.g. Selenium, HPE, TestComplete, Cucumber, Serenity, TestNG, JMeter, LoadRunner)Experience in GIT, Jenkins, JavaBe highly motivated by delivering excellent services to our clients and ensuring their satisfactionExcellent verbal and written communication skills
+#LI-JN2
+
+Insights you can act on
+
+While technology is at the heart of our clients' digital transformation, we understand that people are at the heart of business success.
+
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees "members" because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today - one of the world's largest independent providers of IT and business consulting services.
+
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+
+Ready to become part of our success story? Join CGI - where your ideas and actions make a difference.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, pregnancy, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status, political affiliation, genetic information, or any other legally protected status or characteristics.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com . You will need to reference the requisition number of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a requisition number will not be returned.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held. CGI will consider for employment qualified applicants with arrests and conviction records in accordance with all local regulations and ordinances.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGI's legal duty to furnish information.
+
+Skills 

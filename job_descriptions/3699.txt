@@ -1,0 +1,22 @@
+Business Data Analyst (Entry-Level )
+Work Location: San Jose, California
+Join us to reshape the future of chronic disease management! iHealth Labs introduced the first smartphone-connected blood pressure monitor in the world. Since then, iHealth Labs has become a global leader in digital health technology, offering a line of award-winning mobile health devices and comprehensive chronic disease management solutions. Our mission is to connect patient care at the doctor’s office with an individual's daily life at home and provide real-time support to empower people with chronic conditions to live healthier.
+Job Description
+Our company is going through a transformation from a traditional home-health device business to a nimble, (epidemiological) demand data-driven, service-oriented, outcome-centric health technology company. Data science and automation are the tools that we employ to facilitate this transformation. This roll will also be completing other duties as assigned.
+Formal Training Required
+A BS degree from an accredited 4-year college or university or an MS degree from an accredited master’s degree program.
+Skills Required
+Fluency in both Python and R. If you have the required fluency in one of the languages, you’ll still be considered for this position, with the understanding that the deficiency will be made up during your probation period at your own time.
+Experience working with large datasets of size at least a few hundred Megabytes. The datasets we work with are often too large to be effectively manipulated using MS Excel or Google Sheets.
+Operational knowledge about Cloud-hosted databases such as MongoDB. Familiarity with SQL-like query languages.
+Excellent communication skills. Fluency in English (both written and oral)
+Skills Preferred
+Knowledge about business processes in any business function would be a plus.
+Fluency in Chinese (both written and spoken)
+What we Provide:
+Great benefits.
+Professional development support.
+Vivid startup environment with open and collaborative working space and recreational area.
+Healthy snacks and catered lunch once a week.
+Height adjustable desk and ergonomic chair - MacBook Pro with a 4K monitor
+Collaboration lounge space. 

@@ -1,0 +1,28 @@
+Working at Atlassian
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or return to an office as they reopen (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+Your future team
+Do you have experience examining complex data and turning it into useful information and insights? Do you love finding the next big 'aha' insight which changes the way a business thinks about their customers? Would you like to lead change with global impact at the world's hottest SaaS company?
+Atlassian is looking for a data quality expert to join our Marketing Analytics team as a Data Scientist, Data Analytics Engineering. We're looking for someone with business instincts and analytics mastery, who is passionate about applying these skills to lead smarter data decisions and delight our customers. You'll build scalable marketing analytics data products and pipelines. You'll do this by partnering with analytics and data engineering experts to understand the business and data landscape and build a data foundations roadmap.
+What you'll do
+Manage marketing analytics data product programs and pipelines (such as attribution or paid performance pipeline).
+Build productized data assets that meet customer needs that are scalable enough to grow
+Oversee data requirement gathering (including metrics and definitions alignment), establishing acceptance criteria, QAing, and testing for new products from start to finish to ensure everything is implemented and validated.
+Prioritize improvements and complete deep dives that build short-term improvements while partnering with broader data engineering team to define long-term road map
+Establish documentation for data product assets
+Partner with marketing analytics and data engineering leadership to achieve "the best" data models and products
+Guide demos sessions and education roll out for new data products and features to ensure adoption and usage
+Your background
+3+ years working with data analysis and engineering
+An Agile development mindset, appreciating the benefit of constant iteration and improvement. A very high bar for output quality, while balancing "having something now" vs. "perfection in the future"
+Expertise in data modeling, (e.g. SQL, Python), knowledge of cloud data environments (e.g. AWS), and experience with data ETLs and UAT processes
+Strength in one or more visualization tools (Tableau, R-Shiny, etc)
+An understanding of the SaaS development, business model and metrics
+Familiarity working with Product Management, Engineering, Design, Customer Research and Data Engineering teams
+A degree in a quantitative discipline (e.g. statistics, mathematics, physics, econometrics, or computer science)
+Our perks & benefits
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+About Atlassian
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team.
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+To learn more about our culture and hiring process, explore our Candidate Resource Hub. 

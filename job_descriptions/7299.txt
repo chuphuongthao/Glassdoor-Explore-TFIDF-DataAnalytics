@@ -1,0 +1,17 @@
+Summary
+Posted: Nov 18, 2021
+Role Number:200314348
+At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. If you are an ambitious, passionate individual who is not afraid of challenges, we’re looking for you. Apple is seeking an experienced Business Intelligence / Data Visualization Engineer to join a team passionate about data science and delivering innovative visualizations & insights across the entire Apple Media Products (AMP) portfolio. This role will require working with internet-scale data across numerous product and customer touchpoints, undertaking in-depth quantitative analysis, and distilling data into practical and intuitive visualizations to drive informed decision-making across all levels of the company. A strong candidate can communicate and collaborate across many different teams, has an agile approach to tackle challenging problems quickly, and stresses the details. Our culture is centered around rapid iteration with open feedback and debate along the way. We encourage independent decision-making and taking calculated risks. AMP Data Science & Analytics collaborates with partners across product, design, engineering, marketing, editorial, and business partners. We produce insights to drive decisions that enhance the customer experience, accelerate growth, and uncover new business opportunities while respecting user privacy.
+Key Qualifications
+5+ years of experience in a Data Visualization, Data Scientist, or Data Analyst role, preferably for a digital subscription business.
+Strong proficiency with SQL-based languages is required. Experience with large-scale data technologies such as Hadoop and Spark preferred.
+Proficiency with data visualization tools such as Tableau, PowerBI, MicroStrategy for analysis, insight synthesis, data product delivery, and executive presentation.
+You have a curious business mentality with an ability to condense complex concepts and analysis into clear and concise takeaways that drive action.
+Superb communication, social, and presentation skills with meticulous attention to detail.
+Strong time management skills with the ability to balance multiple projects with tight targets and executive visibility.
+Be known for successfully bridging analytics and business teams, with an ability to speak the language of both.
+Description
+Build dashboards, self-service tools, and reports to analyze and present data associated with customer experience, product performance, business operations, and strategic decision-making. Closely partner with our Data Science team to define metrics, datasets, and automation strategy. Develop global dashboards, data pipelines, sophisticated security controls, and scalable ad-hoc reporting. Engage with Product, Business, Engineering, and Marketing teams to gather requirements, influence how our services are measured, and craft extraordinary tools to support those partners. Establish a comprehensive roadmap to communicate and manage our commitments and stakeholder expectations while enabling org-wide visibility on progress. Focus on scale and efficiency - build and implement innovative solutions and establish best practices across our full scope of delivery.
+Education & Experience
+Minimum of a Bachelors degree in Computer Science, Statistics, Mathematics, Engineering, Economics, or related field.
+Additional Requirements 

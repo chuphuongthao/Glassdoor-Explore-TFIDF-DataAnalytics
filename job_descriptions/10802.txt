@@ -1,0 +1,43 @@
+Data Scientist
+Primary Location: Greer, South Carolina
+
+V-Soft Consulting is currently hiring for a Data Scientist for our premier client in Greer, South Carolina. This is a 12 month contract position.
+
+WHAT YOU’LL NEED:
+Technical Requirements and Certifications »
+Process/project management experience or training/certifications (preferred).
+
+Education and Experience »
+Bachelor degree in computer science, mathematics/statistics or related field.
+Advanced degree (Masters or PhD) in computer science, mathematics/statistics or a related field (preferred).
+3+ years post-university experience in advanced analytics in the field of data science, applying scientific data analytics methods preferably to automotive industry datasets.
+1+ years proven experience completing projects with a set of various data sources.
+
+Knowledge, Skills and Abilities »
+Basic = less than 1 year of experience/training needed; Intermediate = 1 – 3 years of experience/some training may be needed; Advanced = 3-5 years experience/no training needed; Expert = 5+ years experience/able to train others.
+3+ years of knowledge in using statistical computer languages (Python, SLQL, etc.) to manipulate data and draw insights from large data sets.
+1+ years of knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Intermediate knowledge of deep learning architectures (RNN, CNN, LSTM, etc.) and frameworks (Tensor flow, Keras, etc.).
+3+ years of knowledge of in one or more of the following programming languages: Python, Java, C++.
+3+ years of knowledge and experience in Computer Science and in database technologies including SQL, Oracle, SQL Server, SAP HANA and NoSQL databases.
+3+ years of experience in statistical languages and tools in particular R.
+3+ years of experience in problem solving skills with an emphasis on product development.
+
+WHAT YOU’LL DO:
+Job Responsibilities:
+Analyzes business critical data and recommends improvements.
+Works with large data sets consisting of predominantly images and conducts advanced analytics tasks. Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Works with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Develops custom data models and algorithms to apply to data sets.
+Coordinates with different functional teams to implement models and monitor outcomes.
+Develops processes and tools to monitor and analyze model performance and data accuracy.
+Serves as internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.
+Advises developers and engineers on latest data analytics technologies and assists the team in process matters as related to development/support and provides the necessary on the job training and development of associates/contractors within the team.
+Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.
+Performs other duties as assigned by Operations Supervisor.
+
+Interested?
+Qualified candidates should send their resumes to smatthew@vsoftconsulting.com
+
+V-Soft Consulting Group is headquartered in Louisville, KY with strategic locations in India and across the U.S., including Madison, Chicago, Denver, Harrisburg and Atlanta. Known as an agile innovative technology services company, we were recently rewarded the Large Business of the Year award from Louisville Business First and were recognized among the top 100 fastest growing staffing companies in North America. V-Soft has a wide variety of partnerships across diverse technology stacks and holds such titles as MuleSoft Certified Delivery Resource, Oracle Gold Partner, ServiceNow Partner, Microsoft Partner and Cisco Registered Partner, amongst many others.
+For more information or to view all our open jobs, please visit www.vsoftconsulting.com or call (844) 425-8425. 

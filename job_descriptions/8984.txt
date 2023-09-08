@@ -1,0 +1,57 @@
+Description
+Come discover what our 25,000+ employees already know: work here matters everywhere. We’re a growing and evolving biopharmaceutical industry leader, which means you’ll have endless opportunities to work with experts around the world and build the career you’ve dreamed of.
+As a part of the Syneos Health team, you’ll help us deliver results for a rewarding reason – we improve patients’ lives around the world. Because to us, a patient isn’t just a number, they’re our family, friends, and neighbors.
+Why Syneos Health
+#SyneosHealthLife means we’re committed to our Total Self culture – where everyone can authentically be themselves. Our Total Self culture is what unites us globally, and we know every person’s unique contributions make a difference.We believe our success is a direct result of the people who are driving it – you! We value your dedication to care for our customers and patients, so we want to focus on taking care of you. That’s why we offer a comprehensive benefits program encompassing your total health - physical, mental and financial.We are continuously building the company we all want to work for and our customers want to work with. Why? Because when we bring together diversity of thoughts, backgrounds, cultures, and perspectives – we’re able to create a place where everyone feels like they belong.
+JOB SUMMARY
+Responsible for the end-to-end coordination of cross functional data collection and cleaning activities to ensure clinical study data deliverables are fit for purpose and align with the executed contract and sponsor expectations and timelines.
+JOB RESPONSIBILITIES
+Serves as Functional Lead for Clinical Data Science including primary contact for internal liaison between Clinical Data Science and Project Management, Clinical Monitoring, and other functional groups
+Acts as central steward of clinical data quality, monitors risks through the holistic review of clinical and operational data, using high level knowledge of the protocol, taking into account the specific therapeutic area aspects of the protocol related to the data collected and aligning with cross functional operational plans to drive comprehensive clinical data quality
+Ensures the required data elements and corresponding data quality oversight steps are identified to support the defined study analysis
+Works with assigned project teams to communicate, address, troubleshoot and resolve data related questions and recommends potential solutions; escalates issues which potentially impact patient safety and study analysis
+Coordinates cross functional data cleaning activities to ensure quality standards and timelines are met for clinical data deliverables Ensures the required data elements and corresponding data quality oversight steps are identified to support the defined project analysis
+Drives the development of the clinical data acquisition plan and corresponding data flow diagram with the study team, assess risks associated with protocol design, study set parameters that could impact the credibility and reliability of the trial results, aligns data flow with the study protocol to ensure data collected meets regulatory and study endpoint requirements.
+Drives the development of analytical tools, utilizes analytical platform/dashboard to detect potentially unreliable data that may impact the validity of the trial results Performs analytic reviews as defined in scope of work and data acquisition plan, identifies root cause to systematically resolve data issues
+Monitors and communicates project progress to the Sponsor and project team including use of project status reports and tracking tools/metrics
+Ensures launch, delivery and completion of all Clinical Data Sciences activities and milestones according to contractual agreement and relevant Standard Operating Procedures (SOPs), guidelines, and regulations
+Review, maintain budget and identify out of scope for Clinical Sciences activities, raise to PM to be implemented in required change order
+Plans, manages, and requests Clinical Data Science resources for assigned projects
+Coordinates the work of the assigned Clinical Data Science team
+Develops and maintains project plans, specifications, and documentation in line with SOP requirements
+Maintains documentation on an ongoing basis and ensures that all TMF filing is up to date for necessary files
+Participates in, and presents at internal, Sponsor, third-party, and investigator meetings on behalf of clinical data science responsibilities
+Prepares input, and participates in proposal bid defense meetings and request for proposals on behalf of clinical data science responsibilities
+Plans for and creates necessary documentation to support internal and external audits; participates in such audits on behalf of clinical data sciences responsibilities
+Trains and mentors new or junior team members
+Maintains proficiency in Clinical Data Science systems and processes through regular training. May attend/represent the company at professional meetings/conferences
+Performs other work-related duties as assigned. Minimal travel may be required (up to 25%)
+
+Qualifications
+What we’re looking for
+
+BA/BS in the biological sciences, computer sciences, mathematics, or data sciences and/or related disciplines in the natural science/health care space. MS degree is preferred. In lieu of degree, equivalent relevant work experience
+Clinical Data Science experience or an equivalent combination of education and experience
+Experience in Clinical Data Science practices and relational database management software systems
+Strong knowledge of the drug development process and its impact on data quality, in particular riskbased approach, biometrics procedures, workflows.
+Aptitude for understanding analytic modeling methods such as regression, classification and clustering
+Strong project management skills and knowledge of project management methodologies
+Strong analytical skills and knowledge of Artificial intelligence /machine learning methodologies preferred
+Demonstrated staff leadership skills
+Knowledge of ALCOA++ data quality principles
+Strong experience with protocol interpretation, data collection and data cleaning specification development
+Experienced with data analysis/data review and visualization tool sets including but not limited to Python, R, Spotfire, SAS
+Knowledge of medical terminology, clinical data, and ICH/GCP regulatory requirements for clinical studies, in particular requirements applicable to Clinical Data Sciences
+Proficiency in MS Windows navigation, Word, Excel, PowerPoint, and email applications
+Effective oral and written communication and presentation skills
+Good organizational, planning, and time management skills with the ability to multitask under tight deadlines while providing attention to detail
+Ability to be flexible and adapt to change, to work independently, as well as part of a multi-disciplinary team
+
+Get to know Syneos Health
+We are the only full-service biopharmaceutical solutions company in the world. That means we bring together the best clinical and commercial minds to create a better, smarter, faster way to get medicines into the hands of patients who need it most. Learn more about Syneos Health.
+Additional Information:
+Tasks, duties, and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.
+As a healthcare company we have an important responsibility to protect individual and public health. This position will require individuals to be fully vaccinated against COVID-19 as part of their job responsibilities, unless an exemption can be confirmed based on a medical condition or sincerely held religious belief. Submission & Approval of an Exemption does not guarantee that an exemption can be accommodated
+This job excludes CO applicants
+
+#LI - PM1 

@@ -1,0 +1,54 @@
+General information
+Career area
+Financial Analysis
+Work Location(s)
+500 Woodward Avenue, Detroit, MI
+Remote?
+No
+Ref #
+13317
+Posted Date
+Tuesday, August 23, 2022
+Working time
+Full-time
+Ally and Your Career
+Ally Financial only succeeds when its people do - and that’s more than some cliché people put on job postings. We live this stuff! We see our people as, well, people - with interests, families, friends, dreams, and causes that are all important to them. Our focus is on the health and safety of our teammates as well as work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. You’re constantly evolving, so shouldn’t your opportunities be, too?
+The Opportunity
+We're looking for a passionate Data Science Analyst with great communication skills for our Consumer Auto Finance Pricing Team. This person will conduct ad hoc analysis, analytics projects and create data products to surface insights and drive business strategy. Do you have a focus on measurable business outcomes, strong analytical skills, and a desire to make an impact? If you are a creative and critical thinker, storyteller, learner and innovator and want to work in an environment focused on using data science and big data tech, keep reading.
+The Work Itself
+In this role, you'll help us make data-driven decisions by:
+Conducting complex analytics projects which require technical sophistication and the ability to navigate ambiguity
+Prepare and present on-going reporting, pricing analysis and recommendations to senior leadership
+Understand competitive environment and other drivers of profitability to optimize returns
+Performing ad hoc analysis and quickly provide results and recommendations
+Conducting exploratory data analysis (EDA) using Excel and programming in SAS, Python and/or R
+Gathering data from diverse sources, cleansing and transforming, and designing and deploying data pipelines for ad hoc and automated analytical products
+Helping document analytical standards and processes
+Collaborating with Ally employees in business areas, technology, peers, model risk, and many others to build informed analytical products and insights
+Learning new analytical approaches not being used today and exploring with team
+The Skills You Bring
+Bachelor's degree in mathematics-related or other quantitative discipline required
+Entry level no experience required, however relevant internship experience in advanced analytics/data science preferred
+Knowledge of developing quantitative approaches on various data sources in any combination of the following areas:
+Statistical analysis for the design of experiments.
+Analysis of variance and correlational designs.
+Machine learning for supervised learning.
+Timeseries forecasting.
+Mathematical optimization for systems of equations.
+Simulation using sampling techniques.
+Writing SQL queries against enterprise databases.
+Utilizing business intelligence and reporting tools on current technology platforms, e.g. Power BI, Tableau.
+An innate curiosity and drive to make things better using an approach that is both iterative and collaborative.
+Preferred:
+Knowledge of general financial concepts - P-L calculations, amortization schedules, basic understanding of interest rates, pro-forma models.
+How We'll Have Your Back
+Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. But Ally’s total compensation – or total rewards – extends beyond your paycheck and is designed to support and enrich your personal and professional life, including:
+Time Away: competitive holiday and flexible paid-time-off, including time off for volunteering and voting.
+Planning for the Future: plan for the near and long term with an industry-leading 401K retirement savings plan with matching and company contributions, student loan and 529 educational assistance programs, tuition reimbursement, and other financial well-being programs.
+Supporting your Health & Well-being: flexible health and insurance options including dental and vision, pre-tax Health Savings Account with employer contributions and a total well-being program that helps you and your family stay on track physically, socially, emotionally, and financially.
+Building a Family: adoption, surrogacy, and fertility support as well as parental and caregiver leave, back-up child and adult/elder day care program and childcare discounts.
+Work-Life Integration: other benefits including LifeMatters® Employee Assistance Program, subsidized and discounted Weight Watchers® program and other employee discount programs.
+Who We Are:
+Ally Financial is a customer-centric, leading digital financial services company with passionate customer service and innovative financial solutions. We are relentlessly focused on "Doing it Right" and being a trusted financial-services provider to our consumer, commercial, and corporate customers. For more information, visit www.ally.com.
+Ally is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition or any other reason protected by law.
+We are committed to working with and providing reasonable accommodation to applicants with physical or mental disabilities. For accommodation requests, email us at work@ally.com. Ally will not discriminate against any qualified individual who is capable of performing the essential functions of the job with or without reasonable accommodation. 

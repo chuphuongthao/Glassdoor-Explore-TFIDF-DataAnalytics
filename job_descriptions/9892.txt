@@ -1,0 +1,46 @@
+Job#: 1293693
+
+Job Description:
+Data Analytics Manager opening!
+
+Apex Systems is a world class technology services business that incorporates industry insights and experience to deliver solutions that fulfill our clients’ digital visions.
+
+Apex has an opportunity for a Analytics Manager role able to sit fully remote. This is a 6+ month contract to hire and the pay rate is flexible depending on experience. Here are the details:
+
+For applicants who are interested in this Analytics Management opportunity; please send a Word resume to Aliya McKnight, Account Manager, at apmcknight@apexsystems.com.
+
+Position: Data Analytics Manager
+Apex Job ID: #1293693
+Location: Fully Remote (EST)
+Rate: flexible based on experience
+Duration: 6 month contract-to-hire
+
+Position Description:
+Analytics Manager
+
+Responsible for executive dashboard updates
+Update data mart on AWS Athena and/or Snowflake using complex sql queries
+May have to create tables/views on AWS Athena from data collected in csv file form from different stakeholders in various data models
+Excellent skills in data cleaning, manipulation and analysis
+Good to have digital analytics, marketing and/or customer experience platform experience
+Translate business requirements into technical solutions
+Responsible for deep dive data analysis and story telling
+Perform advanced statistical analysis using python packages. Example -do correlation analysis between different variables or run a decision model to demonstrate insights into a user’s action
+Good Tableau visualization skills and understanding of BI dashboard management (includes production support, job creation, schedule creation etc. )
+
+Required Skills:
+1). 3+ years of experience in Data Analytics
+
+2). Excellent skills in data cleaning, manipulation and analysis
+
+3). 3+ years of experience with SQL/ Tableu (BI Dashboard Management)
+
+Desired Skills (not required but candidate will have exposure to these skills in this role):
+
+1). Digital analytics, marketing and/or customer experience platform experience
+
+2). Health-care experience
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178. 

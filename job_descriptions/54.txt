@@ -1,0 +1,47 @@
+The position is described below. If you want to apply, click the Apply button at the top or bottom of this page. You'll be required to create an account or sign in to an existing one.
+Need Help?
+If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility or call 877-891-2510 (accommodation requests only; other inquiries won't receive a response).
+Regular or Temporary:
+Regular
+Language Fluency: English (Required)
+Work Shift:
+1st shift (United States of America)
+Please review the following job description:
+Perform sophisticated analytics (statistical and predictive analytics, machine learning modeling, etc.) to provide actionable insights that improve business outcomes and minimize risk and also provide consultation to business leaders and other stakeholders on how to leverage analytics insights and build strategies around analytics.
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+Following is a summary of the essential functions for this job. Other duties may be performed, both major and minor, which are not mentioned below. Specific activities may change from time to time.
+1. Independently perform sophisticated data analytics (ranging from classical econometrics to machine learning, neural networks, and natural language processing) in a variety of environments using structured and unstructured data.
+2. Produce compelling data visualizations to communicate insights and influence outcomes among a wide array of stakeholders.
+3. Take accountability and ownership of end-to-end data science solution design, technical delivery, and measurable business outcome.
+4. Engage in stakeholder meetings to identify business objectives and scope solution requirements.
+5. With minimal guidance, write, document, and deploy custom code in a variety of environments (Python, SAS, R, etc.) to create predictive analytics applications.
+6. Use, maintain, share and collaborate through Truist internal code repositories to foster continual learning and cross-pollination of skillsets.
+7. Actively research and advocate adoption of emerging methods and technologies in the data science field, with the eye of continually advancing Truist’s capabilities.
+8. Exercise sound judgment and fosters risk management culture throughout design, development, and deployment practices; partner with cross-functional teams to coordinate rules on data usage, data governance and analytics capabilities.
+QUALIFICATIONS
+Required Qualifications:
+The requirements listed below are representative of the knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+1. Bachelor’s degree and zero to four or more years of experience in a quantitative field such as Finance, Mathematics, Analytics, Data Science, Computer Science, or Engineering, or equivalent education and related training
+2. Exhibit understanding of statistical methods, including a broad understanding of classical statistics, probability theory, econometrics, time-series, and primary statistical tests
+3. Familiarity with linear algebra concepts for optimization, complex matrix operations, eigenvalue decompositions, and principal components; working knowledge of calculus/differential equations, with understanding of stochastic processes
+4. Demonstrate understanding of data cleansing and preparation methodologies, including regex, filtering, indexing, interpolation, and outlier treatment
+5. Strong familiarity with data extraction in a variety of environments (SQL, JQuery, etc.)
+6. Working knowledge of Hadoop, Pig, Hive, and/or NoSQL, Spark
+7. Experience in managing multiple projects with tight deadlines in a collaborative environment
+OR
+1. Demonstrated Strong Mastery of Card network data from VISA / Mastercard and the established infrastructure to support card payment processing between issuers, networks, and card processors
+2. Work experience with one or more of the following card processors and/or rules systems: Fiserv Defense Edge / FDWC, FIS Falcon Expert / Case Manager, Tsys Card Guard / Determinator, Broadcom Risk Analytics
+3. Fraud claims systems with capability to understand / identify patterns in claims that require deeper analysis for potential fraud rule design.
+4. Demonstrated fraud knowledge with proven experience and/or capability for developing new fraud rules for either fast or slow moving fraud attack trends with attention to detail for implementation of rules into a production environment that minimizes mistakes in rule logics.
+Preferred Qualifications:
+1. Master’s degree or PhD in a quantitative field such as Finance, Mathematics, Analytics, Data Science, Computer Science, or Engineering
+2. Four years of relevant work experience if candidate lacks graduate degree
+3. Previous experience in the banking or fin-tech industry
+Proven capability to build / develop new business intelligence type tools for use in fraud detection or recovery from inception using fraud and/or card fraud intelligence.
+4. Successful in setting up scheduled jobs in support of recurring fraud routines / analytics that then can be used to support a wider team of fraud analytics and reporting support team members.
+5. Demonstrated Experience working with both authentication and authorization data types
+6. Supports the interpretation of fraud claims and authorizations influencing fraud events as it relates to detected fraud, chargebacks, and fraud charge-offs for assigned credit or debit products
+7. Experience working on a banking credit card processing environment such as Fiserv, Tsys, or FIS, with understanding of mainframe screens , and transaction level processing concepts as they would relate to authorizations and approve/decline decisions.
+8. Ability to identify defects from transaction and/or claim review to identify defects requiring deeper investigation for potentially new fraud rules to add to the platform.
+Truist supports a diverse workforce and is an Equal Opportunity Employer who does not discriminate against individuals on the basis of race, gender, color, religion, national origin, age, sexual orientation, gender identity, disability, veteran status or other classification protected by law. Drug Free Workplace.
+EEO is the Law Pay Transparency Nondiscrimination Provision E-Verify 

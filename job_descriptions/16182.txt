@@ -1,0 +1,80 @@
+Why Mayo Clinic
+
+Mayo Clinic is the nation's best hospital (U.S. News & World Report, 2022-2023) and ranked #1 in more specialties than any other care provider. We have a vast array of opportunities ranging from Nursing, Clinical, to Finance, IT, Administrative, Research and Support Services to name a few. Across all locations, you’ll find career opportunities that support diversity, equity and inclusion. At Mayo Clinic, we invest in you with opportunities for growth and development and our benefits and compensation package are highly competitive. We invite you to be a part of our team where you’ll discover a culture of teamwork, professionalism, mutual respect, and most importantly, a life-changing career!
+
+Mayo Clinic offers a variety of employee benefits. For additional information please visit Mayo Clinic Benefits. Eligibility may vary.
+
+Position description
+Data Science Analyst – Gut Neuroscience AI Group, Mayo Clinic, Rochester, MN
+Candidates for the Data Science Analyst (DSA) position within the Enteric Neuroscience Program (ENSP) and Gastroenterology and Hepatology Artificial Intelligence Laboratory (GAIL) will preferably have a PhD in Electrical Engineering or related field with specific interests in developing computer vision, AI and machine learning algorithms for mapping neural circuits that will provide insights into digestive diseases. Strong candidates will possess expertise in signal and image processing for computer vision and a good working knowledge in AI, machine learning, deep learning, statistical data processing, regression techniques, neural networks, decision trees, clustering, pattern recognition, probability theory and data science methods and the mathematical theories underlying these tools. The DSA will design and develop scripts or software applications to support data management, data extraction, data analysis, and AI as required.
+
+General Responsibilities:
+
+Provide deep data insights for complex enteric neuroscience that can be approached with analytical techniques to collect, explore, and extract insights from structured and unstructured data. Working knowledge of basic image processing and computer vision is required.
+Develop predictive and prescriptive models to address complex problems, discover insights, and identify opportunities using machine learning, statistical techniques, and data mining.
+Conduct advanced data analysis and design highly complex algorithm systems.
+Identify/create the appropriate algorithm to discover patterns.
+
+Lead and direct the interpretation of data analysis and writing reports, make local, regional and international presentations on projects or proposals.
+The DSA should have experience in scientific computing, specifically the analysis of large datasets using Python, MATLAB, and/or R. Data mining using SQL or other tools.
+Experience with GPU computing and modern machine learning and deep learning is desirable.
+Collaborate and interact with mentors and colleagues from distinct and complimentary backgrounds to define the study protocols, analysis pipelines, and plans for publication
+Critical thinking, curiosity, strong work ethic, communication skills, and the ability to work well with others both within and outside the group is required.
+Data Scientists at Mayo Clinic perform detailed analysis of large bodies of heterogeneous data in order to discover new patterns and insights having an impact upon patient health and augmenting human capabilities. Candidate has expertise in AI, machine learning, deep learning, statistical data processing, regression techniques, neural networks, decision trees, clustering, pattern recognition, probability theory and data science methods used to analyze data.
+May work with knowledge architects, informaticians and clinicians at Mayo, and partner outside companies to develop and deploy applications to bring AI and analytic solutions to nontechnical users, often at the point of care. Applies and modifies existing scripts or software applications to support data management, data extraction, data analysis, and AI as required May develop predictive models on datasets to address various business problems by leveraging statistical modeling, operations research, machine learning, or data mining techniques. May provide Consultative Services to departments/divisions and/or support scientific projects under the guidance of a designated senior level data scientist.
+
+Other responsibilities:
+Provides data insights for business problems that can be approached with analytics techniques to collect, explore, and extract insights from structured and unstructured data.Has expertise in the data science methods used to analyze data, and knowledge of data types, topics, and scientific challenges and approaches.Executes analytical procedures in the framework of a specific project work request.Creates or modifies scripts or software applications to support data management, data extraction and data analysis as required.Contributes to the interpretation of data analysis and to writing reports.Helps customers understand the data set and provide training and suggestions for improvement on the data request.Leverages communication and interpersonal skills and works with subject matter expertsPresents findings in easy to understand terms for the business or clinical practice.
+
+Qualifications
+
+A Bachelor’s degree in a relevant field such as engineering, mathematics, computer science, health science, or other analytical/quantitative and a minimum of three years of professional or research experience in data science will be considered.
+The preferred candidate will possess a Master’s degree in a relevant field such as engineering, mathematics, computer science, health science, or other analytical/quantitative field and a minimum of one year of professional or research experience in data
+
+Additional qualifications
+
+Demonstrated ability to develop predictive models to address various business problems through leveraging advanced statistical modeling, machine learning, or data mining techniques. May provide consultative services to departments/divisions and committees. Demonstrated application of several problem-solving methodologies, planning techniques, continuous improvement methods, and analytical tools and methodologies (e.g. machine learning, statistical packages, modeling, etc.) required. Incumbent must have ability to manage a varied workload of projects with multiple priorities and stay current on healthcare trends and enterprise changes. Interpersonal skills and time management skills are required. Requires strong analytical skills and the ability to identify and recommend solutions, advanced computer application skills and a commitment to customer service. Experience with data modeling and date exploration tools.
+
+Exemption status
+
+Exempt
+
+Compensation Detail
+
+$89,772.80 - $134,638.40 / year
+
+Benefits eligible
+
+Yes
+
+Schedule
+
+Full Time
+
+Hours / Pay period
+
+80
+
+Schedule details
+
+Monday - Friday; days
+
+Weekend schedule
+
+As needed
+
+International Assignment
+
+No
+
+Site description
+
+Mayo Clinic is located in the heart of downtown Rochester, Minnesota, a vibrant, friendly city that provides a highly livable environment for more than 34,000 Mayo staff and students. The city is consistently ranked among the best places to live in the United States because of its affordable cost of living, healthy lifestyle, excellent school systems and exceptionally high quality of life.
+
+Recruiter
+
+Stephanie Baird
+
+EOE
+
+As an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available. 

@@ -1,0 +1,49 @@
+UnitedHealthcare is a company that's on the rise. We're expanding in multiple directions, across borders and, most of all, in the way we think. Here, innovation isn't about another gadget, it's about transforming the health care industry. Ready to make a difference? Make yourself at home with us and start doing your life's best work.(sm)
+You’ll enjoy the flexibility to telecommute* from anywhere within United States as you take on some tough challenges.
+Primary Responsibilities:
+Analyze submission guides to generate mapping into data sources
+Partner with teams to ensure processes and infrastructure support data collection
+Remediate gaps in existing production processes that do not deliver required source data or other content
+Ensure data integrity, data security and process optimization
+Coordinate data collection from suppliers and resolve data issues
+Create test plans, use cases and defect tracking tools to lead testing of claim related data extracts
+Develop, implement and automate data management tools to extract, filter, validate and analyze data using SQL, VBA, Excel, and Tableau (or equivalents)
+Verify data accuracy and ascertain regulatory compliance
+Drive automation and implement continuous improvements to create efficiencies in tools and processes
+Collaborate with business and technical teams to create conceptual designs for quality assurance validation tools and processes
+Expand upon existing and develop new quality assurance tools and methodologies
+Identify trends to determine causes and impacts to state and CMS requirements
+Produce metrics to assess performance against timeliness and quality benchmarks
+Prioritize own work to meet strict state and federal submission deadlines
+Work afterhours due to compressed timelines
+Meet non-negotiable regulatory deadlines
+Competencies:
+Comply with Applicable Laws, Regulations and Policies
+Ability to collaborate with others in national and international time zones
+Strong verbal and written skills
+Work afterhours due to compressed timelines
+Engineer innovative ideas and implement new tools and technology
+Strong organizational skills
+Ability to problem solve including perform multiple priorities and research conflicting and / or inaccurate data
+Ability to analyze trends and propose recommendations for action
+Ability to communicate to senior leadership and technical/business teams
+Capable of mentoring and training junior staff
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+Required Qualifications:
+4+ years of experience performing data analysis using SQL, BI or similar technology
+4+ years in a Quality Assurance role creating use cases, test plans and defect resolution
+4+ Experience with process improvement, workflow, benchmarking and evaluation of business processes
+2+ Experience creating and reviewing requirements and other project documentation
+Proficient understanding of Microsoft SQL Server and VBA Excel
+Advance level of proficiency with office-based software programs (Excel, Access, PowerPoint)
+Preferred Qualifications:
+Bachelor’s degree in Business, Finance, Health Administration, Computer/Data Science, a related field
+Experience reporting regulatory information for a healthcare or similar business
+Strong communication and project management skills
+To protect the health and safety of our workforce, patients and communities we serve, UnitedHealth Group and its affiliate companies now require all employees to disclose COVID-19 vaccination status prior to beginning employment. In addition, some roles require full COVID-19 vaccination as an essential job function. UnitedHealth Group adheres to all federal, state and local COVID-19 vaccination regulations as well as all client COVID-19 vaccination requirements and will obtain the necessary information from candidates prior to employment to ensure compliance. Candidates must be able to perform all essential job functions with or without reasonable accommodation. Failure to meet the vaccination requirement may result in rescission of an employment offer or termination of employment.
+Careers with UnitedHealthcare. Let's talk about opportunity. Start with a Fortune 5 organization that's serving more than 85 million people already and building the industry's singular reputation for bold ideas and impeccable execution. Now, add your energy, your passion for excellence, your near-obsession with driving change for the better. Get the picture? UnitedHealthcare is serving employers and individuals, states and communities, military families and veterans where ever they're found across the globe. We bring them the resources of an industry leader and a commitment to improve their lives that’s second to none. This is no small opportunity. It's where you can do your life's best work.(sm)
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado residents is $66,100 to $118,300. The salary range for Connecticut / Nevada residents is $72,800 to $129,900. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, UnitedHealth Group offers benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with UnitedHealth Group, you’ll find a far-reaching choice of benefits and incentives.
+All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy
+Diversity creates a healthier atmosphere: OptumCare is an Equal Employment Opportunity/Affirmative Action employers and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+OptumCare is a drug-free workplace. Candidates are required to pass a drug test before beginning employment
+Job Keywords: UHC, UHG, UnitedHealthcare, United Health Group, healthcare, health care, managed care, telecommute, telecommuter, telecommuting, work from home, work at home, remote, business, business analyst, analyst 

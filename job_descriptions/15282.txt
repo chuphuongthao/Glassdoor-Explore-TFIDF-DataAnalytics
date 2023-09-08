@@ -1,0 +1,62 @@
+At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.
+
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+
+About this role:
+
+Wells Fargo is seeking a Senior Independent Testing Specialist in Independent Testing & Validation as part of Corporate Risk. Learn more about the career areas and lines of business at wellsfargojobs.com.
+
+The Independent Testing and Validation Team is seeking a Senior Specialist to support the IT&V Technology, COO, Customer Remediation, Emerging Risk, and Data (TCRED) testing and validation team. Specifically, this individual will be supporting the Customer Remediation and Emerging Risk (CRER) Analytics, Reporting, and Data Testing Team (ARDT). In this position, the individual will serve as a senior analytics and data testing resource, coordinating analytical support with both the Customer Remediation Validation and Emerging Risk teams. This position will report to the ARDT Senior Manager within the TCRED team.
+
+In this role, you will:
+
+Responsibilities of the Sr. Specialist role include, but are not limited to:
+Perform detailed code reviews, identifying anomalies and other potential data quality concerns
+Utilize data analytics skills and specialized knowledge to independently research issues relating to data integrity driving to root cause
+Partner with CRER team members to educate them on the data received and design strategies to analyze the data including creation of data subsets or calculated fields
+Document data acquisition procedures performed and summarize relevant system access
+Supporting the end to end production of periodic performance tracking reports, including trend analysis for management, senior leaders, and key executive stakeholders
+Monitoring metrics and associated data to identify and escalate potential issues and providing recommendations for resolution to ensure optimal performance
+Required Qualifications, US:
+4+ years of Independent Testing experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education
+Desired Qualifications:
+Technology experience with any of the following: SQL, SAS, Toad, PowerShell, VBA, DAX, Power BI etc.
+Experience gathering, analyzing and interpreting large datasets
+Ability to retrieve data from various information systems
+Experience in the technical build-out and/or support of databases, query tools, reporting tools, BI tools, dashboards, etc. that enable analysis, modeling, and/or data visualization
+Experience translating complicated data from multiple sources into insight, knowledge, and understanding for our business partners
+Ability to prioritize work, meet deadlines, achieve goals, and work under pressure in a dynamic and complex environment
+Excellent verbal, written, and interpersonal communication skills
+Ability to take on a high level of responsibility, initiative, and accountability
+Ability to summarize and recommend new strategies/solutions.
+Strong analytical skills with high attention to detail and accuracy.
+Ability to research, trend, and analyze data.
+Ability to effectively communicate, verbal and written, with various levels of management, including senior leaders and executives.
+Experience in Audit, Compliance, Risk and Testing
+Critical Thinking and Analytical skills
+Job Locations:
+Charlotte, NC
+Fort Mill, SC
+Irving, TX
+West Des Moines, IA
+Minneapolis, MN
+Tempe, AZ
+St Louis, MO
+Preferred location(s) listed above. Other locations within the Wells Fargo footprint may be considered for current Wells Fargo employees.
+
+
+We Value Diversity
+
+
+At Wells Fargo, we believe in diversity, equity and inclusion in the workplace; accordingly, we welcome applications for employment from all qualified candidates, regardless of race, color, gender, national origin, religion, age, sexual orientation, gender identity, gender expression, genetic information, individuals with disabilities, pregnancy, marital status, status as a protected veteran or any other status protected by applicable law.
+
+
+Employees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit's risk appetite and all risk and compliance program requirements.
+
+
+Candidates applying to job openings posted in US: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+
+Candidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process. 

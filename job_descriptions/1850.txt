@@ -1,0 +1,41 @@
+Remote Data Engineer
+If you are a Data Engineer with experience, please read on!
+Top Reasons to Work with Us
+Work with a mission-driven company!
+
+We are a growing technology company that is making a difference! We have combined a digital platform with a compassionate support team that focuses on helping the most vulnerable populations with loneliness and social isolation.
+
+
+Great salary with fantastic benefits ( medical, dental, vision, 401k matching) !
+Great PTO!
+100% Remote!
+What You Will Be Doing
+Help set the architectural direction for our data and ETL processes.
+
+Manage the hydration and data hygiene of a large data warehouse.
+
+Eliminate technical debt across Database infrastructure; Build and optimize data ETL processes, and flat file ingestion mechanisms.
+
+Maintain and improve existing stored procedures, views, and table schemas.
+
+Administer large, high-volume production database environments.
+
+Work closely with data analytics and development partners to create robust data solutions.
+
+Strive to write code that is high quality and easily maintainable.
+
+Work in a fast-paced, Agile environment where the requirements and needs are constantly evolving.
+
+Keep up with new technologies when sensible and make improvements where possible.
+
+Develop highly available database systems that can sustain operational and disaster scenarios specifically in multi-regional cloud environments.
+What You Need for this PositionPysparkETL PipelinesAzureAzure Data FactoryAzure DatabricksAzure DevOpsPythonpandasSQLGIT
+So, if you are a Remote Data Engineer with experience, please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Maria ReyesApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

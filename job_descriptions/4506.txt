@@ -1,0 +1,33 @@
+Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the seabed to outer space, you’ll learn and grow, contributing to work that shapes the world. Find your future with us.
+Boeing Data Solutions Service provides multiple products and offerings that allow application teams to have the flexibility and agility to meet their specific application development and security requirements, by securing and enabling business data. The team is currently looking for Data Enginee r to join Cloud Capabilities Data Warehouse services team. Position Responsibilities Duties will include (but are not limited to):
+Creates data pipelines, big data platforms and data integrations in databases, data warehouses and data lakes, working with various cloud and on-premises technologies
+Drive initiatives to operationalize cloud computing starting with Google Cloud Platform, applying standards across all platform implementations for the enterprise to enable best of breed, fit for purpose analytical solutions and data strategy.
+Contribute to the evolving systems architecture to meet changing requirements for scaling, reliability, performance, manageability, security compliant, and cost.
+Work very closely with Product manager, Database Administrators and Database architects to define technical product requirements and collaborate within agile team to drive User story/tasks creation along with design and development activities.
+Automation using DevSecOps and other available tools to expedite the product development along with First Time Quality
+Participate in group sessions within developer community and share knowledge.
+Mentors junior team members and contribute in creating and maintaining best coding practices and oversight using stringent reviews.
+Effectively resolve problems and roadblocks as they occur, consistently following through details while driving innovation as well as issue resolution.
+Monitor the implementation of architecture throughout the system development lifecycle and seek and provide clarification when needed.
+Work with cross-functional teams spread across multiple products and locations within Boeing and external partners, across different cultures and time-zones This position has been identified as a virtual opportunity and does not require applicants to live in the Seattle WA area or any of the listed locations. The position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee. Basic Qualifications ( Required Skills / Experience ):
+2+ years’ experience with Cloud development and technologies, particular focus on Google Cloud technologies a plus, though Azure and AWS knowledge is also helpful.
+3+ years Software Development experience in Agile methodology (ADO, JIRA, Source code repository), CI/CD tools, and Testing and automation.
+3+ Experience or familiarity with database management technologies, including Database design, development using SQL/NoSQL/Columnar databases.
+3 + years of experience with data warehousing, and building ETL pipelines.
+3 + years of experience in Windows and UNIX/LINUX operating systems with scripting expertise.
+3 + years of experience of coding experience with any programming language (Such as Java, Python).
+1 + years of knowledge of Big Data solution, data integration, data analytics (Spark, Kafka, Watson) Preferred Qualifications ( Desired Skills / Experience ):
+1 + years of experience with Google Cloud Platform (GCP) products including BigQuery, Cloud Storage, Cloud Functions, DataProc, DataStudio.
+1 + years of familiarity with Container & Container Orchestration Platform (Docker/Kubenestes/OpenShift)
+Experience with DevSecOps (Such as GIT, Jenkins, Azure Dev Ops, etc)
+Config control, Ansible (configuration) - infrastructure as a code
+Familiarity with distributed systems and computing at scale.
+Programming skill sets in Scala, Go, Java, Java script, Python, Groovy
+Experience working in a diverse organization and ability to work with partners from within Boeing and outside, across different cultures and time-zones.
+Experience working with multiple file structures (e.g. ORC, Flat files, JSON)
+Displays excellent oral and written communication skills to team members, peers, customers and management.. Typical Education & Experience : Education/experience typically acquired through advanced technical education (e.g. Bachelor) and typically 9 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD+4 years' related work experience, Master+7 years' related work experience, 13 years' related work experience, etc.). Relocation : Relocation assistance is not a negotiable benefit for this position.
+Drug Free Workplace : Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+Equal Opportunity Employer:
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law. 

@@ -1,0 +1,27 @@
+United States, Georgia, Atlanta
+TechOps
+09-Aug-2022
+Ref #: 16203
+How you'll help us Keep Climbing (overview & key responsibilities)
+The Data Scientist, Engineering Analytics will help advance the engineering and maintenance organization through the application of innovative and robust analytical solutions aimed at deriving insights from complex aircraft mechanical performance data. Analyses may include cross-skill partnerships for the development of risk metrics, predictive maintenance solutions, and aircraft performance alerts.
+An appropriate candidate will have hands-on experience in machine learning, statistical analysis, and data storytelling. The candidate should also have good organizational and communication skills.
+Primary Functions:
+Develop machine learning models and advanced analytics solutions for complex business problems in the engineering, predictive maintenance, and aircraft reliability space
+Learn appropriate selection, utilization, and interpretation of advanced analytics methodologies
+Learn new techniques within cloud-based platforms
+Seek further knowledge on key developments within data science and related fields
+Clearly communicate impacts of the recommended analytics solution to business partners to drive adoption and implementation.
+What you need to succeed (minimum qualifications)
+Master's degree in Data Science, Statistics, Mathematics, Operations Research, Computer Science, or equivalent combination of education and experience
+1+ years of work experience in advanced analytics, data science, or business intelligence
+Proficiency in working with relational databases (SQL)
+Proficiency in Machine Learning techniques (Python, SciKit Learn, or other machine learning platform); experience with AWS ML stack preferred
+Good written, oral communication, and interpersonal skills
+Good project management, organizational, and prioritization skills
+Embraces diverse people, thinking and styles
+Consistently makes safety and security, of self and others, the priority
+Must be performing satisfactorily in current
+Where permitted by applicable law, must have received or be willing to receive the COVID-19 vaccine by date of hire to be considered for U.S.-based job, if not currently employed by Delta Air Lines, Inc.
+What will give you a competitive edge (preferred qualifications)
+
+< Go back 

@@ -1,0 +1,25 @@
+Summary
+Posted: Jun 30, 2022
+Weekly Hours: 40
+Role Number:200244291
+Apple’s Strategic Data Solutions (SDS) team leads efforts to mitigate monetary losses, optimize various business processes, and improve the customer journey across our Wallet programs. Our team applies data science and machine learning to drive strategic impact across multiple lines of business at Apple. We are looking for an outstanding analyst who is interested in working closely with Wallet partner teams; understanding their processes and analytic needs; and developing technical solutions along the way. They will sit side-by-side with our data scientists and analyze complex business problems, have access to internal and external data sources, and be expected to communicate relevant insights to senior leadership and key decision-makers. The ideal candidate works well in collaborative environments with minimal formal structure and is comfortable in changing environments with competing priorities. They must possess solid business acumen, a strong quantitative / technical background, natural curiosity, and the ability to effectively shift between communications styles based on the audience (technical peer review through leadership update). This position is based in Austin, TX.
+Key Qualifications
+At least 3-5 yrs experience working as a data/business analyst, auditor, or related role
+Competent with SQL and big data systems and tools
+Programming skills in Python
+Data visualization
+Experience applying analytical techniques to provide solutions to real business problems
+Experience eliciting business requirements and executive metrics
+Experience building business cases and project plans
+Strong interpersonal skills with ability to connect and develop strong partnerships
+Strong verbal / written communication skills
+Creativity to go beyond current tools to deliver best solution to the problem
+Inquisitiveness and a desire for continued self-improvement and development of new skills
+Comfort working independently and making key decisions on projects
+Ability to tell meaningful and accurate stories with data
+Background in finance auditing and payments
+Description
+• Support discovery of business problems • Analyze and interoperate new sources of data • Perform ad-hoc and reoccurring statistical analyses • Work with data warehouse architects and software developers to generate seamless business intelligence solutions for business partners • Present results of analyses to business units
+Education & Experience
+• BS / MS in technical field (math, statistics, engineering, computer science, analytics, or similar)
+Additional Requirements 

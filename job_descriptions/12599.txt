@@ -1,0 +1,15 @@
+Role: Data Engineer
+Location: New Jersey
+Duration: 12+ months
+Mode:W2(Full-time)
+Job Description:
+8+ years of professional experience in the exposure. of data science, data engineering, database management, and general computer science.
+Programming: Python, Scikit-Learn, Numpy, Pandas, Scipy.stats.
+Statistics: A/B testing, Multi-arm Bandit, Hypothesis Testing, Linear Regression, Logistic Regression.
+Machine Learning: Random Forest, Naive Bayes, kNN, kMeans, Hierarchical Clustering, t-SNE, PCA, SVD, NMF, Gradient Boosting.
+Deep Learning: Keras, Tensorflow, Word2Vec, Doc2Vec.
+Database Management: Postgresql, MongoDB.
+Web Scraping: JSON, Beautifulsoup, Selenium.
+Data Visualization: Matplotlib, Pandas, Bokeh, Seaborn, Plotly.
+Web Design: Flask, HTML, CSS.
+Natural Language Processing (NLP): NLTK, Gensim, Topic Modeling, Sentiment Analysis. 

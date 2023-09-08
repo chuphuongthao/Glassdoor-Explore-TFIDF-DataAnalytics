@@ -1,0 +1,51 @@
+WE ARE VERITONE
+We are driven by the belief that Artificial Intelligence is mankind’s greatest invention. It is the key to building a safer, more vibrant, transparent, and empowered society. We are determined to be an active contributor to shaping our future for the better. We care about the ethical implications of AI and the prosperity and well-being of all individuals, as well as the growth and continued successes of our employees, customers, and partners.
+Veritone’s mission today is more important than ever. We’re here to democratize AI and enable every organization and every person with the power of AI. What started in 2014 with the idea of providing unified access to hundreds of cognitive engines through one common software infrastructure, evolved to the world’s first AI operating system, aiWARE, which orchestrates a diverse ecosystem of cognitive engines to power intelligent automation for both commercial and government organizations. As we progress, we will continue to move humans from “in” to “on” to “out of the loop” to help them accelerate workflows, save time and costs, and uncover new insights and opportunities.
+WHAT YOU’LL DO
+Building best in class cognitive engines for microgrid solutions by leveraging advanced algorithms performing comprehensive analysis in near real-time .
+Design and build predictive and cognitive algorithms for optimizing the performance and control of distributed energy resources (DER).
+Develop self-learning systems that can predict and autocorrect based on data.
+Develop predictive control models, optimization and machine learning, aimed at design, automation and optimal performance of large-scale, real-time dynamic systems.
+Gathering & analyzing data, devising data science solutions for high-performance real-time models.
+Propose innovative algorithms and pursue patents where appropriate.
+Working with engineering teams to incorporate solutions and create intuitive UX stories. Partner with data engineers on data quality assessment, cleansing, and analytics.
+Researching and evaluating emerging technology and market trends to assist in project development and operational support for the Energy team.
+Contributing to the development of software and data delivery platforms that are service-oriented and reusable.
+Creating reports and other artifacts to document your work and outcomes. Communicating methods, findings, and hypotheses with stakeholders.
+WHAT YOU'LL NEED
+Master's degree in Computer Science, Statistics, Machine Learning, Mathematics, or any other related quantitative field.
+Knowledge and implementation experience of Hamiltonian and Lagrangian mathematics.
+Strong expertise in power system modeling, power system operation, power system optimization, integration of distributed energy resources (DER), energy management system (EMS), and supervisory control and data acquisition (SCADA).
+Have experience in Machine Learning/AI techniques including Deep learning (RNN, CNN, GAN, etc), Support Vector Machines; Regularization Techniques; Boosting, Random Forests, Ensemble Methods, image/video/audio processing, Bayesian, and time series modeling.
+Have good implementation experience with R, Python, Perl, Ruby, Scala, Apache Spark, Storm, SAS, and the ability to work with a variety of Deep learning frameworks including TensorFlow, Keras, Caffe, CNTK, etc.
+Have hands-on skills in sourcing, manipulating, and analyzing large volumes of data including SQL and NoSQL databases.
+Have proven experience in using well-established supervised and unsupervised machine learning methods for large industry-strength data analysis problems.
+Excellent communication (written / verbal).
+
+Bonus Points If
+PhD from a top university in one of the following: Electrical Engineering, Signal Processing, Physics, Robotics, Machine Learning, Applied Statistics, or Applied Mathematics.
+Have experience in Parallel programming frameworks for GPUs, TPUs, and developed containerized solutions (Docker/Mesos etc).
+Energy Tools knowledge: PLEXOS, PROMOD, CYME, DSA Tools (PSAT, TSAT, VSAT), PSS/E, MATLAB/Simulink, KERMIT, and DigSILENT.
+Working with both Linux and Windows Operating Systems.
+Having participated in and placing well in Kaggle competitions is ideal.
+WHAT WE OFFER
+A competitive compensation package
+Stock Options
+Flexible Time Off
+Quality benefits: medical, dental, vision, 401K
+An opportunity to be a part of the next big thing in artificial intelligence!
+OUR CULTURE
+Loves learning & continuous growth; stays current on marketing trends
+Can juggle multiple projects, priorities, and deadlines with a positive attitude
+Comfortable in a fast-paced, small company environment
+Collaborative and always contributing value
+Driven to win as a team
+Remote first workplace
+Veritone is a leading provider of artificial intelligence (AI) technology and solutions. The company's proprietary operating system, aiWARE, orchestrates an expanding ecosystem of machine learning models to transform audio, video and other data sources into actionable intelligence. We love to continuously grow while staying ahead of trends and creating structure in an unstructured world.
+If you’ve made it this far and align with our goals, we look forward to reviewing your qualifications!
+DISCLOSURE
+Our company provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.
+(Colorado Only*): Minimum annual salary of $128,000.00. This base pay is for illustrative purposes only and will be determined based on skills and experience comparable to the job requirements. This position may be eligible for additional compensation and benefits including but not limited to: incentive compensation; health benefits; retirement benefits; life insurance; paid time off; parental leave and benefits; and other employee perks and benefits.Note: Disclosure as required by sb19-085 (8-5-20) of the minimum salary compensation for this role when being hired in Colorado.
+
+#LI-REMOTE
+#LI-DS1 

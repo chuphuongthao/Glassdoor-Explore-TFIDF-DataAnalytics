@@ -1,0 +1,34 @@
+Data Scientist
+Job Title: Data Scientist
+Job Location: 3x per week onsite in Financial District, NY
+
+Salary: $110-130k
+Requirements: 4+ years experience Data Analytics, Python and/or R. SQL, Machine Learning, Masters degree required
+
+Working for us means working with a close-knit team of diverse and gifted individuals who are dedicated to furthering social justice by delivering a life-altering education for kids.
+
+Our nonprofit education management company is seeking a Data Scientist to join our team! Our company reshapes what is possible in public education, and we are known for delivering education to students from all backgrounds. As one of the fastest growing and largest charter school networks, we pride ourselves on excellence and outperforming other schools in every district of NY.
+
+This position will be onsite 3x per week in the Financial District, and 2x per week remote.
+What You Will Be Doing
+Collect, maintain, and analyze all data about our recruitment, enrollment, and retention pipeline
+Analyze family life cycle and lifetime value to make recommendations
+
+Develop and conduct trainings for colleagues to enable self-service for recurring analytics tasks
+What You Need for this Position
+Masters degree required, PhD preferred
+4+ years of experience in data analysis in a customer relationship management, marketing, or consumer research environment
+Python and/or R
+Writing and understanding SQL queries
+Highly functional knowledge of CRM software
+
+Plus skills:
+Ability to develop scripts to enable Natural Language Processing (NLP) solutions to support consumer analysis
+So, if you are a Data & Analytics Program Manager / Data Scientist with experience, please apply today!Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

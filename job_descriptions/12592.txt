@@ -1,0 +1,36 @@
+JOB TITLE: Data Analyst - Developer Operations
+LOCATION: Los Angeles, CA
+DURATION: 1 Year
+
+
+Our client, a fortune 500 multi-national technology company is recruiting for a Data Analyst - Developer Operations. If you meet the qualifications listed, please Apply Now! Or if you know of anyone in your network, please refer them to Ursus!
+
+Summary:
+The Developer Operations team ensures that applications integrated with our platforms are high-quality and trustworthy. Working closely with other teams, we investigate and detect apps not compliant with our Platform Policies. Depending on the nature of the violation and the best user experience, we may take a variety of actions; everything from helping the developer/publisher fix the problem, to permanently removing the developer/publisher and application from our platform. We are committed to improve the platform experience for users, publishers and developers through the use of automated detection tools, strategic manual review, data analysis, guidance, and coordination with product teams.
+
+We are looking for a data-driven & compliance oriented individual to join the Developer Operations Data team. This person should be able to understand complex compliance processes and create efficient and reusable queries and reports to support our compliance requirements. This high-performing individual should have a strong ability to leverage data to improve ad hoc and recurring compliance requirements.
+
+
+Job Responsibilities:
+Collaborate with Audit & Compliance, Data Engineering and Data Science teams to identify and close the gaps on Safeguard Monitoring & Reporting requirements
+Partner with internal team data leads and Safeguard owners in order to fully understand each Safeguard's scope & workflows and then document the recurring and ad hoc data requirements
+Execute, measure progress, and communicate results of the key compliance data support work being done in our department
+Utilize deep product and industry knowledge while serving as a strong cross-functional leader
+Build cross-functional relationships with Operations leaders, Data Scientists, Product Managers and Software Engineers to understand compliance data needs and deliver on those needs.
+
+
+Must Have Skills:
+2+ years of experience in solving analytical problems using quantitative approaches
+2+ years hands-on experience using data science programming languages such as SQL, Python, or R
+Hands-on experience managing and analyzing data using tools such as Tableau, Looker.
+Experience with technical documentation
+Must have a strong technical understanding of business rule logic and data analytics
+Must be highly detail oriented and organized
+Must be able to understand technical jargon and translate into understandable terms to the business functions
+
+
+Education/Experience:
+BA/BS degree or higher in a quantitative or related field (i.e. Statistics, Mathematics, Engineering etc.) Degree is required for this position
+
+
+IND123 

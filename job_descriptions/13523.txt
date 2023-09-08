@@ -1,0 +1,48 @@
+Description:
+We are seeking a Data Analyst to create reports, visualizations, dashboards, and metrics to provide business insight that aid decision-making using Power BI and to use robotic process automation to automate business processes. Uses query languages like T-SQL, scripting languages like DAX, R or Python to perform meaningful quantitative or qualitative analysis. Works with SME’s and other team members to understand requirements and provide guidance for extensible reporting capabilities.
+
+
+Key responsibilities:
+
+Relies on experience in data analytics and business process automation to create effective and innovative business solutions, independently perform tasks and provide guidance to team members.
+Developing dashboards, visualizations and reports using Power BI to improve business process
+Utilizing Blue Prism or similar tool to automate business operations and data analysis and reduce manual labor
+Curating data sets that drive data collection models to better consolidate information
+Builds data models that help improve efficiency throughout the overall business operations
+Performing quality assurance testing to ensure the data presented is correct
+Identifying the development needs for the purpose of streamlining and improving efficiency and key insights
+Collaborating with team members at all levels for the purpose of collecting data, documenting requirements, and executing on deliverables
+Analyzing business requirements and processes to provide recommendations for improvement
+Perform data profiling to identify anomalies
+Creating and maintaining documentation that includes design, requirements, and user manuals
+Learning and understanding the data landscape across multiple databases and applications
+Coordinate with staff to implement new models and inform long term solution options
+Create presentations to present analysis findings
+Experience in analytical position
+Experience using Power BI (other leading BI applications will be considered)
+Experience with database design and work with unstructured data in a data lake environment
+Strong knowledge of data collection software and protocol
+Advanced Microsoft Excel proficiency – Advanced Formulas, Pivot Tables & Macros
+Ability to structure business discussions and scope solutions
+Excellent analytical and forecasting ability
+Strong written and verbal communication skills
+Understand current data protection and privacy laws
+Ability to think through problems and provide recommendations to a solution
+Demonstrated ability to manage multiple complex projects in parallel
+Proven ability to develop and manage BI solutions using Power BI
+Strong knowledge of T-SQL and DAX to support reports, dashboards, and data models
+Demonstrated experience using Blue Prism or a similar tool to automate business operations and data analysis and reduce manual labor
+Exceptional data visualization experience
+Ability to analyze and mine data from multiple systems.
+Ability to understand user’s needs and devise solutions accordingly.
+In-depth knowledge of the data development life cycle
+Excellent documentation skills.
+Experience creating detailed reports and giving presentations.
+Competency in Microsoft applications including Word, Excel, and Power Point
+Advanced knowledge of Power BI, DAX, T-SQL, and Blue Prism.
+Required / Desired Skills
+Advanced knowledge and demonstrated experience using SQL and T-SQL (Required 2 Years)
+
+Demonstrated experience using Blue Prism or similar robotic process automation tool to automate business processes and data analysis (Required 2 Years)
+
+Advanced, demonstrated experience developing data visualizations and data analysis tools in Power BI (Required 2 Years) 

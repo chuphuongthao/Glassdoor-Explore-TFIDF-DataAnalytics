@@ -1,0 +1,22 @@
+Radancy is seeking a Data Scientist to support its efforts in building a leading performance media platform for recruitment.
+About
+The Data Science team for advertising has expertise in optimization, regression, classification, and NLP principles to develop world class strategies for performance advertising that yield the most important results for our customers: hiring the best employees.
+Studies have shown that women and people of color are less likely to apply for jobs unless they believe they meet every one of the qualifications in a job description. Our top priority is finding the best candidate for the job and if you are interested in the position, we would encourage you to apply, even if you don’t believe you meet every one of the qualifications below.
+Building machine learning models to understand text and trends over time
+Identifying, creating, and transforming informative features based on historical and real time data
+Working with the Data Science Lead and Product Lead to implement a consistent technical direction
+Help to define data collection and modeling frameworks
+Coordinating and working closely with engineering to put models and algorithms into production
+Document and describe outputs of models and processes
+Working collaboratively with other Data Science teams in cross product efforts
+Deep understanding of statistical and machine learning models (regression, time series, decision trees, neural networks) and clustering and classification techniques
+Experience with keyword embedding techniques
+Experience building models and placing models into production
+Well versed in statistical programming languages such as R or Python
+Familiarity with relational databases such as BQ and Amazon Redshift, and accessing data via SQL
+Degree in a technical field such as computer science, mathematics, economics, engineering
+Graduate work in machine learning a plus, or relevant work experience
+Familiarity with data pipelines and ETLs
+Experience in “Ad Tech” data science principles a huge plus
+Join the global leader in talent acquisition technologies that’s committed to finding new ways to leverage software, strategy and creative to enhance our clients’ employer brands – across every connection point. We’re looking for unconventional thinkers. Relentless collaborators. And ferocious innovators. Talented individuals who are ready to work towards solutions that transform the way employers and job seekers connect.
+Radancy is an equal opportunity employer and welcomes all qualified applicants regardless of race, ethnicity, religion, gender, gender identity, sexual orientation, disability status, protected veteran status, or any other characteristic protected by law. We actively work to create an inclusive environment where all of our employees can thrive. 

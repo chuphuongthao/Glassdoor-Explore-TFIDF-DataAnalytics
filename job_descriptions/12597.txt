@@ -1,0 +1,24 @@
+FocusKPI is looking for a Data Engineer to work for our client, one of the largest retailers/e-commerce companies in the US.
+Work Location: Remote in the U.S.
+Duration: 6 months contract with potential for extension/conversion
+Responsibilities:
+Own the client’s data warehouse, pipeline, and integration points between various business systems.
+Develop tools to monitor, debug, and analyze data pipelines to ensure data quality and reliability. Troubleshoot data issues and build customized reports to investigate key business questions.
+Explore available technologies and develop solutions to continuously improve our data quality, workflow reliability, and scalability. Perform capacity planning and cost estimates of proposed solutions.
+Design, Develop and support new and existing batch and real-time data pipelines and recommend improvements and modifications.
+Be a champion of the client’s data ecosystem by working with engineering and infrastructure to implement data strategy for governance, security, privacy, quality, and retention that will satisfy business policies and requirements.
+Communicate strategies and processes around data modeling and architecture to multi-functional groups and senior-level management. Identify, design, and implement internal process improvements.
+Implement the best practices and standards for data definitions.
+Manage data infrastructure to grow and support the Data Science team in relation to the construction of performant ML-based data products.
+Requirements:
+Have 3+ years of experience working with data warehouse/data lake and ETL architectures, cloud data warehouses (Redshift, Snowflake, RDS), and very strong coding experience in Python, and SQL, preferably at companies with fast-growing and evolving data needs.
+Someone who takes action and ownership with hands-on experience with AWS having at least 5+ years of experience and services like Redshift, Kinesis, EMR, RDS, EC2, etc., and familiarity with schemas, and metadata catalogs, etc.
+Have 4+ years of experience with open-source technologies such as Airflow, and Spark (including pyspark).
+Experience with Python/Airflow-based pipelining is mandatory
+Hands-on experience with designing real-time data streaming pipelines using spark structured Streaming, Kafka, and/or Kinesis is a plus.
+Respectfully candid with the ability to initiate and drive projects to completion with the support of the team. Highly organized, structured work approach, and dependable. Expected ability to communicate and collaborate on data engineering tasks with internal partners.
+A bold risk-taker and self-starter who loves improving the performance of queries and data jobs and scaling the system for exponential growth in data.
+Thank you!
+FocusKPI Hiring Team
+Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California with an East Coast office in Boston, Massachusetts.
+Ha2NmgtYHv 

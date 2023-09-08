@@ -1,0 +1,32 @@
+Job Description Summary
+The Data Science Engineering Specialist will work in teams addressing data engineering and labelling for machine learning (ML) and artificial intelligence (AI) method development under the guidance of senior members of the Data Science team at GE Gas Power. In this role, you will contribute to the development and deployment of modern ML / AI, operational research, semantic analysis, and statistical methods for finding structure in large data sets in order to harness data insight and deliver business outcomes.
+Job Description
+Roles and Responsibilities
+As a Data Science Engineering Specialist, you will be part of the Data Science organization working with cross-disciplinary GE Gas Power functional and Digital Technology stakeholders to provide data science / ML / AI solutions. You will work with Data Science team to develop or enhance AI/ML solutions within the business using the latest technology to introduce and improve current capabilities. You will work alongside data scientists to deploy ML / AI capabilities and facilitate the introduction of these ML / AI solutions into the business. In this role, you will:
+Work with multiple teams to validate & label data required for Machine Learning solutions in Computer Vision (CV) and Natural Language Processing (NLP).
+Work with data scientist to build systems to monitor and evaluate the Data Science teams AI/ML solutions
+Define, build, and deploy CI/CD pipelines with Data Science team in a fast-paced agile development environment using the latest software development methods
+Engage with Data Scientist to understand and support the requirements of Machine Learning applications
+Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques
+Support process improvements which guide the development, sustaining & support activities
+Proactively share information across the team, to the right audience with the appropriate level of detail and timeliness
+Education Qualification
+Associate or Bachelor's Degree in Computer Science, Information Technology, Computer Engineering, or “STEM” Majors (Science, Technology, Engineering and Math) with no experience required.
+Desired Characteristics
+Technical Expertise:
+Experience developing backend technologies (Python, C++, Java)
+Experience with development and integration of microservices (RESTful web services)
+Experience with DevOps methodologies and tools - driving CI/CD automation for code scan, builds & deployments
+Experience with docker containerization and deployment strategies
+Experience with AWS services (S3, Lambda, ECS)
+Personal Attributes:
+Strong written communication skills
+Customer driven approach to solving problems
+Interest in latest technology trends/staying up to date with technology news
+Effective team building/problem solving skills
+Additional Information
+GE offers a great work environment, professional development, challenging careers, and competitive compensation. GE is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).
+As a federal government contractor, GE may in the future be required to have U.S. employees fully vaccinated against COVID-19. Some GE customers currently have vaccination mandates that may apply to GE employees.
+Relocation Assistance Provided: No
+#LI-Remote - This is a remote position 

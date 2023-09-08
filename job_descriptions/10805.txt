@@ -1,0 +1,43 @@
+Data, Research & Insights
+Data Science
+We are looking for a Data Scientist to join the Strategy Analytics team at Spotify. You will work with the Associate Director of Strategy Analytics to evaluate and influence our global strategy. You will collaborate with a distributed team of world-class analysts, data scientists, business leaders, and engineers. Learning and improving is part of our daily routine, and you will be free to develop your skills and ways of working.
+Location
+New York or Remote Americas
+Job type
+Permanent
+Theis team is part of Spotify’s core business strategy organization. You’ll play a crucial role in the growth and direction of Spotify as we grow to 420M+ users around the globe. At your fingertips, you’ll have access to all of the data Spotify has to offer, and the opportunity to be creative with how you use it to derive insights and strategies.
+
+Above all, your work will impact the way the world experiences music!
+What you'll do
+Develop data driven strategies to drive the growth of Spotify users and subscribers.
+Build and communicate impactful recommendations and models that improve the Premium product
+Analyze and forecast the impact of price changes
+Build scalable data pipelines and dashboards to facilitate business performance tracking
+Work closely with business partners to understand the change they are driving and help them discover new opportunities for growth
+Design and implement comprehensive tests, making sure that we track all relevant metrics and that we’re learning at every step along the way.
+Present your findings to senior collaborators, influencing the course of our business
+What you'll do
+4+ years of professional experience synthesizing insights from data using tools such as Python/R, SQL. Experience with distributed systems (Redshift, Hadoop, BigQuery) is a plus
+Intellectually curious, creative, and diligent - you enjoy thinking about the business as much as the data!
+Have experience collaborating with partners to measure the impact of business/marketing initiatives and presenting those findings in coherent recommendations
+Have a background in Economics, Computer Science, Statistics, Engineering or a relevant field
+Comfortable working on a globally distributed team (with occasional international travel)
+Relevant experience in a consumer tech/product company is a plus
+Where You'll Be
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, we ask that our team members be located within Central Standard time zone or Eastern Standard time zone for the purposes of our collaboration hours
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+Working hours? We operate within the Eastern Standard time zone for collaboration
+Our global benefits
+Extensive learning opportunities, through our dedicated team, GreenHouse.
+Flexible share incentives letting you choose how you share in our success.
+Global parental leave, six months off - fully paid - for all new parents.
+All The Feels, our employee assistance program and self-care hub.
+Flexible public holidays, swap days off according to your values and beliefs.
+Spotify On Tour, join your colleagues on trips to industry festivals and events.
+Learn about life at Spotify
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 381 million users.
+This role is not eligible for hire in Colorado, USA.
+Global COVID and Vaccination Disclosure
+Spotify is committed to safety and well-being of our employees, vendors and clients. We are following regional guidelines mandating vaccination and testing requirements, including those requiring vaccinations and testing for in-person roles and event attendance. For the US NYC, we have mandated that all employees and contractors be fully vaccinated in order to work in our offices and externally with any third-parties.For all other locations, we strongly encourage our employees to get vaccinated and also follow local COVID and safety protocols. 

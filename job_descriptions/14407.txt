@@ -1,0 +1,31 @@
+
+Master’s or PhD degree in a quantitative field such as Information Systems Management, Data Science or Computer Science
+Fluency in a scripting or computing language (e.g. Python, Scala, C++, Java, etc.)
+2+ years of relevant working experience in a role involving data extraction, analysis, statistical modeling, and communication
+2+ years of experience with data querying languages (e.g. SQL, Hadoop/Hive)
+Experience processing, filtering, and presenting large quantities (Millions to Billions of rows) of data from different product groups and business functions
+Experience working with Machine Learning/Deep Learning for real world problems
+
+Job summary
+Have you ever ordered a product on Amazon and when that box with the smile arrived you wondered how it got to you so fast? Have you wondered where it came from and how much it cost Amazon to deliver it to you? If so, the AMXL team is for you. We manage the delivery of Heavy and Bulky products every week to Amazon’s customers, achieving on-time delivery in a cost-effective manner to deliver a smile for our customers.
+
+As a Sr. Data Scientist in AMXL – Business Analytics team, you will be tasked to understand and work with bleeding edge research to enable the implementation of sophisticated models on big data. As a successful data scientist in the AMXL team, you are an analytical problem solver who enjoys diving into data from various businesses, is excited about investigations and algorithms, can multi-task, and can credibly interface between scientists, program managers, product managers and business stakeholders. Your expertise in synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication will enable you to answer specific business questions and innovate for the future.
+
+Key job responsibilities
+
+Analysis of large amounts of data from different parts of the AMXL Transportation network, CX and their associated business functions
+Experience in an operational environment developing, fast-prototyping, piloting and launching quality data science and machine learning products
+Translating Forecasting business questions and concerns into specific analytical questions that can be answered with available data using statistical and machine learning methods; working with BIEs to produce the required data when it is not available
+Improving upon existing machine learning methodologies by developing new data sources, developing and testing model enhancements, running computational experiments, and fine-tuning model parameters for new models
+Partnering cross-functionally with our product and engineering teams to develop and execute web experiments that help determine the effectiveness of product features goaled to improve our customer experience
+Formalizing assumptions about how models are expected to behave, creating definitions of outliers, developing methods to systematically identify these outliers, and explaining why they are reasonable or identifying fixes for them
+Communicating verbally and in writing to business customers with various levels of technical knowledge, educating them about our research, as well as sharing insights and recommendations
+Utilizing code (Python, R, Scala, etc.) for analyzing data and building statistical and machine learning models and algorithms
+Expertise in reinforcement learning and/or deep learning
+Experience in writing academic-styled papers for presenting both the methodologies used and results for data science projects.
+Natural curiosity and desire to learn, a passion for solving real world problems
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+Superior verbal and written communication skills with the ability to effectively advocate technical solutions to scientists, engineering teams and business audiences
+Depth and breadth in science knowledge. Excellent machine learning and problem-solving skills
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. 

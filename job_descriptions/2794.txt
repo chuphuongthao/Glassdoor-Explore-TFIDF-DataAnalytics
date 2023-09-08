@@ -1,0 +1,25 @@
+SENIOR DATA ENGINEER
+FINTECH
+REMOTE
+$180,000 - $200,000
+THE COMPANY
+This company is a leading force within the payments and gateway space with an ever-expanding client list. Their API-based payment model is changing how and when you can access your own money.
+THE ROLE - Senior Data Engineer
+As Senior Data Engineer, you will be tasked with AWS architecture and design and will be reporting directly to the CTO of the business. You will be developing ETL pipelines in Scala or Python, and solutioning your own infrastructure using Terraform. You will be working upstream of analytics and data science, ensuring they have the best data!
+Further responsibilities include:
+Working with Scala or Python, Databricks, and Terraform
+Developing scalable pipelines
+Adapting to scale and change within a startup environment
+Working with stakeholders on design, and strategy definition
+YOUR SKILLS & EXPERIENCE:
+Degree educated in a numerical discipline (computer science or relevant field)
+Professional experience developing pipelines in an AWS environment
+Must be a hands-on developer with Scala or Python
+Databricks and Terraform experience is a must-have
+Experience with design and architecture
+BENEFITS:
+As Senior Data Engineer, you can expect to earn up to $200,000 base salary (depending on experience), equity, medical, dental, vision, and more.
+HOW TO APPLY
+Please register your interest by sending your resume to Danny Macdonald via the Apply link on this page.
+KEYWORDS:
+Senior Data Engineer, Data Engineer, AWS, Python, Scala, SQL, Databricks, Terraform, Architecture, Infrastructure, Design, Strategy 

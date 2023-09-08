@@ -1,0 +1,40 @@
+Department Summary:
+
+At DISH Wireless, we reimagine connectivity through new platforms, new business models and new ways of thinking.
+Today, we are building America’s first cloud-native 5G network to transform the way we live, work and play with unlimited potential. Our teams operate at the intersection of wireless, data analytics, AI and the cloud to create something state-of-the-art, radically original and truly unlike what anyone else can.
+
+Job Duties and Responsibilities:
+
+DISH Wireless is seeking a Data Analyst responsible for performing various data activities supporting the design, development, and optimization of a wireless network. This role reports to the Senior Manager, Implementation and Provisioning.
+Day-to-day job responsibilities:
+Build dashboards and reports to help functional departments and executives keep a pulse on their areas of business and wireless deployment. Key technologies may include Tableau, Excel, MS Office, and Google Suite.
+Validate large amounts of data to ensure data quality in a variety of different ways depending on the data and its consumer. Key technologies may include Python, Excel, and SQL.
+Work with partners on efficient data processes while helping them keep their data as clean as possible.
+Utilize automation to create efficiencies and reduce resource allocation for routine tasks and procedures. Key technologies may include Python, C++, Java.
+Serve as the first level of support and triage for bugs and issues submitted by stakeholders and customers.
+Garner key insights from data and communicate these findings to key stakeholders to help them make data-driven decisions. Key technologies may include Python, R, Spark, SQL, Alteryx, Tableau, Power BI, Microsoft and Google suite of tools, Oracle.
+Contribute to database maintenance and the implementation of data storage solutions by leveraging data modeling and database design methods.
+Leverage Machine Learning and Artificial Intelligence concepts and algorithms to create innovative tools and processes within the company.
+Help maintain a CI/CD pipeline for our data software to ensure we keep quality high and time to market low. Key technologies may include Gitlab, Github, or Bitbucket.
+#LI-CG2
+Skills, Experience and Requirements:
+
+The successful Data Analyst will have:
+***Highly preferred experience with Linux or Python
+Bachelor's Degree or equivalent from four-year College or technical school, preferably in Computer Science, Computer Engineering, Information Systems, or other STEM-related field with desire to apply that knowledge
+4-6 years of experience in data analytics or a field related graduate degree.
+Strong experience with SQL/MySQL Server and Tableau.
+Advanced proficiencies with Excel/Google Sheets including advanced functions and macros.
+Experience with Python, R, and/or C++.
+Some automation experience with Alteryx.
+Must have experience with Reporting tools such as Tableau.
+Understanding of ETL (Extract, Transform, and Load) concepts and techniques on messy data sets and large databases.
+Strong communication skills to work with partners internal and external to manage data flow into our infrastructure.
+The ideal candidate will have:
+Proficiency with VBA in Office
+Master’s of Data Science, Computer Science, or Database Administration
+Benefits:
+
+From versatile health perks to new career opportunities, check out our benefits on our careers website.
+Candidates need to successfully complete a pre-employment screen, which may include a drug test.
+Salary Range: USD $75600.00 - $124200.00 / Year 

@@ -1,0 +1,45 @@
+We are looking for problem solvers with mastery in analytics, statistics and machine learning to join the fully remote Data Science team at Varsity Tutors. This team partners with product and engineering to discover insights and develop algorithmic solutions that support personalization at scale.
+
+The qualified Data Scientist will hold an advanced quantitative degree with experience building forecasting systems, recommender models, or ranking algorithms. The candidate is expected to be comfortable developing prototypes that can be productized by engineering to develop real-time systems. Candidates must be comfortable with pushing through ambiguity and passionate about solving problems at scale and with speed.
+
+About Nerdy:
+
+Nerdy (NYSE: NRDY), the parent company of Varsity Tutors, is a leading platform for live online learning, with a mission to transform the way people learn through technology. The Company's purpose-built proprietary platform leverages technology, including AI, to connect learners of all ages to experts, delivering superior value on both sides of the network. Nerdy's comprehensive learning destination provides learning experiences across 3,000+ subjects and multiple formats—including one-on-one instruction, small group classes, large format group classes, and adaptive self-study. Nerdy's flagship business, Varsity Tutors, is one of the nation's largest platforms for live online tutoring and classes. Its solutions are available directly to students and consumers, as well as through schools and other institutions. Learn more about Nerdy at https://www.nerdy.com/.
+
+Qualifications:
+
+M.S. degree in a quantitative discipline (e.g. Mathematics, Statistics, Machine Learning, Econometrics).
+3+ years of professional data science experience
+Applied skills in the areas of statistical inference, probability, machine learning (unsupervised and supervised).
+Previous experience with production models, i.e. post-deployment responsibility
+Ability to develop ML or statistical analyses software in R or Python
+Experience with building recommender systems and implementation with a breadth of matching algorithms is a plus.
+Experience with Bayesian reasoning, Natural Language Processing, classification, ranking systems is a plus.
+Relentlessly curious and strong bias for action.
+Great communication skills
+
+Responsibilities:
+
+Develop algorithmic systems to enable personalization for our consultative sales organization.
+Partner with operations and engineering to identify impactful problems, and turn business goals into objective functions.
+Design experiments to rapidly establish causal relationships.
+Drive initiatives from conception to production with measurable impact to the business.
+Define creative services to thorny problems using mathematical algorithms
+
+Varsity Tutors Leadership Principles
+
+Relentless Focus on Customers * Comfort with Ambiguity * Ownership * Simplify * Intellectual Curiosity * Build Teams * Think Big * Insist on High Standards * Bias for Action * Build Trust * Go Deep * Have Conviction * Deliver Results * Are Right, a Lot
+
+Benefits/Culture:
+
+Competitive Salary plus Equity in the company
+Healthcare Plans (Medical, Dental, Vision, Life)
+401k Company Matching Plan
+Remote Position, fully work from home anywhere in the U.S.
+Flexible PTO
+Paid VTO ("volunteer time off" to do community service/charity work)
+52 hours of Free Learning Sessions per year for you or immediate families members and free access to our online classes
+Once in a lifetime opportunity to help revolutionize how the world learns!
+Fun, collaborative, and team-oriented work environment with plenty of training and a feedback-rich culture
+
+Varsity Tutors is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. (INDHP) 

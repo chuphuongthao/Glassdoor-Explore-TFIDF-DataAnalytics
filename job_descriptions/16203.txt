@@ -1,0 +1,60 @@
+Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+The Boeing Company is looking for a First Line Manager of Predictive Maintenance & Flight Sensor Data Insights to lead a team of individual contributors and integrated project teams in the development & deployment of prognostics, and sensor data insights that improve customer operations, optimize lifecycle cost of airplanes. Insights will be deployed to both internal and external facing platforms, which drive operational excellence, and further strengthen product and services quality and safety. This organization directly supports the transformation of BGS towards a digital-first business with industry-leading scalable and replicable engineering capabilities.
+
+Position Responsibilities:
+Lead a team of systems engineers, data scientists which support in service safety investigations as part of the COSP process. Assign resources, develop plans for flight sensor data skilled data scientists to engage with airplane safety, design engineers on in service airplane safety issues.
+
+Lead a team of data scientists, systems engineers to research, develop and deploy advanced prognostic algorithms for multiple Boeing airline models (787, 737 MAX). Prognostic algorithms allow for airline maintenance operations weeks and months of advance notice of part replacement and airplane maintenance.
+
+Establish and execute team operating rhythm for internal data science model development, leveraging an agile framework
+Lead, and establish external airline engagements to acquire flight sensor data to analyze and deliver engineering insights to operators for improved airplane reliability and optimized maintenance.
+Coordinate across Boeing business units to engage engineering SMEs from Systems, Design, Analytics, Safety, Operations, Legal, Contracts to prioritize, assess, approve data insight analysis (focused on time series sensor data) developed by data scientists for airplane safety risk assessments, reliability improvements.
+Lead a team of data scientists, systems engineers focused on building tools airplane sensor data viewers, prognostic sensor research tools, deployment environment platform.
+Prioritize analytics statement of work across stakeholders and team capacity aligned with organization strategic focus areas
+Strong natural leadership style that moves people to act, motivates and inspires excellence and innovation
+Proactively and quickly makes sense of complex issues; responds effectively to complex and ambiguous situations; communicates complicated information simply
+
+Export Control
+The position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+
+Basic Qualifications (Required Skills/Experience):
+Bachelor’s degree or higher in engineering, business or technical field
+3+ years of experience working in digital solutions and/or data analytics
+3+ years of experience leading and/or managing a team
+Experience leading through influence and partnering with cross-functional teams on projects and initiatives
+Gains others' trust by demonstrating openness and honesty, behaving consistently, and acting in accordance with moral, ethical, professional, and organizational guidelines
+Demonstrated ability to execute a significant effort/program to plan
+
+Preferred Qualifications (Desired Skills/Experience):
+5+ years of experience conducting analytic studies applying data science principles
+5+ years of experience leading development and external deployment activities for digital products and offerings
+Experience in commercial airline operations
+Experience working with and/or coordinating across engineering disciplines to identify best practices and implement on multiple programs
+
+Typical Education & Experience:
+Bachelor's degree and typically 5 or more years' experience in an engineering classification or a Master's degree with typically 3 or more years' experience in an engineering classification or a PhD degree with experience in an engineering classification. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+
+Relocation:
+Relocation assistance is not a negotiable benefit for this position. Candidates must live in the immediate area or relocate at their own expense.
+
+Hybrid/Telecommute:
+This Hybrid position allows some telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options. (Seattle, WA).
+
+Drug Free Workplace:
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+GENERAL:
+All information provided will be checked and may be verified.
+Please apply ASAP for this role as recruitment may commence before the end date.
+
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+Please note that the salary information shown below is a general guideline only. Salaries are based upon candidate experience and qualifications, as well as market and business considerations.
+
+Summary pay range: 138,550 – 187,450
+
+Equal Opportunity Employer:
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law. 

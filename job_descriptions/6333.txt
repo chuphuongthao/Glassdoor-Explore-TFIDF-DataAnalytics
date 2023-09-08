@@ -1,0 +1,86 @@
+Date: Sep 5, 2022
+Primary Location: Radnor, PA, US
+Company: Lincoln Financial
+Alternate Locations: Work from Home
+
+Work Arrangement: Work from Home
+
+Relocation assistance:: is not available for this opportunity.
+
+Pay Range: $63,100 - $137,900
+
+Bonus Potential: 5%
+
+Requisition #: 70216
+
+
+Role at a glance:
+As Lincoln continues in its technology transformation, IT Enterprise Reporting team is leading the way providing IT management the data needed to make informed operational and strategic decisions. The IT Enterprise Reporting team is seeking an ETL Tech Lead to help us expand our analytics ecosystem and evolve our data-driven insights. You will be involved in the end-to-end analytics solutions lifecycle, from gathering requirements to ensuring data is optimized for dashboard delivery. As a technical partner and analytics expert, you will work with tableau developers, systems owners, and stakeholders to develop a strong data foundation. Your role is instrumental in maturing our analytic practices to ensure we are delivering scalable solutions while minimizing technical debt.
+
+
+What you will be doing:
+You will be responsible for many aspects of architecture and technology delivery and provide oversight of data creation, modeling and querying for analytics (e.g., designing data lake model, setting up connections to new data sources, code reviews, mentoring junior talent)
+Developing and driving a strategic technical roadmap, including reducing technical risks/debt, and building the technical foundation for years to come
+Collaborate with stakeholders to understand business needs, goals, and objectives, evaluate data’s current state, support development of future state and resolve complex technical challenges around data availability and quality
+Automate data extraction from various sources, develop data flows, and transfer to HIVE schemas leveraging Dataiku
+Serve as a subject matter expertise for Dataiku (ETL) and querying for team, which includes diagnosing issues, sharing best practices, and developing simple/maintainable queries
+Work with the team to ensure quality objectives are met for both functional and non-functional requirements.
+
+What we are looking for:
+Must haves:
+5+ years experience in data analytics
+3+ years ETL experience e.g. Alteryx, Informatica, Dataiku (Dataiku preferred)
+3+ years SQL experience
+Experienced interpreting API documentation and pulling data from REST APIs (making HTTP requests, pulling/parsing JSON strings)
+Need to possess strong understanding of testing concepts related to functional, non-functional, and performance
+Ability to be autonomous, resourceful, and a proactive self-starter, while also remaining process-oriented and a team player
+Strong analytic, problem-solving, and research skills required, and individual must be willing to challenging the norm to drive innovation and drive great technology solutions.
+Proficiency with Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).
+
+
+Nice-to haves:
+Database Management
+Python
+Tableau or similar visualization tool experience
+Understanding of IT Operations, Portfolio Management, Corporate Accounting
+Predictive Modeling/ Machine Learning
+
+What’s it like to work here?
+At Lincoln Financial Group, we love what we do. We make meaningful contributions each and every day to empower our customers to take charge of their lives. Working alongside dedicated and talented colleagues, we build fulfilling careers and stronger communities through a company that values our unique perspectives, insights and contributions and invests in programs that empower each of us to take charge of our own future.
+
+What’s in it for YOU:
+A clearly defined career framework to help you successfully manage your career
+Leadership development and virtual training opportunities
+PTO/parental leave
+Competitive 401K and employee benefits
+Free financial counseling, health coaching and employee assistance program
+Tuition assistance program
+A leadership team that prioritizes your health and well-being; offering a remote work environment and flexible work hybrid situations
+Effective productivity/technology tools and training
+Work Arrangement
+Work from Home : Employees will work from home and are not required to work in a Lincoln office on a regular basis.
+
+Lincoln will evaluate the following when setting the successful candidate's wage rate:
+Prior work or industry experience.Education level to the extent education is relevant to the position.Unique skills
+
+About The Company
+Lincoln Financial Group, a Fortune 200 company with over 10,000 employees, provides advice and solutions that help empower Americans to take charge of their financial lives with confidence. Our core business areas — Life Insurance, Annuities, Retirement Plan Services and Group Protection — focus on supporting, preserving and enhancing over 17 million customer’s lifestyles and retirement outcomes.
+
+Headquartered in Radnor, Pennsylvania, Lincoln Financial Group is the marketing name for Lincoln National Corporation (NYSE: LNC) and its affiliates. The company had $324 billion in end-of-period account values as of June 30, 2021.
+
+Ranked one of the Best Large Employers in America and Best Employers for Women by Forbes magazine as well as one of Newsweek’s Most Responsible Companies, Lincoln Financial Group makes a serious investment in our employees’ futures through a broad range of wealth accumulation and protection plans, health and wellness programs, and career development resources designed to help each individual reach their personal and professional goals.
+
+Lincoln is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+Lincoln Financial Group is a committed corporate citizen included on major sustainability indices including the Dow Jones Sustainability Index North America and FTSE4Good. Dedicated to diversity and inclusion, we earned perfect 100 percent scores on the Corporate Equality Index and the Disability Equality Index. Follow us on Facebook, Twitter, LinkedIn, and Instagram.
+
+Be Aware of Fraudulent Recruiting Activities
+If you are interested in a career at Lincoln, we encourage you to review our current openings and apply on our website. Lincoln values the privacy and security of every applicant and urges all applicants to diligently protect their sensitive personal information from scams targeting job seekers. These scams can take many forms including fake employment applications, bogus interviews and falsified offer letters.
+Lincoln will not ask applicants to provide their social security numbers, date of birth, bank account information or other sensitive information in job applications. Additionally, our recruiters do not communicate with applicants through free e-mail accounts (Gmail, Yahoo, Hotmail) or conduct interviews utilizing video chat rooms. We will never ask applicants to provide payment during the hiring process or extend an offer without conducting a phone, live video or in-person interview. Please contact Lincoln's fraud team at fraudhotline@lfg.com if you encounter a recruiter or see a job opportunity that seems suspicious.
+
+Additional Information
+This position may be subject to Lincoln’s Political Contribution Policy. An offer of employment may be contingent upon disclosing to Lincoln the details of certain political contributions. Lincoln may decline to extend an offer or terminate employment for this role if it determines political contributions made could have an adverse impact on Lincoln’s current or future business interests, misrepresentations were made, or for failure to fully disclose applicable political contributions and or fundraising activities.
+
+Any unsolicited resumes/candidate profiles submitted through our web site or to personal e-mail accounts of employees of Lincoln Financial Group are considered property of Lincoln Financial Group and are not subject to payment of agency fees.
+
+Lincoln Financial Group (“LFG”) is an Equal Opportunity employer and, as such, is committed in policy and practice to recruit, hire, compensate, train and promote, in all job classifications, without regard to race, color, religion, sex (including pregnancy), age, national origin, disability, sexual orientation, gender identity and expression, Veteran status, or genetic information. Applicants are evaluated on the basis of job qualifications. If you are a person with a disability that impedes your ability to express your interest for a position through our online application process, or require TTY/TDD assistance, contact us by calling 260-455-2558. 

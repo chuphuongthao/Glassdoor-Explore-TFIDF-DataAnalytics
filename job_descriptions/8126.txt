@@ -1,0 +1,34 @@
+Job Description
+Utilizes data analytics skills and tools to analyze vertex data systems and procedures to recommend and implement strategic process improvements with an aim to enable the Quality organization to expand and improve data collection, analysis and interpretation. This role will support quality analytics center of excellence driving progressive quality strategies and programs as the Vertex organization continues to grow and evolve in a dynamic and innovative way.
+The individual will support developing and delivering integrated, cross-modality, and cross-GxP metrics and analysis that support quality governance, operational QA management oversight, and evaluation of the health of core QMS systems, among others.
+This individual will demonstrate Vertex Core Values, as well as model leadership behaviors instilling a culture of quality, engagement, development, and transparency.
+RESPONSIBILITIES:
+The responsibilities of this position include, but are not limited to, the following:
+Design, Develop, and maintain user-friendly data visualizations and dashboards using complex datasets from different sources.
+Support the active management of metrics program and Quality data analytics activities.
+Develop and implement data analyses, data collection systems and other strategies that optimize statistical efficiency and quality.
+Create ad-hoc data models, reports and analysis as needed to support business requirements.
+Leverage deep technical and analytical expertise to understand critical business opportunities and generate insights for action.
+Continuously explore and evaluate new methods to improve the way data analytics is used to create value
+This position is accountable to ensure the successful execution of the following:
+Acquiring and modeling data from primary or secondary sources
+Interpreting data, analyzing results using statistical techniques to provide and optimize ongoing visualizations
+Identifying, analyzing, and interpreting trends or patterns in complex data sets
+Develop descriptive, diagnostic and predictive analytics to provide insights from data
+Key Technical Knowledge, Skills and Competencies:
+Demonstrated ability to turn data into information that helps drive decisions.
+Highly skilled in in data modeling, leveraging analytical languages and tools (e.g. Python, R, SAS, SQL, Alteryx)
+Strong data visualization skills and experience with relevant tools (e.g. Spotfire, Power BI, and/or Tableau).
+Experience with utilizing scripting languages to leverage APIs (REST APIs etc.,)
+Strong oral, written and presentation skills with ability to explain complex concepts clearly to a variety of audiences
+Understanding of industry requirements/expectations of a Quality Management System
+Current knowledge of industry trends and best practices- for progressive quality management in a regulated environment
+Strong problem solving and critical thinking skills, accompanied by Analytical thinking/Data Analysis skills required to make sound decisions
+PREFERRED EDUCATION AND EXPERIENCE:
+Bachelor's degree in a scientific or allied health field (or equivalent degree)
+Typically requires 8 years of work experience and 2 years of management experience, or the equivalent combination of education and experience
+#LI-AR1 #LI-Remote
+Company Information
+Vertex is a global biotechnology company that invests in scientific innovation.
+Vertex is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants without regard to a person's race, color, sex, gender identity or expression, age, religion, national origin, ancestry, ethnicity, disability, veteran status, genetic information, sexual orientation, marital status, or any characteristic protected under applicable law. Vertex is an E-Verify Employer in the United States. Vertex will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.
+Please note that Vertex requires COVID-19 vaccination for all employees working in the U.S. as a condition of employment at Vertex, subject to medical, religious or other accommodations or exemptions required by law. We believe this requirement is vital to keeping everyone at Vertex and in our communities safe. This requirement applies to both existing and new employees who may at any time work on-site at a Vertex facility or visit another location on behalf of Vertex (e.g., conferences, customer visits, etc.), including all remote employees. Any applicant requiring an accommodation in connection with the hiring process and/or to perform the essential functions of the position for which the applicant has applied should make a request to the recruiter or hiring manager, or contact Talent Acquisition at ApplicationAssistance@vrtx.com. 

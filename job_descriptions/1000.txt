@@ -1,0 +1,49 @@
+The Mom Project is excited to partner with CDW in their search for a Senior Data Analyst - Search Relevancy (100% Remote)
+CDW Corporation (CDW) is a leading multi-brand provider of information technology solutions to business, government, education, and healthcare customers in the United States, the United Kingdom, and Canada. A Fortune 500 company and member of the S&P 500 Index, CDW was founded in 1984 and employs approximately 11,000 coworkers. Products and services range from hardware and software to integrated IT solutions such as security, cloud, hybrid infrastructure, and digital experience.
+CDW's purpose is to help our customers achieve their goals by providing them with the technology advice and products they need when they need them.
+CDW's commitment to diversity includes our coworkers, customers, and communities, as well as our supplier partnerships.
+The Data Science and Analytics COE is responsible for leading the creation and development of the overall strategy and direction of data science and advanced analytics at CDW including ensuring continuity and seamless extension of existing programs, the development of a short- and long-term vision, and roadmap, and defining and institutionalizing the role that data and analytics play throughout the organization as the fuel that drives and shapes CDW’s priorities and serves as an accelerant for CDW’s progress.
+The Senior Search Relevancy Analyst will play an important role in Data Science and AI to foster value creation from the use of the organization's data assets, as well as the external data ecosystem. The responsibilities include value creation through data discovery, envisioning data-enabled strategies and enabling all forms of business insights and outcomes through analytics. The expectation is to identify and report on search trends and relevancy patterns found within enterprise search data and make recommendations for enterprise and product search improvements.
+
+Key Areas of Responsibility:
+Analyzes data requirements/data stories and corresponding data sources and data architecture to drive enhancements and understand search metrics and drive relevancy enhancements
+Assists Product Owner in the recommendation and prioritization of enhancements to improve Search results/relevancy
+Partner with business leaders to understand key objectives to design optimized data products
+Collaborate with stakeholders to clarify, prioritize and validate data requirements and business objectives
+Lead key and strategic initiatives from concept to product levels, not limited to data analysis, but exploring further industry best practices and data architecture, driving innovative ideas and data research
+Leverage general business experience with knowledge to convert high-level business objectives into functional and technical requirements, user stories, and specifications
+Facilitate workshops with all the relevant teams including business, technology, compliance, and testing organizations to define the business value, and KPI trees and drive the initiatives
+Identify, analyze and interpret trends or patterns in complex data sets
+Document business, data, and technical specifications ensuring documentation are kept up to date and relevant
+Advise users of business systems on data availability and accuracy
+Actively participate in the industry externally through internet research, white papers, and/or conferences.
+Utilize advanced modeling techniques to develop high-level system narratives, presentations, storyboards, use cases, and user interface prototypes
+Negotiate and facilitate to drive consensus on solution scope and objectives
+Maintain macro-view of key processes, application platforms, business requirements, and business functions across the organization
+Provide creative thinking and new ideas to resolve existing problems
+Provide a structure for evaluating solution options
+
+Education and/or Experience Qualifications:
+Bachelor’s or Master’s degree in Information Systems, Computer Science or Business or equivalent experience
+5+ years (3+ years with a Master’s degree) of analytics experience, including but not limited to: marketing analysis, market research, sales analysis, eCommerce, financial analysis, econometrics, or statistics
+
+Required Qualifications:
+Excellent written and verbal communication skills with the ability to effectively communicate across company and department boundaries at all levels
+Experience in leading business analysis teams and managing implementation projects that utilize big data, advanced analytics and machine learning technologies
+Ability to cultivate and develop lasting customer relations
+Hands-on data analysis with in-depth, hands-on knowledge of foundational data architectures such as data warehouses as well as experience in cloud implementations
+Experience with Big Data, Relational databases, streaming, and batch data processing
+Strong experience building end-to-end data views
+Ability to effectively present information, interact with and respond to questions from managers, employees, customers, and vendors
+Demonstrated experience in teaching and/or mentoring professionals
+Execute requests with strong attention to detail and strong time-management skills
+Passion to evangelize data science, teach others and learn new techniques
+Demonstrate influence without authority
+
+Preferred Qualifications:
+Ability to effectively resolve conflict with appropriate escalation
+Bachelor’s degree in Business, Math, Engineering, Statistics, Economics, Operation Research, Data Science, Computer Science or related quantitate field
+
+COVID-19 Update:
+CDW is committed to maintaining a workplace that is free of known hazards and to ensure the safety, health, and well-being of coworkers and candidates for employment and their families, as well as the community.
+CDW requires all coworkers to be fully vaccinated against COVID-19, with the only exceptions being a documented, legally required medical or religious accommodation. Prior to starting with CDW, successful candidates will be required to: (i) be fully vaccinated against COVID-19 and provide CDW with proof of full vaccination; or (ii) apply for and receive a medical or religious-based accommodation to be exempt from the mandatory vaccination policy. 

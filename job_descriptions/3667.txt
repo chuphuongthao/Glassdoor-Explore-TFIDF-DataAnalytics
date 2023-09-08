@@ -1,0 +1,17 @@
+P&G is the largest consumer packaged goods company in the world. We have operations in over 75 countries, with 65 trusted brands that improve lives for 5 consumers worldwide. This brings many advantages, including the opportunity for our employees to enjoy a diverse and rewarding lifelong career filled with new and exciting challenges.
+Are you looking for a position that offers a rewarding lifelong career filled with new and exciting challenges? P&G is looking for an R&D Data Scientist.
+R&D Data Scientist
+In this role you will leverage advanced machine learning methods including deep learning (DL) to solve important, company-wide R&D challenges. These include AI-accelerated science (particular interest in Biology, Chemistry and Social Science), Human Centered AI and AI for positive societal impact (eg. Sustainability). You will collaborate with scientists and engineers to experiment and deliver solutions and tools which will improve the lives of our consumers.
+Qualifications
+
+
+A BS or MS in Computer Science, Computer Engineering or related field. Extensive knowledge of and experience with advanced machine learning methods including deep learning (DL). Experience with at least one deep learning application including computer vision, natural language processing (NLP), graph representation learning, time series or other method application to a scientific field. Strong Python coding skills. Familiarity with either TensorFlow or PyTorch. Strong communication and collaboration skills. Demonstrated leadership skills. Experience deploying real-world solutions leveraging DevOps tools such as MLFlow and Kubernetes would be a plus.
+Just So You Know:
+We are committed to providing equal opportunities in employment. We value diversity and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Immigration Sponsorship is not available for this role. For more information regarding who is eligible for hire at P&G along with other work authorization FAQ’s, please click HERE.
+Procter & Gamble participates in e-verify as required by law.
+Qualified individuals will not be disadvantaged based on being unemployed.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation
+Job locations:
+
+Mason, Ohio, United States Job Type: Full time Job categories: Research And Development Req No: R000055718 

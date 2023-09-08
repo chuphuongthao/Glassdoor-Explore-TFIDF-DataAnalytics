@@ -1,0 +1,47 @@
+Data Science Graduate
+This role has been designated as ‘Edge’, which means you will primarily work outside of an HPE office.
+Job Description:
+Advance the way you live and work at HPE.
+Who We Are:
+At HPE, our team members search beyond customers' needs today to accelerate what’s next and make a difference — for others, our company, and the planet. Our customers turn to us because we are positive, empathetic, and enterprising. We embrace opportunities to accelerate this transformation across data, connectivity, cloud, and security. And together we make what was once thought impossible, possible.
+That’s why we not only give you the space to grow into the professional you want to be, but we also embrace who you are and where you come from. We also value the flexibility and autonomy to balance work and personal needs in a way that works best for you.
+A career as a Data Science Grad allows you the opportunity to designs, develop, and apply programs, methodologies and systems based on advanced analytic models (e.g., advanced statistics, operations research, computer science, process) to transform structured and unstructured data into meaningful and actionable information insights that drive decision making.
+What you'll do:
+You will participate in the analysis and validation of data sets/solutions/user experience. You will aid in the development, enhancement and maintenance of a client's metadata based on analytic objectives. You will load data into the infrastructure and contribute to the creation of the hypothesis matrix and prepare a portion of the data for the Exploratory Data Analysis (EDA)/hypotheses.
+You will contribute to building models for the overall solution, validating results and performance, and selecting the model that supports the overall solution. You will support the research, identification, and delivery of data science solutions to problems. You will support visualization of the model's insights, user experience and configuration tools for the analytics model.
+The technology:
+Analytics software (e.g., R, SAS, SPSS, Python, Cplex) and other data programming languages
+Locations:
+San Jose, CA
+Roseville, CA
+Fort Collins, CO
+Bloomington, MN
+Houston, TX
+What you’ll need:
+Bachelor’s/Master’s degree with a focus in computer science, statistics, mathematics, electrical engineering, or relevant area prior to your start date
+Basic knowledge of data science methodologies
+Have a working proficiency in effective use of analytics software (e.g., R, SAS, SPSS, Python, Cplex) and data programming languages.
+You are fully comfortable working in a hybrid (virtual and face-to-face) environment.
+What we’d prefer you bring:
+Preferred GPA of 3.0 or higher
+The drive to seek out what’s next and to deliver exceptional results
+A collaborative, solution focused spirit and overall sense of urgency
+The desire to embrace new ideas and fresh thinking and seek out ideas different than your own
+Experience as an active leader on campus who strives to make a positive impact on the world
+Comfort with working in a hybrid (virtual and face-to-face) environment
+Exceptional communication and presentation skills and the ability to ask smart questions
+At HPE, we’re:
+Ranked 19th on Fortune’s 2022 list of 100 Best Companies to Work For
+Ranked 7th on Newsweek’s list of America’s Most Responsible Companies 2022
+Named a Best Place to Work for Disability Inclusion for the sixth year in row
+Named one of the 100 Best Large Workplaces for Millennials in 2021
+Recognized as one of the Best Companies for Multicultural Women by Seramount
+Ready to take the next step? Open up opportunities with HPE.
+HPE is an equal opportunity employer/Female/Minority/Individual with Disabilities/Protected Veteran Status
+#graduates
+Job:
+Administration
+Job Level:
+N/A
+Hewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.
+HPE will comply with all applicable laws related to the use of arrest and conviction records, including the San Francisco Fair Chance Ordinance and similar laws and will consider for employment qualified applicants with criminal histories. 

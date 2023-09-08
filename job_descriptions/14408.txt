@@ -1,0 +1,58 @@
+The Data Science CoLab is seeking front-end, back-end, and full-stack software engineers to help build UCSF's Data Library. You’ll work as part of a small, cross-functional team of engineers, data scientists, and biologists to develop a platform that stores and analyzes cutting-edge biological data from UCSF researchers.
+
+One of the big gaps in academia today is the siloing of data between research labs. It’s currently a hard, tedious process for researchers to collaborate and share access to each other’s data. UCSF is one of the first institutions to recognize and begin to tackle this problem through this Data Science CoLab program. We’re building the infrastructure and tools for the researchers here at UCSF (and eventually beyond) to contribute their large, complex, biological datasets to a single warehouse, which can then be queried and visualized to produce novel insights that wouldn’t have been possible with their data alone. We think this can unlock novel research into a wide variety of disease treatment, as well as allowing biologists and clinicians to discover trends and meaning in their data.
+As an example of the opportunity, biologists at UCSF have agreed to contribute their single-cell data characterizing patient tumors and their immune systems from many different cancer types, as well clinical outcomes including treatment success and survival. We are now also expanding to include novel technologies, microbiome profiling, and new disease contexts. This includes autoimmunity as well as chronic diseases associated with aging. We want to leverage this data to identify novel disease treatments, including immunotherapy and personalized medicine. In this position, you will build tools to house this data and to enable multi-modal data analysis for the UCSF research community.
+
+In this position, you will architect, build, and deploy an open-source database system designed to accommodate large (petabytes), diverse biological data types from from a wide variety of technologies. The team will also focus on challenges in visualization of this complex data, the integration of multi-modal data, and building an interface that is accessible for biologists. You will be working with top UCSF researchers, learning novel biology as it’s discovered, and making an impact on the direction and discovery in the immunology and cancer fields. You will have freedom to innovate in this space with the tools and infrastructure you will build that can change the way we do systems biology.
+This position is within the Data Science CoLab. The Data Science CoLab is a collaboration-based research lab that focuses on data analysis and computational methods development. We are passionate about data science training for biologists who want to better engage with their data. In addition, we build tools for biologists to store and interact with their data. Our philosophy is that successful data-heavy projects happen by integrating biological understanding and intuition with advanced skills in data science. This can happen by facilitating close collaborations between experimental and computational biologists, as well as by empowering biologists to work with their own data.
+
+Note that this position may be based remotely (within US) if available for frequent video-based meetings (several times a week) and in-person meetings once a quarter. Flexible, and family-friendly work schedules can be accommodated.
+Department Description
+CoLabs are a collection of integrated laboratories specializing in infrastructure, technologies, or data analysis. The model will house all CoLabs in a contiguous space and create a set of common pipelines and workflows in one centralized locale. It will recruit and retain world-class researchers and staff through project engagement, backstopped “tenure,” and annual operational funds. It will develop and invest in transformative methods and technologies. In its current form, CoLabs consolidates three existing groups, Genomics, Flow Cytometry, and Biological Imaging Development, and establishes two new ones, Disease to Biology and Data Science, placing them all under one roof. CoLabs will help organize and integrate the UCSF community through common pipelines and data curation around a set of collaborative “CoProjects” that will tackle fundamental questions in the field.
+Required Qualifications
+Bachelor's degree in related area or equivalent experience / training
+Five or more years of relevant work experience
+Advanced programming in a variety of languages, such as TypeScript/Javascript, Ruby, Python, R or similar (we primarily use Python, Ruby and TypeScript/Javascript)
+Advanced knowledge developing complex single-page web application front-ends with frameworks like React, Vue.JS, or Angular, OR back-end development with experience building APIs, and data base schemas in a web application framework like Rails or Django
+Ability to work autonomously and collaboratively as part of a team
+Preferred Qualifications
+Data engineering experience, such as: building data pipelines and ETLs, working with Kafka/Airflow/etc, working with Data Scientists
+Advanced experience with UI/UX design
+Advanced experience writing tests in Javascript, Ruby and Python
+Knowledge of common Git workflows
+Experience with basic dev-ops work, including working in Unix (Ubuntu/CentOS), bash scripting, configuring Apache/NGINX/etc., as well as container technologies like Docker and Docker Swarm
+Managing cloud computing environments (e.g. AWS)
+Interacting with HPC or other clustered computing environments
+Experience mentoring junior engineers
+Excellent oral and written communication skills and the ability to work in a multi-disciplinary setting
+Ability to multi-task and take on new and diverse assignments
+About UCSF
+The University of California, San Francisco (UCSF) is a leading university dedicated to promoting health worldwide through advanced biomedical research, graduate-level education in the life sciences and health professions, and excellence in patient care. It is the only campus in the 10-campus UC system dedicated exclusively to the health sciences. We bring together the world’s leading experts in nearly every area of health. We are home to five Nobel laureates who have advanced the understanding of cancer, neurodegenerative diseases, aging and stem cells.
+Pride Values
+UCSF is a diverse community made of people with many skills and talents. We seek candidates whose work experience or community service has prepared them to contribute to our commitment to professionalism, respect, integrity, diversity and excellence – also known as our PRIDE values.
+
+
+In addition to our PRIDE values, UCSF is committed to equity – both in how we deliver care as well as our workforce. We are committed to building a broadly diverse community, nurturing a culture that is welcoming and supportive, and engaging diverse ideas for the provision of culturally competent education, discovery, and patient care. Additional information about UCSF is available at diversity.ucsf.edu
+
+
+Join us to find a rewarding career contributing to improving healthcare worldwide.
+Equal Employment Opportunity
+The University of California San Francisco is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+Organization
+Campus
+Job Code and Payroll Title
+000652 APPLICATIONS PROGR 4
+Job Category
+Clinical Systems / IT Professionals, Professional (Non-Clinical), Professional and Managerial, Research and Scientific, Technical & Technologist
+Bargaining Unit
+99 - Policy-Covered (No Bargaining Unit)
+Employee Class
+Career
+Percentage
+100%
+Location
+Hybrid, Parnassus Heights (SF), Remote / Telecommute
+Shift
+Days, Variable
+Shift Length
+8 Hours 

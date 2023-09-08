@@ -1,0 +1,21 @@
+Senior Machine Learning Engineer
+If you are a Senior Machine Learning Engineer with experience, please read on!
+
+Based in beautiful Mountain View, CA, we are a leading computer vision (AI) company that uses video analytics to provide business insights. Due to recent growth and demand for our products and services, we are in need of a Senior Machine Learning Engineer with a MS or PhD and at least 5+ years experience as a ML Engineer or Data Scientist with proficiency in Python, Java, or C++ and a good grasp of Pytorch, Tensorflow, or another deep learning library.
+What You Will Be Doing
+You will be responsible for training and deployment of cutting edge machine learning and deep learning models for our clients. You would also be involved in working with cutting edge computer vision models which are deployed on the manufacturing factory floor to provide insights to customers.
+What You Need for this PositionMasters degree or PhD in Machine Learning, Data Science or related technical discipline5+ years industry experience as an ML Engineer/ Data Scientist.Demonstrated proficiency in, at least, one modern programming language such as Python, Java, C++ or similar including object-oriented design.Good grasp of at least one deep learning library such as Pytorch/ Tensorflow.Familiarity with deep learning model architectures for object detection and/or action recognitionStrong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design, and complexity analysis.Good to have: Experience with ML Platforms such as KubeflowGood to have: Publication track record at conferences such as SIGGRAPH, CVPR, NIPS, ECCV, ICCV, ISMAR, ICML, etc.
+What's In It for You
+Salary DOE : $140,000 - $200,000
+
+Vacation/PTOMedicalDentalVision401k
+BenefitsVacation/PTOMedicalDentalVision401k
+So, if you are a Senior Machine Learning Engineer with experience, please apply today!
+Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Joshua SchnitzerApplicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

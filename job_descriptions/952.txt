@@ -1,0 +1,67 @@
+Description:
+
+Come Trailblaze your career with Stellar MLS! We are seeking Superstars, Get the Job Done Leaders, and Go Getters to Join our Stellar Team of Multi-Talented Professionals!
+
+At Stellar MLS, we do not hire anyone simply to perform a job function. We believe that your skills will make those job functions an effective, integral and important part of the growth of your department and Stellar MLS and will contribute to the success of your colleagues and our customers. We value the skills that you bring to Stellar MLS and expect that you will affirm our culture and values of collaboration, professionalism and cooperation through your actions and job performance.
+Position Summary
+The Data Scientist I is responsible for conducting full life cycle analysis, creating reports and forecasts based on Stellar MLS' and external data. The successful candidate will collaborate with each team on a variety of projects across the organization. The Data Scientist ! will help teams leverage data to answer questions and tackle problems while championing meaningful KPIs. This position will advocate for collecting data that is/isn't currently being collected while providing guidance on using data in ways that haven't been considered. This position reports to the VP, Technology & Innovation and is a salary, exempt, full-time position.
+
+Requirements:
+
+Essential Core Competencies
+This position requires the following competencies:
+Dealing with Challenges – An ability to deal with challenges and difficult situations in a practical and optimistic way
+Initiative – The drive to identify, create and act on opportunities
+Innovation – The drive and ability to generate and use ideas to improve business results
+Customer Focus – The drive and ability to deliver exceptional service to customers and colleagues
+Professional Development – Develop and maximize the capabilities of yourself and others
+Essential Job Duties and Responsibilities
+Use statistical methods, machine learning and artificial intelligence models to analyze data and generate useful insight from big data
+Have familiarity with techniques in clustering, regression, optimization, recommendation, neural networks, and other
+Familiarity with using cloud services (AWS, Google, Azure) or Big Data tools (Hadoop, Hive, Spark) in data science solutions
+Determine the best analytical methods leveraging statistical and analytical best practices
+Integrate multiple data sources to tell a story
+Identify, analyze, and interpret trends or patterns in complex data sets
+Empower others in the organization to access the data in a self-service manner using the tools you've made available to them
+Aid various teams with regards to reporting and presenting findings
+Review data flow to improve timeliness and quality of information received
+Support the development of user tools/forms to enhance data input and reporting capabilities
+Generate reports on operational and project-based metrics in a timely manner
+Work internally and with business partners on data anomalies and requests for information
+Work with business partners to evaluate/suggest data reporting enhancements
+Track information for Key Performance Indicators (KPIs) established by management
+Occasional over-time is required
+Timely and regular attendance is an essential function of the position
+Other Essential Skills
+Strong problem analysis and problem-solving skills
+Strong background in statistics and analytics
+Keen eye for detail and accuracy
+High comfort level in querying large and multiple data sets
+Perform quality work within deadlines without direct supervision
+Ability to work in a changing environment and handle multiple tasks
+Establishes and maintains effective working relationships
+"Actionable Insight" mindset
+Strong written and verbal communication skills and ability to interpret technical language and translate for business users
+Experience with relational database management, such as in Access or SQL Server
+Essential Physical Skills
+Acceptable vision and hearing (with or without correction)
+Bending on occasion
+Talking for long periods of time, approximately 8-10 hours a day
+Lifting up to approximately 30 pounds occasionally
+Sitting for long periods of time approximately, approximately 8-10 hours a day
+Writing and/or typing for long periods of time, approximately 8-10 hours a day
+(Reasonable accommodations will be made for otherwise qualified individuals with a disability).
+Education, Certifications, and Software
+A BA/BS degree in a quantitative field of study, such as Business, Mathematics or Computer Science
+Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel, SPSS, SAS)
+Three years' experience in business data management and reporting, data analytics, or data stewardship
+Intimate understanding of Google Analytics and social media data metrics
+Knowledge of A/B and multi-variate tests
+Experience in data visualization tools such as Tableau, PowerBI
+High comfortability performing statistical analysis and cross-tabulating large data sets via SPSS
+Experience in SaaS environment
+(These essential job duties, requirements and skills are not to be construed as a complete statement of all duties, requirements and skills. The Data Scientist I will be required to perform other job related essential and non-essential duties, requirements and skills as required).
+Benefits We offer a comprehensive benefits package of medical, dental, short/long term disability, life insurance, personal time off, and a 401K plan.
+
+We are an Equal Opportunity Employer/Drug Free Workplace
+PI190825387 

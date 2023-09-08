@@ -1,0 +1,54 @@
+Opensignal is the leading global provider of independent insight and data into network experience and market performance. Our user-centric approach allows communication providers to constantly improve their network and maximise commercial performance.Leading analysts, investors and financial institutions place a high value on our independent analysis and we are regular contributors to their reports.
+Real network experience is our focus and ultimately that’s what influences customer choice. Our mission is to advance connectivity for all and here at Opensignal, the team is leading the industry in enabling operators to link their network experience and market performance in a way that has never before been possible.
+With offices in London, Boston and Victoria, British Columbia, we are truly global, with employees working across four continents and representing over 25 nationalities. We are an equal opportunity employer dedicated to building an inclusive and diverse workforce.
+
+How you will make an impact...
+Opensignal is seeking a quantitative, critical thinker with an insatiable curiosity to join the Data Operations team as a Data Analyst. The Data Operations team is a critical component of Opensignal. They ensure our data is validated, the platform is working correctly and they explore opportunities to leverage new data sets to improve and create new products.
+The Data Analyst will support the Data Operations team by gathering data, analyzing ad hoc reports, providing quality assurance and working jointly with the Client Services team to investigate data abnormalities. This candidate should be interested in working with large data sets in an “R&D skunkworks,” product development environment.
+
+What you will be doing?
+Including, but not limited to:
+Analyze and interpret data using statistical and business models
+Identify correlations and trends in data, in addition to internal and external factors that could affect the results of our information
+Provide input on how to integrate additional data sets from independent sources we can use to leverage our existing data
+Collaborate with colleagues on ad hoc projects within the data science teams (Data ops and R&D)
+Validate data daily using both quantitative and qualitative approaches
+Create automated metric tests on data quality using Python and SQL
+Proactively finding, mitigating and resolving data issues across inbound data sources and created outputs
+
+Required Skills & Abilities
+
+2– 4 years of work experience (or comparable educational experience) in quantitative analysis
+Proficient in Excel and SQL
+Proficient in Python
+Experience using AWS (s3 and Athena)
+Experience with business and statistical modeling
+Strong critical thinking and problem solving skills
+Creative and independent thinker with a desire to learn new technical skills
+Success at working on cross-functional teams to meet a common goal
+Self-starter with a high sense of urgency
+Ability to prioritize in a multitask environment
+Strong attention to detail
+
+Desired Skills & Abilities
+
+Knowledge of Tableau: Desktop, Server, and Prep Builder
+Knowledge of R
+
+Benefits:
+We believe we are stronger when we not only celebrate our many differences, values, and voices but include them in everyday practice. Having a diverse and inclusive culture is essential, which is why we offer a flexible approach to work-life balance, operating in a remote-hybrid way. We’ll help you get set up with the essentials you need to work from home or the office. We also offer an attractive range of additional benefits, including:
+Competitive compensation packages and global company ownership benefits.
+Comprehensive group benefits package and company sponsored retirement savings plan (details depend on your country of work).
+Professional development opportunities: education reimbursement, facilitator-led training, workshops, knowledge bites (internal learning talks) and more!
+Generous holiday allowance, sick leave, parental leave, flexible working culture and the opportunity to work from abroad.
+Charity matching, paid time off for community volunteering, mentorship, and DE&I program/committees.
+Regular virtual and in-person events and socials.
+We’ll support you to set up an effective home office environment.
+We believe we are stronger when we not only celebrate our many differences, values, and voices but include them in everyday practice. Having a diverse and inclusive culture is essential, which is why we offer a flexible approach to work-life balance, operating in a remote-hybrid way. We’ll help you get set up with the essentials you need to work from home or the office. We also offer an attractive range of additional benefits, including:
+Stock options
+Professional development opportunities: education reimbursement, facilitator-led training, workshops, knowledge bites (internal learning talks) and more!
+Purpose led work: we drive conversations around, quality of, and access to, mobile network service, working towards a future where everyone benefits.
+Initial screen with Talent acquisition
+Following this there will be a scenario based interview with one of the Data Ops Managers
+The final interview will be with the VP of Data
+Python, SQL, Excel, AWS, S3Python, SQL, Excel, AWS, S3 

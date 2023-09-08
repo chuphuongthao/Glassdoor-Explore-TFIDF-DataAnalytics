@@ -1,0 +1,98 @@
+Why Mayo Clinic
+
+Mayo Clinic is the nation's best hospital (U.S. News & World Report, 2020-2021) and ranked #1 in more specialties than any other care provider. We have a vast array of opportunities ranging from Nursing, Clinical, to Finance, IT, Administrative, Research and Support Services to name a few. Across all locations, you’ll find career opportunities that support diversity, equity and inclusion. At Mayo Clinic, we invest in you with opportunities for growth and development and our benefits and compensation package are highly competitive. We invite you to be a part of our team where you’ll discover a culture of teamwork, professionalism, mutual respect, and most importantly, a life-changing career!
+
+
+Mayo Clinic offers a variety of employee benefits. For additional information please visit Mayo Clinic Benefits. Eligibility may vary.
+
+Position description
+Mayo Clinic is seeking a motivated Data Engineer to be responsible for creating and maintaining the analytical infrastructure that enables most functions in the data world. You will be responsible for and development, testing, and maintenance, of architectures for large-scale medical related databases in GCP using Big Query and other state of the art systems. You will also be responsible for creating data set processes for verification, acquisition, mining and modeling of clinical data through micro-services and API’s.
+
+Create and maintain optimal data pipeline architecture using state of the art systems that access data via API’s. Ability to build and optimize data sets, 'big data' data pipelines and architectures. Ability to perform root cause analysis on external and internal processes and data to identify opportunities for improvement and answer questions. Excellent analytic skills associated with working on unstructured datasets. Ability to build processes that support data transformation, workload management, data structures, dependency and metadata in GCP. Develop and test large, complex data sets that meet functional / non-functional business requirements. Implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability. Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data source formats using on premise and cloud technology. Integrate object storage features within cloud storage to create data at rest driven compute models. Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics. Work with stakeholders including the Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs. Keep Mayo’s data separate and secure across national boundaries through multiple data centers and cloud regions Work with data and analytics experts to strive for greater functionality in our data systems. Continues to build knowledge of the organization, processes and customers. Performs a range of mainly straightforward assignments. Uses prescribed guidelines or policies to analyze and resolve problems. Receives a moderate level of guidance and direction.
+Organizational Relationships:
+
+Mayo Clinic is respected and recognized as a world leader in healthcare, medical research, and clinical expertise. As we accelerate movement into the digital future, Mayo fully recognizes the next generation of health care will dramatically change, driven by consumerism, technology, and data. The Mayo Clinic 2030 strategy of CURE, CONNECT & TRANSFORM sets the vision of transforming healthcare as the global authority in the care of serious or complex disease. Advanced use of data, ML/AI and traditional analytics is woven through all aspects of this strategy and considered foundational to achieving it. The Department of Data & Analytics (DDA) within the Center of Digital Health (CDH) is responsible for driving Mayo's Data, Data Management and Data consumption vision. DDA will strive to enable a data centric organization, provide supporting capabilities to meet the needs of all organizational stakeholders, and establish an environment of continuous improvement with high levels of proficiency.
+
+
+
+Developer, Programmer, Software Engineer, Data Engineer
+
+Qualifications
+
+Bachelor’s degree in Computer Science or Engineering from an accredited University or College.
+
+Authorization to work and remain in the United States, without necessity for Mayo Clinic sponsorship now, or in the future (for example, be a U.S. Citizen, national, or permanent resident, refugee, or asylee).
+
+
+Additional qualifications
+
+Additionally, experience with Python, Denodo, along with ETL and ELT toolsets would be benifitial. GCP Certification would also be a plus.
+
+
+Have working knowledge and experience in Data Engineering with a minimum of 2 years of experience in data engineering and data science or analytical modeling.
+Experience using scripting languages (Python, JavaScript).
+
+A minimum of 2 years of experience leveraging micro-services using a high-level language (C#, C++, Java) for data access and analytics.
+Strong interpersonal, time management skill and demonstrated experience working on cross functional teams
+A minimum of 1 year of SQL or No-SQL experience.
+Experience working in an agile development environment leveraging tools such as Jira.
+Experience with scrum, coding from user stories, and performing retros.
+Preferred qualifications for this position include:
+Experience using advanced data processing solutions/capabilities such as Apache Spark, Hive, Pig and Kafka.
+Experience using big data, statistics and knowledge of data related aspects of machine learning.
+Experience working with Linux or other Unix based operating systems.
+Knowledge of how workflow scheduling solutions such as Apache Airflow and Google Composer related to data systems.
+Knowledge of using Infrastructure as code (Kubernetes, Docker) in a cloud environment.
+Experience in practicing CI/CD (Jenkins, GitHub Actions, ADO)
+Experience with cloud platforms such as GCP, Azure, AWS
+
+Exemption status
+
+Exempt
+
+Compensation Detail
+
+Required education, experience, and tenure may be considered along with internal equity when job offers are extended. The salary range every 2 weeks is approx. $3,496-$4,894 based on a full-time position.
+
+Benefits eligible
+
+Yes
+
+Schedule
+
+Full Time
+
+Hours / Pay period
+
+Full Time
+
+Schedule details
+
+Monday-Friday
+
+Works remotely 50% or more; business need requires employees to live within a reasonable driving distance of campus.
+
+
+Weekend schedule
+
+Weekend work as needed tied to product delivery needs.
+
+Remote
+
+Yes
+
+International Assignment
+
+No
+
+Site description
+
+This vacancy may be open to full time telework candidates within the U.S./ reasonable travel to a Mayo facility if ever a business need/ meeting or client-facing. Mayo Clinic has facilities in Minnesota, Wisconsin, Arizona, and Florida.
+
+Recruiter
+
+Miranda Grabner
+
+EOE
+
+As an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available. 

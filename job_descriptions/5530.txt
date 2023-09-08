@@ -1,0 +1,23 @@
+We’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Our ‘get it done’ culture allows everyone at Snowflake to have an equal opportunity to innovate on new ideas, create work with a lasting impact, and excel in a culture of collaboration.
+
+We’re looking for a Senior Data Scientist to lead Snowflake's corporate data science function. In this role, you will apply machine learning to a variety of domain specific problems across Legal, Sales Engineering, Alliances, IT, Professional Services & Training. This is a generalist role and will provide an opportunity to work on a wide breadth of problems, applying a good mix of models & methods to structured & unstructured data.
+
+AS A SENIOR DATA SCIENTIST AT SNOWFLAKE YOU WILL :
+Work closely with stakeholders to understand the use-cases and identify focus areas with the highest potential for impact
+Define and analyze metrics that will in-turn inform the key drivers for decision making & operational efficiencies
+Analyze large amounts of messy data, work on data quality, uncover actionable insights and present them in a compelling manner
+Provide technical & thought leadership designing and implementing machine learning techniques
+OUR IDEAL CANDIDATE WILL HAVE :
+High levels of curiosity and eager enthusiasm for open-ended problems
+Experience and interest in problem formulation based on relatively abstract information
+5+ years experience applying machine learning or statistical modeling on large-scale datasets
+Deep understanding of the basic classes of ML algorithms and their underlying assumptions
+Technical expertise in one or more of the following topics: Anomaly Detection, Clustering, Time-Series Analysis & Forecasting, Natural Language Processing (NLP), Uncertainty Quantification
+5+ years experience writing production-quality, scalable code using Python
+Expert level knowledge working with libraries such as scikit-learn, pandas, etc., SQL and Airflow
+Ability to articulate results and complex concepts to leadership
+Preferably, prior experience applying ML to Professional Services, Sales Engineering, Legal and IT use-cases
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact? 

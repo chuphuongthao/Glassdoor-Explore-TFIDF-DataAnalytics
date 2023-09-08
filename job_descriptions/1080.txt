@@ -1,0 +1,27 @@
+RESPONSIBILITIES:
+A Kforce client is seeking to hire a Data Analyst in Saint Petersburg, Florida (FL). You will perform analysis within business departments to advance organizational decisions.
+
+Responsibilities include:
+
+Data Analyst collects and cleans data for modeling and analysis
+Contributes to the development, maintenance, and scales of predictive, descriptive, and statistical models for organizational advancement
+As a Data Analyst, you partner with various organizational teams to ensure data science and analytics outputs are operationalized and deployed to the business departments to increase the velocity of insights across the organization
+Manages a variety of viewpoints to build consensus and create positive outcomes for all parties
+
+REQUIREMENTS:
+
+Bachelor's degree in Computer Science, Business Administration, or related field and four (4) years of relevant experience or an equivalent combination of education, certification, training, and/or experience; Master's degree preferred
+Experience using SQL and comfortable with relational databases and able to collect data and clean data
+High level analytical research, statistical, and problem-solving skills to analyze data for trends and patterns, and interpret data with a clear objective in mind
+Ability to learn new technologies, analytics approaches, and business processes
+Experience with machine learning applications for both supervised and unsupervised learning use cases
+Ability to deploy and maintain data science technologies
+Proven competency working with a core Advanced Analytics toolsets: Python, Azure Machine Learning, SPSS Modeler, R, etc.
+Ability to utilize and strong working knowledge of machine learning and data modeling technologies such as supervised and unsupervised learning and forecasting techniques
+Experience using interactive data visualization technologies such as Tableau
+Ability to speak, write, read, and understand English
+Excellent experience using SQL and comfortable with relational databases and able to collect data and clean data
+High level analytical research, statistical, and problem-solving skills to analyze data for trends and patterns, and interpret data with a clear objective in mind
+Ability to learn new technologies, analytics approaches, and business processes
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. 

@@ -1,0 +1,24 @@
+Full-Stack Engineer
+If you are a Full-Stack Engineer with 3 years of experience, please read on!
+
+We're growing our team and looking for a Full-stack Engineer. As you construct an application from the server to the client, you'll have the chance to take on novel and intriguing problems supported by research data. As you design software that will be used for years to come to further our understanding of the human body, you'll sharpen your abilities and acquire cutting-edge technologies while working alongside seasoned scientists and other developers. You will have the chance to add to the Institute's expanding network of well-known, very significant scientific websites.
+What You Will Be Doing
+As a full-stack engineer, you're well-versed in web application development and at ease interacting with the display and application layers of software architecture. You'll collaborate with researchers, data scientists, and business users in addition to working with technology. Most importantly, you'll be developing software that will improve human health over time! You'll also combine the skills of programming and design, create user and system applications, and work with both front-end and back-end web technologies. You'll also be actively involved in both the server-side infrastructure and the aesthetic aspects, bridging the gap, and defining how the application appears and works.
+What You Need for this Position
+A minimum of 3 years of technical software engineering experience, plus"
+Using Django/FlaskExtensive knowledge and a firm grasp of the MVC design patternSQL Angular Python (preferably PostgresSQL)Frontend data visualization libraries such as Bootstrap D3CI/CD environment experience and containerization knowledgeA thorough knowledge of data structures, algorithms, and the design of efficient softwareMastery of frontend languages, particularly HTML5, CSS3, and JavaScriptKnowledge of various programming languages, especially Java and JavascriptComfortable using version control systems (such as Git/Bitbucket)
+Experience writing unit, functional, and performance tests for the web
+Plus but not required:
+Master's in Computer/Data Science or relatedScientific Computing experienceFamiliarity with R, Matlab, or SPSSExperience with NodeJs/ExpressJS, GItLab, Wagtail
+What's In It for You
+Salary: $100,000 - $120,000
+REMOTEHybrid is an option if localFull health and dental insurance for you/familyDisability and life insuranceProgram for Employee Assistance (mental and family health counseling, etc)Program to Assist with TuitionEmployee Benefits (Discounts on yoga, massage, movie tickets, etc)After a year, contributions to a 403(b) with a 10% employer contribution
+Pre-tax flexible compensation plan for dependent care, transportation, and parking (FSA)11 paid holidays, 12 paid sick days, and 10 paid vacation daysREMOTE possible after settling in periodSoftball teams, summer and holiday activities, monthly happy hours, weekly in-house yoga, snacks, and more!
+So, if you are a Full-Stack Engineer with 3 years of technical software engineering experience, please apply today!Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 

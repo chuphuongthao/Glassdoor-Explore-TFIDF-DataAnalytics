@@ -1,0 +1,28 @@
+Summary
+Posted: Sep 27, 2021
+Role Number:200292867
+Do you have a passion for computer vision and deep learning problems? We are looking for someone who thrives on collaboration and wants to push the boundaries of what is possible today! The Video Computer Vision org is a centralized applied research and engineering organization responsible for developing real-time on-device Computer Vision and Machine Perception technologies across Apple products. We balance research and product to deliver Apple quality, state-of-the-art experiences, innovating through the full stack, and partnering with HW, SW and ML teams to influence the sensor and silicon roadmap that brings our vision to life.
+Key Qualifications
+Extensive knowledge in machine learning and deep learning techniques
+Solid background in image processing/computer vision
+Experience in building datasets for computer vision tasks
+Experience working with and creating data structures / architectures
+Proficiency in at least one major machine learning framework such as Tensorflow
+Experience visualizing data to stakeholders
+Ability to analyze and debug complex algorithms
+Highly skilled in at least one scripting language such as Python or Matlab and solid experience in C++
+Creativity and curiosity for solving highly complex problems
+Excellent communication and collaboration skills
+Description
+We work on complex problems in computer vision that require robust, efficient, well tested, and clean solutions. The ideal candidate will possess the self-motivation, curiosity, and initiative to achieve those goals. Analogously, the candidate is a lifelong learner who passionately seeks to improve themselves and the quality of their work. You will work together with similar minds in a unique team where your skills and expertise can be used to influence future user experiences and hardware that will be used by millions.
+Education & Experience
+MS in Engineering, Applied Mathematics, Data Science, Computer Science or equivalent field, with 3 years industry experience, a PhD degree or equivalent industry experience.
+Additional Requirements
+Desired Qualifications:
+Familiarity with auto-encoders
+Good understanding and applied experience in classic 2D image processing and segmentation including:
+Robust semantic object detection under different lighting conditions
+Segmentation of non-rigid contours in challenging/low contrast scenarios
+Sub-pixel accurate refinement of contours and features
+Experience in image quality assessment
+Experience with in depth failure analysis of algorithms 

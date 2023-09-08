@@ -1,0 +1,49 @@
+RESPONSIBILITIES:
+Kforce has a client that is seeking a Data and Analytics Analysis in Tampa, FL.
+
+Basic Function (Primary Purpose):
+
+Perform analysis of company data, seeking business opportunities to monetize the data
+Administrate Data and Analytics centralized reports, such as profitability analysis, industrial reports, and master data, among others
+Work together with business analysts, and train citizen developers in analytical tools
+
+Primary Duties & Responsibilities and Percent:40% - Reports administration:
+
+Own Data & Analytics centralized reports, such as Profitability Analysis, Melt shop and Rolling mill analytics, Working Capital Analysis, Masterdata, and others that may be created in the future
+Assist the creation of new reports for the D&A team
+Create new centralized reports requested by the business areas
+
+45% - Information Analysis:
+
+Analyze information available seeking business opportunities to monetize our data
+Partnering other company business analysis to detect business opportunities, and create analytics
+Partnering business stakeholders to identify new opportunities for data analysis and implement them
+
+15% - Analysts Development:
+
+Periodically train Company Business Analysist in Data & Analytics tools
+Collaborate in the citizen development program
+
+Scope:
+The Data Analysts works together with Company Managers and Business Analyst to analyze the company structured data provided by the Data Engineers to identify business opportunities to generate economic value. The Data Analyst keeps centralize reports updated and generate new reports requested by business areas, following the Data and Analytics priorities.
+
+REQUIREMENTS:
+
+Bachelor's degree and a minimum of 3 years of relevant work experience
+Advanced analytical, problem-solving and data mining skills
+Awareness of data analysis, end user requirement analysis, business requirements, and SLA Adherence
+Business acumen
+Excellent multi-tasking and written and verbal communication skills
+Problem solving skills and techniques including providing alternative options/approaches
+
+Technical Required Skills:
+
+SAP
+Power BI
+SQL
+
+Technical Skills that are desirable:
+
+R and Python desirable
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. 

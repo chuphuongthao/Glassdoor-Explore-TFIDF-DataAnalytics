@@ -1,0 +1,41 @@
+Who is Blueprint?
+
+We are a technology solutions firm headquartered in Bellevue, Washington, with a strong presence across the United States. Unified by a shared passion for solving complicated problems, our people are our greatest asset. We use technology as a tool to bridge the gap between strategy and execution, powered by the knowledge, skills, and the expertise of our teams, who all have unique perspectives and years of experience across multiple industries. We're bold, smart, agile, and fun.
+
+What does Blueprint do?
+
+Blueprint helps organizations unlock value from existing assets by leveraging cutting-edge technology to create additional revenue streams and new lines of business. We connect strategy, business solutions, products, and services to transform and grow companies.
+
+Why Blueprint?
+
+At Blueprint, we believe in the power of possibility and are passionate about bringing it to life. Whether you join our bustling product division, our multifaceted services team or you want to grow your career in human resources, your ability to make an impact is amplified when you join one of our teams. You'll focus on solving unique business problems while gaining hands-on experience with the world's best technology. We believe in unique perspectives and build teams of people with diverse skillsets and backgrounds. At Blueprint, you'll have the opportunity to work with multiple clients and teams, such as data science and product development, all while learning, growing, and developing new solutions. We guarantee you won't find a better place to work and thrive than at Blueprint.
+
+What will I be doing?
+
+Blueprint is looking for a Senior Data Engineer to join us as we build cutting-edge technology solutions! This is a fast-paced role that needs a dedicated and passionate individual focused on team and client satisfaction!
+
+Qualifications:
+
+3+ years of experience as a data engineer
+Experience with SQL Development (ETL/ELT, transformations, stored procedure)
+Experience with Databricks
+Experience with Python/Pyspark
+AWS Fundamentals Certification preferred
+Excellent collaboration skills to work on a team as well as independently (be self-reliant and resourceful)
+Excellent organization skills and able to multi-task and detailed oriented
+Excellent verbal and written communication skills (must be able to write clear and concise emails for any audience, etc.
+Well versed with software development and deployment best practices
+
+Location: Remote
+
+Blueprint wants you to bring your biggest and best ideas to help positively impact our culture, clients, and the community around us. We also believe in the importance of a healthy and happy team, which is why our comprehensive benefits package includes:
+
+Medical, dental, and vision coverage
+401k program
+Competitive PTO offerings
+Parental Leave
+Personal paid Volunteer time to support our community
+Contribute to one of our Employee Affinity Groups
+Opportunities for professional growth and development
+
+Blueprint Technologies is an equal opportunity employer where employment is based on merit, qualifications, and professional competence. 

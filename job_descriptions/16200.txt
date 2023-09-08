@@ -1,0 +1,37 @@
+Location: 7000 Target Pkwy N, Brooklyn Park, Minnesota, United States, 55445
+JOIN TARGET DATA ENGINEERING AS A SENIOR DATA ENGINEER – ML ENGINEERING
+Target’s Data Science and Engineering team is a global, hyper-growing, collaborative team building enterprise data products while utilizing the latest Big Data development tools/tech at the grandest scale. Data Engineers work closely with our Data Scientists to create valuable insights using voluminous data collected from internal and external systems. Business decision-making and initiatives are empowered with these insights to achieve Target’s strategic goals while providing world-class shopping experiences!
+About this Opportunity:
+As a Sr. Data Engineer in Target’s Data Engineering team you’ll take the lead as you:
+Designing and Implementation:
+Ownership of all technical aspects of software development for assigned application
+Utilize the data structure and algorithms to make the system more efficient
+Support ongoing refactoring of code, utilize visualization and other techniques to fast-track concepts and deliver continuous improvement
+Analyze, monitor and optimize for performance
+Write code and unit tests, work on API specs, automation and testing
+Produce and maintain high-quality technical documentation
+Scope of Work:
+Will gain new knowledge from upcoming research and applying it to design and development
+Develop deep understanding of tie-ins with other systems/platforms within the domains
+Share the gained knowledge with other team members through interactive sessions
+Identify opportunities to adopt innovative technologies
+Works with Technical Product Owners and Principal Data Engineers to prioritize features for ongoing sprints and managing the list of technical requirements based on new known issues
+Provide continuous support for design, development and application availability
+Requirements:
+BS degree in Computer Science, Mathematics, Statistics, Physics, other quantitative field related to data sciences and data mining or relevant work experience
+2+ years of experience in developing software applications including: analysis, design, coding, testing, deploying and supporting of applications
+Proficient in at least one programming language - Java, Scala, Python, C/C++
+Good understanding of Data structures and Designing of Algorithms
+Good understanding of basic Mathematical concepts and ability to grasp complex Mathematics
+Good understanding of SQL with experience in data modeling
+Understand application/software development and design in an Agile environment
+Inquisitive on Big Data technology; current on new ideas and tools
+Collaborative personality - able to engage in interactive discussions with the rest of the team
+Preferred Qualifications:
+Extensive experience with the Hadoop ecosystem (Map Reduce, Kafka, Pig, Hive, HBase, Cassandra, YARN) and Spark, Scala
+Extensive experience with DevOps tools and culture using Jenkins, Drone and Kubernetes
+Awareness of new and emerging Big Data technologies, tools and trends
+This position may be considered for a Full-Time Remote or Hybrid work arrangement based on Target’s needs. A Hybrid work arrangement means the team members core role will be a blend of virtual and onsite at a Target location. A Full-Time Remote work arrangement means the team member works full-time from home or an alternate location that’s not a Target location, does not have a desk at their primary HQ work location and may travel to HQ up to 4 times yr.
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado, Connecticut or Nevada residents is $82,000 to $147,000. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Find competitive benefits from financial and education to well-being and beyond.
+Americans with Disabilities Act (ADA)
+Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information. 

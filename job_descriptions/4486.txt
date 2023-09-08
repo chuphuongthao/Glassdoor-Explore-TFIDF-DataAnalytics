@@ -1,0 +1,47 @@
+At Edward Jones, we help clients achieve their serious, long-term financial goals by understanding their needs and implementing tailored solutions. To ensure a personal client experience, we have located our 14,000+ branch offices where our more than 7 million clients live and work.
+
+A typical branch office has one financial advisor who meets with clients face-to-face and one branch office administrator who enhances the team's ability to build deep relationships with clients. Headquarters associates in St. Louis and Tempe provide support and expertise to help U.S. and Canada branch teams deliver an ideal client experience. Edward Jones currently has more branch offices than any other financial services firm, and we continue to grow to meet the needs of long-term individual investors.
+Analytics and Insights
+Senior Data Analyst
+
+
+Opportunity Overview
+Come join us in Firm Analytics, where we strive to unleash the full potential of data to address business challenges. As an analyst on our team, you will design, develop, and deliver data stories by applying best in class data manipulation, descriptive statistical analysis, and impactful data visualization techniques. You will combine data from multiple sources to develop innovative analytical solutions to business problems. You will collaborate with business leaders and other team members to develop actionable insights which inform enterprise decision making and influence strategic planning.
+
+Your insights, real outcomes. If you have a passion for data, problem-solving, developing solutions, driving analysis to action and inquiry into innovation, Firm Analytics at Edward Jones may be your next career choice.
+
+Key Responsibilities:
+Utilize data manipulation and aggregation techniques, descriptive statistics and/or data visualization methods to design KPIs that measure various firm strategies.
+Leverage business and analytic acumen to develop prototypes that answer business questions, validate use cases or document understanding of key requirements/stakeholder needs.
+Query, manipulate and validate data across multiple domains using database technologies and querying languages such as SQL or Snowflake.
+Conduct meaningful descriptive statistical analysis through exploratory analysis to identify correlation among variables, data distributions, quartile rankings and measures of frequency.
+Apply intermediate statistical concepts such as cluster analysis, multivariate regression, sensitivity and scenario analysis, root cause analysis to identify patterns or trends which inform business decisions on ambiguous or open-ended business problems. Experience with hypothesis testing, economic modeling, a plus.
+Create data visualizations that simplify complex information in a robust, accurate, and appealing visual story that engages stakeholders and drives them to action.
+Communicate across a wide range of audiences with specialized subject matter expertise including finance, compliance, marketing, products, branch development, and technology.
+Apply critical thinking and business knowledge to validate logic and output against known data sources, sharing best practices with others on the team and across the analytic community.
+Maintain a good understanding of business objectives, key business drivers/strategies/priorities, to inform an analytic approach to address business questions.
+Collaborate with and occasionally lead cross-functional teams responsible for implementing projects in support of divisional and firm-wide business objectives.
+Apply domain expertise to proactively recommend improvement to business processes, while quantifying the impact of changes for leaders.
+Mentor and help develop other junior analysts on the team.
+Requirements:
+5+ years of experience in data analytics required.
+Undergraduate degree required. Mathematics, Sciences, Engineering, Finance, and Information systems preferred. Advanced degree is a plus.
+Ability to prioritize and execute on multiple tasks as well as adjust to changing priorities with minimal leader oversight.
+Strong analysis skills, primarily investigating and explaining trends and variances using statistical techniques.
+Ability to work effectively in both an independent or team environment.
+Ability to effectively communicate with associates and leadership in cross-functional settings using verbal, written and presentation skills.
+Ability to extract and analyze large amounts of data using at least one data manipulation language (SQL preferred, Snowflake a plus.)
+Statistical tools such as R, SAS, SPSS, Python, or Dataiku, a plus.
+Data visualization experience in Tableau a plus.
+Persons requiring sponsorship for an employment visa are ineligible for this position
+FORTUNE 2020 – Edward Jones was named No. 7 on the 2020 FORTUNE 100 Best Companies to Work For® list.
+From FORTUNE ©2020 FORTUNE Media IP Limited. All rights reserved. Used under license. FORTUNE and FORTUNE 100 Best Companies to Work For are registered trademarks of Fortune Media IP Limited and are used under license. FORTUNE and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of, Edward Jones Investments.
+Edward Jones Ranked No. 6 of the 100 best workplaces for millennials by Great Place to Work and FORTUNE Magazine.
+2020 Corporate Equality Index – Edward Jones joins the ranks of 680 major U.S businesses that received top marks in the HRC Foundations 18th Annual Scorecard on LBGTQ Workplace Equality
+Edward Jones named a top company for training, ranking No. 25 on Training magazine's 2020 Training Top 125 list – the highest ranking among the financial-services industry!
+Financial services firm Edward Jones has been named one of the 2019 Best Workplaces for Parents by Great Place to Work and FORTUNE magazine. The firm ranked No. 5 on the list of 50 companies, up two spots from last year.
+The Best Workplaces for Parents list is one of a series of rankings by Great Place to Work and FORTUNE based on employee feedback from Great Place to Work-Certified™ organizations. Edward Jones ranked No. 7 on the FORTUNE 100 Best Companies to Work for in 2019 list, the firm’s 20th appearance on the list. The firm also was ranked the No. 1 Best Workplace in Financial Services & Insurance and the No. 6 Best Workplace for Millennials by Great Place to Work and FORTUNE.
+Edward Jones does not discriminate on the basis of race, color, gender, religion, national origin, age, disability, sexual orientation, pregnancy, veteran status, genetic information or any other basis prohibited by applicable law.
+At Edward Jones, we value and respect our associates and their contributions, and we recognize individual efforts through a rewards program that promotes a long-term career, financial security and well-being. Visit our career site to learn more about our total compensation approach, which in addition to base salary, typically includes benefits, bonuses and profit sharing. The salary range for this role is based on national data and actual pay is based on skills, experience, education, and other relevant factors for a potential new associate:
+Salary: $90628 - $154313
+Category: Headquarters 

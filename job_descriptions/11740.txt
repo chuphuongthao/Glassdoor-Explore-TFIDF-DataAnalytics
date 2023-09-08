@@ -1,0 +1,57 @@
+Join Our Team! OddBytes is looking for our next amazing hire! Adding to the Data Analytics team, the right candidate will have experience with communicating a business-impact driven narrative of data insights to business teams and is comfortable working with a remote US and internationally based team and company across multiple priorities and communication channels.
+
+Did we mention that we’re fully remote? At OddBytes, we’ve found that life is just better with a fully remote workforce, and we operate in a 100% work from home model. We’re most productive when our work life acts in harmony with the rest of our lifestyle, and our culture reflects that.
+
+Key Responsibilities
+
+Be a consultant to business teams to help them identify their needs
+Respond to requests for ad-hoc day-of queries
+Conducting analysis stemming from business operations and system operation-related questions
+Identifying, analyzing, interpreting, and notifying trends or patterns in complex data sets
+Learning business side processes and systems to understand how to make insights actionable and determine which insights are actionable
+Conducting business intelligence analysis to discovery business opportunities and inefficiencies
+Presenting an analytical narrative to management and business leaders from the perspective of business impact
+Product and maintain reporting and dashboarding for developers, business operations, and executive -level consumption using tools such as Zeppelin, Imply Pivot, and Superset
+Assisting in defining, standardizing and documenting KPIs, metrics, and measures with engineering, management, and business leaders
+Conducting general data management tasks of investigating data anomalies and reporting accuracies in addition to filtering and cleaning data
+ Skills & Experience
+
+ 3+ years of data analyst experience
+ Must have in depth experience in:
+
+Querying log data to construct aggregated data sets
+Presenting analysis conclusions in verbal and written form
+Data visualization platforms
+Working with multiple cross system multi-dimensional data structures
+Strong math and statistical skills
+Strong interest in impactful analysis
+Strong Cohort analysis skills
+Strong Analysis Presentation skills
+Strong verbal and written English communication skills
+ Must have some experience in:
+
+Demonstrating intellectual curiosity and initiative
+Data Visualization
+Utilizing business intelligence and analytics tools, such as:
+Scripting Language (Python, SQL)
+Microsoft Excel
+Tableau
+Imply Pivot
+Google Analytics
+ Preferable experience in:
+
+Working in fast-paced environments
+Working in the digital advertising industry or broadly in the digital online industry
+Defining success metrics and KPIs
+Creating analytical narratives
+ ABOUT OddBytes:
+
+We offer a competitive base salary, commissions, 401K match and world-class benefits!
+We’re in the business of connecting people to more of what they'll love.
+
+Our products are never complete. We are always looking for new, innovative ways to introduce people to things that match their lifestyle.
+
+Our team of oddballs are no strangers to the world of digital marketing. Backed by 15+ years of experience, our team is led by top experts in product marketing, ecommerce, and browser apps.
+OddBytes is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, immigration status, or any other status protected under applicable federal, state and local laws. If you have a disability or special need that requires accommodation, please let us know in advance.
+
+Learn more about us at www.oddbytes.com 

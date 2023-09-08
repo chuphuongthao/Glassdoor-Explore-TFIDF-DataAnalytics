@@ -1,0 +1,24 @@
+Title: Data Science/Machine Learning
+Why is this position open? Rapid growth
+Pay/Salary/Benefits/Perks: $180k+, Full Benefits
+Position reports to: Director of Data Science and Engineering
+Job Summary
+You will build machine learning products to help hospitals and healthcare systems understand and act on healthcare data. You'll have access to the right tools for the job and large amounts of data. You'll build models and analytics using technologies such as Python, pandas, PyTorch and scikit-learn.
+First and foremost to your success, you will gain and maintain a deep understanding of healthcare datasets, market conditions and our customer.
+As a data scientist you are the expert on the types of models and analytics that are possible, and you will need to be good at collaboratively translating product strategy into prototypes and implementations.
+What You Bring to the Table
+Bachelor's in Math, Engineering, or Computer Science (or technical degree with commensurate industry experience).
+Proficiency with the following (or comparable technologies): Linux, Git, Python, pandas, scikit-learn, NumPy, PyTorch
+Experience building machine learning models on large/sparse datasets using structured and unstructured approaches.
+Nice to Haves
+We have a wide variety of problems and tasks that we solve. If you have experience in one or more of the following, we should talk:
+Experience building Natural Language Processing models
+Experience with Bayesian data analysis using MCMC or variational inference
+Experience with geospatial data analysis
+Familiarity with big data platforms like Spark
+Familiarity with cloud platforms like AWS, GCP or Azure
+Experience with deploying and productionizing machine learning models
+Interview Process: 1) phone screen with Dir 2) Code Challenge 3) Panel Interview w/ team members 4) Offer
+Work Environment/culture and Dress Code: Remote, company promotes a Leadership inspired learning culture where people can take risks without fearing failure, business casual dress
+Skills Required: heavy experience building algorithms and data models on complex datasets, experience using Machine Learning frameworks, working in serverless, big data environments understanding of engineering infrastructure, effective stakeholder communication (Engineering, Product)Healthcare experience preferred
+Best Personality Match for this Role- Curious, driver mentality, Adaptable to quick changes and frequent context switching found in rapidly scaling organizations 

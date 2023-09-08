@@ -1,0 +1,26 @@
+Discover. A brighter future.
+With us, you’ll do meaningful work from Day 1. Our collaborative culture is built on three core behaviors: We Play to Win, We Get Better Every Day & We Succeed Together. And we mean it — we want you to grow and make a difference at one of the world's leading digital banking and payments companies. We value what makes you unique so that you have an opportunity to shine.
+Come build your future, while being the reason millions of people find a brighter financial future with Discover.
+Job Description
+About Internal Audit
+Discover’s Internal Audit Department (IAD) is committed to providing insightful perspectives, leveraging specialized talent, and delivering a refreshing experience to all of our stakeholders. These commitments are met through technically skilled professionals who are collaborative, hard-working, and highly motivated to consistently deliver high-quality work in a challenging and fast-paced environment. IAD is viewed as an integral part of Discover’s risk management framework and is valued by management as a trusted partner.
+Summary:
+Join a group of inquisitive, specialized, inspiring Model Risk Data Scientists who are dedicated to building and sustaining a dynamic, innovative, and collaborative modeling culture. Our team is focused on risk identification and remediation in a landscape filled with state-of-the-art modeling techinques, advances in model interpretability and fairness, and what lies beyond. As a Model Risk Data Science team member, you’ll have full vantage of the end-to-end modeling process to monitor emerging risks, detect issues and themes in process outcomes, and contribute thought leadership to advance modeling capabilities throughout the organization.
+Responsibilities:
+Design and autonomously execute moderately complex model risk data analytics objectives based on defined or undefined requirements
+Assess suitable data sources for benchmarking and model output data quality for fitness of use in analytical tests
+Conduct peer review and provide effective challenge to test logic/execution
+Produce technical documentation as well as narratives to support test detail documentation
+Effectively communicate test results and data issues, trend across projects to internal teams
+Provide analytics support to auditors in performing risk assessment of business activities, exposures, and the materiality of loss
+Minimum Qualifications
+At a minimum, here’s what we need from you:
+Bachelor’s Degree in Analytics, Engineering, or Statistics
+2+ years of experience in Credit Risk, Fraud Risk, Marketing Analytics, Optimization, Operations Analytics, Modeling/Data Science or related field
+Preferred Qualifications
+If we had our say, we’d also look for:
+Master’s Degree in Analytics, Engineering, Mathematics, Statistics or related field
+Experience in Credit Risk, Fraud Risk, Marketing Analytics, Optimization, Operations Analytics, Modeling/Data Science or related field
+#LI-EB1 #Remote #BI-Remote
+What are you waiting for? Apply today!
+The same way we treat our employees is how we treat all applicants – with respect. Discover Financial Services is an equal opportunity employer (EEO is the law). We thrive on diversity & inclusion. You will be treated fairly throughout our recruiting process and without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status in consideration for a career at Discover. 

@@ -1,0 +1,12 @@
+JOB DESCRIPTION
+Insight Global is hiring a full time Data Scientist on behalf of a banking client in Charlotte, NC. As a Data Scientist, you will join the Global Market Operation, Intelligence Process Automation Team and be involved in the research and development efforts, responsible for data analysis, data modeling and optimization of complex data. This role requires advanced techniques such as document digitization, machine learning, statistical analysis, and end-to-end transformation. We are looking for someone that wants to work in a collaborative environment and be directly involved in idea generation
+MINIMUM REQUIREMENTS
+2+ Years’ Experience in Data Science
+2+ Years’ Experience in machine learning model development and Python coding with troubleshooting skills
+Expert in data analytics, mining, manipulation, aggregation, integration, and reporting
+Excellent critical thinking and problem-solving skills
+Must be detail oriented and self-motivated with a strong desire to succeed
+Must be able to work well in collaborative team environment, but also independently
+
+DESIRED SKILLS
+Advanced Degree in a STEM discipline like computer science, Engineering, Statistics, Mathematics, Bioinformatics etc 

@@ -1,0 +1,18 @@
+RESPONSIBILITIES:
+Kforce has a client that is seeking a fully remote Senior Data Engineer to join their team and assist with their online customer strategy, how to identify customers, different touch points of the customers and their journey analysis. This team is responsible for the entire online universe for the company and assists in identification of what is selling/how to identify a customer.
+
+REQUIREMENTS:
+
+Airflow orchestration
+GitHub/Git integrations with CI/CD automation (Jenkins preferred)
+Data procs or Pyspark experience
+Strong Python experience
+Have worked on Optimizations on the Hadoop ecosystem or GCP or AWS environments
+Moderate to good SQL expertise
+Some form of cloud (GCP is a big plus)
+Experience in creating pipelines for data extraction, cleansing, and movements
+Some experience in Data science models; Moderate experience is a plus
+Graph Database experience and big plus (Neo4j)
+Strong communication
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. 

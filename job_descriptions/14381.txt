@@ -1,0 +1,34 @@
+Are you passionate about creating an exceptional client experience?
+Discover your opportunity with Union Bank®, a division of the Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world. At Union Bank, we have our clients’ best interest in mind and draw on more than 160 years of experience to understand their distinct needs to tailor our solutions. We’re part of 180,000 colleagues around the globe striving to be the world’s most trusted financial group, knowing that trust starts with a culture of putting people first and empowering you to achieve your potential.
+Join Union Bank, where being inspired is expected and creating results is rewarded.
+This is a remote position. A member of our recruitment team will discuss location preferences with you in more detail.
+The Advanced Analytics Lead will provide thought leadership on applying the advanced analytics methods using the wealth of internal and external data collected for MUFG’s business. In addition to collaborating with leaders in the Office of the Chief Data Officer (OCDO), this role will work closely with our Technology teams, and other business leaders throughout the organization to create a federated advanced analytics function, facilitating the development of advanced analytics solutions using consistent data definitions governed by OCDO.
+Major Responsibilities:
+Develop and maintain consultative relationships with key business stakeholders, proactively identifying and addressing advanced analytics needs to meet business, regulatory and compliance requirements
+Lead data preparation work (e.g., source, scrub, mine and integrate relevant data sources) to support the delivery of advanced analytics solutions
+Lead proof of concept projects to test and adopt emerging advanced analytics tools and methods
+Convert ideas and business needs into meaningful advanced analytics solutions
+Develop a standard process on defining data requirements, managing governance, creating advanced analytics solutions for use throughout the organization
+Identify new approaches to complex design problems related to advanced analytics
+Establish a model maintenance strategy and curate predictive models over time
+Develop and design presentations, reports, and other deliverables to communicate findings and make recommendations
+Qualifications:
+Bachelor’s Degree in Statistics, Operations Research, Data Science, Computer Science or in “STEM” Majors (Science, Technology, Engineering and Math)
+Minimum 7+ years of experience in designing, developing, implementing and maintaining large-scale advanced analytics solutions
+Minimum 7+ years of experience in leading multi-discipline technical teams
+Detailed-oriented planner who understands business drivers toward emerging advanced analytics technology solutions
+Experience analyzing large structured and unstructured data sets using statistical analysis software, such as SAS, SAS Enterprise Miner, Python or R to develop advanced analytics solutions
+Experience in wide range of Advanced Analytics, Data Science, Business Intelligence and Big Data technologies
+Experience in highly distributed complex business and technology environments and emerging technologies
+Experience with IT infrastructure, IT application technologies and frameworks
+Proven ability to execute high-profile projects
+Working knowledge with data warehouse/mart design and implementation techniques
+Proven track record working with technical, customer, and functional teams
+Ability to work in a fast-paced, global environment with multiple priorities that require superior project management and decision-making capabilities
+Ability to establish mutually productive and positive relationships with internal and external stakeholders
+Ability to influence non-technical aspects of technology change (e.g. business and operational architectures)
+Ability to break down complex requirements into meaningful, structured and actionable parts
+Ability to analyze complex organizational and technical issues related to technology and identifies opportunities to improve performance and efficiency
+The above statements are intended to describe the general nature and level of work being performed. They are not intended to be construed as an exhaustive list of all responsibilities duties and skills required of personnel so classified.
+We are proud to be an Equal Opportunity/Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate on the basis of race, color, national origin, religion, gender expression, gender identity, sex, age, ancestry, marital status, protected veteran and military status, disability, medical condition, sexual orientation, genetic information, or any other status of an individual or that individual’s associates or relatives that is protected under applicable federal, state, or local law.
+#LI-Remote 

@@ -1,0 +1,82 @@
+Overview
+Guidehouse is a leading global provider of consulting services to the public sector and commercial markets, with broad capabilities in management, technology, and risk consulting. By combining our public and private sector expertise, we help clients address their most complex challenges and navigate significant regulatory pressures focusing on transformational change, business resiliency, and technology-driven innovation. Across a range of advisory, consulting, outsourcing, and digital services, we create scalable, innovative solutions that help our clients outwit complexity and position them for future growth and success. The company has more than 12,000 professionals in over 50 locations globally. Guidehouse is a Veritas Capital portfolio company, led by seasoned professionals with proven and diverse expertise in traditional and emerging technologies, markets, and agenda-setting issues driving national and global economies. For more information, please visit www.guidehouse.com.
+
+Responsibilities
+The Consultant-Technology & Data support client engagements from cultivation to completion. This high performing team helps clients define their information strategy, architecture and governance, get the most value from business intelligence and analytics, and implement enterprise content and data management solutions to enable business insights, reduce cost and complexity, increase trust and integrity, and improve operational effectiveness. The nature of our projects is extremely fluid and requires self-motivated individuals that are willing to develop solutions on their own or as part of a team of highly skilled professionals. Project members are provided the opportunity to interact with our clients' senior management, as well as the opportunity to enhance their technical skills, business development acumen, and client service principles.
+In this role, you will be accountable for assigned activities and deliverables of the project team and support the day-to-day coordination of maintaining client relationships. You are expected to effectively develop client deliverables end-to-end, prioritize tasks, and work within team environments for multiple complex projects simultaneously. Work products are expected to be high-quality and client ready. In this role, you will directly support and seek feedback from senior consultants, managing consultants and directors leading the client engagements.
+Key Responsibilities:
+Gathering, analyzing, and reporting on complex data sets in support of project objectives.
+Providing detailed fact finding, research, and analysis within related areas to further support delivery.
+As part of a project team, identifying best practices and deploying innovative solutions to meet needs of the clients that we serve.
+Understanding an unstructured client problem, conducting market analysis and peer research, developing a solution framework for how the client can address the problem as part of a wider ecosystem of public, private and institutional stakeholders, and providing the business case for tactical recommendations
+Working with minimal oversight and helping to manage client relations
+Proficiency in core management consulting responsibilities:
+Baseline assessments and secondary research
+Stakeholder interviews
+Hypothesizing solutions frameworks
+Synthesizing multiple inputs into coherent insights across a variety of formats; slide decks, written narrative, playbooks, dashboards and toolkits
+Communicating solutions and recommendations to clients through reports and presentations
+
+Qualifications
+
+Minimum degree required: Bachelors
+Minimum years of experience: 1+ year excluding internships, co-ops, and fellowships
+Must be able to travel 25%-50% Monday-Thursday
+Hands-on experience with some or all the following areas:
+Working knowledge of data management and data analytics practices
+Translating business needs into data and business intelligence solutions
+Experience analyzing large and complex data sets, including a demonstrated thorough aptitude for conducting quantitative and qualitative analyses
+Experience validating source data and identifying data quality issues
+Ability to prioritize multiple tasks, researching and analyzing client data, and utilizing problem-solving skills and coaching others on doing so
+Ability to collaborate and work in a team environment, as well as the ability to work independently
+Ability to be strategic and creative while remaining detail-oriented and process-focused
+Strong written and oral communication skills
+Competencies include:
+Strong written and oral communication skills
+Sharp logical reasoning and critical thinking skills
+Outstanding attention to detail
+Solid verbal communication and narrative development skills, with the ability to summarize and convey key insights from analyses to senior audiences
+High degree of comfort working in unstructured situations and ability to maintain poise, maturity and work well under pressure
+Ability to be self-directed, anticipatory, and responsive
+Collegial team player who can work within a small, motivated team of diverse consulting professionals
+Ability to effectively create client-ready PowerPoint presentations and Excel analysis
+Due to contractual obligations US citizenship is required
+Preferred Qualifications:
+Ability to meet requirements and be issued a Public Trust access
+Masters degree
+3+ years of experience excluding internships, co-ops, and fellowships
+Experience building data visualizations in Tableau or PowerBI
+Experience building databases and knowledge of coding languages such as SQL, XML, or JavaScript/JSON
+Experience with data tools Collibra, Informatica, Mulesoft, SQL Server Integration Services (SSIS)
+Certification(s) in technology use to manage and analyze data
+Certification(s) (e.g., Project Management Professional (PMP), Certified Associate in Project Management (CAPM), PMI Agile Certified Practitioner (PMI-ACP), Lean Six Sigma, Certified Change Management Professional (CCMP), Prosci Change Management Certification)
+
+Additional Requirements
+
+Due to our contractual requirements and federal orders, including an Executive Order from the White House and an emergency regulation from the Centers for Medicare & Medicaid Services (CMS), the position for which you are applying requires that you provide proof of your vaccination status. If you are unable to receive the COVID-19 vaccine for medical reasons or because of a sincerely held religious belief, you may request an exemption from the vaccination requirement which shall be reviewed after the submission of requested documentation. If an accommodation is granted, the conditions may include weekly testing and masking. All Guidehouse employees also agree to follow any additional health and safety mitigation policies that may be required in the workplace.
+The successful candidate must not be subject to employment restrictions from a former employer (such as a non-compete) that would prevent the candidate from performing the job responsibilities as described.
+Position is open virtually to candidates physically based in Eastern Time Zone only
+The salary range for this role is $53,600 - $90,120, may vary based on experience and location.
+
+Disclaimer
+About Guidehouse
+Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.
+Rewards and Benefits
+Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+Benefits include:
+Medical, Rx, Dental & Vision Insurance
+Personal and Family Sick Time & Company Paid Holidays
+Position may be eligible for a discretionary variable incentive bonus
+Parental Leave and Adoption Assistance
+401(k) Retirement Plan
+Basic Life & Supplemental Life
+Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts
+Short-Term & Long-Term Disability
+Tuition Reimbursement, Personal Development & Learning Opportunities
+Skills Development & Certifications
+Employee Referral Program
+Corporate Sponsored Events & Community Outreach
+Emergency Back-Up Childcare Program 

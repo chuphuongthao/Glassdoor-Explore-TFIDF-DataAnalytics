@@ -1,0 +1,39 @@
+Job#: 1283824
+
+Job Description:
+Our great client in Milwaukee, WI has an immediate remote opening for a Data Science Analyst. If you are interested please apply with resume to aboettcher@apexsystems.com.
+
+As a Data Science Analyst, you will work in close collaboration with the Data Science team to understand Data Science products, assists in the development and/or modification of new and existing products and functionality to adapt to evolving business needs (e.g., envisioning end-user experience, identifying needs of business-end consumers). Additional responsibilities include:
+
+Submit routine and ad-hoc queries to existing Data Science products in response to business team requests (e.g., leverage existing forecasting model(s) to produce weekly forecast updates on key business metrics).
+Utilize Data Science product outputs to develop routine and ad-hoc reports in response to requests from the business (e.g., read-in, filter, merge and/or summarize various data tables; compose narrative summaries of analytic findings).
+Facilitate delivery of new reporting solutions. Work with business owners to assess requests and define parameters.
+Manage and prioritize competing interests. Identify and conduct needs and value assessments for reporting requests from the business while maintaining and optimizing existing reports.
+Proactively conduct reviews of existing reports for accuracy, integrity and relevance to the business.
+Responsible for unique and ongoing responsibilities as assigned.
+
+Do you have what it takes?
+
+Completion of Bachelor’s Degree in Computer Science, Quantitative Analytics, Statistics, Data Science or STEM (Science, Technology, Engineering and Math).Relevant Mortgage Industry experience (2 years) beyond the minimum (below) may be substituted for education beyond an Associate Degree.
+More than 1 year of recent and related experience
+Interdisciplinary knowledge in topics such as mathematics, statistics, programming or mortgage lifecycle data
+Strong desire and ability to work with or learn a broad set of data science tools/languages such as R, Python, Spark, Java, C++, NoSQL
+Interest and ability to work or become proficient with the basics of object-oriented programming
+Experience working with and creating data architectures
+Willingness and ability to work with or learn a variety of visualization tools such as Shiny, D3, ggplot, plotly, Tableau etc.
+Strong ability and desire to lean and evaluate alternate advanced technologies and new approaches to problem solving
+Ability to learn and effectively leverage distributed computing tools such has YARN, Hive, Spark, etc.
+
+First 6 months:
+Gain an understanding of data and tools
+Analyze opportunities for rate changes and customized pricing
+Work with the collective pricing team to implement the results of these analyses
+
+First year:
+Implement improvements in tools used to analyze pricing opportunities
+Monitor segments of customer base against volume expectations
+Develop subject matter expertise in mortgage insurance pricing
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178. 

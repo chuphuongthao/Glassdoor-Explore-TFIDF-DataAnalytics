@@ -1,0 +1,30 @@
+Power BI & Data Visualization Developer
+The Data Visualization Developer help create, develop various charts, visualizations, and dashboards. This role will be an integral part of shaping the development suite for our next-generation analytic solutions designed and built for our global clients.
+Are you excited about data?
+Are you passionate about data and creating meaningful Power BI visualizations that help leaders drive meaningful change in their organizations and make important decisions?
+Are you excited at the prospect of unlocking the secrets held by a data set?
+If so, we want to talk to you!
+The Data Visualization Developer help create, develop various charts, visualizations, and dashboards. This role will be an integral part of shaping the development suite for our next-generation analytic solutions designed and built for our global clients.
+
+Responsibilities:
+Responsible for designing, building, and deploying enterprise reporting in Power BI and other data visualization tools.
+Expected to incorporate new and existing data sources, partnering with Data & Analytics team members on automated and scalable data ingestion patterns.
+Troubleshoot and improve existing reports, incorporating user feedback and change requests
+Provide upper tier support to report authors on visualization usage, data modeling, DAX and Power Query.
+Creates ETL and reporting objects that enable repeatable, scalable, and sustainable solutions for end-user community, distribution partners and customers
+Qualifications:
+Experience developing enterprise reports and dashboards within Power BI
+Proven ability to ingest and manipulate data in Power BI from multiple source
+systems using complex SQL queries and DAX to create production ready data models.
+Ability to develop charts, matrix, and complex designs
+Proven track-record of utilizing SQL queries
+Familiarity with Azure analytic functionality
+Hand on expertise hosting Power BI reports on cloud platforms and Intranet
+Knowledge of scheduling ETL jobs in Power BI
+Analytics & Data Visualization working with Power BI, SQL, Excel and tableau or similar reporting platforms
+High proficiency in M Language and DAX within Power BI
+Salary: $95000 - $103,000
+Location: Lees Summit - MO
+ZIP code: 64063
+Reference: 110273
+Secondary Reference: INDITTO,#ITZR,AW 

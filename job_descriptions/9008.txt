@@ -1,0 +1,20 @@
+Title: Data Science & Analytics Developer/Lead
+Location: New York, NY
+Type: 4 Day On-Site, 1 Day Remote.
+We are looking for a Data Science & Analytics Developer/Lead to join our onsite team. The candidate will be working with Python/R and basic libraries for statistical/econometric modeling such as scikit-learn, pandas. Strong experience in Hadoop, Spark, HDFS, Python, R, PySpark.
+Skills required:
+Experienced professional with 10-12 years of experience developing and implementing statistical models in Big Data ecosystem, i.e., Hadoop, Spark, HBase, Hive / Impala or any other similar distributed computing technology
+Proficiency with Python/R and basic libraries for statistical/econometric modeling such as scikit-learn, pandas
+Experienced in Hadoop, Spark, HDFS, Python, R, PySpark and other leading technologies
+Proficiency with DataIku or similar tools
+Proficiency in data analysis using complex and optimized SQL and / or above-mentioned technologies
+Understanding of data architecture, structures, data modeling and database design and performance management
+Good written and verbal communication skills
+Proficiency / Experience with the following a plus:
+In-depth understanding of Statistics
+Finance, Mortgages, Bank Deposit Products
+Disclaimer
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.
+Click the following link for more information on your rights as an Applicant - http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
+Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini. 

@@ -1,0 +1,38 @@
+Job Summary:
+We are seeking a Senior Data Analyst who will be an outstanding addition to our team. The team is looking for someone with experience working in a sports-related or marketing environment. We partner with other teams across the business to turn data into information, information into insights and insights into key business decisions that steer the strategic direction of the company. The right person for this role thrives in a fast-paced environment, loves problem-solving and is a good communicator. If you are someone who gains personal happiness from transforming data into knowledge for business insights, then this is a phenomenal role for you.
+
+You will design innovative analytic approaches to test hypotheses, extract actionable insights by identifying patterns in structured and unstructured data, and develop recommendations to drive business performance. You will be instrumental in leading the use of analytics as a critical value driver across our organization.
+WHAT YOU’LL DO
+Build analysis, data visualizations, and multi-functional reporting that provides critical support to the operations and decision-making of the organization
+Facilitate the analytical needs of the business, collaborate in the design of diagnostic solutions, and deliver outstanding data products and insights
+Act as a liaison between business units & data engineering to drive key operational metrics for enabling business success and value-addition within the data & analytics domain
+Use internal and external analytics tools, SQL, and scripting languages to access and analyze multivariate data
+Translate business functional requirements into technical specifications and, conversely, technical approaches into easily digestible terms
+Develop and foster positive relationships and transparent dialogue with the business community and data colleagues
+Provide analytics expertise to key business partners regarding data & analytics questions
+Support business units, data teams and product/program management with process improvements for optimized delivery of diverse data requests
+Take personal accountability for delivery of projects and committed timelines
+Support business partners in adopting reporting solutions and business intelligence tools for self-service
+WHAT TO BRING
+4+ years of analytical experience
+At least 2 years of experience working in an industry surrounding sports or marketing required
+Expert SQL skills for complex querying, analysis, performance optimization, and persisting data
+Excellent data visualization skills with tools like Tableau, Looker, ThoughtSpot, MicroStrategy, etc.
+Experience working in a “big-data” environment (Hadoop, Hive, Presto, Snowflake, Redshift, etc.)
+Experience demonstrating analytical concepts to craft an actionable story for technical and non-technical audiences
+Understanding of data warehousing concepts, design, modeling and data engineering
+Experience taking vague requirements and transforming them into crisp insights
+Intense curiosity, high intellectual and analytical horsepower, passionate pursuit of analytics driven insights
+Demonstrable ability to build strong working relationships with business partners and technical colleagues
+Outstanding written and oral communication skills
+Effective presentation skills across a diverse audience
+Preferred Education:
+BA or BS in a quantitative field (Business, Math/Statistics, Economics, CS, Engineering, or similar)
+Additional Information:
+DISNEYTECH
+About Disney Media & Entertainment Distribution:
+Comprised of the Company’s international business units and various direct-to-consumer streaming services, Disney Media & Entertainment Distribution (DMED) aligns technology, media distribution and advertising sales into a single business segment to create and deliver personalized entertainment experiences to consumers around the world.
+About The Walt Disney Company:
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise with the following business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive media. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney’s stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished.
+This position is with Disney Streaming Services LLC, which is part of a business we call Disney Media & Entertainment Distribution.
+Disney Streaming Services LLC is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a rapidly changing world. 
